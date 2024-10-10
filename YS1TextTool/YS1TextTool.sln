@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "YS1TextTool", "YS1TextTool.vcxproj", "{DA4AE6B7-7B4E-48E7-8BD3-07F03200BF0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA4AE6B7-7B4E-48E7-8BD3-07F03200BF0B}.Debug|x64.ActiveCfg = Debug|x64
+		{DA4AE6B7-7B4E-48E7-8BD3-07F03200BF0B}.Debug|x64.Build.0 = Debug|x64
+		{DA4AE6B7-7B4E-48E7-8BD3-07F03200BF0B}.Debug|x86.ActiveCfg = Debug|Win32
+		{DA4AE6B7-7B4E-48E7-8BD3-07F03200BF0B}.Debug|x86.Build.0 = Debug|Win32
+		{DA4AE6B7-7B4E-48E7-8BD3-07F03200BF0B}.Release|x64.ActiveCfg = Release|x64
+		{DA4AE6B7-7B4E-48E7-8BD3-07F03200BF0B}.Release|x64.Build.0 = Release|x64
+		{DA4AE6B7-7B4E-48E7-8BD3-07F03200BF0B}.Release|x86.ActiveCfg = Release|Win32
+		{DA4AE6B7-7B4E-48E7-8BD3-07F03200BF0B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F88B319-D1A5-4778-A31A-7A5452FA5E72}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,976 @@
+.rdata:0050E410	00000005	C	Pass
+.rdata:0050E4FC	00000005	C	Wing
+.rdata:0050E514	00000005	C	Herb
+.rdata:0050E69C	00000005	C	Gene
+.rdata:0050E780	00000005	C	Zava
+.rdata:0050E7BC	00000005	C	Darm
+.rdata:0050F584	00000005	C	Reah
+.rdata:0050F5A4	00000005	C	Dogi
+.rdata:0050F5AC	00000005	C	Sara
+.rdata:0050F664	00000005	C	Jade
+.rdata:0050F67C	00000005	C	Gila
+.rdata:0050F684	00000005	C	Tess
+.rdata:0050F69C	00000005	C	Tran
+.rdata:0050F6BC	00000005	C	Kris
+.rdata:0050F6E0	00000005	C	Beth
+.rdata:0050F6F0	00000005	C	Andy
+.rdata:0050F700	00000005	C	Kate
+.rdata:0050F708	00000005	C	Colt
+.rdata:0050F71C	00000005	C	Esca
+.rdata:0050F724	00000005	C	Tita
+.rdata:0050F72C	00000005	C	Theo
+.rdata:0050F734	00000005	C	Lucy
+.rdata:0050F744	00000005	C	Polo
+.rdata:0050F754	00000005	C	Ruba
+.rdata:0050F764	00000005	C	Fred
+.rdata:0050F76C	00000005	C	Rafa
+.rdata:0050F774	00000005	C	Noit
+.rdata:0050F788	00000005	C	Elle
+.rdata:0050F7D0	00000005	C	Nash
+.rdata:0050F830	00000005	C	Sada
+.rdata:0050F858	00000005	C	Regg
+.rdata:0050F868	00000005	C	Frau
+.rdata:0050F880	00000005	C	Neal
+.rdata:0050F890	00000005	C	Muto
+.rdata:0050F898	00000005	C	Faye
+.rdata:0050F8A8	00000005	C	Jill
+.rdata:0050F8B0	00000005	C	Kyle
+.rdata:005101BC	00000005	C	DEF:
+.rdata:005101C4	00000005	C	STR:
+.rdata:005101D4	00000005	C	EXP:
+.rdata:00510CDC	00000005	C	EASY
+.rdata:00510CE4	00000005	C	HARD
+.rdata:005113E8	00000005	C	Ploo
+.rdata:00511400	00000005	C	Rurr
+.rdata:00511438	00000005	C	Yupe
+.rdata:005114B8	00000005	C	Elbo
+.rdata:00511610	00000005	C	Troo
+.rdata:00511668	00000005	C	Wart
+.rdata:0051168C	00000005	C	Vivi
+.rdata:0051168C	00000005	C	Vivi
+.rdata:005116B0	00000005	C	Jilk
+.rdata:005116D0	00000005	C	DOOM
+.rdata:00511764	00000005	C	Lurr
+.rdata:00511784	00000005	C	Plix
+.rdata:005117BC	00000005	C	Daps
+.rdata:00511854	00000005	C	Blik
+.rdata:0051185C	00000005	C	Jerk
+.rdata:00511864	00000005	C	Wham
+.rdata:0051186C	00000005	C	Klok
+.rdata:00511874	00000005	C	Plop
+.rdata:00511880	00000005	C	Drat
+.rdata:0051189C	00000005	C	Glig
+.rdata:005118A4	00000005	C	Slam
+.rdata:005118C4	00000005	C	Stub
+.rdata:005118D8	00000005	C	Chew
+.rdata:005118E4	00000005	C	Durr
+.rdata:005118EC	00000005	C	Face
+.rdata:005118F4	00000005	C	Flik
+.rdata:00511930	00000005	C	Iaia
+.rdata:00511960	00000005	C	Ndnd
+.rdata:00511988	00000005	C	July
+.rdata:005119A4	00000005	C	Brie
+.rdata:00511A00	00000005	C	Aqua
+.rdata:00511DF4	00000005	C	Dark
+.rdata:005124CC	00000005	C	Clay
+.rdata:00515400	00000005	C	Walk
+.rdata:005155C0	00000005	C	MIDI
+.rdata:005155D0	00000005	C	SAVE
+.rdata:005155D8	00000005	C	LOAD
+.rdata:005155FC	00000005	C	QUIT
+.rdata:00515CCC	00000005	C	ITEM
+.rdata:00515CD4	00000005	C	NOTE
+.rdata:004EC5B0	00000006	C	March
+.rdata:004EC5B8	00000006	C	April
+.rdata:0050E50C	00000006	C	Apple
+.rdata:0050E62C	00000006	C	Tolpi
+.rdata:0050E634	00000006	C	Carly
+.rdata:0050E644	00000006	C	Neeli
+.rdata:0050E684	00000006	C	Swoff
+.rdata:0050E6B0	00000006	C	Topus
+.rdata:0050E6B8	00000006	C	Dirga
+.rdata:0050F570	00000006	C	Feena
+.rdata:0050F57C	00000006	C	Goban
+.rdata:0050F60C	00000006	C	Banoa
+.rdata:0050F614	00000006	C	Lilia
+.rdata:0050F628	00000006	C	Astal
+.rdata:0050F66C	00000006	C	Guido
+.rdata:0050F674	00000006	C	Leggs
+.rdata:0050F68C	00000006	C	Lazlo
+.rdata:0050F6AC	00000006	C	Bohtz
+.rdata:0050F6B4	00000006	C	Ceres
+.rdata:0050F6CC	00000006	C	Brody
+.rdata:0050F6E8	00000006	C	Oseam
+.rdata:0050F790	00000006	C	Favre
+.rdata:0050F7A0	00000006	C	Meryl
+.rdata:0050F7A8	00000006	C	Kasim
+.rdata:0050F7B0	00000006	C	Ischt
+.rdata:0050F7B8	00000006	C	Darie
+.rdata:0050F810	00000006	C	Keith
+.rdata:0050F820	00000006	C	Lloyd
+.rdata:0050F828	00000006	C	Gorto
+.rdata:0050F838	00000006	C	Hadat
+.rdata:0050F840	00000006	C	Karen
+.rdata:0050F848	00000006	C	Maria
+.rdata:0050F850	00000006	C	Zalem
+.rdata:0050F860	00000006	C	Frith
+.rdata:0050F878	00000006	C	Blitz
+.rdata:0050F888	00000006	C	Tanya
+.rdata:0050F8A0	00000006	C	Reise
+.rdata:0050F8C4	00000006	C	Boris
+.rdata:00510374	00000006	C	Sound
+.rdata:00510380	00000006	C	Files
+.rdata:00510BF8	00000006	C	Title
+.rdata:00510C08	00000006	C	Diary
+.rdata:005113F0	00000006	C	Shnax
+.rdata:005113F8	00000006	C	Xetso
+.rdata:00511420	00000006	C	Ecclo
+.rdata:00511430	00000006	C	Quilg
+.rdata:0051148C	00000006	C	Sammy
+.rdata:005114EC	00000006	C	Hosio
+.rdata:00511594	00000006	C	Jaxie
+.rdata:0051159C	00000006	C	Shuya
+.rdata:00511640	00000006	C	Crumb
+.rdata:00511648	00000006	C	Tronn
+.rdata:005116A0	00000006	C	Robey
+.rdata:005117F8	00000006	C	Elroy
+.rdata:0051182C	00000006	C	Gruel
+.rdata:0051184C	00000006	C	Floot
+.rdata:0051188C	00000006	C	Kleet
+.rdata:005118CC	00000006	C	Clomp
+.rdata:00511938	00000006	C	Bemmi
+.rdata:00511958	00000006	C	Epona
+.rdata:005119F0	00000006	C	Shion
+.rdata:00511AD4	00000006	C	Seedy
+.rdata:00511DA4	00000006	C	Loner
+.rdata:00512010	00000006	C	Loyal
+.rdata:00512190	00000006	C	Sunny
+.rdata:005121E0	00000006	C	Aloof
+.rdata:005124D4	00000006	C	Mossy
+.rdata:00512588	00000006	C	Pious
+.rdata:00512678	00000006	C	Aldow
+.rdata:00515498	00000006	C	Solid
+.rdata:005154C0	00000006	C	Black
+.rdata:0051550C	00000006	C	Point
+.rdata:00515538	00000006	C	Total
+.rdata:0051554C	00000006	C	Debug
+.rdata:00515588	00000006	C	Start
+.rdata:00515630	00000006	C	ERASE
+.rdata:00515638	00000006	C	TITLE
+.rdata:00515A00	00000006	C	MAGIC
+.rdata:00515BD0	00000006	C	EQUIP
+.rdata:00515CDC	00000006	C	FILES
+.rdata:004EC528	00000007	C	Sunday
+.rdata:004EC530	00000007	C	Monday
+.rdata:004EC558	00000007	C	Friday
+.rdata:004EC5D0	00000007	C	August
+.rdata:0050E1BC	00000007	C	Talwar
+.rdata:0050E294	00000007	C	Reflex
+.rdata:0050E504	00000007	C	Elixir
+.rdata:0050E5B8	00000007	C	Cactus
+.rdata:0050E5C0	00000007	C	Pebble
+.rdata:0050E5DC	00000007	C	Chrace
+.rdata:0050E624	00000007	C	Puroid
+.rdata:0050E658	00000007	C	Eggnid
+.rdata:0050E694	00000007	C	Onuman
+.rdata:0050E6D8	00000007	C	Baocar
+.rdata:0050E700	00000007	C	Bearot
+.rdata:0050E708	00000007	C	Trover
+.rdata:0050E718	00000007	C	Delpus
+.rdata:0050E720	00000007	C	Godrup
+.rdata:0050E744	00000007	C	Gearot
+.rdata:0050E76C	00000007	C	Zearot
+.rdata:0050E7C4	00000007	C	Dalles
+.rdata:0050F694	00000007	C	Larsen
+.rdata:0050F6A4	00000007	C	Sheila
+.rdata:0050F6C4	00000007	C	Marina
+.rdata:0050F798	00000007	C	Carson
+.rdata:0050F7C0	00000007	C	Flonne
+.rdata:0050F7C8	00000007	C	Roodle
+.rdata:0050F7E4	00000007	C	Brooce
+.rdata:0050F7EC	00000007	C	Prooto
+.rdata:0050F800	00000007	C	Rooroo
+.rdata:0050F818	00000007	C	Droozy
+.rdata:0050F870	00000007	C	Paulie
+.rdata:0050F8B8	00000007	C	Rimera
+.rdata:0050FAA8	00000007	C	Rascal
+.rdata:005103A4	00000007	C	Mascot
+.rdata:00510CEC	00000007	C	NORMAL
+.rdata:005113C8	00000007	C	Dumdum
+.rdata:005113E0	00000007	C	Glurax
+.rdata:00511408	00000007	C	Tywyro
+.rdata:00511418	00000007	C	Orzers
+.rdata:00511428	00000007	C	Junjun
+.rdata:00511440	00000007	C	Texmex
+.rdata:005114A4	00000007	C	Uuuuur
+.rdata:005114AC	00000007	C	Lukduk
+.rdata:005114E4	00000007	C	Allair
+.rdata:00511520	00000007	C	Sogara
+.rdata:00511534	00000007	C	Sheeho
+.rdata:005115A4	00000007	C	Pootis
+.rdata:005115CC	00000007	C	Yuriel
+.rdata:00511600	00000007	C	Fizban
+.rdata:00511608	00000007	C	Merlan
+.rdata:00511618	00000007	C	Zifnab
+.rdata:00511638	00000007	C	Bagtie
+.rdata:00511650	00000007	C	Dealio
+.rdata:00511658	00000007	C	Tellah
+.rdata:00511660	00000007	C	Strago
+.rdata:005116A8	00000007	C	Fearme
+.rdata:00511798	00000007	C	Fixins
+.rdata:0051180C	00000007	C	Potato
+.rdata:005118FC	00000007	C	Eevool
+.rdata:00511904	00000007	C	Preeci
+.rdata:00511940	00000007	C	Velara
+.rdata:00511990	00000007	C	Neebri
+.rdata:005119AC	00000007	C	Fawani
+.rdata:005119C0	00000007	C	Keleka
+.rdata:005119C8	00000007	C	Etoile
+.rdata:005119D0	00000007	C	Bonnet
+.rdata:005119E0	00000007	C	Chiaka
+.rdata:00511AC4	00000007	C	Chubby
+.rdata:00511ACC	00000007	C	Skinny
+.rdata:00511BA8	00000007	C	Ornery
+.rdata:00511BD4	00000007	C	Sinewy
+.rdata:00511BDC	00000007	C	Demure
+.rdata:00511DFC	00000007	C	Wicked
+.rdata:00511E8C	00000007	C	Nitwit
+.rdata:00511F78	00000007	C	Classy
+.rdata:00511FA4	00000007	C	Daring
+.rdata:00512074	00000007	C	Feudal
+.rdata:0051207C	00000007	C	Albino
+.rdata:00512104	00000007	C	Stormy
+.rdata:0051226C	00000007	C	Sinner
+.rdata:00512448	00000007	C	Drippy
+.rdata:00515590	00000007	C	Cancel
+.rdata:005155C8	00000007	C	Custom
+.rdata:00515CF0	00000007	C	OPTION
+.rdata:004EC538	00000008	C	Tuesday
+.rdata:004EC59C	00000008	C	January
+.rdata:004EC5E4	00000008	C	October
+.rdata:0050E4A8	00000008	C	Mattock
+.rdata:0050E5E4	00000008	C	Chicken
+.rdata:0050E5EC	00000008	C	Godaago
+.rdata:0050E600	00000008	C	Gnometh
+.rdata:0050E614	00000008	C	Ripplet
+.rdata:0050E61C	00000008	C	Zolgell
+.rdata:0050E63C	00000008	C	K'nocks
+.rdata:0050E660	00000008	C	Gercard
+.rdata:0050E668	00000008	C	Gworter
+.rdata:0050E670	00000008	C	Galgata
+.rdata:0050E68C	00000008	C	Scollun
+.rdata:0050E6C0	00000008	C	Ashveil
+.rdata:0050E6C8	00000008	C	Magnute
+.rdata:0050E6D0	00000008	C	Nashzar
+.rdata:0050E6E0	00000008	C	Nustarl
+.rdata:0050E710	00000008	C	Allomod
+.rdata:0050E764	00000008	C	Ceabith
+.rdata:0050E7AC	00000008	C	Druegar
+.rdata:0050E7B4	00000008	C	Gelaldy
+.rdata:0050F64C	00000008	C	Natasha
+.rdata:0050F6F8	00000008	C	Lucille
+.rdata:0050F73C	00000008	C	Saffron
+.rdata:0050F75C	00000008	C	Natalie
+.rdata:0050F77C	00000008	C	Chelnie
+.rdata:0050F808	00000008	C	Roo-kie
+.rdata:0051036C	00000008	C	Display
+.rdata:00510C00	00000008	C	Esteria
+.rdata:00510C10	00000008	C	Opening
+.rdata:005113D0	00000008	C	Bloober
+.rdata:005113D8	00000008	C	Vazumba
+.rdata:00511410	00000008	C	Kloklok
+.rdata:00511448	00000008	C	Alfadaz
+.rdata:00511484	00000008	C	Kibbles
+.rdata:00511494	00000008	C	Pickles
+.rdata:0051149C	00000008	C	Poytomo
+.rdata:005114CC	00000008	C	Jaytaro
+.rdata:00511518	00000008	C	Nakasma
+.rdata:00511548	00000008	C	Fortuna
+.rdata:0051155C	00000008	C	Juniper
+.rdata:00511570	00000008	C	Goondox
+.rdata:00511584	00000008	C	Oedipus
+.rdata:0051158C	00000008	C	Douglas
+.rdata:005115B8	00000008	C	Meltain
+.rdata:005115E0	00000008	C	Peltoot
+.rdata:005116D8	00000008	C	Amazemo
+.rdata:005116E0	00000008	C	Maltarr
+.rdata:00511740	00000008	C	Johnnie
+.rdata:005117A0	00000008	C	Cryhard
+.rdata:005117B4	00000008	C	Poolboy
+.rdata:00511834	00000008	C	Oldsnot
+.rdata:0051183C	00000008	C	Sherbet
+.rdata:00511980	00000008	C	Creepia
+.rdata:005119D8	00000008	C	Adolina
+.rdata:005119E8	00000008	C	Meridia
+.rdata:005119F8	00000008	C	Bassoon
+.rdata:00511ABC	00000008	C	Bloated
+.rdata:00511AE8	00000008	C	Scrawny
+.rdata:00511CA4	00000008	C	Miserly
+.rdata:00511CAC	00000008	C	Languid
+.rdata:00511CE0	00000008	C	Squeaky
+.rdata:00511D00	00000008	C	Wailing
+.rdata:00511D3C	00000008	C	Drunken
+.rdata:00511DE0	00000008	C	Hellish
+.rdata:00511E04	00000008	C	Shadowy
+.rdata:00511E0C	00000008	C	Chaotic
+.rdata:00511E64	00000008	C	Brutish
+.rdata:00511E6C	00000008	C	Inhuman
+.rdata:00511EA0	00000008	C	Ghastly
+.rdata:00511EB4	00000008	C	Undying
+.rdata:00511F2C	00000008	C	Blazing
+.rdata:00511FC4	00000008	C	Ruinous
+.rdata:00511FE4	00000008	C	Naughty
+.rdata:00511FEC	00000008	C	Devoted
+.rdata:0051210C	00000008	C	Unshorn
+.rdata:005121A4	00000008	C	Lunatic
+.rdata:005122BC	00000008	C	Eeeevil
+.rdata:00512398	00000008	C	Unlucky
+.rdata:00512434	00000008	C	Deathly
+.rdata:005124F4	00000008	C	Crumbly
+.rdata:0051542C	00000008	C	Artwork
+.rdata:005154D4	00000008	C	Classic
+.rdata:00515520	00000008	C	Compact
+.rdata:004EC54C	00000009	C	Thursday
+.rdata:004EC560	00000009	C	Saturday
+.rdata:004EC5A4	00000009	C	February
+.rdata:004EC5EC	00000009	C	November
+.rdata:004EC5F8	00000009	C	December
+.rdata:004F4C3C	00000009	C	Darm It!
+.rdata:0050E3B4	00000009	C	Iron Ore
+.rdata:0050E538	00000009	C	Cruberry
+.rdata:0050E554	00000009	C	Raw Meat
+.rdata:0050E57C	00000009	C	Meat Pie
+.rdata:0050E5F4	00000009	C	Cauction
+.rdata:0050E608	00000009	C	Warrizor
+.rdata:0050E6E8	00000009	C	El Endes
+.rdata:0050E728	00000009	C	Forkless
+.rdata:0050E758	00000009	C	Charront
+.rdata:0050E774	00000009	C	Valkyria
+.rdata:0050E788	00000009	C	Zavanite
+.rdata:0050E794	00000009	C	Tyalmath
+.rdata:0050F6D4	00000009	C	Caesaria
+.rdata:0050F7D8	00000009	C	Tallyroo
+.rdata:0050F7F4	00000009	C	Touroose
+.rdata:00510348	00000009	C	Settings
+.rdata:00510388	00000009	C	Movement
+.rdata:005114C0	00000009	C	Rootmoog
+.rdata:005114F4	00000009	C	Chavesse
+.rdata:00511500	00000009	C	Nomigura
+.rdata:0051150C	00000009	C	Kayberry
+.rdata:0051153C	00000009	C	Maryland
+.rdata:00511550	00000009	C	Chaarles
+.rdata:00511564	00000009	C	Ophelius
+.rdata:005115AC	00000009	C	Francois
+.rdata:005115E8	00000009	C	Alakazed
+.rdata:0051162C	00000009	C	Skeletro
+.rdata:00511674	00000009	C	Melchior
+.rdata:00511680	00000009	C	Fantasmo
+.rdata:005116F4	00000009	C	Khlatoon
+.rdata:0051170C	00000009	C	Gibblets
+.rdata:00511778	00000009	C	Gollygee
+.rdata:005117D4	00000009	C	Ipswitch
+.rdata:005117EC	00000009	C	Clambake
+.rdata:00511820	00000009	C	Vartwind
+.rdata:0051190C	00000009	C	Creatora
+.rdata:00511918	00000009	C	Svetlana
+.rdata:00511924	00000009	C	Poiltana
+.rdata:0051194C	00000009	C	Drilliad
+.rdata:00511B9C	00000009	C	Valorous
+.rdata:00511C40	00000009	C	Fugitive
+.rdata:00511CB4	00000009	C	Homebody
+.rdata:00511CE8	00000009	C	Cowardly
+.rdata:00511D54	00000009	C	Reckless
+.rdata:00511DE8	00000009	C	Glorious
+.rdata:00511E80	00000009	C	Batterer
+.rdata:00511EBC	00000009	C	Accursed
+.rdata:00511F34	00000009	C	Evildoer
+.rdata:00511F80	00000009	C	Resolute
+.rdata:00511F8C	00000009	C	Militant
+.rdata:00511FB8	00000009	C	Pursuant
+.rdata:00511FCC	00000009	C	Prodigal
+.rdata:00512018	00000009	C	Exultant
+.rdata:00512024	00000009	C	Knightly
+.rdata:005120AC	00000009	C	Lukewarm
+.rdata:00512164	00000009	C	Kamikaze
+.rdata:00512198	00000009	C	Feverish
+.rdata:005121D4	00000009	C	Unstable
+.rdata:005123D4	00000009	C	Hooligan
+.rdata:0051243C	00000009	C	Departed
+.rdata:00512470	00000009	C	Gourmand
+.rdata:0051247C	00000009	C	Sleep-in
+.rdata:005124B0	00000009	C	Roadside
+.rdata:00512528	00000009	C	Scraggly
+.rdata:00512534	00000009	C	Hardened
+.rdata:005125AC	00000009	C	Diligent
+.rdata:005125B8	00000009	C	Pleasant
+.rdata:00512638	00000009	C	Bad News
+.rdata:005154C8	00000009	C	Complete
+.rdata:005154DC	00000009	C	Standard
+.rdata:005154E8	00000009	C	Bilinear
+.rdata:00515540	00000009	C	BGM Type
+.rdata:00515CF8	00000009	C	NEW GAME
+.rdata:004EC540	0000000A	C	Wednesday
+.rdata:004EC5D8	0000000A	C	September
+.rdata:0050E314	0000000A	C	Hawk Idol
+.rdata:0050E444	0000000A	C	Evil Bell
+.rdata:0050E4E4	0000000A	C	Roda Leaf
+.rdata:0050E64C	0000000A	C	Orihalcus
+.rdata:0050E6A4	0000000A	C	Xelbenoth
+.rdata:0050E6F4	0000000A	C	Malochius
+.rdata:0050E74C	0000000A	C	Rewillvan
+.rdata:0050FAFC	0000000A	C	Level up!
+.rdata:00510CF4	0000000A	C	NIGHTMARE
+.rdata:00511460	0000000A	C	Blomkvist
+.rdata:0051146C	0000000A	C	Oogamaloo
+.rdata:005114D4	0000000A	C	Challiers
+.rdata:00511528	0000000A	C	Ellipscus
+.rdata:005115D4	0000000A	C	Pironesia
+.rdata:00511620	0000000A	C	Salacious
+.rdata:00511694	0000000A	C	Rincewind
+.rdata:005116C4	0000000A	C	Mussoltus
+.rdata:005116E8	0000000A	C	September
+.rdata:00511700	0000000A	C	Jellytoes
+.rdata:00511724	0000000A	C	Meatables
+.rdata:0051176C	0000000A	C	Jigglywoo
+.rdata:0051178C	0000000A	C	Lintbelly
+.rdata:00511968	0000000A	C	Dichotoma
+.rdata:005119B4	0000000A	C	Snowflake
+.rdata:00511B00	0000000A	C	Injurious
+.rdata:00511B4C	0000000A	C	Dimwitted
+.rdata:00511B58	0000000A	C	Odiferous
+.rdata:00511BBC	0000000A	C	Truculent
+.rdata:00511C58	0000000A	C	Go-getter
+.rdata:00511C64	0000000A	C	Night-owl
+.rdata:00511C8C	0000000A	C	Sweetypie
+.rdata:00511D08	0000000A	C	Wheedling
+.rdata:00511D30	0000000A	C	Wholesome
+.rdata:00511D60	0000000A	C	Tottering
+.rdata:00511D8C	0000000A	C	Dishonest
+.rdata:00511D98	0000000A	C	Nefarious
+.rdata:00511E20	0000000A	C	Malicious
+.rdata:00511EF8	0000000A	C	Resentful
+.rdata:00511F40	0000000A	C	Heartless
+.rdata:00511FAC	0000000A	C	Libertine
+.rdata:00512004	0000000A	C	Fraternal
+.rdata:005120E8	0000000A	C	Good-luck
+.rdata:005122D8	0000000A	C	Doomsayer
+.rdata:00512320	0000000A	C	Dastardly
+.rdata:00512380	0000000A	C	Soon-dead
+.rdata:005123C8	0000000A	C	Tomb King
+.rdata:00512418	0000000A	C	Sun-dried
+.rdata:005124DC	0000000A	C	Flowerpot
+.rdata:005125C4	0000000A	C	Murderous
+.rdata:0051262C	0000000A	C	Clockwork
+.rdata:00515434	0000000A	C	Filtering
+.rdata:00515440	0000000A	C	Quit Game
+.rdata:005154F4	0000000A	C	Trilinear
+.rdata:0050D93C	0000000B	C	Mascot: Ed
+.rdata:0050E1C4	0000000B	C	Long Sword
+.rdata:0050E24C	0000000B	C	Chain Mail
+.rdata:0050E268	0000000B	C	Plate Mail
+.rdata:0050E29C	0000000B	C	Fire Magic
+.rdata:0050E2E0	0000000B	C	Time Magic
+.rdata:0050E3D0	0000000B	C	Shrine Key
+.rdata:0050E418	0000000B	C	Lila Shell
+.rdata:0050E490	0000000B	C	Sacred Cup
+.rdata:0050E52C	0000000B	C	Roda Fruit
+.rdata:0050E588	0000000B	C	Red Pepper
+.rdata:0050E678	0000000B	C	Preliguard
+.rdata:0050E7A0	0000000B	C	Velagunder
+.rdata:0050F58C	0000000B	C	Jeba Tovah
+.rdata:0050F598	0000000B	C	Luta Gemma
+.rdata:0050F640	0000000B	C	Flair Rall
+.rdata:0050F710	0000000B	C	Masontorch
+.rdata:00510898	0000000B	C	Roos' Nest
+.rdata:00510B64	0000000B	C	Guardhouse
+.rdata:00511478	0000000B	C	Ribnibbler
+.rdata:00511578	0000000B	C	Rootbarrel
+.rdata:005115C0	0000000B	C	Jackadaisy
+.rdata:005115F4	0000000B	C	Abracadave
+.rdata:00511718	0000000B	C	Plocksweat
+.rdata:005117E0	0000000B	C	Firekicker
+.rdata:00511800	0000000B	C	Swimmyface
+.rdata:00511814	0000000B	C	Clipstache
+.rdata:00511974	0000000B	C	Meliodrami
+.rdata:00511A18	0000000B	C	Gaytkeepah
+.rdata:00511ADC	0000000B	C	Crocodiley
+.rdata:00511B80	0000000B	C	Despicable
+.rdata:00511BB0	0000000B	C	Stupendous
+.rdata:00511C4C	0000000B	C	Sleepyhead
+.rdata:00511C80	0000000B	C	Swaggering
+.rdata:00511E2C	0000000B	C	Terrifying
+.rdata:00511E38	0000000B	C	Buffoonish
+.rdata:00511EA8	0000000B	C	Undefeated
+.rdata:00511F04	0000000B	C	Bewitching
+.rdata:00511F20	0000000B	C	Avaricious
+.rdata:00512114	0000000B	C	Gelatinous
+.rdata:005121AC	0000000B	C	Stargazing
+.rdata:00512238	0000000B	C	Blasphemer
+.rdata:0051238C	0000000B	C	Unkillable
+.rdata:005123E0	0000000B	C	Dead Dandy
+.rdata:00512464	0000000B	C	Vegetarian
+.rdata:0051251C	0000000B	C	Chattering
+.rdata:005125A0	0000000B	C	Traitorous
+.rdata:00512658	0000000B	C	Orangework
+.rdata:0051547C	0000000B	C	Frame Type
+.rdata:00515500	0000000B	C	Chronicles
+.rdata:00515514	0000000B	C	No Display
+.rdata:005155F0	0000000B	C	360 Degree
+.rdata:005156E0	0000000B	C	Reposition
+.rdata:0050D910	0000000C	C	Mascot: Roo
+.rdata:0050DA3C	0000000C	C	Mascot: Rex
+.rdata:0050E1B0	0000000C	C	Short Sword
+.rdata:0050E240	0000000C	C	Iron Shield
+.rdata:0050E2C8	0000000C	C	Light Magic
+.rdata:0050E2D4	0000000C	C	Alter Magic
+.rdata:0050E2EC	0000000C	C	Spirit Cape
+.rdata:0050E308	0000000C	C	Falcon Idol
+.rdata:0050E330	0000000C	C	Cleria Ring
+.rdata:0050E38C	0000000C	C	Volume Mesa
+.rdata:0050E3A8	0000000C	C	Volume Fact
+.rdata:0050E49C	0000000C	C	Black Pearl
+.rdata:0050E4F0	0000000C	C	Stone Shoes
+.rdata:0050E560	0000000C	C	Smoked Meat
+.rdata:0050F5D4	0000000C	C	Priest Mesa
+.rdata:0050F5F0	0000000C	C	Priest Fact
+.rdata:0050F61C	0000000C	C	Leonor Rall
+.rdata:00510984	0000000C	C	Where am I?
+.rdata:005109B4	0000000C	C	Now loading
+.rdata:00510B18	0000000C	C	Rex's House
+.rdata:005116B8	0000000C	C	Cloaksworth
+.rdata:00511748	0000000C	C	Globberfoot
+.rdata:005117A8	0000000C	C	Healthshake
+.rdata:00511998	0000000C	C	Wilwilliana
+.rdata:00511A7C	0000000C	C	Eightkeepah
+.rdata:00511B74	0000000C	C	Inquisitive
+.rdata:00511BC8	0000000C	C	Hot-blooded
+.rdata:00511BF4	0000000C	C	Short-fused
+.rdata:00511C34	0000000C	C	Egomaniacal
+.rdata:00511C98	0000000C	C	Super-sulky
+.rdata:00511CD4	0000000C	C	Far-sighted
+.rdata:00511CF4	0000000C	C	Deep-voiced
+.rdata:00511D24	0000000C	C	Germophobic
+.rdata:00511E14	0000000C	C	Skull Power
+.rdata:00511E74	0000000C	C	Belligerent
+.rdata:00511E94	0000000C	C	Open-minded
+.rdata:00511F6C	0000000C	C	Unpromising
+.rdata:00511F98	0000000C	C	Annihilator
+.rdata:00511FD8	0000000C	C	Slaughterer
+.rdata:00512030	0000000C	C	Big-hearted
+.rdata:0051203C	0000000C	C	Rule-dodger
+.rdata:00512048	0000000C	C	Experienced
+.rdata:005121B8	0000000C	C	Abscondable
+.rdata:00512274	0000000C	C	Nightmarish
+.rdata:005122B0	0000000C	C	Bloodpriest
+.rdata:005122E4	0000000C	C	Confounding
+.rdata:0051233C	0000000C	C	Foul-minded
+.rdata:00512348	0000000C	C	Silhouetted
+.rdata:00512354	0000000C	C	Silly-willy
+.rdata:005123FC	0000000C	C	Once-lovely
+.rdata:005124E8	0000000C	C	Half-busted
+.rdata:00512540	0000000C	C	Hunka Hunka
+.rdata:0051256C	0000000C	C	Grim Reaper
+.rdata:005125D0	0000000C	C	Love Jester
+.rdata:00512600	0000000C	C	Love Hunter
+.rdata:00515470	0000000C	C	EXP Display
+.rdata:00515CE4	0000000C	C	TIME ATTACK
+.rdata:0050CD88	0000000D	C	Mascot: Nash
+.rdata:0050CD98	0000000D	C	Mascot: Muto
+.rdata:0050CDA8	0000000D	C	Mascot: Faye
+.rdata:0050CF3C	0000000D	C	Mascot: Gene
+.rdata:0050D1F0	0000000D	C	Mascot: Dogi
+.rdata:0050D4E4	0000000D	C	In Situ Tarf
+.rdata:0050D4F4	0000000D	C	Safety Charm
+.rdata:0050D520	0000000D	C	Health Charm
+.rdata:0050D6C4	0000000D	C	Mascot: Colt
+.rdata:0050D6D4	0000000D	C	Mascot: Tita
+.rdata:0050D6E4	0000000D	C	Mascot: Andy
+.rdata:0050D758	0000000D	C	Mascot: Beth
+.rdata:0050D7D8	0000000D	C	Mascot: Jade
+.rdata:0050D7F8	0000000D	C	Mascot: Gila
+.rdata:0050D808	0000000D	C	Mascot: Noit
+.rdata:0050D818	0000000D	C	Mascot: Neal
+.rdata:0050D880	0000000D	C	Mascot: Kris
+.rdata:0050D8A0	0000000D	C	Mascot: Elle
+.rdata:0050D8B0	0000000D	C	Mascot: Ruba
+.rdata:0050D8E0	0000000D	C	Mascot: Regg
+.rdata:0050D900	0000000D	C	Mascot: Sada
+.rdata:0050D91C	0000000D	C	Mascot: Kyle
+.rdata:0050D968	0000000D	C	Mascot: Tarf
+.rdata:0050D9EC	0000000D	C	Mascot: Reah
+.rdata:0050D9FC	0000000D	C	Mascot: Fred
+.rdata:0050DA2C	0000000D	C	Mascot: Rafa
+.rdata:0050DA7C	0000000D	C	Mascot: Kate
+.rdata:0050DA9C	0000000D	C	Mascot: Jill
+.rdata:0050DABC	0000000D	C	Mascot: Frau
+.rdata:0050DB0C	0000000D	C	Mascot: Tess
+.rdata:0050DB1C	0000000D	C	Mascot: Tran
+.rdata:0050DB2C	0000000D	C	Mascot: Lucy
+.rdata:0050DB3C	0000000D	C	Mascot: Theo
+.rdata:0050DB4C	0000000D	C	Mascot: Esca
+.rdata:0050DB5C	0000000D	C	Mascot: Polo
+.rdata:0050E1D0	0000000D	C	Battle Sword
+.rdata:0050E1E0	0000000D	C	Hyper Cutter
+.rdata:0050E200	0000000D	C	Cleria Sword
+.rdata:0050E210	0000000D	C	Large Shield
+.rdata:0050E220	0000000D	C	Small Shield
+.rdata:0050E274	0000000D	C	Breast Plate
+.rdata:0050E284	0000000D	C	Battle Armor
+.rdata:0050E2A8	0000000D	C	Cleria Armor
+.rdata:0050E2B8	0000000D	C	Return Magic
+.rdata:0050E2F8	0000000D	C	Shield Magic
+.rdata:0050E320	0000000D	C	Ring of Ease
+.rdata:0050E33C	0000000D	C	Volume Hadal
+.rdata:0050E34C	0000000D	C	Goddess Ring
+.rdata:0050E36C	0000000D	C	Volume Tovah
+.rdata:0050E37C	0000000D	C	Volume Gemma
+.rdata:0050E424	0000000D	C	Gold Pendant
+.rdata:0050E51C	0000000D	C	Marle Flower
+.rdata:0050E56C	0000000D	C	Cruberry Pie
+.rdata:0050E734	0000000D	C	Dyphthelloid
+.rdata:0050F5C4	0000000D	C	Priest Tovah
+.rdata:0050F5E0	0000000D	C	Priest Hadal
+.rdata:0050F5FC	0000000D	C	Priest Gemma
+.rdata:0050F630	0000000D	C	Nurse Sarina
+.rdata:005106F8	0000000D	C	Shield burst
+.rdata:005109C0	0000000D	C	Gila's House
+.rdata:00510A34	0000000D	C	Pigeon House
+.rdata:00510A88	0000000D	C	Tomb of Mesa
+.rdata:00510AA8	0000000D	C	Tomb of Fact
+.rdata:00510AC8	0000000D	C	Tarf's House
+.rdata:00510AE8	0000000D	C	Noit's House
+.rdata:00510AF8	0000000D	C	Fred's House
+.rdata:00510B24	0000000D	C	Ancient Well
+.rdata:00510B34	0000000D	C	Regg's House
+.rdata:00511450	0000000D	C	Chuckachucka
+.rdata:00511730	0000000D	C	Bellablaster
+.rdata:00511754	0000000D	C	Maintenancio
+.rdata:005117C4	0000000D	C	Ittyknuckles
+.rdata:00511B0C	0000000D	C	Moo-munchin'
+.rdata:00511B1C	0000000D	C	Crop-ruinin'
+.rdata:00511BE4	0000000D	C	Cold-blooded
+.rdata:00511C70	0000000D	C	Night-walker
+.rdata:00511D14	0000000D	C	Karaoke Lord
+.rdata:00511D44	0000000D	C	Convalescent
+.rdata:00511DBC	0000000D	C	Lion-in-wait
+.rdata:00511EC8	0000000D	C	Ready-to-die
+.rdata:00511ED8	0000000D	C	Vainglorious
+.rdata:00512054	0000000D	C	Reminderator
+.rdata:005120B8	0000000D	C	Bloodstained
+.rdata:005120C8	0000000D	C	Unscrupulous
+.rdata:00512290	0000000D	C	Underworlder
+.rdata:005122A0	0000000D	C	Fallen Angel
+.rdata:005122F0	0000000D	C	Witch Doctor
+.rdata:00512300	0000000D	C	Dang-blasted
+.rdata:0051232C	0000000D	C	Blackhearted
+.rdata:00512360	0000000D	C	Thick-headed
+.rdata:00512370	0000000D	C	Soggy Sailor
+.rdata:005124BC	0000000D	C	Cricket-nest
+.rdata:0051250C	0000000D	C	Falling-down
+.rdata:00513380	0000000D	C	LavaBkServer
+.rdata:00515488	0000000D	C	Adol Visible
+.rdata:005154A0	0000000D	C	Artwork Type
+.rdata:004F4C84	0000000E	C	Bill the Duck
+.rdata:0050CD78	0000000E	C	Mascot: Darie
+.rdata:0050CE40	0000000E	C	Mascot: Tolpi
+.rdata:0050CE70	0000000E	C	Mascot: Carly
+.rdata:0050CE94	0000000E	C	Mascot: Neeli
+.rdata:0050CEE4	0000000E	C	Mascot: Swoff
+.rdata:0050CF4C	0000000E	C	Mascot: Topus
+.rdata:0050CF5C	0000000E	C	Mascot: Dirga
+.rdata:0050D510	0000000E	C	Success Charm
+.rdata:0050D618	0000000E	C	I Heart Zalem
+.rdata:0050D658	0000000E	C	Swooned Feena
+.rdata:0050D6F4	0000000E	C	Mascot: Brody
+.rdata:0050D748	0000000E	C	Mascot: Oseam
+.rdata:0050D778	0000000E	C	Mascot: Bohtz
+.rdata:0050D7C8	0000000E	C	Mascot: Lazlo
+.rdata:0050D7E8	0000000E	C	Mascot: Guido
+.rdata:0050D840	0000000E	C	Mascot: Banoa
+.rdata:0050D860	0000000E	C	Mascot: Astal
+.rdata:0050D870	0000000E	C	Mascot: Leggs
+.rdata:0050D890	0000000E	C	Mascot: Ceres
+.rdata:0050D8C0	0000000E	C	Mascot: Karen
+.rdata:0050D8D0	0000000E	C	Mascot: Hadat
+.rdata:0050D8F0	0000000E	C	Mascot: Zalem
+.rdata:0050D92C	0000000E	C	Mascot: Boris
+.rdata:0050D948	0000000E	C	Mascot: Favre
+.rdata:0050D958	0000000E	C	Mascot: Lilia
+.rdata:0050D978	0000000E	C	Mascot: Gorto
+.rdata:0050D988	0000000E	C	Mascot: Keith
+.rdata:0050D998	0000000E	C	Mascot: Maria
+.rdata:0050D9BC	0000000E	C	Mascot: Goban
+.rdata:0050D9CC	0000000E	C	Mascot: Meryl
+.rdata:0050D9DC	0000000E	C	Mascot: Feena
+.rdata:0050DA8C	0000000E	C	Mascot: Frith
+.rdata:0050DAAC	0000000E	C	Mascot: Reise
+.rdata:0050DACC	0000000E	C	Mascot: Lloyd
+.rdata:0050DADC	0000000E	C	Mascot: Blitz
+.rdata:0050DAFC	0000000E	C	Mascot: Tanya
+.rdata:0050DB6C	0000000E	C	Mascot: Ischt
+.rdata:0050DB7C	0000000E	C	Mascot: Kasim
+.rdata:0050E1F0	0000000E	C	Wooden Shield
+.rdata:0050E230	0000000E	C	Battle Shield
+.rdata:0050E258	0000000E	C	Cleria Shield
+.rdata:0050E35C	0000000E	C	Volume Dabbie
+.rdata:0050E3DC	0000000E	C	Blizzard Bulb
+.rdata:0050E400	0000000E	C	Floodgate Key
+.rdata:0050E4B0	0000000E	C	Dreaming Idol
+.rdata:0050F5B4	0000000E	C	Priest Dabbie
+.rdata:0050F654	0000000E	C	Elder Cornell
+.rdata:00510394	0000000E	C	Lilia's House
+.rdata:005103CC	0000000E	C	Hadat's House
+.rdata:005109A4	0000000E	C	Lance Village
+.rdata:005109E4	0000000E	C	Bohtz's House
+.rdata:005109F4	0000000E	C	Lazlo's House
+.rdata:00510A04	0000000E	C	Astal's House
+.rdata:00510A14	0000000E	C	Brody's House
+.rdata:00510A68	0000000E	C	Tomb of Tovah
+.rdata:00510A78	0000000E	C	Tomb of Hadal
+.rdata:00510AB8	0000000E	C	Tomb of Gemma
+.rdata:00510B08	0000000E	C	Ramia Village
+.rdata:00510B44	0000000E	C	Maria's House
+.rdata:00510B70	0000000E	C	Blitz's House
+.rdata:00510B90	0000000E	C	Gorto's House
+.rdata:00511AF0	0000000E	C	Veggie-lovin'
+.rdata:00511B2C	0000000E	C	Puppy-scented
+.rdata:00511B3C	0000000E	C	Grave-robbin'
+.rdata:00511C00	0000000E	C	Hyper-kinetic
+.rdata:00511C24	0000000E	C	Swim Champion
+.rdata:00511D6C	0000000E	C	Self-centered
+.rdata:00511DAC	0000000E	C	Family-minded
+.rdata:00511E54	0000000E	C	Death-dealing
+.rdata:00511F10	0000000E	C	Directionless
+.rdata:00511F4C	0000000E	C	King-crushing
+.rdata:005121C4	0000000E	C	Supreme Ruler
+.rdata:0051225C	0000000E	C	Chaos-bringer
+.rdata:00512280	0000000E	C	Dark Disciple
+.rdata:00512408	0000000E	C	Once-gorgeous
+.rdata:00512424	0000000E	C	Once-handsome
+.rdata:00512488	0000000E	C	Cartilaginian
+.rdata:005124FC	0000000E	C	Badoom Badoom
+.rdata:0051255C	0000000E	C	Ruinous Angel
+.rdata:005125F0	0000000E	C	Murderomatron
+.rdata:0051260C	0000000E	C	Untrustworthy
+.rdata:0051261C	0000000E	C	Psycho-puppet
+.rdata:00512668	0000000E	C	Hungry Hungry
+.rdata:005128D0	0000000E	C	Diary MemSave
+.rdata:005152D0	0000000E	C	SkiLoadObject
+.rdata:005152E0	0000000E	C	Img:TitleWork
+.rdata:00515460	0000000E	C	Blood Effects
+.rdata:005154B0	0000000E	C	Monster Stats
+.rdata:00515528	0000000E	C	To Next Level
+.rdata:005155E0	0000000E	C	8-Directional
+.rdata:005156D0	0000000E	C	Select Mascot
+.rdata:0050CDB8	0000000F	C	Mascot: Rimera
+.rdata:0050CDC8	0000000F	C	Mascot: Chrace
+.rdata:0050CE50	0000000F	C	Mascot: Puroid
+.rdata:0050CEB4	0000000F	C	Mascot: Eggnid
+.rdata:0050CF08	0000000F	C	Mascot: Onuman
+.rdata:0050CF8C	0000000F	C	Mascot: Baocar
+.rdata:0050CFD0	0000000F	C	Mascot: Bearot
+.rdata:0050D004	0000000F	C	Mascot: Trover
+.rdata:0050D014	0000000F	C	Mascot: Godrup
+.rdata:0050D024	0000000F	C	Mascot: Delpus
+.rdata:0050D08C	0000000F	C	Mascot: Gearot
+.rdata:0050D0D4	0000000F	C	Mascot: Zearot
+.rdata:0050D648	0000000F	C	Tasty Rodentia
+.rdata:0050D678	0000000F	C	Priestess Reah
+.rdata:0050D718	0000000F	C	Mascot: Larsen
+.rdata:0050D728	0000000F	C	Mascot: Marina
+.rdata:0050DA0C	0000000F	C	Mascot: Carson
+.rdata:0050DA58	0000000F	C	Mascot: Sheila
+.rdata:0050DAEC	0000000F	C	Mascot: Paulie
+.rdata:0050DB8C	0000000F	C	Mascot: Flonne
+.rdata:0050E398	0000000F	C	Ancient Tablet
+.rdata:0050E434	0000000F	C	Silver Pendant
+.rdata:0050E4D4	0000000F	C	Banoa's Letter
+.rdata:0050E544	0000000F	C	Celceta Flower
+.rdata:005103BC	0000000F	C	Guido's Armory
+.rdata:00510838	0000000F	C	Rasteenie Mine
+.rdata:00510A98	0000000F	C	Tomb of Dabbie
+.rdata:00510AD8	0000000F	C	Colony of Lava
+.rdata:00510B54	0000000F	C	Deserted House
+.rdata:00511A08	0000000F	C	Gaytkeepah Jr.
+.rdata:00511A88	0000000F	C	Gaytkeepah 007
+.rdata:00511D7C	0000000F	C	Unprofessional
+.rdata:00511E44	0000000F	C	Murder-machine
+.rdata:00511EE8	0000000F	C	Wild and Crazy
+.rdata:00512064	0000000F	C	Dearly Beloved
+.rdata:005120F4	0000000F	C	Foggy-bottomed
+.rdata:00512228	0000000F	C	Free-the-beast
+.rdata:00512310	0000000F	C	Darned-to-heck
+.rdata:005123A0	0000000F	C	Straight-laced
+.rdata:005123EC	0000000F	C	Grave-traveler
+.rdata:00512590	0000000F	C	Corroded Angel
+.rdata:0050CDEC	00000010	C	Mascot: Godaago
+.rdata:0050CE10	00000010	C	Mascot: Gnometh
+.rdata:0050CE20	00000010	C	Mascot: Zolgell
+.rdata:0050CE30	00000010	C	Mascot: Ripplet
+.rdata:0050CE60	00000010	C	Mascot: K'nocks
+.rdata:0050CEA4	00000010	C	Mascot: Gercard
+.rdata:0050CEC4	00000010	C	Mascot: Galgata
+.rdata:0050CED4	00000010	C	Mascot: Gworter
+.rdata:0050CF18	00000010	C	Mascot: Scollun
+.rdata:0050CF6C	00000010	C	Mascot: Magnute
+.rdata:0050CF7C	00000010	C	Mascot: Ashveil
+.rdata:0050CF9C	00000010	C	Mascot: Nashzar
+.rdata:0050CFC0	00000010	C	Mascot: Nustarl
+.rdata:0050CFF4	00000010	C	Mascot: Allomod
+.rdata:0050D09C	00000010	C	Mascot: Ceabith
+.rdata:0050D578	00000010	C	Troubadour Reah
+.rdata:0050D5F0	00000010	C	Priestess Lilia
+.rdata:0050D668	00000010	C	Priestess Feena
+.rdata:0050D738	00000010	C	Mascot: Saffron
+.rdata:0050D768	00000010	C	Mascot: Lucille
+.rdata:0050D850	00000010	C	Mascot: Natasha
+.rdata:0050DA1C	00000010	C	Mascot: Natalie
+.rdata:0050DA48	00000010	C	Mascot: Chelnie
+.rdata:0050E3C0	00000010	C	Rod of Divinity
+.rdata:0050E594	00000010	C	Bestiary Potion
+.rdata:0050FA5C	00000010	C	Lv.%s Swordsman
+.rdata:005103AC	00000010	C	Jade's Oddities
+.rdata:00510A24	00000010	C	Gila's Basement
+.rdata:00510A58	00000010	C	Moondoria Field
+.rdata:00510B80	00000010	C	Shrine Entrance
+.rdata:00511B64	00000010	C	Mostly Harmless
+.rdata:00511B8C	00000010	C	Sticky-fingered
+.rdata:00511F5C	00000010	C	Goddess-fearing
+.rdata:00511FF4	00000010	C	Career Criminal
+.rdata:005120D8	00000010	C	Vicissitudinary
+.rdata:00512120	00000010	C	Hopelessly Lost
+.rdata:00512170	00000010	C	White Lightnin'
+.rdata:00512180	00000010	C	Sturm und Drang
+.rdata:0051254C	00000010	C	Desperate Angel
+.rdata:00512578	00000010	C	Sleepless Angel
+.rdata:00515598	00000010	C	Normal Movement
+.rdata:004F4C48	00000011	C	A Legend Is Born
+.rdata:004F4D3C	00000011	C	Personal Trainer
+.rdata:0050CDD8	00000011	C	Mascot: Cauction
+.rdata:0050CDFC	00000011	C	Mascot: Warrizor
+.rdata:0050CFAC	00000011	C	Mascot: El Endes
+.rdata:0050D064	00000011	C	Mascot: Forkless
+.rdata:0050D0AC	00000011	C	Mascot: Charront
+.rdata:0050D0C0	00000011	C	Mascot: Valkyria
+.rdata:0050D0E4	00000011	C	Mascot: Zavanite
+.rdata:0050D2D4	00000011	C	Mascot: Duckling
+.rdata:0050D53C	00000011	C	Prosperity Charm
+.rdata:0050D5A8	00000011	C	Imprisoned Maria
+.rdata:0050D5BC	00000011	C	Photogenic Lilia
+.rdata:0050D5D0	00000011	C	Gussied-Up Lilia
+.rdata:0050D69C	00000011	C	China-Dress Reah
+.rdata:0050DA68	00000011	C	Mascot: Caesaria
+.rdata:0050DCB0	00000011	C	PtlMagicBarrier1
+.rdata:0050E3EC	00000011	C	Whisper Earrings
+.rdata:0050E450	00000011	C	Silver Harmonica
+.rdata:0050E4C0	00000011	C	Lilia's Medicine
+.rdata:0050E5C8	00000011	C	Flonne's Garment
+.rdata:00510D88	00000011	C	BackBufferHeight
+.rdata:00511C10	00000011	C	Fast-as-anything
+.rdata:00511CC0	00000011	C	Familiar-looking
+.rdata:00511DCC	00000011	C	Fast and Furious
+.rdata:00512084	00000011	C	Pleasure-seeking
+.rdata:005122C4	00000011	C	Break-everything
+.rdata:00512450	00000011	C	Bowel Enthusiast
+.rdata:0050CE80	00000012	C	Mascot: Orihalcus
+.rdata:0050CF28	00000012	C	Mascot: Xelbenoth
+.rdata:0050CFE0	00000012	C	Mascot: Malochius
+.rdata:0050D078	00000012	C	Mascot: Rewillvan
+.rdata:0050D200	00000012	C	Mascot: Dark Fact
+.rdata:0050F9D8	00000012	C	What will you do?
+.rdata:00510848	00000012	C	Sanctuary of Toal
+.rdata:005108A4	00000012	C	Shrine, Underpass
+.rdata:005108B8	00000012	C	Campanile of Lane
+.rdata:00510958	00000012	C	Shrine, West Wing
+.rdata:00510990	00000012	C	Shrine, East Wing
+.rdata:005109D0	00000012	C	Elder's Residence
+.rdata:00510BB8	00000012	C	Runaways' Hideout
+.rdata:00510BE4	00000012	C	Goddesses' Palace
+.rdata:00512214	00000012	C	Reincarnated Pony
+.rdata:005125DC	00000012	C	Desecrate-o-Matic
+.rdata:0051544C	00000012	C	Wall Transparency
+.rdata:0050CEF4	00000013	C	Mascot: Preliguard
+.rdata:0050D110	00000013	C	Mascot: Luck Charm
+.rdata:0050D268	00000013	C	Mascot: Maid Lilia
+.rdata:0050D294	00000013	C	Mascot: Chun-Lilia
+.rdata:0050D704	00000013	C	Mascot: Masontorch
+.rdata:0050D7B4	00000013	C	Mascot: Flair Rall
+.rdata:0050D9A8	00000013	C	Mascot: Luta Gemma
+.rdata:0050E47C	00000013	C	Scroll of Guidance
+.rdata:00510884	00000013	C	Subterranean Canal
+.rdata:005108E4	00000013	C	Core of Ancient Ys
+.rdata:00510A44	00000013	C	Ruins of Moondoria
+.rdata:00511A54	00000013	C	Lord Gaytkeepah VI
+.rdata:00511A68	00000013	C	Gaytkeepah V, P.I.
+.rdata:0050D154	00000014	C	Mascot: Study Charm
+.rdata:0050D2A8	00000014	C	Mascot: Tailed Tarf
+.rdata:0050D7A0	00000014	C	Mascot: Leonor Rall
+.rdata:0050E5A4	00000014	C	Chelnie's Hair Band
+.rdata:005103FC	00000014	C	Zalem's Battle Best
+.rdata:0051085C	00000014	C	Moat of Burnedbless
+.rdata:00510870	00000014	C	Ice Ridge of Noltia
+.rdata:00512098	00000014	C	Schadenfreude-prone
+.rdata:00512200	00000014	C	Otium cum Dignitate
+.rdata:00512644	00000014	C	Kinda Sorta Visible
+.rdata:004F4C6C	00000015	C	Keep the Doctor Away
+.rdata:0050D034	00000015	C	Mascot: Dyphthelloid
+.rdata:0050D04C	00000015	C	Mascot: In Situ Tarf
+.rdata:0050D0F8	00000015	C	Mascot: Safety Charm
+.rdata:0050D13C	00000015	C	Mascot: Health Charm
+.rdata:0050D828	00000015	C	Mascot: Nurse Sarina
+.rdata:0050E464	00000015	C	Anti-Illusion Mirror
+.rdata:005103DC	00000015	C	Rall Family Wellness
+.rdata:00511A3C	00000015	C	Gaytkeepah III, Esq.
+.rdata:0051214C	00000015	C	Squallish Snow Cloud
+.rdata:005123B0	00000015	C	Song's-about-me Vain
+.rdata:0050D124	00000016	C	Mascot: Success Charm
+.rdata:0050D2BC	00000016	C	Mascot: I Heart Zalem
+.rdata:0050D31C	00000016	C	Mascot: Swooned Feena
+.rdata:0050D788	00000016	C	Mascot: Elder Cornell
+.rdata:00510940	00000016	C	Shrine, Mesa's Sector
+.rdata:0051096C	00000016	C	Shrine, Fact's Sector
+.rdata:00511AA4	00000016	C	Gaytkeepah Numba Nine
+.rdata:005121E8	00000016	C	Oh-the-pain-of-it-all
+.rdata:00512498	00000016	C	Mt. Precious Mud-made
+.rdata:0050D304	00000017	C	Mascot: Tasty Rodentia
+.rdata:0050D34C	00000017	C	Mascot: Priestess Reah
+.rdata:005108CC	00000017	C	Shrine, Hadal's Sector
+.rdata:00510910	00000017	C	Shrine, Tovah's Sector
+.rdata:00510928	00000017	C	Shrine, Gemma's Sector
+.rdata:00510BA0	00000017	C	Shrine, Palace Grounds
+.rdata:00511A24	00000017	C	Dr. Gaytkeepah IV, DDS
+.rdata:00512244	00000017	C	Secret Goddess Admirer
+.rdata:0050D1BC	00000018	C	Mascot: Troubadour Reah
+.rdata:0050D27C	00000018	C	Mascot: Priestess Lilia
+.rdata:0050D334	00000018	C	Mascot: Priestess Feena
+.rdata:005108F8	00000018	C	Shrine, Dabbie's Sector
+.rdata:00510BCC	00000018	C	Lair of the Black Pearl
+.rdata:004F4CE0	00000019	C	The Hand That Feeds Them
+.rdata:0050D168	00000019	C	Mascot: Prosperity Charm
+.rdata:0050D214	00000019	C	Mascot: Imprisoned Maria
+.rdata:0050D230	00000019	C	Mascot: Photogenic Lilia
+.rdata:0050D24C	00000019	C	Mascot: Gussied-Up Lilia
+.rdata:0050D380	00000019	C	Mascot: China-Dress Reah
+.rdata:00515994	00000019	C	Please choose game mode.
+.rdata:005160B8	00000019	C	Cancel System Data save?
+.rdata:0050D2E8	0000001A	C	Mascot: Exploding Pumpkin
+.rdata:0050D364	0000001A	C	Mascot: China-Dress Feena
+.rdata:0050D39C	0000001A	C	Mascot: Rado's Annex Reah
+.rdata:004F4C94	0000001B	C	Revenge of Sworded Details
+.rdata:004F4DAC	0000001B	C	Set Sail For New Adventure
+.rdata:0050D184	0000001B	C	Mascot: Fortuneteller Sara
+.rdata:0050D1D4	0000001B	C	Mascot: Plainclothes Feena
+.rdata:0050D1A0	0000001C	C	Mascot: Hello Minea's Nurse
+.rdata:004F4D70	0000001D	C	And Your Children's Children
+.rdata:004F4CB0	00000020	C	What the Legends Don't Tell You
+.rdata:00510758	00000020	C	Please choose difficulty level.
+.rdata:00515A80	00000022	C	#c3#Stop enemies in their tracks.
+.rdata:00515A58	00000027	C	#c3#Teleport to any friendly location.
+.rdata:00515BA4	00000029	C	#c3#Invoke the Goddesses to weaken Darm.
+.rdata:00515A28	0000002E	C	#c3#Erect a force field for added protection.
+.rdata:005159D0	00000030	C	#c3#Light the darkness and reveal secret exits.
+.rdata:00515B08	00000030	C	#c3#Recover HP in dungeons when standing still.
+.rdata:0050C4C0	00000031	C	Contains #c2#[%s]#c#, but\nAdol already has that.
+.rdata:0050DE0C	00000031	C	It's #c2#[%s]#c#, but Adol\ncan't carry any more.
+.rdata:00515AA4	00000032	C	#c3#Add \"Multi-Homing\" ability to the Fire magic.
+
