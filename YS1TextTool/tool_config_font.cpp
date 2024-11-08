@@ -7,20 +7,34 @@
 
 using namespace std;
 
-long GenerateConfigFont(std::string poPath, std::string tgtPath)
+long GetStrList(std::string path, std::vector<std::string> &result)
 {
     ifstream fileReader;
-    fileReader.open(poPath);
+    fileReader.open(path);
     if (!fileReader.is_open()) return -1;
     string line;
+    long counter = 0;
+    while (getline(fileReader, line))
+    {
+        string str = line;
+        result.push_back(str);
+        counter++;
+        line.clear();
+    }
+    return counter;
+}
+
+long GenerateConfigFont(const std::vector<std::string> strList, std::string tgtPath)
+{
+    if (strList.size() == 0) return -1;
     map<wchar_t, int> store;
     long counter = 0;
 
-    while (getline(fileReader, line))
+    for (string line : strList)
     {
         wstring wline;
         UTF82Unicode(line, wline);
-        for (auto c : wline)
+        for (wchar_t c : wline)
         {
             if (store.find(c) == store.end())
             {
@@ -28,7 +42,6 @@ long GenerateConfigFont(std::string poPath, std::string tgtPath)
                 counter++;
             }
         }
-        line.clear();
     }
     ofstream fileWriter;
     fileWriter.open(tgtPath);
@@ -41,6 +54,6 @@ long GenerateConfigFont(std::string poPath, std::string tgtPath)
         Unicode2UTF8(wchar, tgt);
         fileWriter << tgt <<endl;
     }
-    fileReader.close();
     fileWriter.close();
+    return counter;
 }

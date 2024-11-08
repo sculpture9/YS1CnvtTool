@@ -18,10 +18,10 @@
     <ClCompile Include="YS1TextTool.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="ys1_exedata_reader.cpp">
+    <ClCompile Include="ys_data_reader.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="csv_writer.cpp">
+    <ClCompile Include="ys_data_writer.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="csv_reader.cpp">
@@ -33,12 +33,15 @@
     <ClCompile Include="tool_charcode.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="po_reader.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="csv_writer.h">
+    <ClInclude Include="ys_data_writer.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="ys1_exedata_reader.h">
+    <ClInclude Include="ys_data_reader.h">
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="csv_reader.h">
@@ -51,6 +54,12 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="tool_charcode.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="YS1TextTool.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="po_reader.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

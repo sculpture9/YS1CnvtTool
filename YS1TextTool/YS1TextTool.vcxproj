@@ -128,18 +128,21 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="csv_reader.cpp" />
-    <ClCompile Include="csv_writer.cpp" />
+    <ClCompile Include="po_reader.cpp" />
+    <ClCompile Include="ys_data_writer.cpp" />
     <ClCompile Include="tool_config_font.cpp" />
     <ClCompile Include="tool_charcode.cpp" />
     <ClCompile Include="YS1TextTool.cpp" />
-    <ClCompile Include="ys1_exedata_reader.cpp" />
+    <ClCompile Include="ys_data_reader.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="csv_reader.h" />
-    <ClInclude Include="csv_writer.h" />
+    <ClInclude Include="po_reader.h" />
+    <ClInclude Include="ys_data_writer.h" />
     <ClInclude Include="tool_config_font.h" />
     <ClInclude Include="tool_charcode.h" />
-    <ClInclude Include="ys1_exedata_reader.h" />
+    <ClInclude Include="YS1TextTool.h" />
+    <ClInclude Include="ys_data_reader.h" />
     <ClInclude Include="ys_define.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

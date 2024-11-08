@@ -1,98 +1,120 @@
 #include "csv_reader.h"
-#include <string>
-#include <iostream>
-#include <fstream>
-#include <vector>
-vector<vector<string>> ReadDataFromCSV(const string &csvPath)
+using namespace std;
+
+bool ReadDataFromCSV(std::vector<std::vector<std::string>> &result, const LPCSTR &csvPath, long &lineFlag, bool needEscape)
 {
-    vector<vector<string>> result;
     ifstream reader;
     reader.open(csvPath);
     if (!reader.is_open())
     {
         reader.close();
-        return result;
+        return FALSE;
     }
     string line, temp;
+    lineFlag = -1;
     while (std::getline(reader, line))
     {
         vector<string> columns;
         char c;
-        bool isColTrans = false, inSentence = false, isEscape = false;
+        bool colTransFlag = false, inSentenceWithComma = false, escapeFlag = false;
         vector<char> wret;
-        for (size_t i = 0; i < line.length(); i++)
+        long lineSize = line.length();
+        lineFlag++;
+        for (size_t i = 0; i < lineSize; i++)
         {
             c = line[i];
             //just started translate
-            if (!isColTrans)
+            if (!colTransFlag)
             {
                 //will input string, here we don't push '"' to result;
                 if (c == '"')
                 {
-                    inSentence = true;
-                    isColTrans = true;
+                    inSentenceWithComma = true;
+                    colTransFlag = true;
                 }
                 //input number
                 else if (iswdigit(c))
                 {
                     wret.push_back(c);
-                    isColTrans = true;
+                    colTransFlag = true;
                 }
+                //input sentence without comma
                 else
                 {
-                    //invalid
-                    return result;
+                    //maybe no problems
+                    wret.push_back(c);
+                    colTransFlag = true;
                 }
                 continue;
             }
-            //now translating
-            if (!inSentence)
+            //judge the last char
+            if (i == lineSize - 1)
             {
-                //',' meaning maybe one column done
-                if (c == ',')
+                if (inSentenceWithComma)
                 {
+                    return FALSE;
+                }
+            }
+            //now translating
+            //not in sentence with comma
+            if (!inSentenceWithComma)
+            {
+                //','and '' meaning maybe one column done
+                if (c == ',' || (i == lineSize - 1))
+                {
+                    if (c != ',') { wret.push_back(c); }
                     string column;
                     CharVector2String(wret, column);
                     columns.push_back(column);
                     wret.clear();
-                    inSentence = false;
-                    isColTrans = false;
+                    inSentenceWithComma = false;
+                    colTransFlag = false;
                 }
-                if (iswdigit(c))
+                else if (iswdigit(c))
                 {
                     wret.push_back(c);
                 }
+                //input sentence without comma
                 else
                 {
-                    //invalid
-                    return result;
+                    //maybe no problems
+                    wret.push_back(c);
                 }
                 continue;
             }
             //now in sentence
-            if (isEscape)
+            if (i == lineSize - 1) { return FALSE; }
+            if (escapeFlag)
             {
-                if (c == '"')
+                switch (c)
                 {
-                    wret.push_back(c);
-                }
-                else
-                {
+                case '\\' :
                     wret.push_back('\\');
-                    wret.push_back(c);
-                    isEscape = false;
+                    break;
+                case '"':
+                    wret.push_back('\"');
+                    break;
+                case 'n':
+                    wret.push_back('\n');
+                    break;
+                case '0':
+                    wret.push_back('\0');
+                    break;
+                default:
+                    break;
                 }
+                escapeFlag = false;
                 continue;
             }
             //meaning one sentence is over
             if (c == '"')
             {
-                inSentence = false;
+                inSentenceWithComma = false;
                 continue;
             }
-            if (c == '\\')
+            if (c == '\\' && needEscape)
             {
-                isEscape = true;
+                escapeFlag = true;
                 continue;
             }
             wret.push_back(c);  //now c is a normal wchar
@@ -101,7 +123,8 @@ vector<vector<string>> ReadDataFromCSV(const string &csvPath)
         result.push_back(columns);
     }
     reader.close();
-    return result;
+    lineFlag++;  //lineFlag = max line + 1, mean all line is correct.
+    return TRUE;
 }
 
 bool CharVector2String(const vector<char> &chars, string &str)
