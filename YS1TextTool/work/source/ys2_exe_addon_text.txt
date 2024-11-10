@@ -216,7 +216,7 @@
 :0052C568   "Battle Sword"
 :0052C578   "Cleria Sword"
 :0052C588   "Wooden Shield"
-:0052C598   "Cleria Sword"
+:0052C598   "Small Shield"
 :0052C5A8   "Large Shield"
 :0052C5B8   "Iron Shield"
 :0052C5C8   "Battle Shield"
