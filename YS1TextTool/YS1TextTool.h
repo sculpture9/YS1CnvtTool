@@ -1,5 +1,7 @@
 #pragma once
-void GetCSVFromExeText();
+#include <string>
+void SupportGetCSVFromExeText();
+void SupportUpdateCSVWithAddonText(std::string oriCSVPath, std::string oriAddonTxtPath, std::string tgtCsvPath);
 void GenerateConfigFontText();
 void TransCSV2ParaTranzCSV();
 void MergeParaTranzCSV2TransCSV();

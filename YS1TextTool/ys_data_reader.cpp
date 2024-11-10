@@ -6,13 +6,13 @@
 #include <sstream>
 using namespace std;
 
-std::vector<YS1ExeTVO> GetYS1ETVOs(const std::string &originalDataPath)
+std::vector<YS1ExeTVO> GetYS1ETVOs(const std::string &exeTextPath)
 {
     vector<YS1ExeTVO> result;
-    //We stipulate that data has 7 columns
-    //id, origintxt, translatedTxt, styleFileName,tsize, charsize, address
+    //We stipulate that data has 7 + 1 columns, one column is optional
+    //id, origintxt, translatedTxt, styleFileName,tsize, charsize, address, addressByCaller
     ifstream fileReader;
-    fileReader.open(originalDataPath);
+    fileReader.open(exeTextPath);
     if (!fileReader.is_open())
     {
         return result;
@@ -23,7 +23,7 @@ std::vector<YS1ExeTVO> GetYS1ETVOs(const std::string &originalDataPath)
     {
         if (line.size() == 0) { continue; }
         YS1ExeTVO ys1Line;
-        GetLineWithYS1Style(line, id, ys1Line);
+        ExeTLine2YS1ETVO(line, id, ys1Line);
         result.push_back(ys1Line);
         id++;
         line.clear();
@@ -33,13 +33,13 @@ std::vector<YS1ExeTVO> GetYS1ETVOs(const std::string &originalDataPath)
 
 std::vector<YS1ExeTVO> GetYS1ETVOs(const std::vector<std::vector<std::string>> &translatedCsv)
 {
-    if (translatedCsv.size() == 0 || translatedCsv[0].size() != YS1_EXE_TEXT_CSVCOL) { return {}; }
+    if (translatedCsv.size() == 0 || translatedCsv[0].size() > YS1_EXE_TEXT_CSVCOL) { return {}; }
     vector<YS1ExeTVO> result;
     for (int i = 0; i < translatedCsv.size(); i++)
     {
         vector<string> colData = translatedCsv[i];
         YS1ExeTVO vo;
-        //the translated csv format is : ID, OriginTxt, TranslatedTxt, fontStyle, tsize, charSize, address
+        //the translated csv format is : ID, OriginTxt, TranslatedTxt, fontStyle, tsize, charSize, address, addressByCaller<optional>
         vo.ID = colData[0];
         vo.OriginTxt = colData[1];
         vo.TranslatedTxt = colData[2];
@@ -47,7 +47,34 @@ std::vector<YS1ExeTVO> GetYS1ETVOs(const std::vector<std::vector<std::string>> &
         vo.TSize = atoi(colData[4].c_str());
         vo.CharSize = atoi(colData[5].c_str());
         vo.AddressInYS1 = atoi(colData[6].c_str());
+        int addressByCaller = colData.size() < YS1_EXE_TEXT_CSVCOL ? -1 : atoi(colData[7].c_str());
+        vo.AddressByCaller = addressByCaller;
         result.push_back(vo);
+    }
+    return result;
+}
+
+std::vector<YS1ExeAddonTVO> GetYS1ATVOs(const std::string &exeAddonTextPath)
+{
+    vector<YS1ExeAddonTVO> result;
+    //We stipulate that data has 7 + 1 columns, one column is optional
+    //id, origintxt, translatedTxt, styleFileName,tsize, charsize, address, addressByCaller
+    ifstream fileReader;
+    fileReader.open(exeAddonTextPath);
+    if (!fileReader.is_open())
+    {
+        return result;
+    }
+    string line;
+    long id = 0;
+    while (getline(fileReader, line))
+    {
+        if (line.size() == 0) { continue; }
+        YS1ExeAddonTVO ys1eatvo;
+        ExeAddonTLine2YS1ETVO(line, id, ys1eatvo);
+        result.push_back(ys1eatvo);
+        id++;
+        line.clear();
     }
     return result;
 }
@@ -128,14 +155,14 @@ std::vector<YS1POVO> GetYS1POVOs(const std::vector<std::vector<std::string>> &tr
     return result;
 }
 
-bool GetLineWithYS1Style(const string &oriLine, long id, YS1ExeTVO &ys1vo)
+bool ExeTLine2YS1ETVO(const string &exeTextLine, long id, YS1ExeTVO &ys1vo)
 {
-    if (oriLine.size() == 0) { return false; }
+    if (exeTextLine.size() == 0) { return false; }
     //original line like this:
     //.rdata:004DBBE4	0000000D	C	Doctor Bludo
     //we don't need ".rdata:"
-    int pos = oriLine.find_first_of(':');
-    string ys1Line = oriLine.substr(pos + 1, oriLine.size());
+    int pos = exeTextLine.find_first_of(':');
+    string ys1Line = exeTextLine.substr(pos + 1, exeTextLine.size());
     istringstream ss(ys1Line + '\t');
     string col;
     vector<string> temp;
@@ -154,7 +181,7 @@ bool GetLineWithYS1Style(const string &oriLine, long id, YS1ExeTVO &ys1vo)
         col.clear();
     }
     if (temp.size() != YS1O2_EXE_DATACOL) return false;
-    //we need style like this: <id>    <orignalText>    <translatedText>  <stylePath>  <textSize>    <charSize>    <address> 
+    //we need style like this: <id>    <orignalText>    <translatedText>  <stylePath>  <textSize>    <charSize>    <address> <addressByCaller>
     ys1vo.ID = to_string(id);
     ys1vo.OriginTxt = temp[3];
     ys1vo.TranslatedTxt = " ";
@@ -162,8 +189,30 @@ bool GetLineWithYS1Style(const string &oriLine, long id, YS1ExeTVO &ys1vo)
     ys1vo.TSize = atoi(temp[1].c_str());
     ys1vo.CharSize = atoi(temp[2].c_str());
     ys1vo.AddressInYS1 = atoi(temp[0].c_str());
+    ys1vo.AddressByCaller = -1;
     ss.str("");
     ss.clear();
+    return true;
+}
+
+bool ExeAddonTLine2YS1ETVO(const std::string &exeTextLine, long id, YS1ExeAddonTVO &ys1vo)
+{
+    if (exeTextLine.size() == 0) { return false; }
+    //original line like this:
+    //.rdata:004D7274                 dd offset aSoleDoctorAtTh ; "Sole doctor at the clinic in\nBarbado P"...
+    //we just need <004D7274> and <Sole doctor at the clinic in\nBarbado P>
+    int addressBegin = exeTextLine.find_first_of(':') + 1;
+    int addressEnd = exeTextLine.find_first_of(' ') - 1;
+    int originTxtBegin = exeTextLine.find_first_of('\"') + 1;
+    int originTxtEnd = exeTextLine.find_last_of('\"') - 1;
+    
+    ys1vo.ID = to_string(id);
+    string abcStr = exeTextLine.substr(addressBegin, addressEnd - addressBegin + 1);
+    char *flag;
+    long addressByCaller = strtol(abcStr.c_str(), &flag, 16);
+    if (*flag != '\0') { return false; }
+    ys1vo.AddressByCaller = addressByCaller;
+    ys1vo.OriginTxtPrefix = exeTextLine.substr(originTxtBegin, originTxtEnd - originTxtBegin + 1);
     return true;
 }
 

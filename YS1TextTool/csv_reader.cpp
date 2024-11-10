@@ -1,7 +1,7 @@
 #include "csv_reader.h"
 using namespace std;
 
-bool ReadDataFromCSV(std::vector<std::vector<std::string>> &result, const LPCSTR &csvPath, long &lineFlag, bool needEscape)
+bool ReadDataFromCSV(std::vector<std::vector<std::string>> &result, const std::string &csvPath, long &lineFlag, bool needEscape)
 {
     ifstream reader;
     reader.open(csvPath);

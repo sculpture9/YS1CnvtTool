@@ -19,7 +19,7 @@ long WriteVOs2CSV(std::vector<YS1ExeTVO> &yVOs, std::string tgtPath)
     //istringstream ss;
     for (int i = 0; i < yVOs.size(); i++)
     {
-        //one line as :  <ID>   <Text>  <Text>  <Text>  <Int>   <Int>   <Int>
+        //one line as :  <ID>   <Text>  <Text>  <Text>  <Int>   <Int>   <Int>   <Int>
         YS1ExeTVO yvo = yVOs[i];
         string col;
         line += yvo.ID;
@@ -41,6 +41,9 @@ long WriteVOs2CSV(std::vector<YS1ExeTVO> &yVOs, std::string tgtPath)
         line += ",";
 
         line += to_string(yvo.AddressInYS1);
+        line += ",";
+
+        line += to_string(yvo.AddressByCaller);
         line += ",";
 
         //while (getline(ss, col, '\t'))

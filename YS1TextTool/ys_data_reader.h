@@ -13,6 +13,14 @@ typedef struct YS1ExeTVO
     long TSize;
     long CharSize;
     long AddressInYS1;
+    long AddressByCaller;
+};
+
+typedef struct YS1ExeAddonTVO
+{
+    string ID;
+    string OriginTxtPrefix;
+    long AddressByCaller;
 };
 
 typedef struct ParaTranzVO
@@ -30,9 +38,11 @@ typedef struct YS1POVO
     std::string msgstr;
 };
 
-std::vector<YS1ExeTVO> GetYS1ETVOs(const std::string &originalDataPath);
+std::vector<YS1ExeTVO> GetYS1ETVOs(const std::string &exeTextPath);
 
 std::vector<YS1ExeTVO> GetYS1ETVOs(const std::vector<std::vector<std::string>> &translatedCsv);
+
+std::vector<YS1ExeAddonTVO> GetYS1ATVOs(const std::string &exeAddonTextPath);
 
 std::vector<ParaTranzVO> GetPTVOs(const std::vector<std::vector<std::string>> &paraTranzCsv);
 
@@ -42,7 +52,9 @@ std::vector<ParaTranzVO> GetPTVOs(const std::vector<YS1POVO> &ys1POVOs);
 
 std::vector<YS1POVO> GetYS1POVOs(const std::vector<std::vector<std::string>> &translatedPO);
 
-bool GetLineWithYS1Style(const std::string &oriLine, long id, YS1ExeTVO &ys1vo);
+bool ExeTLine2YS1ETVO(const std::string &exeTextLine, long id, YS1ExeTVO &ys1vo);
+
+bool ExeAddonTLine2YS1ETVO(const std::string &exeTextLine, long id, YS1ExeAddonTVO &ys1vo);
 
 std::string RemoveSubStr(std::string father, std::string son);
 

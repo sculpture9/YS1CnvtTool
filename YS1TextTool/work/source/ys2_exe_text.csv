@@ -64,7 +64,7 @@
 63,"Stub"," ","text.ini",5,12,5314756,
 64,"Chew"," ","text.ini",5,12,5314776,
 65,"Durr"," ","text.ini",5,12,5314788,
-66,"64206"," ","text.ini",5,12,5314796,
+66,"Face"," ","text.ini",5,12,5314796,
 67,"Flik"," ","text.ini",5,12,5314804,
 68,"Iaia"," ","text.ini",5,12,5314864,
 69,"Ndnd"," ","text.ini",5,12,5314912,
@@ -519,7 +519,7 @@
 518,"Reposition"," ","text.ini",11,12,5330656,
 519,"Mascot: Roo"," ","text.ini",12,12,5298448,
 520,"Mascot: Rex"," ","text.ini",12,12,5298748,
-521,"Short Sword"," ","text.ini",12,12,5300656,
+521,"Short Sword","短 剑","text.ini",2,12,5300656,5424428
 522,"Iron Shield"," ","text.ini",12,12,5300800,
 523,"Light Magic"," ","text.ini",12,12,5300936,
 524,"Alter Magic"," ","text.ini",12,12,5300948,
@@ -784,7 +784,7 @@
 783,"Mascot: Flonne"," ","text.ini",15,12,5299084,
 784,"Ancient Tablet"," ","text.ini",15,12,5301144,
 785,"Silver Pendant"," ","text.ini",15,12,5301300,
-786,"Banoa's Letter"," ","text.ini",15,12,5301460,
+786,"Banoa's Letter","芭诺娅的信","text.ini",2,12,5301460,5425304
 787,"Celceta Flower"," ","text.ini",15,12,5301572,
 788,"Guido's Armory"," ","text.ini",15,12,5309372,
 789,"Rasteenie Mine"," ","text.ini",15,12,5310520,

@@ -1,24 +1,30 @@
 #pragma once
 //”ÎC#≤ªÕ¨£¨C++œ‡∂‘¬∑æ∂‘⁄π§≥Ãƒø¬ºµ◊œ¬
-constexpr auto YS1_TRANSLATED_PATH = "E:\\Project\\YSTranslationProject\\YS CHS\\text\\";
+constexpr auto YS1_TRANSLATED_PATH = "text\\";
 
-constexpr auto YS1_EXE_TEXT_ORI_PATH = "ys1_exe_text.txt";
+constexpr auto YS1_EXE_TEXT_ORI_PATH = "work\\source\\ys1_exe_text.txt";
 
-constexpr auto YS1_EXE_CSV_ORI_PATH = "E:\\Project\\YSTranslationProject\\YS CHS\\work\\source\\ys1_exe_text.csv";
+constexpr auto YS1_EXE_ADDON_TEXT_ORI_PATH = "work\\source\\ys1_exe_addon_text.txt";
 
-constexpr auto YS1_EXE_CSV_TGT_PATH = "E:\\Project\\YSTranslationProject\\YS CHS\\work\\target\\ys1_exe_text.csv";
+constexpr auto YS1_EXE_CSV_ORI_PATH = "work\\source\\ys1_exe_text.csv";
 
-constexpr auto YS1_EXE_CSV_PT_ORI_PATH = "E:\\Project\\YSTranslationProject\\YS CHS\\work\\source\\ys1_exe_pt_text.csv";
+constexpr auto YS1_EXE_CSV_TGT_PATH = "work\\target\\ys1_exe_text.csv";
 
-constexpr auto YS1_EXE_CSV_PT_TGT_PATH = "E:\\Project\\YSTranslationProject\\YS CHS\\work\\target\\ys1_exe_pt_text.csv";
+constexpr auto YS1_EXE_CSV_PT_ORI_PATH = "work\\source\\ys1_exe_pt_text.csv";
 
-constexpr auto YS2_EXE_TEXT_PATH = "ys2_exe_text.txt";
+constexpr auto YS1_EXE_CSV_PT_TGT_PATH = "work\\target\\ys1_exe_pt_text.csv";
 
-constexpr auto YS2_EXE_CSV_PATH = "ys2_exe_text.csv";
+constexpr auto YS2_EXE_TEXT_ORI_PATH = "work\\source\\ys2_exe_text.txt";
+
+constexpr auto YS2_EXE_ADDON_TEXT_ORI_PATH = "work\\source\\ys2_exe_addon_text.txt";
+
+constexpr auto YS2_EXE_CSV_ORI_PATH = "work\\source\\ys2_exe_text.csv";
+
+constexpr auto YS2_EXE_CSV_TGT_PATH = "work\\target\\ys2_exe_text.csv";
 
 constexpr auto YS1O2_EXE_DATACOL = 4;
 
-constexpr auto YS1_EXE_TEXT_CSVCOL = 7;
+constexpr auto YS1_EXE_TEXT_CSVCOL = 8;
 
 constexpr auto YS1_EXE_TEXT_PARATRANZ_CSVCOL = 4;
 
@@ -28,13 +34,13 @@ constexpr auto YS_FONT_STYLE_DIA = "text2.ini";
 
 constexpr auto YS_FONT_STYLE_PSP = "text.ini";
 
-constexpr auto YS1_SCANE_PO_ORI_PATH = "E:\\Project\\YSTranslationProject\\YS CHS\\work\\source\\SCENA Complete∑≠“Î“∆÷≤∞Ê.po";
+constexpr auto YS1_SCANE_PO_ORI_PATH = "\\work\\source\\SCENA Complete∑≠“Î“∆÷≤∞Ê.po";
 
-constexpr auto YS1_SCANE_CSV_PT_ORI_PATH = "E:\\Project\\YSTranslationProject\\YS CHS\\work\\source\\SCENA_pt.csv";
+constexpr auto YS1_SCANE_CSV_PT_ORI_PATH = "\\work\\source\\SCENA_pt.csv";
 
-constexpr auto YS1_SCANE_PO_TGT_PATH = "E:\\Project\\YSTranslationProject\\YS CHS\\work\\target\\SCENA Complete∑≠“Î“∆÷≤∞Ê.po";
+constexpr auto YS1_SCANE_PO_TGT_PATH = "\\work\\target\\SCENA Complete∑≠“Î“∆÷≤∞Ê.po";
 
-constexpr auto YS1_SCANE_CSV_PT_TGT_PATH = "E:\\Project\\YSTranslationProject\\YS CHS\\work\\target\\SCENA_pt.csv";
+constexpr auto YS1_SCANE_CSV_PT_TGT_PATH = "\\work\\target\\SCENA_pt.csv";
 
 constexpr auto YS_CONFIG_FONT_INI_PATH = "E:\\Project\\YSTranslationProject\\Tool\\YCTT.v1.0\\config_font.ini";
 

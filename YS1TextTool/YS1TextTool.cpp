@@ -11,17 +11,20 @@
 
 int main()
 {
-    //GetCSVFromExeText();
+    //SupportGetCSVFromExeText();
+    //SupportUpdateCSVWithAddonText(YS1_EXE_CSV_ORI_PATH, YS1_EXE_ADDON_TEXT_ORI_PATH, YS1_EXE_CSV_TGT_PATH);
+    SupportUpdateCSVWithAddonText(YS2_EXE_CSV_ORI_PATH, YS2_EXE_ADDON_TEXT_ORI_PATH, YS2_EXE_CSV_TGT_PATH);
     //GenerateConfigFontText();
     //TransCSV2ParaTranzCSV();
+    //MergeParaTranzCSV2TransCSV()
     //PO2ParaTranzCSV();
-    MergeParaTranzCSV2PO();
+    //MergeParaTranzCSV2PO();
 
     cout << "press any key to exit." << endl;
     _getch();
 }
 
-void GetCSVFromExeText()
+void SupportGetCSVFromExeText()
 {
     vector<YS1ExeTVO> data = GetYS1ETVOs(YS1_EXE_TEXT_ORI_PATH);
     long num = 0;
@@ -31,11 +34,35 @@ void GetCSVFromExeText()
     }
     else
     {
-        data = GetYS1ETVOs(YS2_EXE_TEXT_PATH);
-        num = WriteVOs2CSV(data, YS2_EXE_CSV_PATH);
+        data = GetYS1ETVOs(YS2_EXE_TEXT_ORI_PATH);
+        num = WriteVOs2CSV(data, YS2_EXE_CSV_ORI_PATH);
     }
     cout << "Successfully converted " << num << "lines." << endl;
 }
+
+void SupportUpdateCSVWithAddonText(std::string oriCSVPath, std::string oriAddonTxtPath, std::string tgtCsvPath)
+{
+    vector<vector<string>> exeData;
+    vector<vector<string>> exeAddonData;
+    long lflag = 0;
+    bool bRet = ReadDataFromCSV(exeData, oriCSVPath, lflag, false);
+    vector<YS1ExeTVO> result = GetYS1ETVOs(exeData);
+    vector<YS1ExeAddonTVO> ysaddVOs = GetYS1ATVOs(oriAddonTxtPath);
+    for (int i = 0; i < ysaddVOs.size(); i++)
+    {
+        for (int j = 0; j < result.size(); j++)
+        {
+            int pos = result[j].OriginTxt.find(ysaddVOs[i].OriginTxtPrefix);
+            if (pos != string::npos)
+            {
+                result[j].AddressByCaller = ysaddVOs[i].AddressByCaller;
+                break;
+            }
+        }
+    }
+    WriteVOs2CSV(result, tgtCsvPath);
+}
+
 
 void GenerateConfigFontText()
 {
