@@ -79,19 +79,23 @@ std::vector<YS1ExeAddonTVO> GetYS1ATVOs(const std::string &exeAddonTextPath)
     return result;
 }
 
-std::vector<ParaTranzVO> GetPTVOs(const std::vector<std::vector<std::string>> &paraTranzCsv)
+std::vector<ParaTranzVO> GetPTVOs(const std::vector<std::vector<std::string>> &paraTranzCsv, bool needEmpty)
 {
-    if (paraTranzCsv.size() == 0 || paraTranzCsv[0].size() != YS1_EXE_TEXT_PARATRANZ_CSVCOL) { return {}; }
+    if (paraTranzCsv.size() == 0) { return {}; }
     vector<ParaTranzVO> result;
     for (int i = 0; i < paraTranzCsv.size(); i++)
     {
         vector<string> colData = paraTranzCsv[i];
-        ParaTranzVO vo;
+        if (!needEmpty && strcmp(colData[1].c_str(), YS1_SCANE_PO_MSG_ID_EMPTY) == 0)
+        {
+            continue;
+        }
         //the ParaTranz csv format is : Key, Source, Translation, Context
+        ParaTranzVO vo;
         vo.Key = colData[0];
-        vo.Source = colData[1];
-        vo.Translation = colData[2];
-        vo.Context = colData[3];
+        vo.Source = colData.size() >= 2 ? colData[1] : "";
+        vo.Translation = colData.size() >= 3 ? colData[2] : "";
+        vo.Context = colData.size() >= 4 ? colData[3] : "";;
         result.push_back(vo);
     }
     return result;
@@ -150,6 +154,7 @@ std::vector<YS1POVO> GetYS1POVOs(const std::vector<std::vector<std::string>> &tr
     for (int i = 0; i < translatedPO.size(); i++)
     {
         auto temp = translatedPO[i];
+        if (temp.size() == 0) continue;
         YS1POVO povo;
         povo.msgctxt = GetMsgctxtKey(temp[0]);
         povo.msgid = MultiLine2One(RemoveSubStr(temp[1], YS1_SCANE_PO_MSG_ID), false);

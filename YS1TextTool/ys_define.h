@@ -1,11 +1,15 @@
 #pragma once
 //与C#不同，C++相对路径在工程目录底下
 
-constexpr auto SC2ENGFORSCENA_PATH = "work\\source\\SC2ENGForSCENA.csv";
+constexpr auto ENGBaseOnSC4SCENA_PATH = "work\\source\\ENGBaseOnSC4SCENA.csv";
 
-constexpr auto ORIGIN_PO_PATH = "work\\source\\SCENA.po";
+constexpr auto ENGBaseOnJPN4SCENA_PATH = "work\\source\\ENGBaseOnJPN4SCENA.csv";
 
-constexpr auto TS_PO_PATH = "work\\source\\SCENA 完全版简体中文[已勘正编码].po";
+constexpr auto ORI_PO_ORI_PATH = "work\\source\\SCENA.po";
+
+constexpr auto JPN_PO_ORI_PATH = "work\\source\\SCENA_Chronicle_JPN.po";
+
+constexpr auto TS_PO_ORI_PATH = "work\\source\\SCENA 完全版简体中文[已勘正编码].po";
 
 constexpr auto TARGET_PO_PATH = "work\\target\\SCENA Complete翻译移植版.po";
 
@@ -36,6 +40,8 @@ constexpr auto YS1O2_EXE_DATACOL = 4;
 constexpr auto YS1_EXE_TEXT_CSVCOL = 8;
 
 constexpr auto YS1_EXE_TEXT_PARATRANZ_CSVCOL = 4;
+
+constexpr auto YS1_EXE_TEXT_PARATRANZ_COM_CSVCOL = 3;
 
 constexpr auto YS1_SCANE_POCOL = 3;
 

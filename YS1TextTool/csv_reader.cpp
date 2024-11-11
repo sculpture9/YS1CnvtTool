@@ -23,46 +23,46 @@ bool ReadDataFromCSV(std::vector<std::vector<std::string>> &result, const std::s
         for (size_t i = 0; i < lineSize; i++)
         {
             c = line[i];
-            //just started translate
+            if (i == lineSize - 1)
+            {
+                if (c != '"' && c != ',')
+                {
+                    wret.push_back(c);
+                }
+                string column;
+                CharVector2String(wret, column);
+                columns.push_back(column);
+                continue;
+            }
+            //not in translate
             if (!colTransFlag)
             {
                 //will input string, here we don't push '"' to result;
                 if (c == '"')
                 {
                     inSentenceWithComma = true;
-                    colTransFlag = true;
                 }
                 //input number
                 else if (iswdigit(c))
                 {
                     wret.push_back(c);
-                    colTransFlag = true;
                 }
                 //input sentence without comma
                 else
                 {
                     //maybe no problems
                     wret.push_back(c);
-                    colTransFlag = true;
                 }
+                colTransFlag = true;
                 continue;
-            }
-            //judge the last char
-            if (i == lineSize - 1)
-            {
-                if (inSentenceWithComma)
-                {
-                    return FALSE;
-                }
             }
             //now translating
             //not in sentence with comma
             if (!inSentenceWithComma)
             {
                 //','and '' meaning maybe one column done
-                if (c == ',' || (i == lineSize - 1))
+                if (c == ',')
                 {
-                    if (c != ',') { wret.push_back(c); }
                     string column;
                     CharVector2String(wret, column);
                     columns.push_back(column);
@@ -83,7 +83,6 @@ bool ReadDataFromCSV(std::vector<std::vector<std::string>> &result, const std::s
                 continue;
             }
             //now in sentence
-            if (i == lineSize - 1) { return FALSE; }
             if (escapeFlag)
             {
                 switch (c)
@@ -132,7 +131,7 @@ bool CharVector2String(const vector<char> &chars, string &str)
     str.clear();
     for (int i = 0; i < chars.size(); i++)
     {
-        wchar_t wc = chars[i];
+        char wc = chars[i];
         str.push_back(wc);
     }
     return true;

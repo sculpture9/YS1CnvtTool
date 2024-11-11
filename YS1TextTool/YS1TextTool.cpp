@@ -13,19 +13,20 @@ int main()
 {
     //MatchPOText(TARGET_PO_PATH, SC2ENGFORSCENA_PATH, ORIGIN_PO_PATH, TS_PO_PATH);
     //SupportGetCSVFromExeText();
-    //SupportUpdateCSVWithAddonText(YS1_EXE_CSV_ORI_PATH, YS1_EXE_ADDON_TEXT_ORI_PATH, YS1_EXE_CSV_TGT_PATH);
-    //SupportUpdateCSVWithAddonText(YS2_EXE_CSV_ORI_PATH, YS2_EXE_ADDON_TEXT_ORI_PATH, YS2_EXE_CSV_TGT_PATH);
+    //SupportUpdateCSVWithAddonText(YS1_EXE_CSV_TGT_PATH, YS1_EXE_CSV_ORI_PATH, YS1_EXE_ADDON_TEXT_ORI_PATH);
+    //SupportUpdateCSVWithAddonText(YS2_EXE_CSV_TGT_PATH, YS2_EXE_CSV_ORI_PATH, YS2_EXE_ADDON_TEXT_ORI_PATH);
     //GenerateConfigFontText();
     //TransCSV2ParaTranzCSV();
     //MergeParaTranzCSV2TransCSV();
     //PO2ParaTranzCSV();
     //MergeParaTranzCSV2PO();
+    //SupportUpdatePOCSVWithPO(YS1_SCANE_CSV_PT_TGT_PATH, ENGBaseOnJPN4SCENA_PATH, YS1_SCANE_CSV_PT_ORI_PATH, JPN_PO_ORI_PATH);
     DividedParaTranzCSV(100);
     cout << "succeed! press any key to exit." << endl;
     _getch();
 }
 
-void SupportGetCSVFromExeText()
+void SupportGetExeCSV()
 {
     vector<YS1ExeTVO> data = GetYS1ETVOs(YS1_EXE_TEXT_ORI_PATH);
     long num = 0;
@@ -41,7 +42,7 @@ void SupportGetCSVFromExeText()
     cout << "Successfully converted " << num << "lines." << endl;
 }
 
-void SupportUpdateCSVWithAddonText(std::string oriCSVPath, std::string oriAddonTxtPath, std::string tgtCsvPath)
+void SupportUpdateExeCSV(std::string tgtCsvPath, std::string oriCSVPath, std::string oriAddonTxtPath)
 {
     vector<vector<string>> exeData;
     vector<vector<string>> exeAddonData;
@@ -130,6 +131,51 @@ void PO2ParaTranzCSV()
     WriteVOs2CSV(ptVOs, YS1_SCANE_CSV_PT_TGT_PATH);
 }
 
+void SupportUpdatePOCSVWithPO(std::string tgtCsvPath, std::string sectionCSVPath, std::string oriCSVPath, std::string addonPOPath)
+{
+    vector<vector<string>> oriCSV;
+    vector<vector<string>> addonPO;
+    vector<vector<string>> sectionCSV;
+    long readNum;
+    ReadDataFromCSV(oriCSV, oriCSVPath, readNum, false);
+    ReadDataFromPO(addonPO, addonPOPath, readNum);
+
+    ReadDataFromCSV(sectionCSV, sectionCSVPath, readNum);
+    vector<Section> oriList;
+    vector<Section> scList;
+    GenerateSectionList(sectionCSV, oriList, scList);
+
+    vector<ParaTranzVO> ptVOs = GetPTVOs(oriCSV, true);
+    vector<YS1POVO> addonPOVOs = GetYS1POVOs(addonPO);
+    int secCounter = 0;
+    for (int i = 0; i < ptVOs.size(); i++)
+    {
+        if (secCounter >= oriList.size()) { break; } 
+        int ptvosKey = atoi(ptVOs[i].Key.c_str());
+        if (ptvosKey < oriList[secCounter].begin) { continue; }
+
+        if ((oriList[secCounter].end - oriList[secCounter].begin) != (scList[secCounter].end - scList[secCounter].begin))
+        {
+            cout << "The two csv data no equal." << endl;
+            return;
+        }
+        int offset = scList[secCounter].begin - oriList[secCounter].begin;
+        for (int j = 0; j < addonPOVOs.size(); j++)
+        {
+            if (ptvosKey + offset == atoi(addonPOVOs[j].msgctxt.c_str()))
+            {
+                ptVOs[i].Context = addonPOVOs[j].msgid;
+                addonPOVOs.erase(addonPOVOs.begin() + j);
+            }
+        }
+        if (ptvosKey == oriList[secCounter].end)
+        {
+            secCounter++;
+        }
+    }
+    WriteVOs2CSV(ptVOs, tgtCsvPath);
+}
+
 void MergeParaTranzCSV2PO()
 {
     vector<vector<string>> csvData;
@@ -161,7 +207,7 @@ void MergeParaTranzCSV2PO()
     WriteVOs2PO(tgtVOs, YS1_SCANE_PO_TGT_PATH);
 }
 
-void MatchPOText(std::string tgtPOPath, std::string matchCSVPath, std::string oriPOPath, std::string scPOPath)
+void MatchPOText(std::string tgtPOPath, std::string sectionCSVPath, std::string oriPOPath, std::string scPOPath)
 {
     /*var node = NodeFactory.FromFile(targetPOPath);
 node.TransformWith(new Binary2Po()).Stream.WriteTo(target1POPath);*/
@@ -170,7 +216,7 @@ node.TransformWith(new Binary2Po()).Stream.WriteTo(target1POPath);*/
     //获取行对应表
     vector<vector<string>> matchCsv;
     long lineFlag;
-    ReadDataFromCSV(matchCsv, matchCSVPath, lineFlag);
+    ReadDataFromCSV(matchCsv, sectionCSVPath, lineFlag);
     cout <<("Get CSV！") << endl;
 
     //获取PO数据

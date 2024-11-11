@@ -1,0 +1,14102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ys I & II Chronicles+\n"
+"Report-Msgid-Bugs-To: anyemail@gmail.com\n"
+"POT-Creation-Date: 2024/11/11\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Any\n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0"
+msgid "the Ancient Ys vanished omen."
+msgstr ""
+
+msgctxt "1"
+msgid "Now Loading..."
+msgstr ""
+
+msgctxt "2"
+msgid "SHORT SWORD"
+msgstr ""
+
+msgctxt "3"
+msgid "LONG SWORD"
+msgstr ""
+
+msgctxt "4"
+msgid "TALWARL"
+msgstr ""
+
+msgctxt "5"
+msgid "SILVER SWORD"
+msgstr ""
+
+msgctxt "6"
+msgid "FLAME SWORD"
+msgstr ""
+
+msgctxt "7"
+msgid "SMALL SHIELD"
+msgstr ""
+
+msgctxt "8"
+msgid "MIDDLE SHIELD"
+msgstr ""
+
+msgctxt "9"
+msgid "LARGE SHIELD"
+msgstr ""
+
+msgctxt "10"
+msgid "SILVER SHIELD"
+msgstr ""
+
+msgctxt "11"
+msgid "BATTLE SHIELD"
+msgstr ""
+
+msgctxt "12"
+msgid "CHAIN MAIL"
+msgstr ""
+
+msgctxt "13"
+msgid "PLATE MAIL"
+msgstr ""
+
+msgctxt "14"
+msgid "REFLEX"
+msgstr ""
+
+msgctxt "15"
+msgid "SILVER ARMOR"
+msgstr ""
+
+msgctxt "16"
+msgid "BATTLE ARMOR"
+msgstr ""
+
+msgctxt "17"
+msgid "POWER RING"
+msgstr ""
+
+msgctxt "18"
+msgid "RING MAIL"
+msgstr ""
+
+msgctxt "19"
+msgid "TIMER RING"
+msgstr ""
+
+msgctxt "20"
+msgid "HEAL RING"
+msgstr ""
+
+msgctxt "21"
+msgid "EVIL RING"
+msgstr ""
+
+msgctxt "22"
+msgid "イースの本"
+msgstr ""
+
+msgctxt "23"
+msgid "イースの本"
+msgstr ""
+
+msgctxt "24"
+msgid "イースの本"
+msgstr ""
+
+msgctxt "25"
+msgid "イースの本"
+msgstr ""
+
+msgctxt "26"
+msgid "イースの本"
+msgstr ""
+
+msgctxt "27"
+msgid "イースの本"
+msgstr ""
+
+msgctxt "28"
+msgid "宝箱の鍵"
+msgstr ""
+
+msgctxt "29"
+msgid "牢屋の鍵"
+msgstr ""
+
+msgctxt "30"
+msgid "神殿の鍵"
+msgstr ""
+
+msgctxt "31"
+msgid "象牙の鍵"
+msgstr ""
+
+msgctxt "32"
+msgid "大理石の鍵"
+msgstr ""
+
+msgctxt "33"
+msgid "ダームの鍵"
+msgstr ""
+
+msgctxt "34"
+msgid "クリスタル"
+msgstr ""
+
+msgctxt "35"
+msgid "ロダの種"
+msgstr ""
+
+msgctxt "36"
+msgid "銀の鈴"
+msgstr ""
+
+msgctxt "37"
+msgid "銀のハーモニカ"
+msgstr ""
+
+msgctxt "38"
+msgid "<1偶像"
+msgstr ""
+
+msgctxt "39"
+msgid "ロッド"
+msgstr ""
+
+msgctxt "40"
+msgid "メガネ"
+msgstr ""
+
+msgctxt "41"
+msgid "ブルー アミュレット"
+msgstr ""
+
+msgctxt "42"
+msgid "ルビー"
+msgstr ""
+
+msgctxt "43"
+msgid "サファイアの指輪"
+msgstr ""
+
+msgctxt "44"
+msgid "ネックレス"
+msgstr ""
+
+msgctxt "45"
+msgid "金の台座"
+msgstr ""
+
+msgctxt "46"
+msgid "ヒール ポーション"
+msgstr ""
+
+msgctxt "47"
+msgid "ウィング"
+msgstr ""
+
+msgctxt "48"
+msgid "ハンマー"
+msgstr ""
+
+msgctxt "49"
+msgid "ミラー"
+msgstr ""
+
+msgctxt "50"
+msgid "マスク オブ アイズ"
+msgstr ""
+
+msgctxt "51"
+msgid "ブルー ネックレス"
+msgstr ""
+
+msgctxt "52"
+msgid "ベスティアリー ポーション"
+msgstr ""
+
+msgctxt "53"
+msgid "紙切れ"
+msgstr ""
+
+msgctxt "54"
+msgid "金のペンダント"
+msgstr ""
+
+msgctxt "55"
+msgid "空色の表紙の本"
+msgstr ""
+
+msgctxt "56"
+msgid "赤い表紙の本"
+msgstr ""
+
+msgctxt "57"
+msgid "青い表紙の本"
+msgstr ""
+
+msgctxt "58"
+msgid "黄色の表紙の本"
+msgstr ""
+
+msgctxt "59"
+msgid "緑の表紙の本"
+msgstr ""
+
+msgctxt "60"
+msgid "黒い表紙の本"
+msgstr ""
+
+msgctxt "61"
+msgid ""
+"値段も手ごろな小振りの剣。\n"
+"日常的な用途にも使えるが、\n"
+"魔物が相手ではやや心許ない。"
+msgstr ""
+
+msgctxt "62"
+msgid ""
+"鋼鉄の長剣。幅広な造りのため\n"
+"かなりの重量で扱いづらいが、\n"
+"戦闘では十分な力を発揮する。"
+msgstr ""
+
+msgctxt "63"
+msgid ""
+"遥か東方より伝えられたという\n"
+"貴重な刀剣。湾曲した鋭い刃は\n"
+"絶大なる破壊力を秘めている。"
+msgstr ""
+
+msgctxt "64"
+msgid ""
+"華麗な装飾が施された長剣。\n"
+"刀身が放つ白銀の輝きは、\n"
+"邪悪な存在を滅ぼす力を宿す。"
+msgstr ""
+
+msgctxt "65"
+msgid ""
+"刀身に炎をまとう最強の魔剣。\n"
+"その斬撃は物質を透過しながら\n"
+"焼き尽くすため防ぐ術はない。"
+msgstr ""
+
+msgctxt "66"
+msgid ""
+"堅い木材を補強した小型の盾。\n"
+"値段も手頃で扱いやすいが、\n"
+"強度と守備範囲には難がある。"
+msgstr ""
+
+msgctxt "67"
+msgid ""
+"なめし皮で裏打した中型の盾。\n"
+"大きさの割に軽くて扱いやすく\n"
+"しかも強度にも優れている。"
+msgstr ""
+
+msgctxt "68"
+msgid ""
+"鋼鉄でできた大型の盾。\n"
+"非常に重く、扱いは困難ながら\n"
+"卓越した防御力を備えている。"
+msgstr ""
+
+msgctxt "69"
+msgid ""
+"細工の美しい、白銀の盾。\n"
+"邪悪な者を寄せつけないよう、\n"
+"女神への祈りが刻まれている。"
+msgstr ""
+
+msgctxt "70"
+msgid ""
+"荒ぶる炎の加護を得た盾。\n"
+"扱う者によっては、あらゆる\n"
+"攻撃を遮断できる力を秘める。"
+msgstr ""
+
+msgctxt "71"
+msgid ""
+"細かな鉄鎖を編みこんだ防具。\n"
+"風通しがよく動きやすいが、\n"
+"打撃に弱いという難点がある。"
+msgstr ""
+
+msgctxt "72"
+msgid ""
+"鋼鉄の板を張り合わせた鎧。\n"
+"造りは頑丈だが、装着するには\n"
+"その重さに見合う体力が必要。"
+msgstr ""
+
+msgctxt "73"
+msgid ""
+"特別な樹脂で強化された鎧。\n"
+"軽くて動きやすいにも関わらず\n"
+"頑丈さは鋼鉄の鎧を上回る。"
+msgstr ""
+
+msgctxt "74"
+msgid ""
+"造りの美しい、白銀の鎧。\n"
+"女神の祝福が込められており、\n"
+"装着した人間を邪気から護る。"
+msgstr ""
+
+msgctxt "75"
+msgid ""
+"荒ぶる炎の加護を得た鎧。\n"
+"あらゆる攻撃に耐性を持ち、\n"
+"どんな敵をも寄せ付けない。"
+msgstr ""
+
+msgctxt "76"
+msgid ""
+"青銅の指輪。筋力や潜在能力を\n"
+"倍増する力を宿しており、\n"
+"戦闘では大きな助けになる。"
+msgstr ""
+
+msgctxt "77"
+msgid ""
+"真鍮でできた魔法の指輪。\n"
+"周囲に結界を張り、外部からの\n"
+"衝撃を半減してくれる。"
+msgstr ""
+
+msgctxt "78"
+msgid ""
+"珊瑚から削り出した指輪。\n"
+"時の流れの重圧で、周囲にいる\n"
+"邪悪な魔物の動きを鈍らせる。"
+msgstr ""
+
+msgctxt "79"
+msgid ""
+"聖なる祝福を与えられた指輪。\n"
+"邪気に汚染された場所でも、\n"
+"癒しと安らぎを与えてくれる。"
+msgstr ""
+
+msgctxt "80"
+msgid ""
+"装着した者を邪気で染め抜き、\n"
+"心身を滅ぼす恐るべき指輪。\n"
+"禍々しく不気味に輝いている。"
+msgstr ""
+
+msgctxt "81"
+msgid ""
+"美しい文様の施された革張りの\n"
+"古文書。失われた文字で書かれ\n"
+"ており、読むことはできない。"
+msgstr ""
+
+msgctxt "82"
+msgid ""
+"美しい文様の施された革張りの\n"
+"古文書。失われた文字で書かれ\n"
+"ており、読むことはできない。"
+msgstr ""
+
+msgctxt "83"
+msgid ""
+"美しい文様の施された革張りの\n"
+"古文書。失われた文字で書かれ\n"
+"ており、読むことはできない。"
+msgstr ""
+
+msgctxt "84"
+msgid ""
+"美しい文様の施された革張りの\n"
+"古文書。失われた文字で書かれ\n"
+"ており、読むことはできない。"
+msgstr ""
+
+msgctxt "85"
+msgid ""
+"美しい文様の施された革張りの\n"
+"古文書。失われた文字で書かれ\n"
+"ており、読むことはできない。"
+msgstr ""
+
+msgctxt "86"
+msgid ""
+"美しい文様の施された革張りの\n"
+"古文書。失われた文字で書かれ\n"
+"ており、読むことはできない。"
+msgstr ""
+
+msgctxt "87"
+msgid ""
+"青銅で造られたマスターキー。\n"
+"同じ種類の宝箱についた錠前を\n"
+"全て開くことができる。"
+msgstr ""
+
+msgctxt "88"
+msgid ""
+"所々が少しサビついた、無骨で\n"
+"ずっしりとした鉄製の鍵。\n"
+"地下牢の扉を開錠できる。"
+msgstr ""
+
+msgctxt "89"
+msgid ""
+"ルビーと金の細工が美しい鍵。\n"
+"差しこみの部分がねじれた、\n"
+"極めて複雑な形状をしている。"
+msgstr ""
+
+msgctxt "90"
+msgid ""
+"淡い黄白色の象牙でできた鍵。\n"
+"縞状に絡み合った繊細な紋様が\n"
+"丁寧に彫り込まれている。"
+msgstr ""
+
+msgctxt "91"
+msgid ""
+"翠色の鮮やかな、大理石の鍵。\n"
+"艶やかな光沢を持ち、先端が\n"
+"三叉槍のような形をしている。"
+msgstr ""
+
+msgctxt "92"
+msgid ""
+"青く輝く鉱石でできた鍵。\n"
+"エステリアの遺跡で散見する\n"
+"不思議な紋章が刻まれている。"
+msgstr ""
+
+msgctxt "93"
+msgid ""
+"奇妙な装飾具で固定された、\n"
+"大粒の輝水晶。光にかざすと、\n"
+"中心が無数の星のように煌く。"
+msgstr ""
+
+msgctxt "94"
+msgid ""
+"伝承に伝えられる樹木の種。\n"
+"内包する果肉質は、どんな食物\n"
+"にも勝る美味とされる。"
+msgstr ""
+
+msgctxt "95"
+msgid ""
+"古より伝わるゼピック村の宝。\n"
+"村を災厄から護ってきたとされ\n"
+"振ると涼やかな音を響かせる。"
+msgstr ""
+
+msgctxt "96"
+msgid ""
+"きれいな音色を響かせる\n"
+"銀でできた古いハーモニカ。\n"
+"純白の輝きをにじませている。"
+msgstr ""
+
+msgctxt "97"
+msgid ""
+"古代の翼竜を象った青銅像。\n"
+"所持する者の気配を消し去る\n"
+"不思議な能力を秘めている。"
+msgstr ""
+
+msgctxt "98"
+msgid ""
+"魔道師が携えるような短い杖。\n"
+"サラからもらったクリスタルに\n"
+"似た意匠が見受けられる。"
+msgstr ""
+
+msgctxt "99"
+msgid ""
+"年代物の古びた片眼鏡。\n"
+"読書用に使うものらしいが、\n"
+"レンズには度が入っていない。"
+msgstr ""
+
+msgctxt "100"
+msgid ""
+"ジェンマの家系に受け継がれた\n"
+"魔除け。凛とした青白い輝きと\n"
+"微かな冷気をまとっている。"
+msgstr ""
+
+msgctxt "101"
+msgid ""
+"金の装飾が付いた大粒の紅玉。\n"
+"保存状態が良かったらしく、\n"
+"表面には目立った傷はない。"
+msgstr ""
+
+msgctxt "102"
+msgid ""
+"青い宝玉がはめ込まれた指輪。\n"
+"裏側には贈り主のものと思しき\n"
+"メッセージが刻まれている。"
+msgstr ""
+
+msgctxt "103"
+msgid ""
+"金の首飾り。散りばめられた\n"
+"ルビーは小粒のものが多く、\n"
+"割と乱雑に扱われた跡がある。"
+msgstr ""
+
+msgctxt "104"
+msgid ""
+"純金製の豪華な台座。\n"
+"球体を乗せるくぼみがあるが、\n"
+"何に使われたのかは不明。"
+msgstr ""
+
+msgctxt "105"
+msgid ""
+"赤ジギタリスの葉を煎じた\n"
+"真紅の飲み薬。心身の不調を\n"
+"瞬く間に回復する効能を持つ。"
+msgstr ""
+
+msgctxt "106"
+msgid ""
+"翼を象った魔法の護符。\n"
+"使うとミネアの町に一瞬で帰還\n"
+"することができる。"
+msgstr ""
+
+msgctxt "107"
+msgid ""
+"ありふれた鉄製の鎚。\n"
+"かなりの重量があり、岩などを\n"
+"崩すのに使われている。"
+msgstr ""
+
+msgctxt "108"
+msgid ""
+"映りこんだ光景を一時的に静止\n"
+"させる鏡。耐久力に限界があり\n"
+"数回ほど使うと壊れてしまう。"
+msgstr ""
+
+msgctxt "109"
+msgid ""
+"翡翠が埋め込まれた石の仮面。\n"
+"生物の姿が目に映らなくなるが\n"
+"隠し通路が見えるようになる。"
+msgstr ""
+
+msgctxt "110"
+msgid ""
+"青く輝く鉱石の首飾り。\n"
+"強力な破邪の力を秘めており、\n"
+"邪悪なトラップを無効化する。"
+msgstr ""
+
+msgctxt "111"
+msgid ""
+"偉大な伝道師が調合したという\n"
+"飲み薬。戦った経験に応じて、\n"
+"魔物の情報が得られる。"
+msgstr ""
+
+msgctxt "112"
+msgid ""
+"１枚の紙片に、読めない文字で\n"
+"数行の文章が書かれている。"
+msgstr ""
+
+msgctxt "113"
+msgid "アドルさん"
+msgstr ""
+
+msgctxt "114"
+msgid "アイラ"
+msgstr ""
+
+msgctxt "115"
+msgid "医師ブルドー"
+msgstr ""
+
+msgctxt "116"
+msgid "スラフ"
+msgstr ""
+
+msgctxt "117"
+msgid "医師クラーゼ"
+msgstr ""
+
+msgctxt "118"
+msgid "サラ"
+msgstr ""
+
+msgctxt "119"
+msgid "レア"
+msgstr ""
+
+msgctxt "120"
+msgid "ダニー"
+msgstr ""
+
+msgctxt "121"
+msgid "ゲオルグ老人"
+msgstr ""
+
+msgctxt "122"
+msgid "フィーナ"
+msgstr ""
+
+msgctxt "123"
+msgid "ルタ＝ジェンマ"
+msgstr ""
+
+msgctxt "124"
+msgid "ドギ"
+msgstr ""
+
+msgctxt "125"
+msgid "ゴーバン"
+msgstr ""
+
+msgctxt "126"
+msgid "ジェバ"
+msgstr ""
+
+msgctxt "127"
+msgid "ラーバ"
+msgstr ""
+
+msgctxt "128"
+msgid "ロベルス村長"
+msgstr ""
+
+msgctxt "129"
+msgid "リカルド"
+msgstr ""
+
+msgctxt "130"
+msgid "セザール"
+msgstr ""
+
+msgctxt "131"
+msgid "鉱員ダグ"
+msgstr ""
+
+msgctxt "132"
+msgid "チェスト"
+msgstr ""
+
+msgctxt "133"
+msgid "セオドア"
+msgstr ""
+
+msgctxt "134"
+msgid "ブロン"
+msgstr ""
+
+msgctxt "135"
+msgid "マッシュ老人"
+msgstr ""
+
+msgctxt "136"
+msgid "ケイン"
+msgstr ""
+
+msgctxt "137"
+msgid "カリン"
+msgstr ""
+
+msgctxt "138"
+msgid "ロゼッティ"
+msgstr ""
+
+msgctxt "139"
+msgid "ディオス"
+msgstr ""
+
+msgctxt "140"
+msgid "ピム"
+msgstr ""
+
+msgctxt "141"
+msgid "リサ"
+msgstr ""
+
+msgctxt "142"
+msgid "オーマン"
+msgstr ""
+
+msgctxt "143"
+msgid "ドニス"
+msgstr ""
+
+msgctxt "144"
+msgid "ギャレック"
+msgstr ""
+
+msgctxt "145"
+msgid "アイリス"
+msgstr ""
+
+msgctxt "146"
+msgid "盗賊ルーガン"
+msgstr ""
+
+msgctxt "147"
+msgid "盗賊モーガン"
+msgstr ""
+
+msgctxt "148"
+msgid "パブロ老人"
+msgstr ""
+
+msgctxt "149"
+msgid "踊り子ニケ"
+msgstr ""
+
+msgctxt "150"
+msgid "シェリル"
+msgstr ""
+
+msgctxt "151"
+msgid "漁師ペテロ"
+msgstr ""
+
+msgctxt "152"
+msgid "フラン"
+msgstr ""
+
+msgctxt "153"
+msgid "アーシア"
+msgstr ""
+
+msgctxt "154"
+msgid "マルコ"
+msgstr ""
+
+msgctxt "155"
+msgid "ジェラルド"
+msgstr ""
+
+msgctxt "156"
+msgid "ステファン"
+msgstr ""
+
+msgctxt "157"
+msgid "ジェイコブ"
+msgstr ""
+
+msgctxt "158"
+msgid "ドレイク"
+msgstr ""
+
+msgctxt "159"
+msgid "ダリア婆さん"
+msgstr ""
+
+msgctxt "160"
+msgid "パストル老人"
+msgstr ""
+
+msgctxt "161"
+msgid "貿易商メイソン"
+msgstr ""
+
+msgctxt "162"
+msgid "シルビア"
+msgstr ""
+
+msgctxt "163"
+msgid "トランス"
+msgstr ""
+
+msgctxt "164"
+msgid "レベッカ"
+msgstr ""
+
+msgctxt "165"
+msgid "プリム"
+msgstr ""
+
+msgctxt "166"
+msgid "アーシェル"
+msgstr ""
+
+msgctxt "167"
+msgid "ヨハン"
+msgstr ""
+
+msgctxt "168"
+msgid "ルッカ"
+msgstr ""
+
+msgctxt "169"
+msgid "ユリウス"
+msgstr ""
+
+msgctxt "170"
+msgid "コーネル"
+msgstr ""
+
+msgctxt "171"
+msgid "ハンス"
+msgstr ""
+
+msgctxt "172"
+msgid "ヘイスタック"
+msgstr ""
+
+msgctxt "173"
+msgid "バンゴア親方"
+msgstr ""
+
+msgctxt "174"
+msgid "ファナ"
+msgstr ""
+
+msgctxt "175"
+msgid "オーロラ"
+msgstr ""
+
+msgctxt "176"
+msgid "フランツ老人"
+msgstr ""
+
+msgctxt "177"
+msgid "タビサ"
+msgstr ""
+
+msgctxt "178"
+msgid "バック"
+msgstr ""
+
+msgctxt "179"
+msgid "フレディ"
+msgstr ""
+
+msgctxt "180"
+msgid "マーサ"
+msgstr ""
+
+msgctxt "181"
+msgid "シャルム"
+msgstr ""
+
+msgctxt "182"
+msgid "ベテル老人"
+msgstr ""
+
+msgctxt "183"
+msgid "リディア"
+msgstr ""
+
+msgctxt "184"
+msgid "パメラ"
+msgstr ""
+
+msgctxt "185"
+msgid "マルセル町長"
+msgstr ""
+
+msgctxt "186"
+msgid "エピ"
+msgstr ""
+
+msgctxt "187"
+msgid "シャーロット"
+msgstr ""
+
+msgctxt "188"
+msgid "ハリスン老人"
+msgstr ""
+
+msgctxt "189"
+msgid "ラハン老人"
+msgstr ""
+
+msgctxt "190"
+msgid "クローネン老人"
+msgstr ""
+
+msgctxt "191"
+msgid "コルボ老人"
+msgstr ""
+
+msgctxt "192"
+msgid "トーベ婆さん"
+msgstr ""
+
+msgctxt "193"
+msgid "ルチア婆さん"
+msgstr ""
+
+msgctxt "194"
+msgid "ソーヤ婆さん"
+msgstr ""
+
+msgctxt "195"
+msgid "エルバート"
+msgstr ""
+
+msgctxt "196"
+msgid "クライブ"
+msgstr ""
+
+msgctxt "197"
+msgid "パルマ"
+msgstr ""
+
+msgctxt "198"
+msgid "デミ"
+msgstr ""
+
+msgctxt "199"
+msgid "リンダ"
+msgstr ""
+
+msgctxt "200"
+msgid "マーク"
+msgstr ""
+
+msgctxt "201"
+msgid "エッダ婆さん"
+msgstr ""
+
+msgctxt "202"
+msgid "オルバス"
+msgstr ""
+
+msgctxt "203"
+msgid "蝶"
+msgstr ""
+
+msgctxt "204"
+msgid "クージョ"
+msgstr ""
+
+msgctxt "205"
+msgid "ビシャモン"
+msgstr ""
+
+msgctxt "206"
+msgid "キャンサー"
+msgstr ""
+
+msgctxt "207"
+msgid "トゥミー"
+msgstr ""
+
+msgctxt "208"
+msgid "カモメ"
+msgstr ""
+
+msgctxt "209"
+msgid "ミミック"
+msgstr ""
+
+msgctxt "210"
+msgid "ダルク＝ファクト"
+msgstr ""
+
+msgctxt "211"
+msgid "※※※※※※※※※※※※※"
+msgstr ""
+
+msgctxt "212"
+msgid "あらっ…？"
+msgstr ""
+
+msgctxt "213"
+msgid "なんじゃ…お前さんか？"
+msgstr ""
+
+msgctxt "214"
+msgid "なんだ…君がやったのか？"
+msgstr ""
+
+msgctxt "215"
+msgid "ああ、忙しい、忙しい……"
+msgstr ""
+
+msgctxt "216"
+msgid "…お戯れはおやめください。"
+msgstr ""
+
+msgctxt "217"
+msgid "これは…鏡の力ですね。"
+msgstr ""
+
+msgctxt "218"
+msgid "ありー？"
+msgstr ""
+
+msgctxt "219"
+msgid "おっと、いかんいかん…。"
+msgstr ""
+
+msgctxt "220"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "221"
+msgid "おや…今のは…？"
+msgstr ""
+
+msgctxt "222"
+msgid "ん？　お前がやったのか？"
+msgstr ""
+
+msgctxt "223"
+msgid "おい…なんのつもりだ？。"
+msgstr ""
+
+msgctxt "224"
+msgid "勿体ない使い方はおよし。"
+msgstr ""
+
+msgctxt "225"
+msgid "ほう、珍しい物を持っているな？"
+msgstr ""
+
+msgctxt "226"
+msgid "今のは……君かね？"
+msgstr ""
+
+msgctxt "227"
+msgid "ヒック…なんだ…？"
+msgstr ""
+
+msgctxt "228"
+msgid "う～、飲みすぎかの～？"
+msgstr ""
+
+msgctxt "229"
+msgid "ハッ…いけねえいけねえ…。"
+msgstr ""
+
+msgctxt "230"
+msgid "……あれっ？"
+msgstr ""
+
+msgctxt "231"
+msgid "目まいが…"
+msgstr ""
+
+msgctxt "232"
+msgid "スースー…"
+msgstr ""
+
+msgctxt "233"
+msgid "はて…？"
+msgstr ""
+
+msgctxt "234"
+msgid "グーグー…"
+msgstr ""
+
+msgctxt "235"
+msgid "ほえ…？"
+msgstr ""
+
+msgctxt "236"
+msgid "おいおい…驚かすな。"
+msgstr ""
+
+msgctxt "237"
+msgid "なんのつもりだい？"
+msgstr ""
+
+msgctxt "238"
+msgid "クク…さっそく使ったのか？"
+msgstr ""
+
+msgctxt "239"
+msgid "変ですねぇ…？"
+msgstr ""
+
+msgctxt "240"
+msgid "む……？"
+msgstr ""
+
+msgctxt "241"
+msgid "うひゃあ…？"
+msgstr ""
+
+msgctxt "242"
+msgid "今の気配は…？"
+msgstr ""
+
+msgctxt "243"
+msgid "あら…？"
+msgstr ""
+
+msgctxt "244"
+msgid "ヤツが現れたのか！？"
+msgstr ""
+
+msgctxt "245"
+msgid "なんだ…今の気配は？"
+msgstr ""
+
+msgctxt "246"
+msgid "Ｚｚｚｚ……"
+msgstr ""
+
+msgctxt "247"
+msgid "な…なによぅ？"
+msgstr ""
+
+msgctxt "248"
+msgid "ふぇぇ…？"
+msgstr ""
+
+msgctxt "249"
+msgid "なんだぁ…？"
+msgstr ""
+
+msgctxt "250"
+msgid "気のせいかしら…？"
+msgstr ""
+
+msgctxt "251"
+msgid "今のは…なに…？"
+msgstr ""
+
+msgctxt "252"
+msgid "うひゃあ！？"
+msgstr ""
+
+msgctxt "253"
+msgid "あれ…おかしいな…？"
+msgstr ""
+
+msgctxt "254"
+msgid "んー？"
+msgstr ""
+
+msgctxt "255"
+msgid "な、なんだ…？"
+msgstr ""
+
+msgctxt "256"
+msgid "おやぁ…？"
+msgstr ""
+
+msgctxt "257"
+msgid "アタシも歳かねぇ…？"
+msgstr ""
+
+msgctxt "258"
+msgid "ど、どうしたお前たち…？"
+msgstr ""
+
+msgctxt "259"
+msgid "うわわ…！"
+msgstr ""
+
+msgctxt "260"
+msgid "あらら…？"
+msgstr ""
+
+msgctxt "261"
+msgid "…何があった？"
+msgstr ""
+
+msgctxt "262"
+msgid "気のせいかしら…"
+msgstr ""
+
+msgctxt "263"
+msgid "やん…！"
+msgstr ""
+
+msgctxt "264"
+msgid "おっとと…"
+msgstr ""
+
+msgctxt "265"
+msgid "あれー？"
+msgstr ""
+
+msgctxt "266"
+msgid "おっかしーな…？"
+msgstr ""
+
+msgctxt "267"
+msgid "何だぁ…？"
+msgstr ""
+
+msgctxt "268"
+msgid "…疲れてるのかなぁ？"
+msgstr ""
+
+msgctxt "269"
+msgid "わっ…！"
+msgstr ""
+
+msgctxt "270"
+msgid "うへぇ……"
+msgstr ""
+
+msgctxt "271"
+msgid "おっとっと…！"
+msgstr ""
+
+msgctxt "272"
+msgid "あら…何かしら？"
+msgstr ""
+
+msgctxt "273"
+msgid "きゃっ…！"
+msgstr ""
+
+msgctxt "274"
+msgid "おや…これは鏡の…"
+msgstr ""
+
+msgctxt "275"
+msgid "変ですね…？"
+msgstr ""
+
+msgctxt "276"
+msgid "どうしたんだ…！"
+msgstr ""
+
+msgctxt "277"
+msgid "今のは…なんだ？"
+msgstr ""
+
+msgctxt "278"
+msgid "気のせいかしら…？"
+msgstr ""
+
+msgctxt "279"
+msgid "やだ…こわい…"
+msgstr ""
+
+msgctxt "280"
+msgid "はて…？"
+msgstr ""
+
+msgctxt "281"
+msgid "？？？"
+msgstr ""
+
+msgctxt "282"
+msgid "あらあら…？"
+msgstr ""
+
+msgctxt "283"
+msgid "これは一体…？"
+msgstr ""
+
+msgctxt "284"
+msgid "な、なんなのぉ！？"
+msgstr ""
+
+msgctxt "285"
+msgid "……あら？"
+msgstr ""
+
+msgctxt "286"
+msgid "何じゃ今のは…？"
+msgstr ""
+
+msgctxt "287"
+msgid "ほわわわわ…！"
+msgstr ""
+
+msgctxt "288"
+msgid "なんだぁ、今のは？"
+msgstr ""
+
+msgctxt "289"
+msgid "うーむ、これは…"
+msgstr ""
+
+msgctxt "290"
+msgid "…なんでしょうねぇ？"
+msgstr ""
+
+msgctxt "291"
+msgid "はて…今のは…？"
+msgstr ""
+
+msgctxt "292"
+msgid "タタリじゃ～！"
+msgstr ""
+
+msgctxt "293"
+msgid "何が起こった！？"
+msgstr ""
+
+msgctxt "294"
+msgid "ひえええ…！？"
+msgstr ""
+
+msgctxt "295"
+msgid "きゃあああっ！？"
+msgstr ""
+
+msgctxt "296"
+msgid "き、気のせいよね…。"
+msgstr ""
+
+msgctxt "297"
+msgid "何かしら、今の…？"
+msgstr ""
+
+msgctxt "298"
+msgid "わお…！？"
+msgstr ""
+
+msgctxt "299"
+msgid "…騒がしいのう。"
+msgstr ""
+
+msgctxt "300"
+msgid "ピチピチ…"
+msgstr ""
+
+msgctxt "301"
+msgid "パタパタ…"
+msgstr ""
+
+msgctxt "302"
+msgid "くぅ～ん？"
+msgstr ""
+
+msgctxt "303"
+msgid "コケー！？"
+msgstr ""
+
+msgctxt "304"
+msgid "ブクブク…"
+msgstr ""
+
+msgctxt "305"
+msgid "にゃー？"
+msgstr ""
+
+msgctxt "306"
+msgid "みゃあ？"
+msgstr ""
+
+msgctxt "307"
+msgid "………"
+msgstr ""
+
+msgctxt "308"
+msgid "下らぬ余興は終わりだ…。"
+msgstr ""
+
+msgctxt "309"
+msgid "どこにいるの…？"
+msgstr ""
+
+msgctxt "310"
+msgid "アドルさん…どこ…？"
+msgstr ""
+
+msgctxt "311"
+msgid "………"
+msgstr ""
+
+msgctxt "312"
+msgid "怖い…"
+msgstr ""
+
+msgctxt "313"
+msgid "ああ…"
+msgstr ""
+
+msgctxt "314"
+msgid ""
+"あの人は…\n"
+"必ず来てくれる。"
+msgstr ""
+
+msgctxt "315"
+msgid "………"
+msgstr ""
+
+msgctxt "316"
+msgid "私は…わたしは…"
+msgstr ""
+
+msgctxt "317"
+msgid "…いや…恐い……"
+msgstr ""
+
+msgctxt "318"
+msgid "時が…止まった…？"
+msgstr ""
+
+msgctxt "319"
+msgid "…すやすや……"
+msgstr ""
+
+msgctxt "320"
+msgid "アドルさん、どうしたんですか？"
+msgstr ""
+
+msgctxt "321"
+msgid "…お戯れはおやめください。"
+msgstr ""
+
+msgctxt "322"
+msgid "…気のせいかしら…？"
+msgstr ""
+
+msgctxt "323"
+msgid "民家"
+msgstr ""
+
+msgctxt "324"
+msgid "バルバドの港町"
+msgstr ""
+
+msgctxt "325"
+msgid "ブルドーの病院"
+msgstr ""
+
+msgctxt "326"
+msgid "自警団の詰所"
+msgstr ""
+
+msgctxt "327"
+msgid "自警団の武器庫"
+msgstr ""
+
+msgctxt "328"
+msgid "酒場"
+msgstr ""
+
+msgctxt "329"
+msgid "ミネアの町"
+msgstr ""
+
+msgctxt "330"
+msgid "占い師サラの店"
+msgstr ""
+
+msgctxt "331"
+msgid "ロゼッティの武器屋"
+msgstr ""
+
+msgctxt "332"
+msgid "ディオスの防具屋"
+msgstr ""
+
+msgctxt "333"
+msgid "クラーゼの病院"
+msgstr ""
+
+msgctxt "334"
+msgid "オーマンの酒場"
+msgstr ""
+
+msgctxt "335"
+msgid "ピムの取引所"
+msgstr ""
+
+msgctxt "336"
+msgid "ゼピック村"
+msgstr ""
+
+msgctxt "337"
+msgid "村長の家"
+msgstr ""
+
+msgctxt "338"
+msgid "ジェバの家"
+msgstr ""
+
+msgctxt "339"
+msgid "ルタの家"
+msgstr ""
+
+msgctxt "340"
+msgid "盗賊の砦"
+msgstr ""
+
+msgctxt "341"
+msgid "草原"
+msgstr ""
+
+msgctxt "342"
+msgid "ロダの樹"
+msgstr ""
+
+msgctxt "343"
+msgid "廃坑"
+msgstr ""
+
+msgctxt "344"
+msgid "神殿"
+msgstr ""
+
+msgctxt "345"
+msgid "第1層"
+msgstr ""
+
+msgctxt "346"
+msgid "第2層"
+msgstr ""
+
+msgctxt "347"
+msgid "第3層"
+msgstr ""
+
+msgctxt "348"
+msgid "ダームの塔"
+msgstr ""
+
+msgctxt "349"
+msgid "地下牢"
+msgstr ""
+
+msgctxt "350"
+msgid "ラドの塔"
+msgstr ""
+
+msgctxt "351"
+msgid "テストマップ"
+msgstr ""
+
+msgctxt "352"
+msgid "ハダルの章"
+msgstr ""
+
+msgctxt "353"
+msgid "トバの章"
+msgstr ""
+
+msgctxt "354"
+msgid "ダビーの章"
+msgstr ""
+
+msgctxt "355"
+msgid "メサの章"
+msgstr ""
+
+msgctxt "356"
+msgid "ジェンマの章"
+msgstr ""
+
+msgctxt "357"
+msgid "ファクトの章"
+msgstr ""
+
+msgctxt "358"
+msgid ""
+"を\n"
+"手に入れた。"
+msgstr ""
+
+msgctxt "359"
+msgid ""
+"を\n"
+"買った。"
+msgstr ""
+
+msgctxt "360"
+msgid ""
+"を\n"
+"買ってみた。"
+msgstr ""
+
+msgctxt "361"
+msgid ""
+"を\n"
+"見つけた。"
+msgstr ""
+
+msgctxt "362"
+msgid ""
+"を\n"
+"借りた。"
+msgstr ""
+
+msgctxt "363"
+msgid ""
+"を\n"
+"預かった。"
+msgstr ""
+
+msgctxt "364"
+msgid ""
+"を\n"
+"取り戻した。"
+msgstr ""
+
+msgctxt "365"
+msgid ""
+"を\n"
+"授かった。"
+msgstr ""
+
+msgctxt "366"
+msgid ""
+"を\n"
+"受け取った。"
+msgstr ""
+
+msgctxt "367"
+msgid ""
+"を\n"
+"#021200>4Gold#00>4で売り払った。"
+msgstr ""
+
+msgctxt "368"
+msgid ""
+"を\n"
+"#02500>4Gold#00>4で売り払った。"
+msgstr ""
+
+msgctxt "369"
+msgid ""
+"を\n"
+"#022000>4Gold#00>4で売り払った。"
+msgstr ""
+
+msgctxt "370"
+msgid ""
+"を\n"
+"#021320>4Gold#00>4で売り払った。"
+msgstr ""
+
+msgctxt "371"
+msgid ""
+"を\n"
+"#02550>4Gold#00>4で売り払った。"
+msgstr ""
+
+msgctxt "372"
+msgid ""
+"を\n"
+"#022200>4Gold#00>4で売り払った。"
+msgstr ""
+
+msgctxt "373"
+msgid ""
+"が入っている。\n"
+"すでに所持しているので残しておこう。"
+msgstr ""
+
+msgctxt "374"
+msgid ""
+"刺すような痛みをともなって、指輪は\n"
+"指に食いついている。もはや外れない。"
+msgstr ""
+
+msgctxt "375"
+msgid ""
+"不思議な知覚力を得た。\n"
+"ステータスを表示しながら戦闘してみよう。"
+msgstr ""
+
+msgctxt "376"
+msgid ""
+"青銅で造られた小さな鍵。\n"
+"手の平にすっぽりと収まる。"
+msgstr ""
+
+msgctxt "377"
+msgid ""
+"ずっしりと重い鉄製の鍵。\n"
+"少し錆びついている。"
+msgstr ""
+
+msgctxt "378"
+msgid ""
+"金細工とルビーが施された鍵。\n"
+"差しこみの部分がねじれている。"
+msgstr ""
+
+msgctxt "379"
+msgid ""
+"上質の象牙を削り出した鍵。\n"
+"繊細な細工が彫られている。"
+msgstr ""
+
+msgctxt "380"
+msgid ""
+"翠色の大理石でできた鍵。\n"
+"先端が三叉に分かれている。"
+msgstr ""
+
+msgctxt "381"
+msgid ""
+"青白い鉱石でできた鍵。\n"
+"神殿の扉に描かれていた物と\n"
+"同じ紋章が刻まれている。"
+msgstr ""
+
+msgctxt "382"
+msgid ""
+"水晶の中心部分が\n"
+"星のように煌いている。"
+msgstr ""
+
+msgctxt "383"
+msgid ""
+"翼竜の紅い瞳が\n"
+"うっすらと輝いている。"
+msgstr ""
+
+msgctxt "384"
+msgid ""
+"柄の部分を持って振ってみたが\n"
+"特になにも起こらない。"
+msgstr ""
+
+msgctxt "385"
+msgid ""
+"中心にある大きな青玉が\n"
+"神々しい輝きを放っている。"
+msgstr ""
+
+msgctxt "386"
+msgid ""
+"エステリア産の大きなルビー。\n"
+"かなりの値打ちがありそうだ。"
+msgstr ""
+
+msgctxt "387"
+msgid ""
+"純金製の豪華な台座。\n"
+"片手では持ちきれないほど重い。"
+msgstr ""
+
+msgctxt "388"
+msgid ""
+"見た目ほど重くない。\n"
+"純金製ではなさそうだ。"
+msgstr ""
+
+msgctxt "389"
+msgid ""
+"指輪の内側には\n"
+"『ドニスより愛を込めて』\n"
+"……と刻まれている。"
+msgstr ""
+
+msgctxt "390"
+msgid ""
+"仮面越しに見える風景は\n"
+"色あせて、くすんで見える。"
+msgstr ""
+
+msgctxt "391"
+msgid ""
+"中心にある青い宝石が\n"
+"清らかな光を放っている。"
+msgstr ""
+
+msgctxt "392"
+msgid ""
+"頑丈そうなハンマー。\n"
+"何かを壊すのに使えそうだ。"
+msgstr ""
+
+msgctxt "393"
+msgid ""
+"不思議な形状の古代文字が\n"
+"数行にわたって書かれている。"
+msgstr ""
+
+msgctxt "394"
+msgid "体力が回復していく……。"
+msgstr ""
+
+msgctxt "395"
+msgid "鍵がかかっている。"
+msgstr ""
+
+msgctxt "396"
+msgid "箱は空だ。"
+msgstr ""
+
+msgctxt "397"
+msgid "何も買わない"
+msgstr ""
+
+msgctxt "398"
+msgid "買う"
+msgstr ""
+
+msgctxt "399"
+msgid "買わない"
+msgstr ""
+
+msgctxt "400"
+msgid "何も売らない"
+msgstr ""
+
+msgctxt "401"
+msgid "売る"
+msgstr ""
+
+msgctxt "402"
+msgid "売らない"
+msgstr ""
+
+msgctxt "403"
+msgid "話をやめる"
+msgstr ""
+
+msgctxt "404"
+msgid "買い物をやめる"
+msgstr ""
+
+msgctxt "405"
+msgid "メインメニュー"
+msgstr ""
+
+msgctxt "406"
+msgid "はい"
+msgstr ""
+
+msgctxt "407"
+msgid "いいえ"
+msgstr ""
+
+msgctxt "408"
+msgid "外へ出る"
+msgstr ""
+
+msgctxt "409"
+msgid "やめる"
+msgstr ""
+
+msgctxt "410"
+msgid "どうしますか？"
+msgstr ""
+
+msgctxt "411"
+msgid ""
+"MIDIデバイスが存在しないか、他のアプリケーションに\n"
+"占有されています。現在、MIDIによるBGM演奏はできません。"
+msgstr ""
+
+msgctxt "412"
+msgid ""
+"CDオーディオが存在しないか、他のアプリケーションに\n"
+"占有されています。現在、CDによるBGM演奏はできません。"
+msgstr ""
+
+msgctxt "413"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "414"
+msgid "おおっ、気がついたようじゃな。"
+msgstr ""
+
+msgctxt "415"
+msgid ""
+"無理しない方がいい。\n"
+"体中、打ち身だらけじゃ。"
+msgstr ""
+
+msgctxt "416"
+msgid ""
+"どうじゃ？\n"
+"とくに痛むところはないか？"
+msgstr ""
+
+msgctxt "417"
+msgid ""
+"アドルは身体をさすってみた。\n"
+"……節々が痛んだが、\n"
+"動けないということはない。"
+msgstr ""
+
+msgctxt "418"
+msgid ""
+"安心するがいい。\n"
+"ここは港町バルバドにある病院じゃよ。"
+msgstr ""
+
+msgctxt "419"
+msgid ""
+"……親父！\n"
+"彼は目を醒ましたのか？"
+msgstr ""
+
+msgctxt "420"
+msgid ""
+"おおスラフ、早かったの。\n"
+"自警団の会合の方はどうじゃった？"
+msgstr ""
+
+msgctxt "421"
+msgid ""
+"いつも通りさ。\n"
+"何の進展もありゃしない。"
+msgstr ""
+
+msgctxt "422"
+msgid ""
+"つい今しがた、\n"
+"目を醒ましたばかりじゃよ。"
+msgstr ""
+
+msgctxt "423"
+msgid "気がついたのか、よかったな！"
+msgstr ""
+
+msgctxt "424"
+msgid ""
+"そういえば、自己紹介がまだだったな。\n"
+"わしの名はブルドー。\n"
+"この病院の持ち主じゃ。"
+msgstr ""
+
+msgctxt "425"
+msgid ""
+"これは息子のスラフだ。\n"
+"浜辺の近くの森で倒れていた君を\n"
+"スラフがここに運んできたのじゃよ。"
+msgstr ""
+
+msgctxt "426"
+msgid ""
+"君を襲っていたリーボルどもは\n"
+"俺たちが追い払ったよ。\n"
+"……本当に、危ないところだったな。"
+msgstr ""
+
+msgctxt "427"
+msgid ""
+"アドルはスラフに礼を言い、\n"
+"自分の名前を告げた。"
+msgstr ""
+
+msgctxt "428"
+msgid ""
+"アドルか……いい名前だ。\n"
+"見かけない顔だが、どこから来たんだ？"
+msgstr ""
+
+msgctxt "429"
+msgid ""
+"アドルはプロマロックから\n"
+"小舟でエステリアに渡って来たことを\n"
+"ブルドーたちに伝えた。"
+msgstr ""
+
+msgctxt "430"
+msgid "何と……外から来たのかね！"
+msgstr ""
+
+msgctxt "431"
+msgid ""
+"こりゃあ…驚きだ。\n"
+"『嵐の結界』を越えて\n"
+"外から人が来るなんて……。"
+msgstr ""
+
+msgctxt "432"
+msgid "なんですか、お二人とも！？"
+msgstr ""
+
+msgctxt "433"
+msgid ""
+"おっと、口うるさい看護婦さんが\n"
+"やって来たか……。"
+msgstr ""
+
+msgctxt "434"
+msgid ""
+"まぁ！\n"
+"口うるさいとはなんですか？\n"
+"まったくもう……。"
+msgstr ""
+
+msgctxt "435"
+msgid ""
+"スラフさん、彼は怪我人なんですよ？\n"
+"ゆっくりと休ませてあげなくちゃ\n"
+"ダメじゃないですかっ。"
+msgstr ""
+
+msgctxt "436"
+msgid "こりゃ、ウッカリしてたわい。"
+msgstr ""
+
+msgctxt "437"
+msgid "今日の所は、このくらいにしておくか。"
+msgstr ""
+
+msgctxt "438"
+msgid ""
+"とにかく、ゆっくり休んでくれ。\n"
+"また来るからさ。"
+msgstr ""
+
+msgctxt "439"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "440"
+msgid ""
+"アドルは手厚い看病を受け、\n"
+"みるみるうちに回復した。"
+msgstr ""
+
+msgctxt "441"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "442"
+msgid "そして数日後……"
+msgstr ""
+
+msgctxt "443"
+msgid ""
+"おお、アドル君。\n"
+"起き上がれるようになったか。"
+msgstr ""
+
+msgctxt "444"
+msgid "ちゃんと寝てなくては、ダメですよ。"
+msgstr ""
+
+msgctxt "445"
+msgid "まあまあ。"
+msgstr ""
+
+msgctxt "446"
+msgid ""
+"町を散策するぐらいの\n"
+"適度な運動ならばいいじゃろう。"
+msgstr ""
+
+msgctxt "447"
+msgid ""
+"それに、これくらいの歳の少年に\n"
+"ベッドでじっとしておれというのも\n"
+"酷な話というもんじゃ。"
+msgstr ""
+
+msgctxt "448"
+msgid ""
+"……アドル君、#02港の倉庫#00は、\n"
+"自警団の寄り合い所になっておる。"
+msgstr ""
+
+msgctxt "449"
+msgid ""
+"スラフがそこにいるじゃろうから\n"
+"判らんことでもあれば、あいつに聞くといい。"
+msgstr ""
+
+msgctxt "450"
+msgid "くれぐれも、無理はせんようにな。"
+msgstr ""
+
+msgctxt "451"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "452"
+msgid ""
+"アドルさん。\n"
+"町の外は魔物が出るので危険です。\n"
+"気をつけてくださいね。"
+msgstr ""
+
+msgctxt "453"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "454"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "455"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "456"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "457"
+msgid "どうしますか？"
+msgstr ""
+
+msgctxt "458"
+msgid "ブルドーと話す"
+msgstr ""
+
+msgctxt "459"
+msgid "看護婦と話す"
+msgstr ""
+
+msgctxt "460"
+msgid "回復してほしい"
+msgstr ""
+
+msgctxt "461"
+msgid "薬がほしい"
+msgstr ""
+
+msgctxt "462"
+msgid "話をやめる"
+msgstr ""
+
+msgctxt "463"
+msgid ""
+"スラフのやつは、\n"
+"自警団を作って息巻いておるようじゃが……"
+msgstr ""
+
+msgctxt "464"
+msgid ""
+"どうもあいつは、すべてを自分の責任みたいに\n"
+"しょいこみたがる……。"
+msgstr ""
+
+msgctxt "465"
+msgid ""
+"それに加えて、頑固者でのぉ。\n"
+"わしの言うことなど、ちーとも聞きよらん。"
+msgstr ""
+
+msgctxt "466"
+msgid "まったく誰に似たんだか……。"
+msgstr ""
+
+msgctxt "467"
+msgid ""
+"アドルさん。\n"
+"若いからって体力を過信しないでくださいね。"
+msgstr ""
+
+msgctxt "468"
+msgid "病み上がりには違いないんですから。"
+msgstr ""
+
+msgctxt "469"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "470"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "471"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "472"
+msgid "なんじゃ、怪我など、どこにもしておらんぞ？"
+msgstr ""
+
+msgctxt "473"
+msgid ""
+"これは一体、どうしたことじゃ！\n"
+"あれほど安静にしとれと言っておったのに！"
+msgstr ""
+
+msgctxt "474"
+msgid "アイラさんや……手当てしてやんなさい。"
+msgstr ""
+
+msgctxt "475"
+msgid ""
+"かしこまりました！\n"
+"消毒して……（ごしごし）\n"
+"塗り薬に……（ぐりぐり）"
+msgstr ""
+
+msgctxt "476"
+msgid "包帯と……（ぎゅむぎゅむ）"
+msgstr ""
+
+msgctxt "477"
+msgid "……あまりの痛さに涙が出そうになった。"
+msgstr ""
+
+msgctxt "478"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "479"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "480"
+msgid ""
+"……これに懲りたら、\n"
+"少しは大人しくしておるんじゃな。"
+msgstr ""
+
+msgctxt "481"
+msgid ""
+"ほう、また念入りな治療を\n"
+"受けたいというのかね？"
+msgstr ""
+
+msgctxt "482"
+msgid ""
+"回復薬の原料となるジギタリスを\n"
+"切らしておるんじゃ。"
+msgstr ""
+
+msgctxt "483"
+msgid "町にいる限り、必要はないじゃろ？"
+msgstr ""
+
+msgctxt "484"
+msgid ""
+"動き回りたくなる気持ちもわかるが\n"
+"ほどほどにしておくのじゃぞ。"
+msgstr ""
+
+msgctxt "485"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "486"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "487"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "488"
+msgid "その剣は……。"
+msgstr ""
+
+msgctxt "489"
+msgid ""
+"そうか、エステリアの様子を\n"
+"その目で確かめようというつもりか……。"
+msgstr ""
+
+msgctxt "490"
+msgid ""
+"君がそう決心したのなら止めはせん。\n"
+"だが、くれぐれも気をつけるのじゃぞ。"
+msgstr ""
+
+msgctxt "491"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "492"
+msgid "どうしますか？"
+msgstr ""
+
+msgctxt "493"
+msgid "ブルドーと話す"
+msgstr ""
+
+msgctxt "494"
+msgid "看護婦と話す"
+msgstr ""
+
+msgctxt "495"
+msgid "回復してほしい"
+msgstr ""
+
+msgctxt "496"
+msgid "薬がほしい"
+msgstr ""
+
+msgctxt "497"
+msgid "話をやめる"
+msgstr ""
+
+msgctxt "498"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "499"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "500"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "501"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "502"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "503"
+msgid ""
+"嵐の結界といい、魔物の出現といい……\n"
+"今、このエステリアでは\n"
+"何かとんでもないことが起こりつつある。"
+msgstr ""
+
+msgctxt "504"
+msgid ""
+"君が、この地に流れ着いたのも\n"
+"ひょっとしたら、何かの導きかもしれんな。"
+msgstr ""
+
+msgctxt "505"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "506"
+msgid ""
+"だが、焦りは禁物じゃぞ。\n"
+"まずは色々な人の話を聞いてみることじゃ。\n"
+"おのずと、進むべき道が見えてくるじゃろう。"
+msgstr ""
+
+msgctxt "507"
+msgid ""
+"まずは色々な人の話を聞いてみることじゃ。\n"
+"おのずと、進むべき道が見えてくるじゃろう。"
+msgstr ""
+
+msgctxt "508"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "509"
+msgid ""
+"ミネアで事件が起こったそうじゃな。\n"
+"何者か知らんが……ひどいことをしよる。"
+msgstr ""
+
+msgctxt "510"
+msgid ""
+"体の具合は大丈夫そうじゃな。\n"
+"体調が悪くなったらいつでも来るといい。"
+msgstr ""
+
+msgctxt "511"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "512"
+msgid ""
+"スラフから君の活躍は聞いておるよ。\n"
+"正直……はじめは心配して見ておったが、\n"
+"今じゃとても頼もしく見えるぞ。"
+msgstr ""
+
+msgctxt "513"
+msgid ""
+"もう、うるさい事を言うつもりはない。\n"
+"自分の体力と相談しながら、\n"
+"行けるところまで行ってみるといいじゃろう。"
+msgstr ""
+
+msgctxt "514"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "515"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "516"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "517"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "518"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "519"
+msgid ""
+"ミネアに行かれるんですか？\n"
+"病み上がりなんだから、無理しないでくださいね。"
+msgstr ""
+
+msgctxt "520"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "521"
+msgid ""
+"あら、元気そうですね。\n"
+"調子はいかがですか？"
+msgstr ""
+
+msgctxt "522"
+msgid ""
+"また、怪我してるじゃないですか！\n"
+"若いからって無茶ばかりしちゃ駄目ですよ。"
+msgstr ""
+
+msgctxt "523"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "524"
+msgid ""
+"ミネアで大変なことがあったみたいですね 。\n"
+"バルバドの町は大丈夫なのかしら……。"
+msgstr ""
+
+msgctxt "525"
+msgid ""
+"このバルバドは、\n"
+"スラフさんの自警団が守っているから、\n"
+"きっと大丈夫ですよね。"
+msgstr ""
+
+msgctxt "526"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "527"
+msgid ""
+"アドルさん、しばらく見ないうちに、\n"
+"すごく引き締まった顔つきになりましたね。\n"
+"……色々と苦労なさったんですね。"
+msgstr ""
+
+msgctxt "528"
+msgid ""
+"アドルさん、どうか気をつけて。\n"
+"怪我をしたら無理をしないで、\n"
+"身体を休めることも大切ですよ。"
+msgstr ""
+
+msgctxt "529"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "530"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "531"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "532"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "533"
+msgid ""
+"何じゃ、これくらいのカスリ傷。\n"
+"わしが出るまでもないわい。"
+msgstr ""
+
+msgctxt "534"
+msgid ""
+"はい。\n"
+"さぁ、アドルさん。\n"
+"じっと動かないでくださいね。"
+msgstr ""
+
+msgctxt "535"
+msgid "ダメです、じっとしてて！"
+msgstr ""
+
+msgctxt "536"
+msgid ""
+"……あら？\n"
+"すっかり治ってるじゃないですか。"
+msgstr ""
+
+msgctxt "537"
+msgid "怪我は、すっかり治っていますよ。"
+msgstr ""
+
+msgctxt "538"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "539"
+msgid ""
+"ほ、こりゃ痛かろう。\n"
+"消毒して…塗り薬に…包帯と……。"
+msgstr ""
+
+msgctxt "540"
+msgid ""
+"ま、かすり傷じゃな。\n"
+"塗り薬だけで十分じゃわい。"
+msgstr ""
+
+msgctxt "541"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "542"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "543"
+msgid ""
+"ほれ、これでいい。\n"
+"あんまり無茶はせんことだ。\n"
+"おのれの力量をわきまえることも必要じゃ。"
+msgstr ""
+
+msgctxt "544"
+msgid ""
+"なんじゃ？\n"
+"いま手当てしたばかりじゃろ。\n"
+"わしより先にボケてどうする。"
+msgstr ""
+
+msgctxt "545"
+msgid ""
+"すまんのう。\n"
+"薬の原料となるジギタリスを\n"
+"切らしてしまったんじゃ。"
+msgstr ""
+
+msgctxt "546"
+msgid ""
+"ミネアのクラーゼ医院になら\n"
+"まだ余裕があるようじゃから\n"
+"そちらで手に入れてくれんか。"
+msgstr ""
+
+msgctxt "547"
+msgid ""
+"そうか、また出かけるか。\n"
+"無理は禁物じゃぞ。"
+msgstr ""
+
+msgctxt "548"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "549"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "550"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "551"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "552"
+msgid ""
+"やあ、アドル！\n"
+"もう動いてもいいのかい？"
+msgstr ""
+
+msgctxt "553"
+msgid ""
+"俺が病室を訪ねると、いつも君は寝ていたよ。\n"
+"よっぽど疲れてたんだなぁ。"
+msgstr ""
+
+msgctxt "554"
+msgid ""
+"ところで……外の連中はエステリアのことを\n"
+"どう思ってるんだろう。"
+msgstr ""
+
+msgctxt "555"
+msgid "聞かせてくれないか？"
+msgstr ""
+
+msgctxt "556"
+msgid ""
+"アドルは、人々がエステリアのことを\n"
+"呪われた国と噂していたことを伝えた。"
+msgstr ""
+
+msgctxt "557"
+msgid ""
+"……呪われた国か。\n"
+"当たらずとも、遠からずってとこだな。"
+msgstr ""
+
+msgctxt "558"
+msgid ""
+"やっぱり外の連中は期待できそうにない。\n"
+"自分たちで何とかするしかないか……。"
+msgstr ""
+
+msgctxt "559"
+msgid ""
+"よし、代わりと言ってはなんだが\n"
+"俺の知ってることでよければ話すぞ？"
+msgstr ""
+
+msgctxt "560"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "561"
+msgid ""
+"やあアドル、すっかり元気そうじゃないか。\n"
+"まだ質問があるのか？"
+msgstr ""
+
+msgctxt "562"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "563"
+msgid "何が聞きたい？"
+msgstr ""
+
+msgctxt "564"
+msgid "バルバド"
+msgstr ""
+
+msgctxt "565"
+msgid "エステリア"
+msgstr ""
+
+msgctxt "566"
+msgid "嵐の結界"
+msgstr ""
+
+msgctxt "567"
+msgid "自警団"
+msgstr ""
+
+msgctxt "568"
+msgid "とくに何もない"
+msgstr ""
+
+msgctxt "569"
+msgid "このバルバドは、エステリアで唯一の港町だ。"
+msgstr ""
+
+msgctxt "570"
+msgid ""
+"大昔は、ただのさびれた漁村だったが\n"
+"エステリアで銀が発見されてから、\n"
+"バルバドは貿易港として発展したのさ。"
+msgstr ""
+
+msgctxt "571"
+msgid ""
+"……といっても嵐の結界が現れてから、\n"
+"船は一隻も訪れず、\n"
+"銀も輸出できなくなってしまった。"
+msgstr ""
+
+msgctxt "572"
+msgid "おかげで、もとの漁村に逆戻りさ……。"
+msgstr ""
+
+msgctxt "573"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "574"
+msgid ""
+"まあ、銀で潤っていた頃は\n"
+"みんな金もうけに奔走してたからな。\n"
+"これぐらいが、ちょうど良いのかもしれない。"
+msgstr ""
+
+msgctxt "575"
+msgid "エステリアは、小さな島国さ。"
+msgstr ""
+
+msgctxt "576"
+msgid ""
+"人が住んでいるのは、\n"
+"このバルバドと、城壁のあるミネアの町、\n"
+"あとは山の麓にあるゼピック村だけだ。"
+msgstr ""
+
+msgctxt "577"
+msgid ""
+"少し前まで、ラスティン村もあったんだが……\n"
+"銀鉱山が閉鎖された上に魔物の襲撃に苦しめられ、\n"
+"もう誰も住んでいない……。"
+msgstr ""
+
+msgctxt "578"
+msgid ""
+"君が流れついた所は、\n"
+"『ホワイトフォーンの砂浜』と呼ばれている。"
+msgstr ""
+
+msgctxt "579"
+msgid ""
+"真珠貝のかけらを敷き詰めたように\n"
+"真っ白で美しい浜辺さ。\n"
+"魔物が出なきゃ、散歩にはもってこいなんだが。"
+msgstr ""
+
+msgctxt "580"
+msgid ""
+"この町から北に行くと、草原の先に\n"
+"ミネアという城壁に囲まれた町がある。\n"
+"何か目的があるなら、ここで準備を整えるといい。"
+msgstr ""
+
+msgctxt "581"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "582"
+msgid ""
+"あとは、そうだな……\n"
+"エステリア名物といったら『ダームの塔』だな。"
+msgstr ""
+
+msgctxt "583"
+msgid ""
+"あとは、そうだな……\n"
+"エステリア名物といったら『ダームの塔』だな。君も、ここに来てから目にしただろう？"
+msgstr ""
+
+msgctxt "584"
+msgid ""
+"雲に届きそうな高さの巨大な古代遺跡さ。\n"
+"天気のいい日には、海の向こうの\n"
+"プロマロックの港からも見えるらしいな。"
+msgstr ""
+
+msgctxt "585"
+msgid ""
+"まぁ、名所は多いんだが……\n"
+"嵐の結界が現れて以来、\n"
+"そこら中に魔物がうろつくようになった。"
+msgstr ""
+
+msgctxt "586"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "587"
+msgid "とても危険で歩きまわれる状態じゃない。"
+msgstr ""
+
+msgctxt "588"
+msgid "あれは……たしか、半年程前のことだったか。"
+msgstr ""
+
+msgctxt "589"
+msgid ""
+"銀を乗せた貿易船が、\n"
+"バルバドの港から出港した夜に\n"
+"……嵐が起こったんだ。"
+msgstr ""
+
+msgctxt "590"
+msgid ""
+"嵐にあおられた船は大破し、ボロボロになって\n"
+"ホワイトフォーンの砂浜へ流されてきた。"
+msgstr ""
+
+msgctxt "591"
+msgid ""
+"最初は、ただの不幸な事故と思われていたが、\n"
+"その日以来、すべての船が\n"
+"同じような目に遭うようになった……。"
+msgstr ""
+
+msgctxt "592"
+msgid ""
+"それが嵐の結界の始まりさ。\n"
+"エステリアの者たちは\n"
+"この島から一歩も外に出られやしない。"
+msgstr ""
+
+msgctxt "593"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "594"
+msgid ""
+"今では、ほとんどの人間が諦めきっている。\n"
+"……俺は、それが我慢ならないんだ。"
+msgstr ""
+
+msgctxt "595"
+msgid ""
+"嵐の結界と同じ時期に、\n"
+"エステリアに魔物が出現するようになったんだ。"
+msgstr ""
+
+msgctxt "596"
+msgid ""
+"君を襲った野犬も、その一種だ。\n"
+"『リーボル』という名で呼ばれている。"
+msgstr ""
+
+msgctxt "597"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "598"
+msgid ""
+"魔物も最初は、山道をうろつくだけだったが\n"
+"じきに人里を襲うようになったんだ。"
+msgstr ""
+
+msgctxt "599"
+msgid "特に、このバルバドの被害はひどい。"
+msgstr ""
+
+msgctxt "600"
+msgid ""
+"ミネアはここに劣らず危険だが\n"
+"堅固な城壁に守られて、中なら安心して暮らせる。"
+msgstr ""
+
+msgctxt "601"
+msgid ""
+"ゼピック村の守りは柵だけだが\n"
+"なぜか魔物が寄りつかない。\n"
+"不思議な鈴が、村を守っているという噂もある。"
+msgstr ""
+
+msgctxt "602"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "603"
+msgid ""
+"……ここには何もないんだ。\n"
+"自分たちの町は、自分たちで守る。\n"
+"それしかないだろ？"
+msgstr ""
+
+msgctxt "604"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "605"
+msgid "しかし君も、相当無鉄砲だな。"
+msgstr ""
+
+msgctxt "606"
+msgid ""
+"嵐の結界に、\n"
+"命がけで挑んだことといい……。"
+msgstr ""
+
+msgctxt "607"
+msgid ""
+"君はもしかして、\n"
+"エステリアの各地を巡ろうとか\n"
+"考えてるんじゃないだろうな？"
+msgstr ""
+
+msgctxt "608"
+msgid ""
+"それは……やめとくんだな。\n"
+"魔物に襲われて、酷い目に遭うのがオチさ。"
+msgstr ""
+
+msgctxt "609"
+msgid ""
+"……それよりも、どうだい。\n"
+"ここの自警団に入るつもりはないか？\n"
+"君だったら根性もありそうだが……。"
+msgstr ""
+
+msgctxt "610"
+msgid ""
+"アドルは自分の目で事実を\n"
+"確かめてみたいということを伝えた。"
+msgstr ""
+
+msgctxt "611"
+msgid ""
+"……わかったよ。\n"
+"そうか、決心を変えるつもりはないか。"
+msgstr ""
+
+msgctxt "612"
+msgid ""
+"ほんと、たいしたヤツだ。\n"
+"あの嵐の結界を越えたことにしたって、\n"
+"奇蹟としか言いようがないもんな。"
+msgstr ""
+
+msgctxt "613"
+msgid ""
+"これは俺のカンだが……君には、\n"
+"不思議な運命が待っているような気がする。"
+msgstr ""
+
+msgctxt "614"
+msgid ""
+"……まずはバルバドを出て、北に向かうんだ。\n"
+"しばらくすると#02ミネアの町#00の城壁が見える。"
+msgstr ""
+
+msgctxt "615"
+msgid ""
+"ミネアはエステリアで一番大きい町だ。\n"
+"きっと、君の知りたい情報も手に入るだろう。"
+msgstr ""
+
+msgctxt "616"
+msgid "そうだ……コイツを持っていくといい。"
+msgstr ""
+
+msgctxt "617"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "618"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "619"
+msgid ""
+"俺からの、せんべつ代わりだ。\n"
+"ここの自警団で使ってるもので、\n"
+"小振りだが、扱いやすさは抜群だ。"
+msgstr ""
+
+msgctxt "620"
+msgid ""
+"防具の方は、残念だが予備はないんだ。\n"
+"ミネアにはちゃんとした防具屋があるから\n"
+"金を稼いで、手に入れるといい。"
+msgstr ""
+
+msgctxt "621"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "622"
+msgid ""
+"……じゃあな。\n"
+"たまには顔を見せてくれよ。"
+msgstr ""
+
+msgctxt "623"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "624"
+msgid ""
+"元気でな、アドル。\n"
+"バルバドに立ち寄った時は、顔を見せてくれよ。"
+msgstr ""
+
+msgctxt "625"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "626"
+msgid "そうか、また来いよ。"
+msgstr ""
+
+msgctxt "627"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "628"
+msgid ""
+"アドル……。\n"
+"何も言わずにバルバドを出るなんて\n"
+"冷たいじゃないか。"
+msgstr ""
+
+msgctxt "629"
+msgid ""
+"でも、元気そうで何よりだ。\n"
+"安心したよ。"
+msgstr ""
+
+msgctxt "630"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "631"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "632"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "633"
+msgid "たまには俺の所に、顔を出してくれよな。"
+msgstr ""
+
+msgctxt "634"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "635"
+msgid ""
+"エステリアの各地を回ってるそうだな。\n"
+"どうだ、なにか進展はあったかい？"
+msgstr ""
+
+msgctxt "636"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "637"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "638"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "639"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "640"
+msgid ""
+"やあ、元気そうだな。\n"
+"どうだい、エステリアの様子は？"
+msgstr ""
+
+msgctxt "641"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "642"
+msgid ""
+"困った事があったら、いつでも来てくれ。\n"
+"力になれるかもしれない。"
+msgstr ""
+
+msgctxt "643"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "644"
+msgid ""
+"やあ、アドルじゃないか。\n"
+"何か変わった事はあったかい？"
+msgstr ""
+
+msgctxt "645"
+msgid ""
+"どうしたんだ、真剣な顔をして……。\n"
+"いったい何があったんだ？"
+msgstr ""
+
+msgctxt "646"
+msgid ""
+"アドルは巨大な魔物が現れたことを始め\n"
+"一連の出来事をスラフに語って聞かせた。"
+msgstr ""
+
+msgctxt "647"
+msgid ""
+"うちの連中から聞いたんだが\n"
+"ミネアで何か事件が起きたらしいな。"
+msgstr ""
+
+msgctxt "648"
+msgid ""
+"アドル……\n"
+"何か詳しい事情を知っているなら\n"
+"教えてくれないか？"
+msgstr ""
+
+msgctxt "649"
+msgid ""
+"アドルはスラフに\n"
+"一連の出来事を語って聞かせた。"
+msgstr ""
+
+msgctxt "650"
+msgid ""
+"『イースの本』を探していること。\n"
+"そして神殿での不思議な体験……。"
+msgstr ""
+
+msgctxt "651"
+msgid ""
+"う～ん……\n"
+"まったくもって、お伽話の世界だな。"
+msgstr ""
+
+msgctxt "652"
+msgid ""
+"嵐の結界といい……\n"
+"一体、この国で何が起こってるんだ？"
+msgstr ""
+
+msgctxt "653"
+msgid ""
+"しかし……やはり君には\n"
+"不思議な運命が待っていたようだな。"
+msgstr ""
+
+msgctxt "654"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "655"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "656"
+msgid ""
+"……アドル、ちょっといいか？\n"
+"俺について来てくれ。"
+msgstr ""
+
+msgctxt "657"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "658"
+msgid "アドル、この剣を受け取ってくれ。"
+msgstr ""
+
+msgctxt "659"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "660"
+msgid ""
+"……こいつは半年前、\n"
+"ホワイトフォーンの砂浜を巡回している時に、\n"
+"浜辺で拾ったんだ。"
+msgstr ""
+
+msgctxt "661"
+msgid ""
+"恐らく、嵐の結界に巻きこまれた貿易船が\n"
+"積んでいた物だろう。"
+msgstr ""
+
+msgctxt "662"
+msgid ""
+"どうやら、東方から伝わった剣らしい。\n"
+"湾曲した刃は、凄まじい切れ味をしているが\n"
+"そのぶん扱いは難しいと思う。"
+msgstr ""
+
+msgctxt "663"
+msgid ""
+"だが、君ならきっと使いこなせるはずさ。\n"
+"魔物との戦いに役立ててくれると嬉しい。"
+msgstr ""
+
+msgctxt "664"
+msgid ""
+"ふふ……不思議だなぁ。\n"
+"前向きに生きている君を見ていると、\n"
+"なんとなく、応援したくなるんだよ。"
+msgstr ""
+
+msgctxt "665"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "666"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "667"
+msgid ""
+"……それじゃあな。\n"
+"何かあったら、また倉庫に来いよ。"
+msgstr ""
+
+msgctxt "668"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "669"
+msgid ""
+"アドル、頑張ってくれ。\n"
+"君なら、この呪われたエステリアの謎を、\n"
+"解くことができるかもしれない。"
+msgstr ""
+
+msgctxt "670"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "671"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "672"
+msgid ""
+"アドルはスラフに\n"
+"ダームの塔に乗り込むことを告げた。"
+msgstr ""
+
+msgctxt "673"
+msgid ""
+"……そうか。\n"
+"あの『悪魔の塔』に……。"
+msgstr ""
+
+msgctxt "674"
+msgid ""
+"しかし……アドル。\n"
+"いい面構えになったなぁ。\n"
+"うん、本当に……見違えたものだよ。"
+msgstr ""
+
+msgctxt "675"
+msgid ""
+"最初は、ただの血気さかんな\n"
+"少年ぐらいにしか思ってなかったが……\n"
+"今の君は、落ち着いた迷いのない目をしている。"
+msgstr ""
+
+msgctxt "676"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "677"
+msgid "もはや、俺から言えることは何もない。"
+msgstr ""
+
+msgctxt "678"
+msgid ""
+"エステリアで起こった異変の真相を\n"
+"その目で、しっかりと確かめてくるといい。"
+msgstr ""
+
+msgctxt "679"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "680"
+msgid "必ず……戻ってくるんだぞ！"
+msgstr ""
+
+msgctxt "681"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "682"
+msgid "もはや、俺から言えることは何もない。"
+msgstr ""
+
+msgctxt "683"
+msgid ""
+"エステリアで起こった異変の真相を\n"
+"その目で、しっかりと確かめてくるといい。"
+msgstr ""
+
+msgctxt "684"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "685"
+msgid "必ず……戻ってくるんだぞ！"
+msgstr ""
+
+msgctxt "686"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "687"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "688"
+msgid ""
+"その赤毛……\n"
+"そうか、君がアドル君だね？\n"
+"ブルドー先生から話は聞いてるよ。"
+msgstr ""
+
+msgctxt "689"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "690"
+msgid ""
+"見ての通り、開店休業中さ。\n"
+"なにせ嵐の結界のせいで\n"
+"船が来なくなったからね……。"
+msgstr ""
+
+msgctxt "691"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "692"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "693"
+msgid "なにか飲んでいくかい？"
+msgstr ""
+
+msgctxt "694"
+msgid ""
+"客がいなくて楽なんだけど、\n"
+"暇すぎるってのもねえ……。"
+msgstr ""
+
+msgctxt "695"
+msgid ""
+"ミネアの町はどうだった？\n"
+"魔物さえいなかったら、\n"
+"俺も遊びに行きたいんだけどな。"
+msgstr ""
+
+msgctxt "696"
+msgid ""
+"ああ……ヒマだなぁ。\n"
+"何か面白いことがあったら、\n"
+"聞かせてくれよ。"
+msgstr ""
+
+msgctxt "697"
+msgid ""
+"ミネアの町にある\n"
+"オーマンの酒場は行ってみたかい？\n"
+"相変わらず繁盛してるって聞いてるけど……。"
+msgstr ""
+
+msgctxt "698"
+msgid ""
+"オーマンがうらやましいよ。\n"
+"うちも、嵐の結界が起きる前は\n"
+"あそこに劣らず繁盛してたんだが……。"
+msgstr ""
+
+msgctxt "699"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "700"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "701"
+msgid ""
+"スラフが助けたってのは、\n"
+"あんたのことかい？\n"
+"確かに、滅多に見られないような\n"
+"見事な赤毛だなぁ。"
+msgstr ""
+
+msgctxt "702"
+msgid ""
+"アドルというのか……\n"
+"まあ、よろしく頼むぜ。"
+msgstr ""
+
+msgctxt "703"
+msgid ""
+"ん？ ……どうした？\n"
+"オレに、何か用かい？"
+msgstr ""
+
+msgctxt "704"
+msgid ""
+"自警団の仕事のひとつに\n"
+"町の人間を、ミネアやゼピック村まで\n"
+"護送するってのがあるんだが……"
+msgstr ""
+
+msgctxt "705"
+msgid ""
+"魔物たちが、俺を狙わずに\n"
+"後ろで護衛されてる人間めがけて\n"
+"襲いかかってくることがある。\n"
+"恐ろしいほど狡猾な奴らだぜ。"
+msgstr ""
+
+msgctxt "706"
+msgid ""
+"他人を守るコツは、\n"
+"常に、敵と味方の間に自分を置くことかな。"
+msgstr ""
+
+msgctxt "707"
+msgid ""
+"とにかくヤツらは狡猾だ。\n"
+"町の外に出たら、一時も隙を見せるなよ。"
+msgstr ""
+
+msgctxt "708"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "709"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "710"
+msgid ""
+"ここから町の外を見張っているんだ。\n"
+"魔物が侵入しようとしたら\n"
+"ひと目でわかるからね。"
+msgstr ""
+
+msgctxt "711"
+msgid ""
+"昼間っから魔物が、\n"
+"襲ってくることはないと思うけど……\n"
+"何しろ油断大敵だからね。"
+msgstr ""
+
+msgctxt "712"
+msgid ""
+"退屈な仕事だけど、町の安全のために\n"
+"誰かがやらないといけないからね。\n"
+"……気が抜けないんだ。"
+msgstr ""
+
+msgctxt "713"
+msgid ""
+"ここんとこ、魔物の襲撃がないんだ。\n"
+"でも、こっちが気を抜いていると\n"
+"見計らったように襲ってくる……。\n"
+"まるで誰かに操られてるみたいだよ。"
+msgstr ""
+
+msgctxt "714"
+msgid ""
+"この町は、ミネアみたいな城壁がないから、\n"
+"僕たち自警団が守っているんだ。"
+msgstr ""
+
+msgctxt "715"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "716"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "717"
+msgid ""
+"ああ、銀で儲かると聞いたから\n"
+"こんな辺境に、わざわざやってきたのに。"
+msgstr ""
+
+msgctxt "718"
+msgid ""
+"さっさと大陸に戻りたいよ。\n"
+"あの忌々しい結界さえなければ……。"
+msgstr ""
+
+msgctxt "719"
+msgid ""
+"あんたも大陸から来たんだろ？\n"
+"エステリアに一体何しに来たんだい？"
+msgstr ""
+
+msgctxt "720"
+msgid ""
+"ミネアのピムという商人を知ってるか？\n"
+"あいつは私と同じ頃、\n"
+"エステリアにやってきたんだ。"
+msgstr ""
+
+msgctxt "721"
+msgid ""
+"羽振りがいいとは聞いているが\n"
+"裏で汚いことをやってるに決まってる。\n"
+"そうでなかったら、\n"
+"取引所なんて儲かるわけがないんだ。"
+msgstr ""
+
+msgctxt "722"
+msgid ""
+"ああ……どうにかして、\n"
+"大陸に帰る方法はないものか……。"
+msgstr ""
+
+msgctxt "723"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "724"
+msgid ""
+"かつてこのバルバドには、\n"
+"ウチの人以外の貿易商も多くいたわ。\n"
+"でも、船で脱出しようとして\n"
+"嵐に呑みこまれてしまったの……。"
+msgstr ""
+
+msgctxt "725"
+msgid ""
+"ウチは家族連れだったから、\n"
+"素早く動けなかったんだけど\n"
+"かえってそれが幸いしたのね。"
+msgstr ""
+
+msgctxt "726"
+msgid ""
+"あなた、ミネアに行くの？\n"
+"草原の魔物には、気をつけなさいね。"
+msgstr ""
+
+msgctxt "727"
+msgid ""
+"まったくウチの人ときたら、\n"
+"ウダウダとグチばかりこぼして……。\n"
+"自警団に入るなり、漁をするなりして\n"
+"身体を動かせばいいのに。"
+msgstr ""
+
+msgctxt "728"
+msgid ""
+"私も、町の役に立てることはないか\n"
+"探してみようかしら……。"
+msgstr ""
+
+msgctxt "729"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "730"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "731"
+msgid ""
+"パパ、この国から出ることばかり言ってる。\n"
+"わたし、もどりたくなんかないよ。\n"
+"せっかく友だちもできたのに……。"
+msgstr ""
+
+msgctxt "732"
+msgid "あ～ぁ、となりの子とあそんでこようかなぁ。"
+msgstr ""
+
+msgctxt "733"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "734"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "735"
+msgid ""
+"アタシの息子夫婦は、\n"
+"ミネアの町に住んでいるんだ。"
+msgstr ""
+
+msgctxt "736"
+msgid ""
+"一緒に住めと言ってくるが……\n"
+"冗談じゃない。\n"
+"アタシゃ絶対に、\n"
+"ここを離れるつもりはないね。"
+msgstr ""
+
+msgctxt "737"
+msgid ""
+"この歳で、住み慣れた家を\n"
+"離れるつもりはないよ。"
+msgstr ""
+
+msgctxt "738"
+msgid ""
+"アタシゃ、ここで生まれて\n"
+"ここで育ったんだからね。"
+msgstr ""
+
+msgctxt "739"
+msgid ""
+"ミネアの息子夫婦は、\n"
+"元気でやってるかねぇ……。"
+msgstr ""
+
+msgctxt "740"
+msgid ""
+"孫も遊びたい盛りで、\n"
+"いつ町を抜け出しちまうか……。\n"
+"アタシがついてないと、どうも心配だよ。"
+msgstr ""
+
+msgctxt "741"
+msgid ""
+"元気にしてるといいんだけどねえ。\n"
+"……孫のことが、少し心配だよ。"
+msgstr ""
+
+msgctxt "742"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "743"
+msgid ""
+"スラフはよくやってるが\n"
+"しょせんはつけ焼き刃さ……。"
+msgstr ""
+
+msgctxt "744"
+msgid ""
+"魔物の侵入に脅えて暮らすより\n"
+"いっそバルバドの人間全員が、\n"
+"ミネアに移る方がいいんじゃないか？"
+msgstr ""
+
+msgctxt "745"
+msgid ""
+"どんなに頑張ったって、\n"
+"しょせん魔物にはかなわないんだ……。"
+msgstr ""
+
+msgctxt "746"
+msgid "なぁ、あんたもそう思うだろ？"
+msgstr ""
+
+msgctxt "747"
+msgid ""
+"ミネアに行ったんだって？\n"
+"あんた……魔物が怖くないのか？"
+msgstr ""
+
+msgctxt "748"
+msgid ""
+"鉱山の近くにあった村なんか\n"
+"魔物に滅ぼされたっていうのに……。"
+msgstr ""
+
+msgctxt "749"
+msgid ""
+"君といい、スラフといい……\n"
+"どうしてそんなに、前向きでいられるんだ？"
+msgstr ""
+
+msgctxt "750"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "751"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "752"
+msgid ""
+"ここは私たちの生まれ育った町……。\n"
+"できれば他へ移りたくないわ。"
+msgstr ""
+
+msgctxt "753"
+msgid ""
+"でも、うちには子供もいるし……。\n"
+"城壁のあるミネアの方が\n"
+"やっぱり安全なのかしら？"
+msgstr ""
+
+msgctxt "754"
+msgid ""
+"うちの子ったら、\n"
+"隣の家のお嬢さんを連れて\n"
+"ミネアへ行こうとしていたの。"
+msgstr ""
+
+msgctxt "755"
+msgid ""
+"町の外は危ないって、\n"
+"あれほど言っておいたのに……。\n"
+"帰ったら、きつく叱っておかなくちゃ。"
+msgstr ""
+
+msgctxt "756"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "757"
+msgid ""
+"にーちゃん、そとから来たのか？\n"
+"アラシのケッカイって、スゲーかった？"
+msgstr ""
+
+msgctxt "758"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "759"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "760"
+msgid ""
+"オレ、ケッカイ消えないでほしいなぁ。\n"
+"消えたら、となりの女の子のウチが\n"
+"船で帰るって言ってたもん。"
+msgstr ""
+
+msgctxt "761"
+msgid ""
+"……ケッカイ、\n"
+"きえないでほしいな……。"
+msgstr ""
+
+msgctxt "762"
+msgid ""
+"こいつらは、ピッカードといってな。\n"
+"昔から、この国で飼われてきた家畜じゃよ。"
+msgstr ""
+
+msgctxt "763"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "764"
+msgid ""
+"肉がまた、極上の味でのう。\n"
+"魔物の餌食になるから、\n"
+"こうして町の中で育てているんじゃ。"
+msgstr ""
+
+msgctxt "765"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "766"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "767"
+msgid ""
+"船が出ないから、\n"
+"港の仕事がなくなっちまったよ。"
+msgstr ""
+
+msgctxt "768"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "769"
+msgid ""
+"ずっと銀の取り引きをやって来て、\n"
+"手を広げようとしていた矢先だったのに。\n"
+"……ほんとに残念だよ。"
+msgstr ""
+
+msgctxt "770"
+msgid ""
+"ああ、どうすりゃいいんだ。\n"
+"……やっぱり、漁師になるしかないかな。\n"
+""
+msgstr ""
+
+msgctxt "771"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "772"
+msgid ""
+"草原では、青い頭の魔物に気をつけろよ。\n"
+"戦い慣れないうちは\n"
+"傷ひとつ、つけられないかもしれない。"
+msgstr ""
+
+msgctxt "773"
+msgid ""
+"命あっての物種だからな。\n"
+"意地を張らずに、逃げた方がいいぜ。"
+msgstr ""
+
+msgctxt "774"
+msgid ""
+"まったくスラフさんも、\n"
+"もーちょっと肩の力を抜けばいいのに。\n"
+"いざとなったら、ここの住民全員が\n"
+"ミネアに避難することも出来るんだからさ。"
+msgstr ""
+
+msgctxt "775"
+msgid ""
+"この町にも愛着はあるけど……\n"
+"ラスティン村の二の舞はゴメンだぜ。"
+msgstr ""
+
+msgctxt "776"
+msgid ""
+"でも噂では、盗賊がミネアの町を\n"
+"荒らしまわってるみたいだな……。"
+msgstr ""
+
+msgctxt "777"
+msgid ""
+"魔物と盗賊か……\n"
+"どっちも厄介だなぁ……。"
+msgstr ""
+
+msgctxt "778"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "779"
+msgid ""
+"半年前までは、よかったわ……。\n"
+"大きな貿易船が次々と来航して、\n"
+"このバルバドも凄くにぎわってた。"
+msgstr ""
+
+msgctxt "780"
+msgid ""
+"今じゃ、ただの漁村……。\n"
+"あの頃がなつかしいわ。"
+msgstr ""
+
+msgctxt "781"
+msgid ""
+"ふう……\n"
+"たった半年で元の漁村……\n"
+"なんだか空しくなっちゃうわね。"
+msgstr ""
+
+msgctxt "782"
+msgid ""
+"嵐の結界って、何が原因なのかしら？\n"
+"それさえ分かれば、\n"
+"この国も、元通りになると思うのよね。"
+msgstr ""
+
+msgctxt "783"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "784"
+msgid ""
+"半年ほど前、北の街道に\n"
+"魔物が出るようになったのよ。"
+msgstr ""
+
+msgctxt "785"
+msgid ""
+"おかげでミネアにいる友達にも\n"
+"しばらく会っていないわ。\n"
+"今ごろどうしてるのかしら……。"
+msgstr ""
+
+msgctxt "786"
+msgid ""
+"ミネアの町は、立派な城壁があるから\n"
+"ここより安全だと思うんだけどね。"
+msgstr ""
+
+msgctxt "787"
+msgid ""
+"でも、ミネアの町では\n"
+"盗賊が暴れてるって噂もあるし……。"
+msgstr ""
+
+msgctxt "788"
+msgid ""
+"自警団って、やっぱり頼りになるわね。\n"
+"ミネアやゼピック村まで、\n"
+"護衛してくれたりするのよ。"
+msgstr ""
+
+msgctxt "789"
+msgid ""
+"でも、そうそうは頼めないけどね。\n"
+"やっぱり、悪いじゃない？"
+msgstr ""
+
+msgctxt "790"
+msgid ""
+"でも、ここだけの話……\n"
+"自分のために男の人が\n"
+"危険を犯してくれるのって……"
+msgstr ""
+
+msgctxt "791"
+msgid "なんだか、ちょっと嬉しいものよね。"
+msgstr ""
+
+msgctxt "792"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "793"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "794"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "795"
+msgid "おや、見かけん顔じゃのう……"
+msgstr ""
+
+msgctxt "796"
+msgid ""
+"そうか、ブルドー先生の所に\n"
+"運び込まれた若者か……\n"
+"災難な目にあったそうじゃのう。"
+msgstr ""
+
+msgctxt "797"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "798"
+msgid ""
+"しかし、すっかり元気そうに見えるぞ？\n"
+"ブルドー先生の手当てのおかげじゃろうな。"
+msgstr ""
+
+msgctxt "799"
+msgid ""
+"北の#02ミネアの町#00にいる占い師は、\n"
+"嵐の結界や、魔物の出現について\n"
+"いろいろと予言していたらしい……。"
+msgstr ""
+
+msgctxt "800"
+msgid ""
+"もし、知りたいことができたら\n"
+"その占い師を訪ねてみたらどうかね？"
+msgstr ""
+
+msgctxt "801"
+msgid ""
+"まあ、身体の調子が\n"
+"良くなってからの話じゃがな。"
+msgstr ""
+
+msgctxt "802"
+msgid ""
+"ゼピック村の先にある、神殿の遺跡の中には\n"
+"翼を持った女神像がいくつも並んでおる。\n"
+"その様子は、この世のものとも思えぬ\n"
+"美しさじゃった。"
+msgstr ""
+
+msgctxt "803"
+msgid ""
+"しかし、あの神殿の大きさからすると\n"
+"中は意外なほど、狭かった気がするのぉ。\n"
+"まぁ、昔のことなんで、記憶もあやふやじゃが。"
+msgstr ""
+
+msgctxt "804"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "805"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "806"
+msgid ""
+"俺はずっと前から\n"
+"ここで漁をやってるんだが……"
+msgstr ""
+
+msgctxt "807"
+msgid ""
+"嵐の結界が起きてから\n"
+"逆に魚が多く獲れるようになった。\n"
+"なんとも皮肉なもんだな。"
+msgstr ""
+
+msgctxt "808"
+msgid ""
+"嵐の結界のせいで、\n"
+"貿易はできなくなったが、\n"
+"おかげで飢え死にする心配だけはないよ。"
+msgstr ""
+
+msgctxt "809"
+msgid ""
+"なんだかんだ言っても\n"
+"もともとバルバドは\n"
+"ただの漁村だったんだからな。"
+msgstr ""
+
+msgctxt "810"
+msgid ""
+"いっそのこと、このまま\n"
+"昔に戻ってもいいんじゃねえか？"
+msgstr ""
+
+msgctxt "811"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "812"
+msgid ""
+"オレがもーちょっと\n"
+"大きかったらなぁ。"
+msgstr ""
+
+msgctxt "813"
+msgid ""
+"ジケーダンに入って\n"
+"マモノを、剣でカッコよく\n"
+"おっ払ってやるのにさぁ。"
+msgstr ""
+
+msgctxt "814"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "815"
+msgid ""
+"ミネアに遊びに行こうとしたら\n"
+"となりの家のママに、とめられちゃった。"
+msgstr ""
+
+msgctxt "816"
+msgid ""
+"魔物がでるからですって。\n"
+"つまんないの……。"
+msgstr ""
+
+msgctxt "817"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "818"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "819"
+msgid ""
+"嵐の結界が起きる前は、\n"
+"この酒場も、すごく繁盛してたんだよ。"
+msgstr ""
+
+msgctxt "820"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "821"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "822"
+msgid ""
+"貧乏なのは平気だけど……\n"
+"活気がないのは、なんだかイヤだな。"
+msgstr ""
+
+msgctxt "823"
+msgid ""
+"ぼーっとしてるのもなんだし\n"
+"スラフさんに頼んで、わたしも\n"
+"自警団に入れてもらおっかな。"
+msgstr ""
+
+msgctxt "824"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "825"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "826"
+msgid "スラフさんたら～～！"
+msgstr ""
+
+msgctxt "827"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "828"
+msgid ""
+"自警団に入りたいって言ったら\n"
+"『子供の出る幕じゃない』だって！"
+msgstr ""
+
+msgctxt "829"
+msgid ""
+"優しいし、頼りにもなるけど\n"
+"そーいうのに関しては堅いんだから。"
+msgstr ""
+
+msgctxt "830"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "831"
+msgid "ところで君って、いくつ？"
+msgstr ""
+
+msgctxt "832"
+msgid ""
+"えっ……17歳ですって？\n"
+"わたしと１つしか違わないじゃない！"
+msgstr ""
+
+msgctxt "833"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "834"
+msgid ""
+"う～っ、君がよくって\n"
+"なんでわたしが駄目なのよっ。"
+msgstr ""
+
+msgctxt "835"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "836"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "837"
+msgid ""
+"う～っ、君がよくって\n"
+"なんでわたしが駄目なのよっ。"
+msgstr ""
+
+msgctxt "838"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "839"
+msgid "わたし、故郷はずっと北の国なんだ。"
+msgstr ""
+
+msgctxt "840"
+msgid "……故郷のお姉ちゃん、元気かなぁ。"
+msgstr ""
+
+msgctxt "841"
+msgid ""
+"あ>2―<1―<1ん！　ひまだよぉ。\n"
+"たいくつで死んじゃうよぉ！"
+msgstr ""
+
+msgctxt "842"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "843"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "844"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "845"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "846"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "847"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "848"
+msgid ""
+"私は、詩人のレアと申します。\n"
+"命の次に大切な#02銀のハーモニカ#00を\n"
+"何者かに奪われてしまったのです……。"
+msgstr ""
+
+msgctxt "849"
+msgid ""
+"あれがないと……私は……。\n"
+"もう……どうしたらいいのか……。"
+msgstr ""
+
+msgctxt "850"
+msgid ""
+"私は今まで……\n"
+"ある旋律を求めて旅をしてきました。"
+msgstr ""
+
+msgctxt "851"
+msgid ""
+"エステリアから失われてしまった\n"
+"昔の……気の遠くなるほど昔の旋律です。"
+msgstr ""
+
+msgctxt "852"
+msgid ""
+"その旋律を奏でるためには……\n"
+"銀のハーモニカが、どうしても必要なのです。"
+msgstr ""
+
+msgctxt "853"
+msgid ""
+"剣士様……。\n"
+"もし、銀のハーモニカの噂を聞いたら\n"
+"私に知らせていただけないでしょうか？"
+msgstr ""
+
+msgctxt "854"
+msgid ""
+"どんな些細なことでも構いません。\n"
+"……どうか……よろしくお願いします。"
+msgstr ""
+
+msgctxt "855"
+msgid ""
+"どんな些細なことでも構いません。\n"
+"……どうか……よろしくお願いします。"
+msgstr ""
+
+msgctxt "856"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "857"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "858"
+msgid ""
+"あっ……\n"
+"ハーモニカを見つけて下さったのですね！"
+msgstr ""
+
+msgctxt "859"
+msgid ""
+"え……廃坑の奥にあったのですか？\n"
+"そうですか……やはり……。"
+msgstr ""
+
+msgctxt "860"
+msgid ""
+"でも、見つかって良かった。\n"
+"本当に……ありがとうございました。"
+msgstr ""
+
+msgctxt "861"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "862"
+msgid ""
+"あの……剣士様。\n"
+"失礼ですが、お名前を教えて頂けませんか？"
+msgstr ""
+
+msgctxt "863"
+msgid "アドルは自分の名前を名乗った。"
+msgstr ""
+
+msgctxt "864"
+msgid ""
+"アドル…さんと……おっしゃるのですか。\n"
+"……素敵な響きのお名前ですね。"
+msgstr ""
+
+msgctxt "865"
+msgid ""
+"……アドルさん。\n"
+"ハーモニカを見つけて頂いたお礼です。"
+msgstr ""
+
+msgctxt "866"
+msgid "どうか一曲……お聞き下さい。"
+msgstr ""
+
+msgctxt "867"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "868"
+msgid ""
+"私は、詩人のレアと申します。\n"
+"命の次に大切な銀のハーモニカを\n"
+"何者かに奪われてしまったのです……。"
+msgstr ""
+
+msgctxt "869"
+msgid ""
+"あれがないと……私は……。\n"
+"もう……どうしたらいいのか……。"
+msgstr ""
+
+msgctxt "870"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "871"
+msgid ""
+"あっ……\n"
+"それは私のハーモニカ……。\n"
+"ああ……なんという偶然でしょう！"
+msgstr ""
+
+msgctxt "872"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "873"
+msgid ""
+"ハーモニカを見つけて下さって\n"
+"どうもありがとうございました。"
+msgstr ""
+
+msgctxt "874"
+msgid ""
+"……アドルさん。\n"
+"ひょっとしたら、あなたが……。"
+msgstr ""
+
+msgctxt "875"
+msgid ""
+"いえ……何でもありません。\n"
+"お気になさらないでください……。"
+msgstr ""
+
+msgctxt "876"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "877"
+msgid ""
+"バギュ＝バデット……。\n"
+"あの痛ましい大地の傷痕を見るたび\n"
+"胸が張り裂けるような気持ちになります。"
+msgstr ""
+
+msgctxt "878"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "879"
+msgid ""
+"アドルさん。\n"
+"ハーモニカを見つけてくださって、\n"
+"本当に……ありがとうございました。"
+msgstr ""
+
+msgctxt "880"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "881"
+msgid ""
+"その詩は……\n"
+"ずっと昔に、私が書いたものです。"
+msgstr ""
+
+msgctxt "882"
+msgid "アドルは紙をレアに渡した。"
+msgstr ""
+
+msgctxt "883"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "884"
+msgid "わざわざ、ありがとうございました。"
+msgstr ""
+
+msgctxt "885"
+msgid ""
+"ねえ……フィーナ。\n"
+"運命の糸車が、回り始めたわ……。"
+msgstr ""
+
+msgctxt "886"
+msgid ""
+"せめて、あなただけでも……\n"
+"このまま夢を見させてあげたかった……。"
+msgstr ""
+
+msgctxt "887"
+msgid ""
+"でも、ごめんなさい……\n"
+"そうもいかなくなったみたい……。"
+msgstr ""
+
+msgctxt "888"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "889"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "890"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "891"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "892"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "893"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "894"
+msgid "ああ……あなたは……！？"
+msgstr ""
+
+msgctxt "895"
+msgid "あなたは、エステリアの人ではありませんね？"
+msgstr ""
+
+msgctxt "896"
+msgid ""
+"まさか、嵐の結界を越えて……\n"
+"エステリアに渡ってきたのですか？"
+msgstr ""
+
+msgctxt "897"
+msgid ""
+"女神よ……感謝いたします……\n"
+"この日をどんなに待ち望んでいたことか。"
+msgstr ""
+
+msgctxt "898"
+msgid "あなたこそ……私の探していた人。"
+msgstr ""
+
+msgctxt "899"
+msgid ""
+"……どうか、お願いします。\n"
+"#02剣士としての装備#00を整えてから\n"
+"もう一度、ここに来て頂けませんか？"
+msgstr ""
+
+msgctxt "900"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "901"
+msgid "あなたに、頼みたいことがあるのです。"
+msgstr ""
+
+msgctxt "902"
+msgid ""
+"……どうかお願いします。\n"
+"#02剣#00と#02鎧#00、そして#02盾#00を揃えて\n"
+"もう一度ここに来てください。"
+msgstr ""
+
+msgctxt "903"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "904"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "905"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "906"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "907"
+msgid ""
+"剣士殿……\n"
+"よくいらしてくださいました。"
+msgstr ""
+
+msgctxt "908"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "909"
+msgid ""
+"早速ですが、剣士殿は\n"
+"『イースの本』という物を\n"
+"ご存じですか？"
+msgstr ""
+
+msgctxt "910"
+msgid "知っている"
+msgstr ""
+
+msgctxt "911"
+msgid "知らない"
+msgstr ""
+
+msgctxt "912"
+msgid ""
+"……話が早くて助かります。\n"
+"実は、かの『イースの本』の一冊が\n"
+"山の神殿に眠っているという啓示を受けたのです。"
+msgstr ""
+
+msgctxt "913"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "914"
+msgid ""
+"そこで、剣士殿……\n"
+"『イースの本』を探しに\n"
+"行って頂けませんか？"
+msgstr ""
+
+msgctxt "915"
+msgid "承知する"
+msgstr ""
+
+msgctxt "916"
+msgid "断る"
+msgstr ""
+
+msgctxt "917"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "918"
+msgid ""
+"本当に承知して頂けるのですね！？\n"
+"剣士殿……ありがとうございます……。"
+msgstr ""
+
+msgctxt "919"
+msgid ""
+"この品をお持ちください。\n"
+"神殿で、あなたの道しるべとなってくれるでしょう。"
+msgstr ""
+
+msgctxt "920"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "921"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "922"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "923"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "924"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "925"
+msgid ""
+"そうですか……残念です。\n"
+"剣士殿ならばと、思ったのですが。"
+msgstr ""
+
+msgctxt "926"
+msgid ""
+"『イース』とは、遙かなる昔……\n"
+"この地にあったという、いにしえの王国の名前。"
+msgstr ""
+
+msgctxt "927"
+msgid ""
+"その失われた歴史を綴った物が\n"
+"『イースの本』なのです。"
+msgstr ""
+
+msgctxt "928"
+msgid ""
+"それがいつ、何者によって\n"
+"書かれたのかは定かではありません。"
+msgstr ""
+
+msgctxt "929"
+msgid ""
+"ただ、六冊に分かれたその本には\n"
+"『イース』が滅びた理由が記されているといいます。"
+msgstr ""
+
+msgctxt "930"
+msgid ""
+"……この水晶玉は、『イースの本』の一冊が\n"
+"山の神殿にあることを示しています。"
+msgstr ""
+
+msgctxt "931"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "932"
+msgid ""
+"……剣士殿。\n"
+"『イースの本』を探しに\n"
+"行って頂けるのですか？"
+msgstr ""
+
+msgctxt "933"
+msgid ""
+"まずは#02ゼピック村#00に住んでいる\n"
+"#02ジェバ#00という女性を訪ねてみてください。"
+msgstr ""
+
+msgctxt "934"
+msgid ""
+"私の叔母にあたる人で、\n"
+"神殿やイースについて詳しい者です。\n"
+"きっと、あなたの力になってくれるでしょう。"
+msgstr ""
+
+msgctxt "935"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "936"
+msgid ""
+"ゼピック村は、\n"
+"ミネアの北に広がる草原の北東……\n"
+"山の神殿へ向かう道の途中にあります。"
+msgstr ""
+
+msgctxt "937"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "938"
+msgid "ああ……あなたは……！？"
+msgstr ""
+
+msgctxt "939"
+msgid "あなたは、エステリアの人ではありませんね？"
+msgstr ""
+
+msgctxt "940"
+msgid ""
+"まさか、嵐の結界を越えて……\n"
+"エステリアに渡ってきたのですか？"
+msgstr ""
+
+msgctxt "941"
+msgid ""
+"女神よ……感謝いたします……\n"
+"この日をどんなに待ち望んでいたことか。"
+msgstr ""
+
+msgctxt "942"
+msgid "あなたこそ……私の探していた人。"
+msgstr ""
+
+msgctxt "943"
+msgid ""
+"実は……剣士殿に、\n"
+"折り入って頼みたいことがあるのです。"
+msgstr ""
+
+msgctxt "944"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "945"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "946"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "947"
+msgid ""
+"剣士殿、どうなさいました？\n"
+"『イースの本』が見つかったのですか？"
+msgstr ""
+
+msgctxt "948"
+msgid ""
+"……なんですって？\n"
+"神殿の地下に少女が囚われていた……。"
+msgstr ""
+
+msgctxt "949"
+msgid "まさか……。"
+msgstr ""
+
+msgctxt "950"
+msgid ""
+"剣士殿……！\n"
+"どうやら事態は一刻を争うようです。"
+msgstr ""
+
+msgctxt "951"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "952"
+msgid ""
+"『イースの本』を見つけてください。\n"
+"詳しいことは、のちほどお話します。"
+msgstr ""
+
+msgctxt "953"
+msgid ""
+"剣士殿……！\n"
+"どうやら事態は一刻を争うようです。"
+msgstr ""
+
+msgctxt "954"
+msgid ""
+"『イースの本』を見つけてください。\n"
+"詳しいことは、のちほどお話します。"
+msgstr ""
+
+msgctxt "955"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "956"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "957"
+msgid ""
+"あなたが、アドルさんですね。\n"
+"……哀しい知らせがあります。"
+msgstr ""
+
+msgctxt "958"
+msgid ""
+"サラが、何者かによって\n"
+"殺されてしまったのです。\n"
+"可哀想に……。"
+msgstr ""
+
+msgctxt "959"
+msgid ""
+"この本を受け取ってください。\n"
+"死の直前に、彼女から預かったものです。"
+msgstr ""
+
+msgctxt "960"
+msgid ""
+"……自分に何かあったら、\n"
+"アドルという赤毛の剣士に渡してくれと\n"
+"微笑みながら言っていました。"
+msgstr ""
+
+msgctxt "961"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "962"
+msgid ""
+"冗談かと思ったのですが、\n"
+"彼女が占い師なのを忘れていました。\n"
+"もっと真剣に受け止めていれば……。"
+msgstr ""
+
+msgctxt "963"
+msgid ""
+"そういえば……\n"
+"サラは『#02廃坑へ#00』という言葉を残して\n"
+"息を引き取ったそうです。"
+msgstr ""
+
+msgctxt "964"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "965"
+msgid ""
+"あなたなら\n"
+"彼女が何を言いたかったのか\n"
+"わかるかもしれませんね……。"
+msgstr ""
+
+msgctxt "966"
+msgid "……年上の女は、嫌い？……"
+msgstr ""
+
+msgctxt "967"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "968"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "969"
+msgid "ククク、何かご入用かね？"
+msgstr ""
+
+msgctxt "970"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "971"
+msgid "どうしますか？"
+msgstr ""
+
+msgctxt "972"
+msgid "店主と話す"
+msgstr ""
+
+msgctxt "973"
+msgid "掘り出し物がほしい"
+msgstr ""
+
+msgctxt "974"
+msgid "物を売りに来た"
+msgstr ""
+
+msgctxt "975"
+msgid "店を出る"
+msgstr ""
+
+msgctxt "976"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "977"
+msgid ""
+"ほう、赤毛とは珍しい。\n"
+"エステリアの人間じゃないな？"
+msgstr ""
+
+msgctxt "978"
+msgid ""
+"私も大陸から来たんだよ。\n"
+"嵐の結界で、このチンケな国に\n"
+"閉じこめられちまったがね。"
+msgstr ""
+
+msgctxt "979"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "980"
+msgid ""
+"同じ異邦人のよしみだ。\n"
+"安くしておきますぜ？"
+msgstr ""
+
+msgctxt "981"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "982"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "983"
+msgid ""
+"へぇ、あのサファイアの指輪は\n"
+"ドニスのもんだったのかい。\n"
+"見つかってよかったなぁ。"
+msgstr ""
+
+msgctxt "984"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "985"
+msgid ""
+"いやー、人助けってのは\n"
+"気持ちがいいもんだねぇ。"
+msgstr ""
+
+msgctxt "986"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "987"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "988"
+msgid ""
+"あんたはヨソ者だから知らんだろうが\n"
+"最近、盗賊どもがミネアを荒らしまわってるんだ。"
+msgstr ""
+
+msgctxt "989"
+msgid ""
+"この取引所なんか\n"
+"結界が起こる前から被害に遭っている。"
+msgstr ""
+
+msgctxt "990"
+msgid "金の台座に、銀の鎧……高価なものばかりだ。"
+msgstr ""
+
+msgctxt "991"
+msgid ""
+"まったく忌々しい……\n"
+"あんな奴ら、とっとと捕まえて\n"
+"縛り首にすればいいんだよ。"
+msgstr ""
+
+msgctxt "992"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "993"
+msgid ""
+"あんた、神殿へ行ってきたんだってな。\n"
+"なんか掘り出し物はなかったかい？\n"
+"高く買い取ってやるぜ？"
+msgstr ""
+
+msgctxt "994"
+msgid ""
+"あの神殿には、目をつけていたんだが\n"
+"魔物のせいで近づけなかったんだ。\n"
+"何かめぼしい物は、手に入れなかったか？"
+msgstr ""
+
+msgctxt "995"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "996"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "997"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "998"
+msgid "そういや、占い師の女が殺されたそうだな。"
+msgstr ""
+
+msgctxt "999"
+msgid ""
+"自分の死が判らなかったってことは、\n"
+"占いの腕も、インチキだったってことさ。"
+msgstr ""
+
+msgctxt "1000"
+msgid ""
+"……ここだけの話、\n"
+"あの女、どうも盗賊とツルんでたらしい。\n"
+"仲間割れでも起こしたのかもしれないぜ。"
+msgstr ""
+
+msgctxt "1001"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1002"
+msgid ""
+"あんた、見かけによらず、すごいヤツだな。\n"
+"あの廃坑から、生きて帰ってくるとは……。"
+msgstr ""
+
+msgctxt "1003"
+msgid ""
+"廃坑には何か落ちていなかったかい？\n"
+"高く買い取らせてもらうぜ。"
+msgstr ""
+
+msgctxt "1004"
+msgid ""
+"おやぁ、その銀の鎧……\n"
+"どこかで見たような気がするんだが。"
+msgstr ""
+
+msgctxt "1005"
+msgid ""
+"私の所から盗まれた鎧は、\n"
+"そんなピカピカじゃなかったし……。"
+msgstr ""
+
+msgctxt "1006"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1007"
+msgid "はて……気のせいか？"
+msgstr ""
+
+msgctxt "1008"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1009"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1010"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1011"
+msgid ""
+"今あるのは、\n"
+"こんなところだな。"
+msgstr ""
+
+msgctxt "1012"
+msgid "サファイアの指輪"
+msgstr ""
+
+msgctxt "1013"
+msgid "ウィング"
+msgstr ""
+
+msgctxt "1014"
+msgid "ミラー"
+msgstr ""
+
+msgctxt "1015"
+msgid "何も買わない"
+msgstr ""
+
+msgctxt "1016"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1017"
+msgid ""
+"こんなサファイアを\n"
+"彼女にプレゼントしてやったらどうだ？\n"
+"きっと大喜びだろうよ。"
+msgstr ""
+
+msgctxt "1018"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1019"
+msgid ""
+"こんなサファイアを\n"
+"彼女にプレゼントしてやったらどうだ？\n"
+"今なら安くしておくぜ。"
+msgstr ""
+
+msgctxt "1020"
+msgid "ククク、あんたには、かなわねえなあ。"
+msgstr ""
+
+msgctxt "1021"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1022"
+msgid "#021000>4Gold#00>4だ。"
+msgstr ""
+
+msgctxt "1023"
+msgid "買う"
+msgstr ""
+
+msgctxt "1024"
+msgid "買わない"
+msgstr ""
+
+msgctxt "1025"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1026"
+msgid "#02900>4Gold#00>4でどうだ。"
+msgstr ""
+
+msgctxt "1027"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1028"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1029"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1030"
+msgid "ククク、毎度あり。"
+msgstr ""
+
+msgctxt "1031"
+msgid ""
+"金が足りないぞ。\n"
+"悪いが、びた一文まけられないね。\n"
+"こっちも商売だからなぁ。"
+msgstr ""
+
+msgctxt "1032"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1033"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1034"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1035"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1036"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1037"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1038"
+msgid "買わないのかい？"
+msgstr ""
+
+msgctxt "1039"
+msgid "……あんた、ひやかしかい？"
+msgstr ""
+
+msgctxt "1040"
+msgid "…………。"
+msgstr ""
+
+msgctxt "1041"
+msgid "……クックッ、あんたには負けたよ。"
+msgstr ""
+
+msgctxt "1042"
+msgid "ものには、相場ってものがあるんでねえ。"
+msgstr ""
+
+msgctxt "1043"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1044"
+msgid ""
+"こいつは不思議な品物でな。\n"
+"どこにいても一瞬でこの町に戻って来られるんだ。"
+msgstr ""
+
+msgctxt "1045"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1046"
+msgid ""
+"こいつは不思議な品物でな。\n"
+"どこにいても一瞬でこの町に戻って来られるんだ。\n"
+"どうだい、安くしとくよ。"
+msgstr ""
+
+msgctxt "1047"
+msgid "ククク、あんたには、かなわねえなあ。"
+msgstr ""
+
+msgctxt "1048"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1049"
+msgid "#02200>4Gold#00>4だ。"
+msgstr ""
+
+msgctxt "1050"
+msgid "買う"
+msgstr ""
+
+msgctxt "1051"
+msgid "買わない"
+msgstr ""
+
+msgctxt "1052"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1053"
+msgid "#02180>4Gold#00>4でどうだ。"
+msgstr ""
+
+msgctxt "1054"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1055"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1056"
+msgid ""
+"前に売ったやつが\n"
+"まだ使えるみたいだな。"
+msgstr ""
+
+msgctxt "1057"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1058"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1059"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1060"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1061"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1062"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1063"
+msgid "……クックッ、あんたには負けたよ。"
+msgstr ""
+
+msgctxt "1064"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1065"
+msgid ""
+"この鏡には、魔物の動きを止める力がある。\n"
+"きっと重宝するはずさ。\n"
+"何回も使うと割れてしまうがね。"
+msgstr ""
+
+msgctxt "1066"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1067"
+msgid ""
+"この鏡には、魔物の動きを止める力がある。\n"
+"何回も使うと割れてしまうが、重宝するはずさ。\n"
+"どうだい、安くしとくよ。"
+msgstr ""
+
+msgctxt "1068"
+msgid "ククク、あんたには、かなわねえなあ。"
+msgstr ""
+
+msgctxt "1069"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1070"
+msgid "#02500>4Gold#00>4だ。"
+msgstr ""
+
+msgctxt "1071"
+msgid "買う"
+msgstr ""
+
+msgctxt "1072"
+msgid "買わない"
+msgstr ""
+
+msgctxt "1073"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1074"
+msgid "#02450>4Gold#00>4でどうだ。"
+msgstr ""
+
+msgctxt "1075"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1076"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1077"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1078"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1079"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1080"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1081"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1082"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1083"
+msgid "……クックッ、あんたには負けたよ。"
+msgstr ""
+
+msgctxt "1084"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1085"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1086"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1087"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1088"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1089"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1090"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1091"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1092"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1093"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1094"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1095"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1096"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1097"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1098"
+msgid "何を売りたい？"
+msgstr ""
+
+msgctxt "1099"
+msgid "ルビー"
+msgstr ""
+
+msgctxt "1100"
+msgid "ネックレス"
+msgstr ""
+
+msgctxt "1101"
+msgid "金の台座"
+msgstr ""
+
+msgctxt "1102"
+msgid "何も売らない"
+msgstr ""
+
+msgctxt "1103"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1104"
+msgid ""
+"これは見事な紅玉だ。\n"
+"大粒だし、装飾もきれいだ。"
+msgstr ""
+
+msgctxt "1105"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1106"
+msgid ""
+"これは見事な紅玉だ。\n"
+"大粒だし、装飾もきれいだ。\n"
+"あんたなら特別に高く買ってやるよ。"
+msgstr ""
+
+msgctxt "1107"
+msgid "ククク、あんたは物の価値がわかるやつのようだ。"
+msgstr ""
+
+msgctxt "1108"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1109"
+msgid ""
+"#021200>4Gold#00>4で\n"
+"買い取ろう。"
+msgstr ""
+
+msgctxt "1110"
+msgid "売る"
+msgstr ""
+
+msgctxt "1111"
+msgid "売らない"
+msgstr ""
+
+msgctxt "1112"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1113"
+msgid ""
+"#021320>4Gold#00>4で\n"
+"買い取ってやるよ。"
+msgstr ""
+
+msgctxt "1114"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1115"
+msgid "クク……ありがとうよ。"
+msgstr ""
+
+msgctxt "1116"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1117"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1118"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1119"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1120"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1121"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1122"
+msgid "売らないのかい？"
+msgstr ""
+
+msgctxt "1123"
+msgid "……あんた、ひやかしかい？"
+msgstr ""
+
+msgctxt "1124"
+msgid "…………。"
+msgstr ""
+
+msgctxt "1125"
+msgid "……クックッ、売り上手だなあ。"
+msgstr ""
+
+msgctxt "1126"
+msgid "粘られてもこれ以上は出せねえな。"
+msgstr ""
+
+msgctxt "1127"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1128"
+msgid ""
+"ずいぶんと古ぼけだネックレスだな。\n"
+"石も粒が小さいし、傷も多い。"
+msgstr ""
+
+msgctxt "1129"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1130"
+msgid ""
+"ずいぶんと古ぼけだネックレスだな。\n"
+"石も粒が小さいし、傷も多い。\n"
+"だが、あんたなら特別に高く買ってやるよ。"
+msgstr ""
+
+msgctxt "1131"
+msgid "ククク、あんたは物の価値がわかるやつのようだ。"
+msgstr ""
+
+msgctxt "1132"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1133"
+msgid ""
+"#02500>4Gold#00>4でよければ\n"
+"買い取ってやる。"
+msgstr ""
+
+msgctxt "1134"
+msgid "売る"
+msgstr ""
+
+msgctxt "1135"
+msgid "売らない"
+msgstr ""
+
+msgctxt "1136"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1137"
+msgid ""
+"#02550>4Gold#00>4でよければ\n"
+"買い取ってやる。"
+msgstr ""
+
+msgctxt "1138"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1139"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1140"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1141"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1142"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1143"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1144"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1145"
+msgid "……クックッ、売り上手だなあ。"
+msgstr ""
+
+msgctxt "1146"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1147"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1148"
+msgid ""
+"こ、この台座は……\n"
+"どうしてあんたが持っている？"
+msgstr ""
+
+msgctxt "1149"
+msgid ""
+"池の中に沈んでいたのか……\n"
+"この台座は少々、わけありでね。\n"
+"いや、よく見つけてくれたな。"
+msgstr ""
+
+msgctxt "1150"
+msgid ""
+"池に沈んでいたのか……\n"
+"いや、よく見つけてくれたな。"
+msgstr ""
+
+msgctxt "1151"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1152"
+msgid ""
+"こ、この台座は……\n"
+"どうしてあんたが持っている？"
+msgstr ""
+
+msgctxt "1153"
+msgid ""
+"池に沈んでいたのか……\n"
+"いや、よく見つけてくれたな。\n"
+"あんたなら、色をつけて買い取らせてもらうよ。"
+msgstr ""
+
+msgctxt "1154"
+msgid "ククク、あんたは物の価値がわかるやつのようだ。"
+msgstr ""
+
+msgctxt "1155"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1156"
+msgid ""
+"#022000>4Gold#00>4で\n"
+"買い取らせてくれ。"
+msgstr ""
+
+msgctxt "1157"
+msgid "売る"
+msgstr ""
+
+msgctxt "1158"
+msgid "売らない"
+msgstr ""
+
+msgctxt "1159"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1160"
+msgid ""
+"#022200>4Gold#00>4で\n"
+"買い取らせてくれ。"
+msgstr ""
+
+msgctxt "1161"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1162"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1163"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1164"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1165"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1166"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1167"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1168"
+msgid "……クックッ、売り上手だなあ。"
+msgstr ""
+
+msgctxt "1169"
+msgid "ふむ、こちらが欲しい物は無さそうだ。"
+msgstr ""
+
+msgctxt "1170"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1171"
+msgid "おう、いらっしゃい！"
+msgstr ""
+
+msgctxt "1172"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1173"
+msgid "どうしますか？"
+msgstr ""
+
+msgctxt "1174"
+msgid "店主と話す"
+msgstr ""
+
+msgctxt "1175"
+msgid "武器を買う"
+msgstr ""
+
+msgctxt "1176"
+msgid "店を出る"
+msgstr ""
+
+msgctxt "1177"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1178"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1179"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1180"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1181"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1182"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1183"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1184"
+msgid ""
+"なかなか良い剣を持ってるな。\n"
+"バルバドの自警団で使ってるものか。"
+msgstr ""
+
+msgctxt "1185"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1186"
+msgid ""
+"でもウチの店には、\n"
+"もっと実戦向きの剣が置いてあるぜ。\n"
+"よかったら、覗いていってくれよ。"
+msgstr ""
+
+msgctxt "1187"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1188"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1189"
+msgid ""
+"やっとTALWARLを入手できたぜ。\n"
+"よかったら、買っていかないか？"
+msgstr ""
+
+msgctxt "1190"
+msgid ""
+"いくら優れた剣を持っていたって\n"
+"凶悪な魔物に、正面から挑むのは\n"
+"自殺行為ってものだ。"
+msgstr ""
+
+msgctxt "1191"
+msgid ""
+"背後や横に回りこんで、急所を狙うんだ。\n"
+"そうすれば、こちらにも勝ち目がある。"
+msgstr ""
+
+msgctxt "1192"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1193"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1194"
+msgid ""
+"その長剣は……\n"
+"驚いたな、東方の湾曲刀じゃないか！"
+msgstr ""
+
+msgctxt "1195"
+msgid ""
+"滅多にお目にかかれる物じゃない。\n"
+"どこで手に入れたんだ？"
+msgstr ""
+
+msgctxt "1196"
+msgid ""
+"湾曲刀は、普通の剣とは違って\n"
+"扱いが難しいが……あんたなら大丈夫そうだ。"
+msgstr ""
+
+msgctxt "1197"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1198"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1199"
+msgid ""
+"な、なんだこの剣は！？\n"
+"刀身が、うっすらと輝いてるじゃないか！"
+msgstr ""
+
+msgctxt "1200"
+msgid ""
+"銀で造られただけの物じゃない……\n"
+"明らかに、何かの『力』を秘めているぞ……。"
+msgstr ""
+
+msgctxt "1201"
+msgid ""
+"長年、武器屋をやってきたが\n"
+"こんな凄い剣は初めてだ……！"
+msgstr ""
+
+msgctxt "1202"
+msgid ""
+"その剣は大事に持っておくんだな。\n"
+"きっと、あんたの力になってくれるだろう。"
+msgstr ""
+
+msgctxt "1203"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1204"
+msgid "どの剣がほしいんだ？"
+msgstr ""
+
+msgctxt "1205"
+msgid "SHORT SWORD"
+msgstr ""
+
+msgctxt "1206"
+msgid "LONG SWORD"
+msgstr ""
+
+msgctxt "1207"
+msgid "TALWARL"
+msgstr ""
+
+msgctxt "1208"
+msgid "何も買わない"
+msgstr ""
+
+msgctxt "1209"
+msgid ""
+"SHORT SWORDは小振りだが\n"
+"軽くて扱いやすい剣だ。\n"
+"日用品としても使えるぞ。"
+msgstr ""
+
+msgctxt "1210"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1211"
+msgid "#02500>4Gold#00>4でどうだ？"
+msgstr ""
+
+msgctxt "1212"
+msgid "買う"
+msgstr ""
+
+msgctxt "1213"
+msgid "買わない"
+msgstr ""
+
+msgctxt "1214"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1215"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1216"
+msgid ""
+"なんだ、もう持ってるじゃないか。\n"
+"二本も三本もいらないだろ？"
+msgstr ""
+
+msgctxt "1217"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1218"
+msgid "おう、毎度あり！"
+msgstr ""
+
+msgctxt "1219"
+msgid ""
+"金が足りないみたいだな。\n"
+"取っておくから、また来てくれよ。"
+msgstr ""
+
+msgctxt "1220"
+msgid ""
+"このLONG SWORDは、\n"
+"剣士にふさわしい実戦向きの長剣だ。\n"
+"鋼鉄のがっしりとした造りが自慢だな。"
+msgstr ""
+
+msgctxt "1221"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1222"
+msgid "#022000>4Gold#00>4でどうだ？"
+msgstr ""
+
+msgctxt "1223"
+msgid "買う"
+msgstr ""
+
+msgctxt "1224"
+msgid "買わない"
+msgstr ""
+
+msgctxt "1225"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1226"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1227"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1228"
+msgid ""
+"すまんな、TALWARLは東方の国の剣だから\n"
+"嵐の結界のせいで貿易船が来なくなって以来\n"
+"滅多に手に入らないんだ。"
+msgstr ""
+
+msgctxt "1229"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1230"
+msgid "入手したら取っておくから、今は我慢してくれ。"
+msgstr ""
+
+msgctxt "1231"
+msgid ""
+"TALWARLは、東方伝来の湾曲刀だ。\n"
+"普通の剣とは違って扱いは難しいが、\n"
+"切れ味は保証するぜ。"
+msgstr ""
+
+msgctxt "1232"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1233"
+msgid "#025000>4Gold#00>4でどうだ？"
+msgstr ""
+
+msgctxt "1234"
+msgid "買う"
+msgstr ""
+
+msgctxt "1235"
+msgid "買わない"
+msgstr ""
+
+msgctxt "1236"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1237"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1238"
+msgid "また来てくれよ！"
+msgstr ""
+
+msgctxt "1239"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1240"
+msgid "やあ、いらっしゃい。"
+msgstr ""
+
+msgctxt "1241"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1242"
+msgid "どうしますか？"
+msgstr ""
+
+msgctxt "1243"
+msgid "店主と話す"
+msgstr ""
+
+msgctxt "1244"
+msgid "鎧を買う"
+msgstr ""
+
+msgctxt "1245"
+msgid "盾を買う"
+msgstr ""
+
+msgctxt "1246"
+msgid "店を出る"
+msgstr ""
+
+msgctxt "1247"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1248"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1249"
+msgid ""
+"武器よりも防具を優先した方が\n"
+"生き延びる可能性は高くなるよ。"
+msgstr ""
+
+msgctxt "1250"
+msgid ""
+"『攻撃は最大の防御』と言うけれど\n"
+"魔物に囲まれたら、お手上げだろう？"
+msgstr ""
+
+msgctxt "1251"
+msgid ""
+"ふむ……その白銀の盾は\n"
+"聖なるものの加護を得ているようだね。"
+msgstr ""
+
+msgctxt "1252"
+msgid ""
+"表面に刻まれた古代文字は\n"
+"祝福の言葉じゃないかな。"
+msgstr ""
+
+msgctxt "1253"
+msgid "……惚れ惚れするような鎧だなぁ。"
+msgstr ""
+
+msgctxt "1254"
+msgid ""
+"銀を打ち出した物みたいだけど\n"
+"強度は全く損なわれていない。"
+msgstr ""
+
+msgctxt "1255"
+msgid ""
+"装飾のレリーフの間には\n"
+"巧みに祝福の言葉が刻まれている。"
+msgstr ""
+
+msgctxt "1256"
+msgid "なんて見事な出来ばえだろう……！"
+msgstr ""
+
+msgctxt "1257"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1258"
+msgid "どの鎧をお求めだい？"
+msgstr ""
+
+msgctxt "1259"
+msgid "CHAIN MAIL"
+msgstr ""
+
+msgctxt "1260"
+msgid "PLATE MAIL"
+msgstr ""
+
+msgctxt "1261"
+msgid "REFLEX"
+msgstr ""
+
+msgctxt "1262"
+msgid "何も買わない"
+msgstr ""
+
+msgctxt "1263"
+msgid ""
+"CHAIN MAILは、鎖を編んだ鎧さ。\n"
+"軽くて動きやすい上に、\n"
+"風通しがいいから、蒸れることもない。"
+msgstr ""
+
+msgctxt "1264"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1265"
+msgid ""
+"#02400>4Gold#00>4で\n"
+"どうかな？"
+msgstr ""
+
+msgctxt "1266"
+msgid "買う"
+msgstr ""
+
+msgctxt "1267"
+msgid "買わない"
+msgstr ""
+
+msgctxt "1268"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1269"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1270"
+msgid ""
+"そういえば、前に買ってくれたね。\n"
+"うちの商品は丈夫だから\n"
+"まだまだ使えるはずだよ。"
+msgstr ""
+
+msgctxt "1271"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1272"
+msgid ""
+"ありがとう。\n"
+"大事に使ってくれよ。"
+msgstr ""
+
+msgctxt "1273"
+msgid ""
+"予算オーバーみたいだね。\n"
+"無理しないで、安い装備から\n"
+"買い揃えていったほうがいい。"
+msgstr ""
+
+msgctxt "1274"
+msgid ""
+"このPLATE MAILは、\n"
+"板金を張り合わせた鎧だよ。\n"
+"かなり重たいけど、防御力は抜群さ。"
+msgstr ""
+
+msgctxt "1275"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1276"
+msgid ""
+"#022000>4Gold#00>4で\n"
+"どうかな？"
+msgstr ""
+
+msgctxt "1277"
+msgid "買う"
+msgstr ""
+
+msgctxt "1278"
+msgid "買わない"
+msgstr ""
+
+msgctxt "1279"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1280"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1281"
+msgid ""
+"REFLEXは自慢の一品だ。\n"
+"特殊な樹脂で、表面を加工した革鎧なんだ。\n"
+"軽いのに、鋼鉄以上の硬さを持っている。"
+msgstr ""
+
+msgctxt "1282"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1283"
+msgid ""
+"#025000>4Gold#00>4だけど\n"
+"損はさせないよ。"
+msgstr ""
+
+msgctxt "1284"
+msgid "買う"
+msgstr ""
+
+msgctxt "1285"
+msgid "買わない"
+msgstr ""
+
+msgctxt "1286"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1287"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1288"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1289"
+msgid "どの盾がほしいのかな？"
+msgstr ""
+
+msgctxt "1290"
+msgid "SMALL SHIELD"
+msgstr ""
+
+msgctxt "1291"
+msgid "MIDDLE SHIELD"
+msgstr ""
+
+msgctxt "1292"
+msgid "LARGE SHIELD"
+msgstr ""
+
+msgctxt "1293"
+msgid "何も買わない"
+msgstr ""
+
+msgctxt "1294"
+msgid ""
+"SMALL SHIELDは\n"
+"硬い木材を、鋲で補強した盾さ。\n"
+"軽くて扱いやすいよ。"
+msgstr ""
+
+msgctxt "1295"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1296"
+msgid ""
+"#02700>4Gold#00>4で\n"
+"どうかな？"
+msgstr ""
+
+msgctxt "1297"
+msgid "買う"
+msgstr ""
+
+msgctxt "1298"
+msgid "買わない"
+msgstr ""
+
+msgctxt "1299"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1300"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1301"
+msgid ""
+"このMIDDLE SHIELDは\n"
+"なめし革に針金をしこんだ盾さ。\n"
+"軽い上に、強度も半端じゃない。"
+msgstr ""
+
+msgctxt "1302"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1303"
+msgid ""
+"#022000>4Gold#00>4で\n"
+"どうかな？"
+msgstr ""
+
+msgctxt "1304"
+msgid "買う"
+msgstr ""
+
+msgctxt "1305"
+msgid "買わない"
+msgstr ""
+
+msgctxt "1306"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1307"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1308"
+msgid ""
+"LARGE SHIELDだね。\n"
+"鉄板を加工した盾だから、かなり重いけど\n"
+"どんな魔物の一撃にも耐えられるよ。"
+msgstr ""
+
+msgctxt "1309"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1310"
+msgid ""
+"#026000>4Gold#00>4だけど\n"
+"損はさせないよ。"
+msgstr ""
+
+msgctxt "1311"
+msgid "買う"
+msgstr ""
+
+msgctxt "1312"
+msgid "買わない"
+msgstr ""
+
+msgctxt "1313"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1314"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1315"
+msgid "また、どうぞ。"
+msgstr ""
+
+msgctxt "1316"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1317"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1318"
+msgid "こんにちは、どうなさいました？"
+msgstr ""
+
+msgctxt "1319"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1320"
+msgid "どうしますか？"
+msgstr ""
+
+msgctxt "1321"
+msgid "看護婦と話す"
+msgstr ""
+
+msgctxt "1322"
+msgid "傷を治したい"
+msgstr ""
+
+msgctxt "1323"
+msgid "薬がほしい"
+msgstr ""
+
+msgctxt "1324"
+msgid "話をやめる"
+msgstr ""
+
+msgctxt "1325"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1326"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1327"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1328"
+msgid ""
+"魔物が現れるようになってから\n"
+"怪我人が続出して、とっても忙しいんです。"
+msgstr ""
+
+msgctxt "1329"
+msgid ""
+"クラーゼ先生なんか、医者のいないゼピック村まで\n"
+"往診に行ってるんですよ。"
+msgstr ""
+
+msgctxt "1330"
+msgid ""
+"クラーゼ先生、お忙しくて\n"
+"病院にいる時間の方が短いくらいなんです。"
+msgstr ""
+
+msgctxt "1331"
+msgid ""
+"エステリアには、バルバドのブルドー先生と\n"
+"クラーゼ先生しかお医者様がいないから\n"
+"しょうがないのかもしれませんけど……。"
+msgstr ""
+
+msgctxt "1332"
+msgid ""
+"私……サラさんのお店には\n"
+"ときどき遊びに行っていたんです。"
+msgstr ""
+
+msgctxt "1333"
+msgid ""
+"この前『やっと探していた人を見つけた』\n"
+"と言って、とても嬉しそうにしていたのに……。"
+msgstr ""
+
+msgctxt "1334"
+msgid "こんなことって……。"
+msgstr ""
+
+msgctxt "1335"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1336"
+msgid ""
+"薬はお持ちですか？\n"
+"いざという時に困らないように、\n"
+"常に持ち歩くように心がけてくださいね。"
+msgstr ""
+
+msgctxt "1337"
+msgid ""
+"クラーゼ先生は、相変わらずです。\n"
+"私も、少しは先生のお役に立てるよう\n"
+"頑張らないと……。"
+msgstr ""
+
+msgctxt "1338"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1339"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1340"
+msgid ""
+"あら？\n"
+"怪我なんてしてませんよ？"
+msgstr ""
+
+msgctxt "1341"
+msgid ""
+"先生は今、往診に出かけています。\n"
+"私でよかったら、手当てをしますけど？"
+msgstr ""
+
+msgctxt "1342"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1343"
+msgid ""
+"#0250>4Gold#00>4かかりますが\n"
+"よろしいですか？"
+msgstr ""
+
+msgctxt "1344"
+msgid "治してもらう"
+msgstr ""
+
+msgctxt "1345"
+msgid "やっぱりいい"
+msgstr ""
+
+msgctxt "1346"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1347"
+msgid ""
+"動かないで、\n"
+"じっとしててくださいね……。"
+msgstr ""
+
+msgctxt "1348"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1349"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1350"
+msgid ""
+"はい、これでいいです。\n"
+"くれぐれも無茶はしないでくださいね。"
+msgstr ""
+
+msgctxt "1351"
+msgid "治療は終わってますよ。もう、平気でしょう？"
+msgstr ""
+
+msgctxt "1352"
+msgid "あら……お金、足りませんか？"
+msgstr ""
+
+msgctxt "1353"
+msgid ""
+"うーん、それじゃあ\n"
+"傷の手当てもできませんねぇ。"
+msgstr ""
+
+msgctxt "1354"
+msgid ""
+"フフ、嘘です☆\n"
+"目の前の怪我人を放っておいたりしませんよ。"
+msgstr ""
+
+msgctxt "1355"
+msgid ""
+"うちの薬は、高山にしか生えない\n"
+"赤ジギタリスの葉を煎じたものです。\n"
+"どんな傷も、たちどころに治してくれますよ。"
+msgstr ""
+
+msgctxt "1356"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1357"
+msgid ""
+"#02300>4Gold#00>4と\n"
+"お手ごろな値段ですが、\n"
+"どうします？"
+msgstr ""
+
+msgctxt "1358"
+msgid "買う"
+msgstr ""
+
+msgctxt "1359"
+msgid "買わない"
+msgstr ""
+
+msgctxt "1360"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1361"
+msgid ""
+"あら……\n"
+"もう持ってらっしゃいますよ？"
+msgstr ""
+
+msgctxt "1362"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1363"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1364"
+msgid ""
+"はい、どうぞ。\n"
+"大事に使ってくださいね。"
+msgstr ""
+
+msgctxt "1365"
+msgid ""
+"あら……\n"
+"お金が足りないようですね。"
+msgstr ""
+
+msgctxt "1366"
+msgid "お大事にね。"
+msgstr ""
+
+msgctxt "1367"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1368"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1369"
+msgid "どうしますか？"
+msgstr ""
+
+msgctxt "1370"
+msgid "マスターと話す"
+msgstr ""
+
+msgctxt "1371"
+msgid "筋肉質の男と話す"
+msgstr ""
+
+msgctxt "1372"
+msgid "隻眼の男と話す"
+msgstr ""
+
+msgctxt "1373"
+msgid "その場を離れる"
+msgstr ""
+
+msgctxt "1374"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1375"
+msgid ""
+"お前さん、この町のモンじゃねぇな。\n"
+"一体どこから来たんだ？"
+msgstr ""
+
+msgctxt "1376"
+msgid "……バルバドからだって？"
+msgstr ""
+
+msgctxt "1377"
+msgid ""
+"そうか、結界を越えて流れ着いた\n"
+"赤毛の小僧ってのは、お前さんかい！"
+msgstr ""
+
+msgctxt "1378"
+msgid ""
+"いやな、バルバドの自警団の連中が\n"
+"この前ミネアに来たとき\n"
+"お前さんの噂をしてたんだよ。"
+msgstr ""
+
+msgctxt "1379"
+msgid "悪かったなぁ、疑うような口調で聞いちまって。"
+msgstr ""
+
+msgctxt "1380"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1381"
+msgid ""
+"最近、どうもこの町を\n"
+"盗賊が荒らしているみたいでな。\n"
+"その一味かと思ったんだ。"
+msgstr ""
+
+msgctxt "1382"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1383"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1384"
+msgid ""
+"占い師が殺された話は聞いたか？\n"
+"最初は、盗賊の仕業かと思ったんだが、\n"
+"金目の物は一切盗られてなかったそうだ。"
+msgstr ""
+
+msgctxt "1385"
+msgid ""
+"ひょっとしたら、盗賊以外にも、\n"
+"ヤバイ連中がいるのかもしれんな……。\n"
+""
+msgstr ""
+
+msgctxt "1386"
+msgid ""
+"よぉ、アドル。\n"
+"たまには、うちの店で息抜きしてけよ。\n"
+"お前さんなら大歓迎だぜ。"
+msgstr ""
+
+msgctxt "1387"
+msgid ""
+"盗賊の奴ら、好き放題やってるみてぇだ。\n"
+"近いうちに盗賊狩りをやらんとな……。"
+msgstr ""
+
+msgctxt "1388"
+msgid "どうだ、お前さんも手を貸さねぇか？"
+msgstr ""
+
+msgctxt "1389"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1390"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1391"
+msgid "……見かけん顔だな？"
+msgstr ""
+
+msgctxt "1392"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1393"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1394"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1395"
+msgid ""
+"俺は、ギャレック。\n"
+"盗賊狩りのために雇われた者だ。"
+msgstr ""
+
+msgctxt "1396"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1397"
+msgid ""
+"どうだ、\n"
+"一緒に飲まんか？"
+msgstr ""
+
+msgctxt "1398"
+msgid ""
+"一緒に飲む\n"
+""
+msgstr ""
+
+msgctxt "1399"
+msgid "遠慮しておく"
+msgstr ""
+
+msgctxt "1400"
+msgid ""
+"ずっと昔、この国には\n"
+"『ロダ』という名前の樹があったらしい。"
+msgstr ""
+
+msgctxt "1401"
+msgid ""
+"その実と種は、どんな食べ物にも優る\n"
+"素晴らしい味がしたそうだ。"
+msgstr ""
+
+msgctxt "1402"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1403"
+msgid ""
+"一度でいいから味わってみたいもんだ。\n"
+"お前さん、それらしい樹を見たことはないか？"
+msgstr ""
+
+msgctxt "1404"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1405"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1406"
+msgid ""
+"盗賊騒ぎの次は、人殺しかい……。\n"
+"まったく、物騒な世の中になったもんだな。"
+msgstr ""
+
+msgctxt "1407"
+msgid ""
+"盗みが盗賊の仕業じゃないとすると……\n"
+"いったい、犯人は何者なんだ？"
+msgstr ""
+
+msgctxt "1408"
+msgid "まあ、無理にとは言わないぜ。"
+msgstr ""
+
+msgctxt "1409"
+msgid ""
+"なにぃ……！\n"
+"これがロダの種だってのか！？"
+msgstr ""
+
+msgctxt "1410"
+msgid ""
+"た、頼む。\n"
+"ひとカケラでいいから……。"
+msgstr ""
+
+msgctxt "1411"
+msgid "……いや、やっぱり結構だ。"
+msgstr ""
+
+msgctxt "1412"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1413"
+msgid ""
+"少しかじったくらいじゃ、\n"
+"かえって未練が残るってもんだ。"
+msgstr ""
+
+msgctxt "1414"
+msgid ""
+"実在するのが分かっただけでもいい。\n"
+"お楽しみは、後に取っておくとするさ。"
+msgstr ""
+
+msgctxt "1415"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1416"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1417"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1418"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1419"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1420"
+msgid "ああ……どうしたらいいんだ。"
+msgstr ""
+
+msgctxt "1421"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1422"
+msgid ""
+"兄ちゃん！　俺の悩みを\n"
+"聞いてくれるかい？"
+msgstr ""
+
+msgctxt "1423"
+msgid "聞く"
+msgstr ""
+
+msgctxt "1424"
+msgid "聞かない"
+msgstr ""
+
+msgctxt "1425"
+msgid "俺の名前はドニス。"
+msgstr ""
+
+msgctxt "1426"
+msgid ""
+"かーちゃんにあげるために、\n"
+"ヘソクリはたいて買ったサファイアの指輪を\n"
+"なくしちまった。"
+msgstr ""
+
+msgctxt "1427"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1428"
+msgid ""
+"俺は、もう家に帰れねぇ……。\n"
+"ちくしょう、これもやっぱり\n"
+"盗賊のしわざなんだろうなぁ。"
+msgstr ""
+
+msgctxt "1429"
+msgid ""
+"俺は、もう家に帰れねぇ……。\n"
+"ちくしょう、これもやっぱり\n"
+"盗賊の仕業なんだろうなぁ。"
+msgstr ""
+
+msgctxt "1430"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1431"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1432"
+msgid ""
+"ああ……\n"
+"どうしたらいいんだ。\n"
+"指輪が見つからないと家に帰れない……。"
+msgstr ""
+
+msgctxt "1433"
+msgid ""
+"盗賊のヤツら、なにも俺みたいな庶民から\n"
+"指輪を盗むことないじゃないか。"
+msgstr ""
+
+msgctxt "1434"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1435"
+msgid ""
+"……うぃ～く…よおアドルぅ。\n"
+"何だぁ？　しけた顔して。まぁ、パーといこうや。\n"
+"ウィ～ック。"
+msgstr ""
+
+msgctxt "1436"
+msgid ""
+"おいおい、ドニス。お前…飲みすぎだぞ。\n"
+"なぁ、アドル。なんとか力になってやってくれんか？"
+msgstr ""
+
+msgctxt "1437"
+msgid ""
+"………。\n"
+"…はぁ～指輪がないと…俺は……。"
+msgstr ""
+
+msgctxt "1438"
+msgid ""
+"ああ～。\n"
+"かーちゃんにどう説明すればいいんだ。"
+msgstr ""
+
+msgctxt "1439"
+msgid ""
+"まったく、ドニスのやつも困ったものだ。\n"
+"なあ、アドル。なんとか力になってやってくれんか？"
+msgstr ""
+
+msgctxt "1440"
+msgid "何だよ、つれない兄ちゃんだな……。"
+msgstr ""
+
+msgctxt "1441"
+msgid ""
+"指輪が取引所で売られていたって？\n"
+"それを買い戻してくれたのか！"
+msgstr ""
+
+msgctxt "1442"
+msgid ""
+"あ、ありがてぇ……\n"
+"これで、かーちゃんにも顔向けできるってもんだ。"
+msgstr ""
+
+msgctxt "1443"
+msgid ""
+"これは少しばかりのお礼だ。\n"
+"どうか受け取ってくれ！"
+msgstr ""
+
+msgctxt "1444"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1445"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1446"
+msgid "#021500>4Gold#00>4受け取った。"
+msgstr ""
+
+msgctxt "1447"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1448"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1449"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1450"
+msgid ""
+"指輪が見つかったお祝いに\n"
+"もう一杯やっていくかぁ！"
+msgstr ""
+
+msgctxt "1451"
+msgid ""
+"おお、アドル。\n"
+"かーちゃんに指輪を渡せたよ。\n"
+"ありがとう、お前さんのおかげだ。"
+msgstr ""
+
+msgctxt "1452"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1453"
+msgid ""
+"うぃ～。\n"
+"飲みすぎたかなぁ。気持ち悪い……うぷ。"
+msgstr ""
+
+msgctxt "1454"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1455"
+msgid ""
+"なにぃ～？　えっ……\n"
+"お頭が、俺を探してたぁ？\n"
+"……そろそろ戻った方がいいかなぁ。"
+msgstr ""
+
+msgctxt "1456"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1457"
+msgid "コラッ、ちょっと待ちなさい！"
+msgstr ""
+
+msgctxt "1458"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1459"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1460"
+msgid ""
+"子供は外に出ちゃダメだって\n"
+"お父さんやお母さんに言われてるだろう？"
+msgstr ""
+
+msgctxt "1461"
+msgid "…………。"
+msgstr ""
+
+msgctxt "1462"
+msgid "……あれ？"
+msgstr ""
+
+msgctxt "1463"
+msgid "こ、こりゃ申し訳ない。"
+msgstr ""
+
+msgctxt "1464"
+msgid ""
+"いくら何でも、\n"
+"君を子供扱いしたら失礼だよな。"
+msgstr ""
+
+msgctxt "1465"
+msgid "見かけない顔だけど、バルバドから来たのかい？"
+msgstr ""
+
+msgctxt "1466"
+msgid ""
+"ここから先は魔物だらけだ。\n"
+"無理せずに、ミネアに寄った方がいいよ。"
+msgstr ""
+
+msgctxt "1467"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1468"
+msgid ""
+"僕のお兄ちゃんは、\n"
+"鉱山で働いてたんだけど\n"
+"穴の奥から出てきた魔物にやられて\n"
+"大ケガをしたんだ。"
+msgstr ""
+
+msgctxt "1469"
+msgid ""
+"ツルハシとかで応戦したらしいけど\n"
+"ぜんぜん歯が立たなかったみたい。"
+msgstr ""
+
+msgctxt "1470"
+msgid ""
+"命があっただけで、\n"
+"もうけものだって言ってたよ。"
+msgstr ""
+
+msgctxt "1471"
+msgid "お兄ちゃん、力なら町一番だったのに……。"
+msgstr ""
+
+msgctxt "1472"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1473"
+msgid "レアお姉ちゃんと遊んでるんだ。"
+msgstr ""
+
+msgctxt "1474"
+msgid ""
+"レアお姉ちゃんは、\n"
+"しりとりが強すぎだよ。\n"
+"大人なんだから、\n"
+"ちょっとは手加減してほしいよね。"
+msgstr ""
+
+msgctxt "1475"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1476"
+msgid "レアお姉ちゃんと遊んでるんだ。"
+msgstr ""
+
+msgctxt "1477"
+msgid ""
+"レアお姉ちゃんは、\n"
+"しりとりは案外弱いよね。\n"
+"うちのお兄ちゃんみたいな\n"
+"ズルをしない分だけ、立派だけど。"
+msgstr ""
+
+msgctxt "1478"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1479"
+msgid "レアお姉ちゃんと遊んでるんだ。"
+msgstr ""
+
+msgctxt "1480"
+msgid ""
+"レアお姉ちゃんは、\n"
+"ジャンケンが強すぎだよ。\n"
+"大人なんだから、\n"
+"ちょっとは手加減してほしいよね。"
+msgstr ""
+
+msgctxt "1481"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1482"
+msgid "レアお姉ちゃんと遊んでるんだ。"
+msgstr ""
+
+msgctxt "1483"
+msgid ""
+"レアお姉ちゃんは、\n"
+"ジャンケンは案外弱いよね。\n"
+"うちのお兄ちゃんみたいな\n"
+"ズルをしない分だけ、立派だけど。"
+msgstr ""
+
+msgctxt "1484"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1485"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1486"
+msgid ""
+"魔物がうろつく前は、\n"
+"野原の北にある大きな樹の下が\n"
+"みんなの遊び場だったんだけど……。"
+msgstr ""
+
+msgctxt "1487"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1488"
+msgid ""
+"大人たちが町から出してくれないから\n"
+"最近、行ってないんだ。"
+msgstr ""
+
+msgctxt "1489"
+msgid ""
+"あの木で一度、木登りをしたら\n"
+"もう、他の木なんてメじゃないよ。"
+msgstr ""
+
+msgctxt "1490"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1491"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1492"
+msgid ""
+"オレのじいちゃんは\n"
+"エステリアのお伽話を\n"
+"よくしてくれるんだ。"
+msgstr ""
+
+msgctxt "1493"
+msgid ""
+"いちばん好きなのは、大昔\n"
+"魔物の軍団をやっつけたっていう\n"
+"『銀色の剣』の話だな。"
+msgstr ""
+
+msgctxt "1494"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1495"
+msgid ""
+"じいちゃんが言うには、\n"
+"銀色の剣が、この国のどこかに\n"
+"眠り続けているんだって。"
+msgstr ""
+
+msgctxt "1496"
+msgid ""
+"それさえあれば\n"
+"魔物だってまっぷたつさ。\n"
+"本当にあればいいのになぁ。"
+msgstr ""
+
+msgctxt "1497"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1498"
+msgid ""
+"じいちゃんが言うには、\n"
+"銀色の剣が、この国のどこかに\n"
+"眠り続けているんだって。"
+msgstr ""
+
+msgctxt "1499"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1500"
+msgid ""
+"それさえあれば\n"
+"魔物だってまっぷたつさ。\n"
+"本当にあればいいのになぁ。"
+msgstr ""
+
+msgctxt "1501"
+msgid "えっ！　これが、その剣なの？"
+msgstr ""
+
+msgctxt "1502"
+msgid ""
+"……すっげ>1―<1―<1―っ。\n"
+"じゃあ、兄ちゃんなら、\n"
+"魔物なんかやっつけちゃえるんだね？"
+msgstr ""
+
+msgctxt "1503"
+msgid "魔物なんか、まっぷたつだよねっ！"
+msgstr ""
+
+msgctxt "1504"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1505"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1506"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1507"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1508"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1509"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1510"
+msgid "おにーちゃん、ひょっとして剣士さん？"
+msgstr ""
+
+msgctxt "1511"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1512"
+msgid ""
+"あのね、占い師のお姉ちゃんが\n"
+"旅の剣士さんを探してるんだって！"
+msgstr ""
+
+msgctxt "1513"
+msgid "行ってみてあげてよ！"
+msgstr ""
+
+msgctxt "1514"
+msgid ""
+"占いのお店は\n"
+"町の南西の隅っこにあるよ。\n"
+"ね、行ってみてあげてよ！"
+msgstr ""
+
+msgctxt "1515"
+msgid ""
+"ふふ、占いのお姉ちゃん、\n"
+"美人だったでしょ。"
+msgstr ""
+
+msgctxt "1516"
+msgid ""
+"サラお姉ちゃんのとこに\n"
+"遊びに行ったんだけど\n"
+"だれもいないの……。"
+msgstr ""
+
+msgctxt "1517"
+msgid ""
+"サラお姉ちゃん\n"
+"どこ行っちゃったのかな……？"
+msgstr ""
+
+msgctxt "1518"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1519"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1520"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1521"
+msgid ""
+"最近、黒いマントをまとった\n"
+"よそ者をよく見かけるんだ。\n"
+"そのマントときたら、表面が\n"
+"青くぼうっと光ってやがる。"
+msgstr ""
+
+msgctxt "1522"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1523"
+msgid ""
+"目の錯覚かもしれないが、\n"
+"何とも不気味なヤツだったぜ……。"
+msgstr ""
+
+msgctxt "1524"
+msgid ""
+"もしかしたら、あの黒マントの男が\n"
+"噂の盗賊なのかもしれないな。"
+msgstr ""
+
+msgctxt "1525"
+msgid ""
+"最近まで、町をうろついていた\n"
+"黒マントの男が姿を見せなくなった。\n"
+"ちょうどサラが殺されたあたりからだ。"
+msgstr ""
+
+msgctxt "1526"
+msgid ""
+"ちくしょうッ！\n"
+"嫌な予感はしていたんだが……。"
+msgstr ""
+
+msgctxt "1527"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1528"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1529"
+msgid ""
+"近頃、占い師のお姉さんの様子が\n"
+"おかしいんだよね。"
+msgstr ""
+
+msgctxt "1530"
+msgid ""
+"『世界が滅びる』とか、\n"
+"妙なことばかり口走ってるし……。"
+msgstr ""
+
+msgctxt "1531"
+msgid ""
+"いったいこのエステリアは\n"
+"どうなってしまったんだ……。"
+msgstr ""
+
+msgctxt "1532"
+msgid ""
+"魔物の数は増える一方だし\n"
+"このミネアの中だって\n"
+"ちっとも安全じゃないじゃないか！"
+msgstr ""
+
+msgctxt "1533"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1534"
+msgid ""
+"さっき取引所の主が\n"
+"道端で指輪を拾うのを見たんだ。\n"
+"そのあと、店に行ってみると\n"
+"ちゃっかり指輪が棚に置かれてる。"
+msgstr ""
+
+msgctxt "1535"
+msgid ""
+"拾った物まで売り物にするとは\n"
+"厚かましい奴だよな。"
+msgstr ""
+
+msgctxt "1536"
+msgid ""
+"まったく、おちおち落とし物も\n"
+"してらんねえぜ。"
+msgstr ""
+
+msgctxt "1537"
+msgid ""
+"落とし主に返すって考えは……\n"
+"あるわけねえか。"
+msgstr ""
+
+msgctxt "1538"
+msgid ""
+"取引所で宝石を売ろうと思ったんだけど、\n"
+"値段の交渉がうまく行かなくて\n"
+"やっぱり売るのをやめちゃったよ。"
+msgstr ""
+
+msgctxt "1539"
+msgid ""
+"もうちょっと粘れば、\n"
+"なんとかなったのかなあ……。"
+msgstr ""
+
+msgctxt "1540"
+msgid ""
+"なに～～っ！\n"
+"あいつが値段交渉に応じたって？"
+msgstr ""
+
+msgctxt "1541"
+msgid "スゴイ執念だなあ、俺には真似できないよ。"
+msgstr ""
+
+msgctxt "1542"
+msgid ""
+"よく、あいつが折れたなあ……\n"
+"俺には真似できないよ。"
+msgstr ""
+
+msgctxt "1543"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1544"
+msgid ""
+"今日みたいに天気がいいと\n"
+"町の城壁の上から\n"
+"馬鹿でかい『ダームの塔』が見えるんだ。"
+msgstr ""
+
+msgctxt "1545"
+msgid ""
+"昔の人間は凄かったんだな。\n"
+"あんな、雲まで届くような塔を\n"
+"建てちまうなんて……。"
+msgstr ""
+
+msgctxt "1546"
+msgid ""
+"ダームの塔は、北にある村から\n"
+"山道を登っていけば辿り着くけど\n"
+"盗賊が根城にしてるらしいから\n"
+"近づかない方がいいぜ。"
+msgstr ""
+
+msgctxt "1547"
+msgid ""
+"そういや、あの塔を見てると\n"
+"なんだか寒気がしてくるんだよな。\n"
+"一体、どうしてなんだろう？"
+msgstr ""
+
+msgctxt "1548"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1549"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1550"
+msgid ""
+"北にある山道の向こうには\n"
+"『バギュ＝バデット』と呼ばれる\n"
+"スリバチ状の巨大な穴があります。"
+msgstr ""
+
+msgctxt "1551"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1552"
+msgid ""
+"近頃、町を騒がせている盗賊たちは\n"
+"そちらの方からやって来るみたいなんです。"
+msgstr ""
+
+msgctxt "1553"
+msgid ""
+"城壁で魔物は防げても、\n"
+"盗賊には通じないみたいですね。"
+msgstr ""
+
+msgctxt "1554"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1555"
+msgid ""
+"ひょっとしたら、彼女のハーモニカも、\n"
+"噂の盗賊に奪われたのかもしれませんね。"
+msgstr ""
+
+msgctxt "1556"
+msgid ""
+"それにしても、盗まれるのは、\n"
+"銀でできた品物ばかり……。\n"
+"なにか意味があるんでしょうか？"
+msgstr ""
+
+msgctxt "1557"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1558"
+msgid ""
+"銀鉱山が閉鎖されてから\n"
+"物の値段が上がってしょうがないの。\n"
+"まったく、イヤになっちゃうわ。\n"
+""
+msgstr ""
+
+msgctxt "1559"
+msgid ""
+"でも銀が取れたって\n"
+"嵐の結界があるから\n"
+"貿易もできやしないけどね。"
+msgstr ""
+
+msgctxt "1560"
+msgid ""
+"欲しい物はたくさんあるけど、\n"
+"先立つものがなくっちゃね……。"
+msgstr ""
+
+msgctxt "1561"
+msgid "あ～あ、早く景気よくならないかしら。"
+msgstr ""
+
+msgctxt "1562"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1563"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1564"
+msgid ""
+"隻眼の男を見かけなかったか？\n"
+"ドニスって言うんだが……。"
+msgstr ""
+
+msgctxt "1565"
+msgid ""
+"あんちくしょう、\n"
+"浮かない顔をしてると思ったら\n"
+"仕事をサボってどこかに行きやがった。"
+msgstr ""
+
+msgctxt "1566"
+msgid ""
+"ドニスの野郎、\n"
+"まーたいなくなりやがった！"
+msgstr ""
+
+msgctxt "1567"
+msgid ""
+"奥さんに贈る指輪を\n"
+"失くしたっていうから\n"
+"大目に見てやったのに！"
+msgstr ""
+
+msgctxt "1568"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1569"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1570"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1571"
+msgid ""
+"ちょっと、そこをどいてくれ！\n"
+"怪我人が出たんだ。"
+msgstr ""
+
+msgctxt "1572"
+msgid ""
+"私か？\n"
+"私は医者のクラーゼだ。"
+msgstr ""
+
+msgctxt "1573"
+msgid ""
+"おい、邪魔をしないでくれ！\n"
+"私は本当にいそがしいんだ。"
+msgstr ""
+
+msgctxt "1574"
+msgid ""
+"こらこら、\n"
+"君が怪我をしたら診てあげるから、\n"
+"今は、ちょっとどいてくれ！"
+msgstr ""
+
+msgctxt "1575"
+msgid ""
+"早く行かねば間に合わ>2―<1―<1ん！\n"
+"私はこれで失礼する。"
+msgstr ""
+
+msgctxt "1576"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1577"
+msgid ""
+"ちょっと、そこをどいてくれ！\n"
+"今から往診に行くんだ。"
+msgstr ""
+
+msgctxt "1578"
+msgid ""
+"私か？\n"
+"私は医者のクラーゼだ。"
+msgstr ""
+
+msgctxt "1579"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1580"
+msgid ""
+"ちょっと、そこをどいてくれ！\n"
+"診察に来たんだ。"
+msgstr ""
+
+msgctxt "1581"
+msgid ""
+"私か？\n"
+"私は医者のクラーゼだ。"
+msgstr ""
+
+msgctxt "1582"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1583"
+msgid ""
+"今、診察中なんだ。\n"
+"ちょっと、黙っててくれ！\n"
+""
+msgstr ""
+
+msgctxt "1584"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1585"
+msgid ""
+"サラの店に行ってきたよ……\n"
+"あの若さで……何ともやり切れん。"
+msgstr ""
+
+msgctxt "1586"
+msgid ""
+"……せめてもの救いは、\n"
+"安らかな顔をしていたことかな。"
+msgstr ""
+
+msgctxt "1587"
+msgid ""
+"そう、まるで自分のなすべきことを\n"
+"果たし終えたかのような……。"
+msgstr ""
+
+msgctxt "1588"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1589"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1590"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1591"
+msgid ""
+"魔物が出現してから\n"
+"バルバドやラスティン村から\n"
+"多くの人間が移り住んできたのだ。"
+msgstr ""
+
+msgctxt "1592"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1593"
+msgid ""
+"たしかに、この町は城壁で守られているが\n"
+"このまま閉じこもるわけにもいかんだろう。\n"
+"何とか、魔物を一掃する方法はないものか……。"
+msgstr ""
+
+msgctxt "1594"
+msgid ""
+"魔物だけならともかく\n"
+"近ごろ、町で盗難騒ぎが相次いでいる。\n"
+"まったく……問題が山積みだ。"
+msgstr ""
+
+msgctxt "1595"
+msgid ""
+"占い師が殺された一件だが……\n"
+"犯人の手がかりは\n"
+"何ひとつ見つかっていないようだ。"
+msgstr ""
+
+msgctxt "1596"
+msgid ""
+"いずれにせよ、城壁に守られていても\n"
+"安心はできんと言うわけか……。"
+msgstr ""
+
+msgctxt "1597"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1598"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1599"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1600"
+msgid ""
+"ミネアの歴史は古いんですよ。\n"
+"城壁が築かれたのは、\n"
+"遥か昔のことだと言われています。"
+msgstr ""
+
+msgctxt "1601"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1602"
+msgid ""
+"あんな大きな石造りの壁を\n"
+"こしらえる事ができたのは、\n"
+"なんとも不思議ですけどねえ。"
+msgstr ""
+
+msgctxt "1603"
+msgid ""
+"あんな大きな壁、\n"
+"どうやって造ったんでしょうねえ。"
+msgstr ""
+
+msgctxt "1604"
+msgid ""
+"占い師の事件以来\n"
+"町の人たちは、\n"
+"不安に駆られているようです。"
+msgstr ""
+
+msgctxt "1605"
+msgid ""
+"無理もありませんわね。\n"
+"堅固な城壁も、中で起こる災厄までは\n"
+"防げませんから……。"
+msgstr ""
+
+msgctxt "1606"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1607"
+msgid ""
+"私の母は、\n"
+"バルバドに一人で暮らしている。"
+msgstr ""
+
+msgctxt "1608"
+msgid ""
+"あそこは城壁もなくて危ないから\n"
+"一緒に住もうと言ってるのだが、\n"
+"頑として聞き入れてくれないんだ……。"
+msgstr ""
+
+msgctxt "1609"
+msgid ""
+"住み慣れた家を離れたくないという\n"
+"気持ちも判るが……\n"
+"命には代えられないと思わないか？"
+msgstr ""
+
+msgctxt "1610"
+msgid "どうやって母を説得したものか……。"
+msgstr ""
+
+msgctxt "1611"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1612"
+msgid ""
+"魔物が出るようになってから\n"
+"子供たち全員に、\n"
+"門から出るのを禁止したんだけど……"
+msgstr ""
+
+msgctxt "1613"
+msgid ""
+"そろそろ城壁の中で遊ぶのに\n"
+"飽きてしまったみたい。\n"
+"無理もないわ、大人の私たちだって\n"
+"息が詰まりそうなんだもの……。"
+msgstr ""
+
+msgctxt "1614"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1615"
+msgid ""
+"城壁の外側の道はせまいから\n"
+"通るのに一苦労だわ。\n"
+"結界が起きる前は、採掘された銀を\n"
+"バルバドまで運ぶのに苦労したみたい。"
+msgstr ""
+
+msgctxt "1616"
+msgid ""
+"南門を造ろうにも、\n"
+"城壁が堅すぎて壊せなかったらしいの。\n"
+"今は魔物が出るから、逆に助かってるけどね。"
+msgstr ""
+
+msgctxt "1617"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1618"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1619"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1620"
+msgid ""
+"この町には、クラーゼ先生という\n"
+"名医がいらっしゃる。\n"
+"先生が調合された薬は、\n"
+"傷をたちまち治してしまうんじゃ。"
+msgstr ""
+
+msgctxt "1621"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1622"
+msgid ""
+"急病人が出たら、\n"
+"すぐに駆けつけてくれるしのぉ。\n"
+"ほんに、ありがたいお人じゃよ。"
+msgstr ""
+
+msgctxt "1623"
+msgid ""
+"まあ、どこにでも駆けつけてくれるかわりに、\n"
+"滅多に病院におらんのが玉にキズじゃがの。"
+msgstr ""
+
+msgctxt "1624"
+msgid ""
+"今からクラーゼ先生が\n"
+"診察に来てくださるのじゃ。\n"
+"いつでも、すぐに駆けつけてくれるしのぉ。\n"
+"ほんに、ありがたいお人じゃよ。"
+msgstr ""
+
+msgctxt "1625"
+msgid ""
+"先生が調合された薬は、\n"
+"傷をたちまち治してしまうんじゃ。"
+msgstr ""
+
+msgctxt "1626"
+msgid ""
+"先生のおかげで安心して暮らせるわい。\n"
+"ほんに、ありがたいお人じゃよ。"
+msgstr ""
+
+msgctxt "1627"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1628"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1629"
+msgid ""
+"恐ろしいことが起きたものじゃ。\n"
+"少々風変わりだったが、\n"
+"気立てのよい娘さんじゃったのに……。"
+msgstr ""
+
+msgctxt "1630"
+msgid ""
+"そういえば……あの娘には\n"
+"どこかに親戚がいると聞き及んでおる。"
+msgstr ""
+
+msgctxt "1631"
+msgid ""
+"一体どこに住んでいるのやら……\n"
+"悲しい知らせであっても、伝えてやらんとな。"
+msgstr ""
+
+msgctxt "1632"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1633"
+msgid ""
+"あの娘の親戚に知らせなければ\n"
+"ならないと思っておったが……\n"
+"そうか、あんたが伝えてくれたのか。"
+msgstr ""
+
+msgctxt "1634"
+msgid ""
+"その親戚も、辛かったじゃろうが、\n"
+"あんたが知らせた事に感謝しとると思うぞ。"
+msgstr ""
+
+msgctxt "1635"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1636"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1637"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1638"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1639"
+msgid ""
+"鉱山には、絶対に行かない方がいいぞ。\n"
+"あそこの魔物の強さは半端じゃない。\n"
+"あっという間にやられるのがオチさ。"
+msgstr ""
+
+msgctxt "1640"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1641"
+msgid ""
+"幸いなことに、鉱山の魔物は\n"
+"外に出てくるつもりはないらしい。\n"
+"日の光が苦手って話もある。"
+msgstr ""
+
+msgctxt "1642"
+msgid ""
+"まあ、あんな所に用事のある\n"
+"ヤツなんていないと思うけどね。"
+msgstr ""
+
+msgctxt "1643"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1644"
+msgid ""
+"鉱山は真っ暗で、やたらと入り組んでいる。\n"
+"銀を求めて、手当たりしだいに掘り進んだ結果さ。"
+msgstr ""
+
+msgctxt "1645"
+msgid ""
+"内部は、よほど慣れたやつでも\n"
+"自分の居場所を見失うような迷宮だ。\n"
+"おまけに今は、魔物の巣だしな。"
+msgstr ""
+
+msgctxt "1646"
+msgid ""
+"とにかく視界が限られてるから、\n"
+"思わぬところから魔物が襲ってきやがる。"
+msgstr ""
+
+msgctxt "1647"
+msgid ""
+"もし、廃坑に行くなら、\n"
+"相当の実力と覚悟が必要だぜ。"
+msgstr ""
+
+msgctxt "1648"
+msgid ""
+"魔物だらけの廃坑の\n"
+"一番奥まで行ってきたのか……。"
+msgstr ""
+
+msgctxt "1649"
+msgid "あんた、スゴイな。"
+msgstr ""
+
+msgctxt "1650"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1651"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1652"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1653"
+msgid ""
+"私の父は、北にあるゼピック村で\n"
+"村長をやっています。"
+msgstr ""
+
+msgctxt "1654"
+msgid ""
+"最近、何だか深刻な悩みを\n"
+"抱えているみたいなんです。"
+msgstr ""
+
+msgctxt "1655"
+msgid ""
+"この前会ったら\n"
+"『村の者にはとても話せん』と\n"
+"こぼしていました……。"
+msgstr ""
+
+msgctxt "1656"
+msgid ""
+"どうかお願いします。\n"
+"ゼピック村にいくことがあったら\n"
+"父の相談に乗ってあげてくれませんか？"
+msgstr ""
+
+msgctxt "1657"
+msgid ""
+"あんな父は初めてです……\n"
+"いったい、何があったのかしら？"
+msgstr ""
+
+msgctxt "1658"
+msgid ""
+"どうかお願いします。\n"
+"ゼピック村にいくことがあったら\n"
+"父の相談に乗ってあげてくれませんか？"
+msgstr ""
+
+msgctxt "1659"
+msgid ""
+"ゼピック村の父から話を聞きました。\n"
+"あなたが銀の鈴を\n"
+"取り戻してくださったんですってね。"
+msgstr ""
+
+msgctxt "1660"
+msgid ""
+"私からも礼を言わせてください。\n"
+"本当にありがとうございました。"
+msgstr ""
+
+msgctxt "1661"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1662"
+msgid ""
+"私たちはラスティン村に住んでいました。\n"
+"村が……魔物の群れに滅ぼされるまでは……。"
+msgstr ""
+
+msgctxt "1663"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1664"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1665"
+msgid ""
+"夕暮れ時に廃坑から出てくる\n"
+"コウモリは普通じゃない……\n"
+"恐ろしく獰猛で、人や家畜を襲うんだ。"
+msgstr ""
+
+msgctxt "1666"
+msgid ""
+"わしらが住んでいたラスティン村は\n"
+"奴らのせいで……。"
+msgstr ""
+
+msgctxt "1667"
+msgid ""
+"コウモリの親玉を倒してくれたのか。\n"
+"ありがとう……死んでいった\n"
+"ラスティン村の連中も浮かばれるだろう。"
+msgstr ""
+
+msgctxt "1668"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1669"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1670"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1671"
+msgid ""
+"元いたお家に帰りたいって言うと\n"
+"ママもおじいちゃんも、悲しい顔をするの。\n"
+"どーしてかなぁ……？"
+msgstr ""
+
+msgctxt "1672"
+msgid ""
+"コウモリがいなくなれば\n"
+"前の家に、帰ることができるのかなぁ？"
+msgstr ""
+
+msgctxt "1673"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1674"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1675"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1676"
+msgid ""
+"ラスティン村が滅ぼされて\n"
+"この町に移り住んできた時に\n"
+"詩人さんの曲には元気付けられたものさ。"
+msgstr ""
+
+msgctxt "1677"
+msgid ""
+"恩返しに、何とかして\n"
+"ハーモニカを見つけてやりたいが……。"
+msgstr ""
+
+msgctxt "1678"
+msgid ""
+"そういえば、あのハーモニカも\n"
+"銀で出来ていたそうじゃないか？\n"
+"盗賊騒ぎと、何か関係があるかもしれんな。"
+msgstr ""
+
+msgctxt "1679"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1680"
+msgid ""
+"あの曲を聞くと、心がスッキリして\n"
+"生きる力が湧いてくる気がするんです。\n"
+"もう一度、聞いてみたいものだわ……。"
+msgstr ""
+
+msgctxt "1681"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1682"
+msgid ""
+"お姉ちゃんのハーモニカ、大好き☆\n"
+"はやく見つかるといいね！"
+msgstr ""
+
+msgctxt "1683"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1684"
+msgid ""
+"俺は銀鉱山で働いていたんだ。\n"
+"だが半年前、坑道の奥から魔物が\n"
+"ウジャウジャと湧き出してきやがった！"
+msgstr ""
+
+msgctxt "1685"
+msgid ""
+"奴らのせいで鉱山は閉鎖。\n"
+"これが呑まずに、いられるかっての！"
+msgstr ""
+
+msgctxt "1686"
+msgid "くっそ～、魔物の野郎ぶっ殺してやる～～！"
+msgstr ""
+
+msgctxt "1687"
+msgid ""
+"……って言っても、\n"
+"あんなに視界が悪くちゃ返り討ちだよなあ。"
+msgstr ""
+
+msgctxt "1688"
+msgid ""
+"が～～～～！\n"
+"これが呑まずにいられるかっての！"
+msgstr ""
+
+msgctxt "1689"
+msgid ""
+"なに！　鉱山の奥までいってきた？\n"
+"……じゃあ、魔物は？"
+msgstr ""
+
+msgctxt "1690"
+msgid "……うようよいたかあ、そうだよな～。"
+msgstr ""
+
+msgctxt "1691"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1692"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1693"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1694"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1695"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1696"
+msgid ""
+"城壁の隅で、ハーモニカを吹いている\n"
+"女の吟遊詩人を知ってるかい？"
+msgstr ""
+
+msgctxt "1697"
+msgid ""
+"本人も美人だけど、奏でる曲も\n"
+"うっとりするほど綺麗なんだ。"
+msgstr ""
+
+msgctxt "1698"
+msgid ""
+"でも、ここしばらく\n"
+"あの澄んだ音色を聴いてない……。"
+msgstr ""
+
+msgctxt "1699"
+msgid ""
+"見てるだけでも目の保養になるけど、\n"
+"あの音色がまたいいんだよなあ。"
+msgstr ""
+
+msgctxt "1700"
+msgid ""
+"吟遊詩人を、城壁の上で見たよ。\n"
+"悲しそうな顔をして\n"
+"山の方を眺めていた……。"
+msgstr ""
+
+msgctxt "1701"
+msgid ""
+"話しかけてみたいんだけど\n"
+"なんだか近寄りがたい雰囲気なんだ。"
+msgstr ""
+
+msgctxt "1702"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1703"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1704"
+msgid ""
+"かっこいい男の人を見かけたの！\n"
+"真っ黒なマントが良く似合う\n"
+"ハンサムな人だったけど……"
+msgstr ""
+
+msgctxt "1705"
+msgid ""
+"なんだか恐い目をしてたから\n"
+"話しかけられなかったわ……。"
+msgstr ""
+
+msgctxt "1706"
+msgid ""
+"う～～ん。\n"
+"あなたもなかなかなんだけど、\n"
+"年下じゃあねえ……。"
+msgstr ""
+
+msgctxt "1707"
+msgid "お隣さん……可哀想に……。"
+msgstr ""
+
+msgctxt "1708"
+msgid ""
+"前に見た、真っ黒なマントをまとっていた人も\n"
+"ハンサムだったけど、\n"
+"あなたもなかなかイイ男じゃない。"
+msgstr ""
+
+msgctxt "1709"
+msgid "でも……私より年下なのね……。"
+msgstr ""
+
+msgctxt "1710"
+msgid ""
+"あら、少し見ない間に、\n"
+"なんだか逞しくなったわね。"
+msgstr ""
+
+msgctxt "1711"
+msgid "……もう、男の子扱いは失礼かな。"
+msgstr ""
+
+msgctxt "1712"
+msgid ""
+"誰のために頑張ってるか知らないけど、\n"
+"カッコイイわよ。"
+msgstr ""
+
+msgctxt "1713"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1714"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1715"
+msgid ""
+"よう、アドルじゃねえか！\n"
+"覚えてないか、バルバドの倉庫で会ったろ？"
+msgstr ""
+
+msgctxt "1716"
+msgid ""
+"別に遊びに来たワケじゃねぇぜ。\n"
+"自警団の用事で来たんだ。"
+msgstr ""
+
+msgctxt "1717"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1718"
+msgid ""
+"そういえば、スラフが\n"
+"あんたのことを心配してたぞ。"
+msgstr ""
+
+msgctxt "1719"
+msgid ""
+"たまには顔を出してやんなよ。\n"
+"アイツも、よろこぶぜ。"
+msgstr ""
+
+msgctxt "1720"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1721"
+msgid ""
+"よう、アドルじゃねえか！\n"
+"覚えてないか、バルバドの倉庫で会ったろ？"
+msgstr ""
+
+msgctxt "1722"
+msgid ""
+"別に遊びに来たワケじゃねぇぜ。\n"
+"自警団の用事で来たんだ。"
+msgstr ""
+
+msgctxt "1723"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1724"
+msgid ""
+"なんだか、こっちでは大変なことが\n"
+"起きたらしいな……。"
+msgstr ""
+
+msgctxt "1725"
+msgid ""
+"城壁があってさえ、この体たらくだ。\n"
+"俺達はもっと気が抜けねえよ。"
+msgstr ""
+
+msgctxt "1726"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1727"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1728"
+msgid "ングッ、ングッ、ングッ、ングッ……。"
+msgstr ""
+
+msgctxt "1729"
+msgid "ぷはぁ～～～～っ！"
+msgstr ""
+
+msgctxt "1730"
+msgid "ふーっ、五臓六腑にしみわたるのぉ。"
+msgstr ""
+
+msgctxt "1731"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1732"
+msgid ""
+"よっ、あんちゃん。\n"
+"あんたも一杯どうだい？"
+msgstr ""
+
+msgctxt "1733"
+msgid ""
+"未成年？  １７才……若いなぁ。\n"
+"わいが１７の頃は何してたやろ？\n"
+"人間、年をくうのは、はやいもんやなぁ。"
+msgstr ""
+
+msgctxt "1734"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1735"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1736"
+msgid "占いの店には寄ってみましたか？"
+msgstr ""
+
+msgctxt "1737"
+msgid ""
+"あるじは若い女性ですが、\n"
+"占いの腕は確かです。\n"
+"進むべき道がわからなくなったら\n"
+"相談しに行くといいでしょう。"
+msgstr ""
+
+msgctxt "1738"
+msgid ""
+"サラが話していた旅の剣士殿とは\n"
+"あなたのことだったのですね。"
+msgstr ""
+
+msgctxt "1739"
+msgid ""
+"サラは、この国で起こりつつある災いを\n"
+"なんとか防ごうとしているようなのです。\n"
+"どうか、彼女の期待に応えてあげてください。"
+msgstr ""
+
+msgctxt "1740"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1741"
+msgid "オイラの仕事は、エステリアの名所ガイド。"
+msgstr ""
+
+msgctxt "1742"
+msgid "嵐の結界と魔物のせいで、ただいま失業中さ。"
+msgstr ""
+
+msgctxt "1743"
+msgid ""
+"……そういや、嵐の結界が起きる前に\n"
+"妙なじいさんを山の遺跡に案内したんだ。"
+msgstr ""
+
+msgctxt "1744"
+msgid ""
+"なんでも学者らしくて\n"
+"ダームの塔にも行くとか言ってたなぁ。\n"
+"無事でいりゃいいけど……。"
+msgstr ""
+
+msgctxt "1745"
+msgid "はぐれちまったけど、あのじいさん大丈夫かな？"
+msgstr ""
+
+msgctxt "1746"
+msgid ""
+"ダームの塔に、ホワイトフォーンの砂浜。\n"
+"古代の神殿に、バギュ＝バデット。"
+msgstr ""
+
+msgctxt "1747"
+msgid ""
+"この島でガイドをすれば、\n"
+"食いっぱぐれることはないと思ったけど\n"
+"肝心の旅行客が来ないんじゃなぁ……。"
+msgstr ""
+
+msgctxt "1748"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1749"
+msgid ""
+"いらっしゃい。\n"
+"あら、初めて見る顔ね？"
+msgstr ""
+
+msgctxt "1750"
+msgid ""
+"街にいる限りは安全よ、旅人さん。\n"
+"たっぷり楽しんで、憂さを晴らしてね。"
+msgstr ""
+
+msgctxt "1751"
+msgid ""
+"占い師の姐さんは気の毒だったねえ。\n"
+"まだ、あんなに若いのにさ……。"
+msgstr ""
+
+msgctxt "1752"
+msgid ""
+"ここに来るお客さんたちの顔も\n"
+"日増しに暗くなっていく一方だよ。\n"
+"なにか、明るい話題は無いもんかねぇ。"
+msgstr ""
+
+msgctxt "1753"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1754"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1755"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1756"
+msgid ""
+"ワシがどこで怪我したかだと？\n"
+"家にいたら、何者かに襲われたのじゃ！"
+msgstr ""
+
+msgctxt "1757"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1758"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1759"
+msgid ""
+"後ろから殴られたので、\n"
+"顔までは判らなかったが……\n"
+"あれが噂の盗賊に違いない！"
+msgstr ""
+
+msgctxt "1760"
+msgid ""
+"おかげで古くから伝わる\n"
+"銀色の盾を盗まれてしもうた……。"
+msgstr ""
+
+msgctxt "1761"
+msgid ""
+"まぁ、昔から物置の隅に\n"
+"転がしてあったくらいだし\n"
+"高価な品ではないはずじゃが……。"
+msgstr ""
+
+msgctxt "1762"
+msgid ""
+"魔物に盗賊……\n"
+"まったく物騒になったもんじゃ。"
+msgstr ""
+
+msgctxt "1763"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1764"
+msgid "その盾は、ワシの家から盗まれた物……。"
+msgstr ""
+
+msgctxt "1765"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1766"
+msgid ""
+"……なんと、\n"
+"神殿の地下に隠されておったとな！\n"
+"不思議なこともあるもんじゃな……。"
+msgstr ""
+
+msgctxt "1767"
+msgid "…………。"
+msgstr ""
+
+msgctxt "1768"
+msgid ""
+"お若いの、よければその盾は\n"
+"そのまま使うてくださらんか？"
+msgstr ""
+
+msgctxt "1769"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1770"
+msgid ""
+"なんとなく、あんたの手に渡るべく\n"
+"ワシの家に伝えられていたような\n"
+"気がするのじゃよ……。"
+msgstr ""
+
+msgctxt "1771"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1772"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1773"
+msgid ""
+"その盾は、倉庫の中なんぞより、\n"
+"あんたの手の中の方が相応しいだろうよ。"
+msgstr ""
+
+msgctxt "1774"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1775"
+msgid "うむ。あんたに、しっくり馴染んどる。"
+msgstr ""
+
+msgctxt "1776"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1777"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1778"
+msgid ""
+"草原にいる野犬『リーボル』は\n"
+"とにかく足が速いから気をつけなよ。"
+msgstr ""
+
+msgctxt "1779"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1780"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1781"
+msgid "僕も奴らに囲まれて、この体たらくさ。"
+msgstr ""
+
+msgctxt "1782"
+msgid ""
+"それにしても……草原にある\n"
+"大木の近くに逃げこんだら、\n"
+"リーボルが追ってこなくなったんだ。"
+msgstr ""
+
+msgctxt "1783"
+msgid ""
+"おかげでケガ程度で助かったけど\n"
+"あれはいったい、何だったんだ……？"
+msgstr ""
+
+msgctxt "1784"
+msgid "まあ、なんにせよ命拾いできてよかったよ。"
+msgstr ""
+
+msgctxt "1785"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1786"
+msgid "むにゃむにゃ……。"
+msgstr ""
+
+msgctxt "1787"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1788"
+msgid "…………。"
+msgstr ""
+
+msgctxt "1789"
+msgid "デヘヘ、まいったなぁ……。"
+msgstr ""
+
+msgctxt "1790"
+msgid "………………。"
+msgstr ""
+
+msgctxt "1791"
+msgid "すーすー……。"
+msgstr ""
+
+msgctxt "1792"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1793"
+msgid "うーん、うーん……。"
+msgstr ""
+
+msgctxt "1794"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1795"
+msgid "たすけてくれぇ……犬が、リーボルがぁ……。"
+msgstr ""
+
+msgctxt "1796"
+msgid "…………。"
+msgstr ""
+
+msgctxt "1797"
+msgid "スカーッ……。"
+msgstr ""
+
+msgctxt "1798"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1799"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1800"
+msgid "あ、あなたは……誰……？"
+msgstr ""
+
+msgctxt "1801"
+msgid ""
+"アドルは自分の名前を名乗り\n"
+"神殿を訪れた事情を説明した。"
+msgstr ""
+
+msgctxt "1802"
+msgid ""
+"私の名前は……フィーナ。\n"
+"ずっと前から、ここに閉じこめられていました。"
+msgstr ""
+
+msgctxt "1803"
+msgid ""
+"私をここへ閉じこめたのは\n"
+"黒いマントをまとった男の人……。"
+msgstr ""
+
+msgctxt "1804"
+msgid "魔物を手足のように操る、とても恐ろしい人です。"
+msgstr ""
+
+msgctxt "1805"
+msgid ""
+"ここにいては、あなたも危険です。\n"
+"私の事はいいから……早く行ってください。"
+msgstr ""
+
+msgctxt "1806"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1807"
+msgid "彼女を連れて脱出する"
+msgstr ""
+
+msgctxt "1808"
+msgid "後で必ず助けに来る"
+msgstr ""
+
+msgctxt "1809"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1810"
+msgid "私を……助けてくれるんですか？"
+msgstr ""
+
+msgctxt "1811"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1812"
+msgid ""
+"信じられない……\n"
+"ここから出られるなんて……。"
+msgstr ""
+
+msgctxt "1813"
+msgid "アドル……さん。"
+msgstr ""
+
+msgctxt "1814"
+msgid "ありがとうございます……。"
+msgstr ""
+
+msgctxt "1815"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1816"
+msgid ""
+"囚われの少女フィーナを\n"
+"安全な場所まで\n"
+"護衛することにした。"
+msgstr ""
+
+msgctxt "1817"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1818"
+msgid ""
+"私のことは……\n"
+"どうか気にしないでください。"
+msgstr ""
+
+msgctxt "1819"
+msgid ""
+"それよりも、何かを探していると\n"
+"おっしゃっていましたね？"
+msgstr ""
+
+msgctxt "1820"
+msgid ""
+"この神殿の地下には、さまざまな仕掛けが\n"
+"施されているようです。"
+msgstr ""
+
+msgctxt "1821"
+msgid ""
+"仕掛けを見破らなければ\n"
+"入ることの出来ない場所もあるとか……。"
+msgstr ""
+
+msgctxt "1822"
+msgid "これを持っていってください。"
+msgstr ""
+
+msgctxt "1823"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1824"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1825"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1826"
+msgid ""
+"その仮面は、黒いマントの人が\n"
+"この部屋にしまいこんだもの……。"
+msgstr ""
+
+msgctxt "1827"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1828"
+msgid "きっと何かの役に立つと思います。"
+msgstr ""
+
+msgctxt "1829"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1830"
+msgid ""
+"アドルさん……\n"
+"早くここを離れてください。"
+msgstr ""
+
+msgctxt "1831"
+msgid "見張りの魔物に見つかったら大変です。"
+msgstr ""
+
+msgctxt "1832"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1833"
+msgid "アドルさん、どうかご無事で……。"
+msgstr ""
+
+msgctxt "1834"
+msgid "アドルさん、無事だったのですね？"
+msgstr ""
+
+msgctxt "1835"
+msgid "よかった……。"
+msgstr ""
+
+msgctxt "1836"
+msgid "お探しのものは見つかったのですね。"
+msgstr ""
+
+msgctxt "1837"
+msgid "……えっ、私を連れ出してくれるのですか？"
+msgstr ""
+
+msgctxt "1838"
+msgid ""
+"牢に囚われていた少女のことが\n"
+"気にかかる。"
+msgstr ""
+
+msgctxt "1839"
+msgid "彼女を放っておくことはできない。"
+msgstr ""
+
+msgctxt "1840"
+msgid ""
+"フィーナは付いて来ていない。\n"
+"置いてきてしまったようだ。"
+msgstr ""
+
+msgctxt "1841"
+msgid ""
+"彼女を置いたまま\n"
+"一人で帰ることはできない。"
+msgstr ""
+
+msgctxt "1842"
+msgid ""
+"どうやらこの品物は\n"
+"二人の人間を運ぶだけの力を\n"
+"持っていないようだ。"
+msgstr ""
+
+msgctxt "1843"
+msgid ""
+"彼女を置いたまま\n"
+"一人で帰ることはできない。"
+msgstr ""
+
+msgctxt "1844"
+msgid "地下へと続く階段がある。"
+msgstr ""
+
+msgctxt "1845"
+msgid ""
+"これ以上、彼女を危険な場所へ\n"
+"連れていくわけにはいかない。"
+msgstr ""
+
+msgctxt "1846"
+msgid "地下へと続く階段がある。"
+msgstr ""
+
+msgctxt "1847"
+msgid "彼女を置いていくわけにはいかない。"
+msgstr ""
+
+msgctxt "1848"
+msgid "壁の裏に隠された部屋を見つけた。"
+msgstr ""
+
+msgctxt "1849"
+msgid ""
+"その仮面は、黒いマントの人が\n"
+"この部屋にしまいこんだもの……。"
+msgstr ""
+
+msgctxt "1850"
+msgid "きっと何かの役に立つと思います。"
+msgstr ""
+
+msgctxt "1851"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1852"
+msgid "行き止まりに入ってしまいましたね……。"
+msgstr ""
+
+msgctxt "1853"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1854"
+msgid ""
+"あの…アドルさん……\n"
+"せまいです……。"
+msgstr ""
+
+msgctxt "1855"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1856"
+msgid "行き止まりに入ってしまいましたね……。"
+msgstr ""
+
+msgctxt "1857"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1858"
+msgid ""
+"あの…アドルさん……\n"
+"その仮面……ちょっと怖いです。"
+msgstr ""
+
+msgctxt "1859"
+msgid ""
+"彼女は付いて来ていない。\n"
+"置いてきてしまったようだ。"
+msgstr ""
+
+msgctxt "1860"
+msgid ""
+"彼女は付いて来ていない。\n"
+"先ほどの部屋から\n"
+"不安げにこちらを見ている。"
+msgstr ""
+
+msgctxt "1861"
+msgid "この先は……怖い……。"
+msgstr ""
+
+msgctxt "1862"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1863"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1864"
+msgid "こんな所に、女連れで来るもんじゃないな。"
+msgstr ""
+
+msgctxt "1865"
+msgid ""
+"しかし、大丈夫か？\n"
+"そちらのお嬢さんは、ずいぶんと顔色が悪そうだが……。"
+msgstr ""
+
+msgctxt "1866"
+msgid "ふもとの村に、ジェバという婆さんがいる。"
+msgstr ""
+
+msgctxt "1867"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1868"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1869"
+msgid ""
+"……なに、知ってるって？\n"
+"ならば話は早い。\n"
+"わけを話して、その子を休ませてやれ。"
+msgstr ""
+
+msgctxt "1870"
+msgid ""
+"何をグズグズしている。\n"
+"早く連れていってやらないか！"
+msgstr ""
+
+msgctxt "1871"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1872"
+msgid "おおっ、こりゃむさ苦しい所へようこそ。"
+msgstr ""
+
+msgctxt "1873"
+msgid ""
+"しかしお嬢さん。\n"
+"聞いてないのかい？"
+msgstr ""
+
+msgctxt "1874"
+msgid "ここは悪名高い、盗賊の砦だよ。"
+msgstr ""
+
+msgctxt "1875"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1876"
+msgid ""
+"こんな場所に連れてくるような\n"
+"薄情なニーチャンは放っておいて\n"
+"オレとお茶でも飲まない？"
+msgstr ""
+
+msgctxt "1877"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1878"
+msgid "金と女を置いていけッ！"
+msgstr ""
+
+msgctxt "1879"
+msgid ""
+"なーんて言われたらどうするんだ？\n"
+"まったく無防備ったらありゃしない。"
+msgstr ""
+
+msgctxt "1880"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1881"
+msgid ""
+"安心しな。\n"
+"俺たちは悪どい金持ちしか相手にしねぇんだ。"
+msgstr ""
+
+msgctxt "1882"
+msgid "…………。"
+msgstr ""
+
+msgctxt "1883"
+msgid "だ、大丈夫です……アドルさん。"
+msgstr ""
+
+msgctxt "1884"
+msgid ""
+"ちょっと、疲れただけですから……。\n"
+""
+msgstr ""
+
+msgctxt "1885"
+msgid "気にしないで……くださ…い…"
+msgstr ""
+
+msgctxt "1886"
+msgid ""
+"フィーナは目を閉じて>2ぐったりしている。\n"
+"額に触ってみると、すごい熱だ。"
+msgstr ""
+
+msgctxt "1887"
+msgid "幸い、近くにジェバの家がある。"
+msgstr ""
+
+msgctxt "1888"
+msgid ""
+"アドルはフィーナを背負い、\n"
+"ジェバの家を目指すことにした。"
+msgstr ""
+
+msgctxt "1889"
+msgid "……よく寝ているようだね。"
+msgstr ""
+
+msgctxt "1890"
+msgid ""
+"薬も効いているみたいだし、\n"
+"一晩も寝れば、元気になるだろう。"
+msgstr ""
+
+msgctxt "1891"
+msgid "しかし……聞けば聞くほど不思議な話だね。"
+msgstr ""
+
+msgctxt "1892"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1893"
+msgid ""
+"永きに渡って封印されていた地下の聖域に\n"
+"いつの間にか魔物が巣くっていたとは……。"
+msgstr ""
+
+msgctxt "1894"
+msgid ""
+"それに、あの子は\n"
+"聖域にとらわれていたという……。\n"
+"うーん……わからないことだらけだね。"
+msgstr ""
+
+msgctxt "1895"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1896"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1897"
+msgid ""
+"薬が効いたのか、\n"
+"フィーナは落ち着いた寝息を\n"
+"立てている……。"
+msgstr ""
+
+msgctxt "1898"
+msgid "あの子のことは、私が面倒を見ておくよ。"
+msgstr ""
+
+msgctxt "1899"
+msgid ""
+"心配しなくてもいい。\n"
+"しばらく経ったら目を醒ますだろうさ。"
+msgstr ""
+
+msgctxt "1900"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1901"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1902"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1903"
+msgid "アドルさん……。"
+msgstr ""
+
+msgctxt "1904"
+msgid ""
+"地下牢から救い出してくれて\n"
+"本当にありがとうございました。\n"
+"とても……うれしかった。"
+msgstr ""
+
+msgctxt "1905"
+msgid ""
+"私は……自分の名前が\n"
+"フィーナであるということしか覚えていません。"
+msgstr ""
+
+msgctxt "1906"
+msgid ""
+"どんな暮らしをしていたのか……\n"
+"どうして神殿に囚われていたのか……。"
+msgstr ""
+
+msgctxt "1907"
+msgid "……なにひとつ、わからないんです。"
+msgstr ""
+
+msgctxt "1908"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1909"
+msgid "いったい……私は……。"
+msgstr ""
+
+msgctxt "1910"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1911"
+msgid ""
+"……ここは素敵な村ですね。\n"
+"ジェバさんを始め、みなさん\n"
+"とっても親切な方々ばかりなんです。"
+msgstr ""
+
+msgctxt "1912"
+msgid ""
+"こんなに安らいだ気分になったのは\n"
+"ずいぶん久しぶりのような気がします。"
+msgstr ""
+
+msgctxt "1913"
+msgid ""
+"記憶なんて、戻らなくてもいい……\n"
+"このまま平和に暮らすことができれば……。"
+msgstr ""
+
+msgctxt "1914"
+msgid "時々……そんな風に考えてしまうんです。"
+msgstr ""
+
+msgctxt "1915"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1916"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1917"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1918"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1919"
+msgid ""
+"お前さん、エステリアの人間じゃないね？\n"
+"珍しいこともあるものだ……\n"
+"『嵐の結界』が取りこぼしをするとはね。"
+msgstr ""
+
+msgctxt "1920"
+msgid ""
+"もし、己の道に迷っているのなら\n"
+"ミネアの町にいる占い師を訪ねるといい。\n"
+"何らかの助言をしてくれるだろう。"
+msgstr ""
+
+msgctxt "1921"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1922"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1923"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1924"
+msgid "そのクリスタルはサラの……。"
+msgstr ""
+
+msgctxt "1925"
+msgid "そうか、お前さんがサラの見出した剣士だね。"
+msgstr ""
+
+msgctxt "1926"
+msgid ""
+"神殿にある『イースの本』を\n"
+"探しに行くつもりなのか……。"
+msgstr ""
+
+msgctxt "1927"
+msgid "ならば、この鍵を持ってお行き。"
+msgstr ""
+
+msgctxt "1928"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1929"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1930"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1931"
+msgid ""
+"山にある神殿は、はるか昔には\n"
+"『サルモンの神殿』と呼ばれていたそうだ。"
+msgstr ""
+
+msgctxt "1932"
+msgid ""
+"イースの本があるとしたら……\n"
+"おそらく、聖域である#02神殿の地下#00だろう。"
+msgstr ""
+
+msgctxt "1933"
+msgid ""
+"地下への入口は封印されているが\n"
+"そのクリスタルが道を開いてくれるはずさ。"
+msgstr ""
+
+msgctxt "1934"
+msgid ""
+"とにかく、何が起こるか判らない。\n"
+"万全の準備をしてから出発することだね。"
+msgstr ""
+
+msgctxt "1935"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1936"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1937"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1938"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1939"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1940"
+msgid "アドルさん……！"
+msgstr ""
+
+msgctxt "1941"
+msgid ""
+"この子のことだったら心配はいらないよ。\n"
+"もうすっかり元気なもんさ。"
+msgstr ""
+
+msgctxt "1942"
+msgid "疲れのせいで、熱を出しただけみたいだね。"
+msgstr ""
+
+msgctxt "1943"
+msgid "……ごめんなさい、アドルさん。"
+msgstr ""
+
+msgctxt "1944"
+msgid "お礼も言わないうちに倒れてしまって……。"
+msgstr ""
+
+msgctxt "1945"
+msgid ""
+"助け出してくれて……\n"
+"本当に、ありがとうございました。"
+msgstr ""
+
+msgctxt "1946"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1947"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1948"
+msgid "どうしますか？"
+msgstr ""
+
+msgctxt "1949"
+msgid "ジェバと話す"
+msgstr ""
+
+msgctxt "1950"
+msgid "フィーナと話す"
+msgstr ""
+
+msgctxt "1951"
+msgid "話をやめる"
+msgstr ""
+
+msgctxt "1952"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1953"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1954"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1955"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1956"
+msgid "この子は、しばらく私が預かることにするよ。"
+msgstr ""
+
+msgctxt "1957"
+msgid ""
+"どうやら、怪しげな連中が\n"
+"付け狙っているみたいだからね。"
+msgstr ""
+
+msgctxt "1958"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1959"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1960"
+msgid ""
+"そうかい……\n"
+"本当に、神殿でイースの本を発見したんだね。"
+msgstr ""
+
+msgctxt "1961"
+msgid "ジェバは少し寂しそうな眼をした。"
+msgstr ""
+
+msgctxt "1962"
+msgid "運命の糸車は……回り始めたのか……。"
+msgstr ""
+
+msgctxt "1963"
+msgid "…………。"
+msgstr ""
+
+msgctxt "1964"
+msgid ""
+"……よく頑張ったね。\n"
+"さあ、早くその本をサラに届けておやり。"
+msgstr ""
+
+msgctxt "1965"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1966"
+msgid ""
+"おや、どうしたんだい。\n"
+"あんた、すこし顔色が悪いよ？"
+msgstr ""
+
+msgctxt "1967"
+msgid "アドルは、サラの死をジェバに伝えた。"
+msgstr ""
+
+msgctxt "1968"
+msgid "…………。"
+msgstr ""
+
+msgctxt "1969"
+msgid "……そうかい。"
+msgstr ""
+
+msgctxt "1970"
+msgid "なんとなくだが……嫌な予感はしていたさ。"
+msgstr ""
+
+msgctxt "1971"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1972"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1973"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1974"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1975"
+msgid ""
+"サラ自身も……おのれの運命を\n"
+"どこか悟っている様子があった……。"
+msgstr ""
+
+msgctxt "1976"
+msgid "…………。"
+msgstr ""
+
+msgctxt "1977"
+msgid ""
+"サラのことが気になるのかい？\n"
+"あの娘は、おのれの運命を十分に理解していたよ。"
+msgstr ""
+
+msgctxt "1978"
+msgid ""
+"悲しんでやる気持ちがあるのなら\n"
+"あの娘がやり残したことを手伝っておくれ。"
+msgstr ""
+
+msgctxt "1979"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1980"
+msgid "どうしますか？"
+msgstr ""
+
+msgctxt "1981"
+msgid "ジェバと話す"
+msgstr ""
+
+msgctxt "1982"
+msgid "フィーナと話す"
+msgstr ""
+
+msgctxt "1983"
+msgid "本を読んでもらう"
+msgstr ""
+
+msgctxt "1984"
+msgid "話をやめる"
+msgstr ""
+
+msgctxt "1985"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1986"
+msgid ""
+"……なぜ、あんな所に\n"
+"閉じこめられていたのか……。"
+msgstr ""
+
+msgctxt "1987"
+msgid "今の私には……分からないんです。"
+msgstr ""
+
+msgctxt "1988"
+msgid ""
+"私が覚えているのは、牢屋でのわずかな記憶と\n"
+"自分の名前だけ……。"
+msgstr ""
+
+msgctxt "1989"
+msgid ""
+"前のことを思いだそうとすると\n"
+"なんだか頭が痛いんです……。"
+msgstr ""
+
+msgctxt "1990"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1991"
+msgid ""
+"しばらくの間、ジェバさんの家に\n"
+"置いていただけることになりました。"
+msgstr ""
+
+msgctxt "1992"
+msgid ""
+"あの……お暇な時でいいから\n"
+"会いに来てくださると嬉しいです……。"
+msgstr ""
+
+msgctxt "1993"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1994"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1995"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1996"
+msgid ""
+"おや、あんたかい。\n"
+"フィーナなら、村の中を散歩しているはずだよ。\n"
+""
+msgstr ""
+
+msgctxt "1997"
+msgid ""
+"……どうしたんだい。\n"
+"あんた、すこし顔色が悪いよ？"
+msgstr ""
+
+msgctxt "1998"
+msgid "アドルは、サラの死をジェバに伝えた。"
+msgstr ""
+
+msgctxt "1999"
+msgid "…………。"
+msgstr ""
+
+msgctxt "2000"
+msgid "……そうかい。"
+msgstr ""
+
+msgctxt "2001"
+msgid "なんとなくだが……嫌な予感はしていたさ。"
+msgstr ""
+
+msgctxt "2002"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2003"
+msgid ""
+"サラ自身も……おのれの運命を\n"
+"どこか悟っている様子があった……。"
+msgstr ""
+
+msgctxt "2004"
+msgid "…………。"
+msgstr ""
+
+msgctxt "2005"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2006"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2007"
+msgid ""
+"サラのことが気になるのかい？\n"
+"あの娘は、おのれの運命を十分に理解していたよ。"
+msgstr ""
+
+msgctxt "2008"
+msgid ""
+"悲しんでやる気持ちがあるのなら\n"
+"あの娘がやり残したことを手伝っておくれ。"
+msgstr ""
+
+msgctxt "2009"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2010"
+msgid "どうしますか？"
+msgstr ""
+
+msgctxt "2011"
+msgid "ジェバと話す"
+msgstr ""
+
+msgctxt "2012"
+msgid "本を読んでもらう"
+msgstr ""
+
+msgctxt "2013"
+msgid "話をやめる"
+msgstr ""
+
+msgctxt "2014"
+msgid ""
+"……古代イース王国は、二人の女神と\n"
+"六人の神官によって治められていたという。"
+msgstr ""
+
+msgctxt "2015"
+msgid ""
+"私とサラは、神官トバの末裔にあたるのさ。\n"
+"とくに、サラは神官の力を強く受け継いでいた……。"
+msgstr ""
+
+msgctxt "2016"
+msgid ""
+"あの子の目には、迫りくる災いの正体が\n"
+"はっきりと映っていたのかもしれないねぇ……。"
+msgstr ""
+
+msgctxt "2017"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2018"
+msgid ""
+"……いつまでも、\n"
+"悲しんでいるわけにはいかないからね。"
+msgstr ""
+
+msgctxt "2019"
+msgid ""
+"サラの遺志を継ぐためにも……\n"
+"できる限りの協力をさせてもらうよ。"
+msgstr ""
+
+msgctxt "2020"
+msgid ""
+"何といっても、あんたは\n"
+"あの子が見出した剣士なんだ。"
+msgstr ""
+
+msgctxt "2021"
+msgid "さて……とりあえず『イースの本』だね。"
+msgstr ""
+
+msgctxt "2022"
+msgid ""
+"サラがいなくなった以上\n"
+"その古代文字を読めるのは、\n"
+"おそらく私だけだろう。"
+msgstr ""
+
+msgctxt "2023"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2024"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2025"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2026"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2027"
+msgid "どれを読むかね？"
+msgstr ""
+
+msgctxt "2028"
+msgid "ハダルの章"
+msgstr ""
+
+msgctxt "2029"
+msgid "トバの章"
+msgstr ""
+
+msgctxt "2030"
+msgid "ダビーの章"
+msgstr ""
+
+msgctxt "2031"
+msgid "読むのをやめる"
+msgstr ""
+
+msgctxt "2032"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2033"
+msgid "これが、神殿にあったものか……。"
+msgstr ""
+
+msgctxt "2034"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2035"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2036"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2037"
+msgid ""
+"これは、わがトバ家から失われたという\n"
+"イースの本じゃないか……。"
+msgstr ""
+
+msgctxt "2038"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2039"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2040"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2041"
+msgid ""
+"廃坑の奥……\n"
+"そんな所にあったのかい。"
+msgstr ""
+
+msgctxt "2042"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2043"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2044"
+msgid ""
+"本に書かれた内容は、\n"
+"一連の事件の背後にある真相を\n"
+"きっと照らし出してくれるはずさ。"
+msgstr ""
+
+msgctxt "2045"
+msgid ""
+"嵐の結界……魔物の発生……\n"
+"銀製品の盗難事件……"
+msgstr ""
+
+msgctxt "2046"
+msgid "そしてサラの死さえも……。"
+msgstr ""
+
+msgctxt "2047"
+msgid ""
+"……すべての出来事は、\n"
+"なにかとてつもなく大きな流れの中で\n"
+"起きたものに違いない。"
+msgstr ""
+
+msgctxt "2048"
+msgid "それを読み解けるのは、あんた一人だけだろう。"
+msgstr ""
+
+msgctxt "2049"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2050"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2051"
+msgid "どうしますか？"
+msgstr ""
+
+msgctxt "2052"
+msgid "ジェバと話す"
+msgstr ""
+
+msgctxt "2053"
+msgid "フィーナと話す"
+msgstr ""
+
+msgctxt "2054"
+msgid "本を読んでもらう"
+msgstr ""
+
+msgctxt "2055"
+msgid "話をやめる"
+msgstr ""
+
+msgctxt "2056"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2057"
+msgid ""
+"さきほど、村の者が妙なことを言っておった。\n"
+""
+msgstr ""
+
+msgctxt "2058"
+msgid ""
+"草原からの風にまじって\n"
+"不思議な声が聞こえてくるという。"
+msgstr ""
+
+msgctxt "2059"
+msgid ""
+"ひょっとしたら、その声の主は、\n"
+"草原にある双子の樹『ロダ』かもしれない。"
+msgstr ""
+
+msgctxt "2060"
+msgid ""
+"かつて、この地の人間は、その種を食す事で\n"
+"二本のロダの樹と、会話することが出来たそうだ。"
+msgstr ""
+
+msgctxt "2061"
+msgid ""
+"もし、あんたが#02ロダの種#00を見つけたら\n"
+"彼らの話が聞けるかもしれないよ。"
+msgstr ""
+
+msgctxt "2062"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2063"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2064"
+msgid "イースの本は全部で六冊……。"
+msgstr ""
+
+msgctxt "2065"
+msgid "残りの三冊は#02ダームの塔#00にあるに違いない。"
+msgstr ""
+
+msgctxt "2066"
+msgid ""
+"なにしろあそこは、\n"
+"神殿と並ぶほど古い遺跡だからね。"
+msgstr ""
+
+msgctxt "2067"
+msgid ""
+"私の息子の#02ゴーバン#00に頼んで\n"
+"塔の入り口を開けてもらうといい。"
+msgstr ""
+
+msgctxt "2068"
+msgid "あんたは、もう一人前の剣士だ。"
+msgstr ""
+
+msgctxt "2069"
+msgid ""
+"サラの予言した者とはいえ……\n"
+"よくぞここまで成長したもんだよ。"
+msgstr ""
+
+msgctxt "2070"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2071"
+msgid ""
+"あんただったら、あの『悪魔の塔』に入っても\n"
+"きっと大丈夫だろう。"
+msgstr ""
+
+msgctxt "2072"
+msgid ""
+"ダームとは、『魔』を意味する\n"
+"いにしえの言葉なんだよ。"
+msgstr ""
+
+msgctxt "2073"
+msgid ""
+"あの塔の中では、あんたの常識は\n"
+"一切通用しないと思った方がいい。"
+msgstr ""
+
+msgctxt "2074"
+msgid "くれぐれも、慎重に行動するんだよ。"
+msgstr ""
+
+msgctxt "2075"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2076"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2077"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2078"
+msgid ""
+"アドルさんは、レアさんのハーモニカを\n"
+"お聴きになりましたか？\n"
+""
+msgstr ""
+
+msgctxt "2079"
+msgid ""
+"私……あの音色を聴くのは……\n"
+"これが初めてじゃないような気がして……。\n"
+""
+msgstr ""
+
+msgctxt "2080"
+msgid "何だか、とても懐かしい気持ちになりました……。"
+msgstr ""
+
+msgctxt "2081"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2082"
+msgid ""
+"最近、ジェバさんから\n"
+"色々なことを教わっているんです。"
+msgstr ""
+
+msgctxt "2083"
+msgid ""
+"薬草の調合方法……\n"
+"占いのやり方……\n"
+"エステリアの文化や歴史……。"
+msgstr ""
+
+msgctxt "2084"
+msgid "なんだか毎日が充実しています。"
+msgstr ""
+
+msgctxt "2085"
+msgid ""
+"神殿にいた頃は、自分が何者なのかという不安に\n"
+"押しつぶされているだけでした……。"
+msgstr ""
+
+msgctxt "2086"
+msgid "……本当は、今もすこし恐いんです。"
+msgstr ""
+
+msgctxt "2087"
+msgid ""
+"でもあの時……\n"
+"アドルさんが私の手を取ってくれたから……。"
+msgstr ""
+
+msgctxt "2088"
+msgid "私に勇気をくれたから……。"
+msgstr ""
+
+msgctxt "2089"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2090"
+msgid "私は、前に進むことができたんです。"
+msgstr ""
+
+msgctxt "2091"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2092"
+msgid ""
+"私は……アドルさんが\n"
+"どういった事に関わっているのか知りません。\n"
+""
+msgstr ""
+
+msgctxt "2093"
+msgid ""
+"だから、行かないでとは言いません。\n"
+"でも……ひとつだけ約束して欲しいんです。"
+msgstr ""
+
+msgctxt "2094"
+msgid "……お願い、どうか無事でいて……。"
+msgstr ""
+
+msgctxt "2095"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2096"
+msgid "そしてもう一度……私に会いに来てください。"
+msgstr ""
+
+msgctxt "2097"
+msgid ""
+"アドルさん、頑張ってください。\n"
+"私、いつまでも待っていますから……。"
+msgstr ""
+
+msgctxt "2098"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2099"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2100"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2101"
+msgid "どれを読むんだい？"
+msgstr ""
+
+msgctxt "2102"
+msgid "ハダルの章"
+msgstr ""
+
+msgctxt "2103"
+msgid "トバの章"
+msgstr ""
+
+msgctxt "2104"
+msgid "ダビーの章"
+msgstr ""
+
+msgctxt "2105"
+msgid "読むのをやめる"
+msgstr ""
+
+msgctxt "2106"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2107"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2108"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2109"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2110"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2111"
+msgid "おお……！"
+msgstr ""
+
+msgctxt "2112"
+msgid "お若いの、どこから来なすった？"
+msgstr ""
+
+msgctxt "2113"
+msgid ""
+"……そうか、バルバドからか。\n"
+"ブルドー殿の知り合いならば安心というものだ。"
+msgstr ""
+
+msgctxt "2114"
+msgid ""
+"少々、村の人間に聞かせたくない\n"
+"話があってな……。"
+msgstr ""
+
+msgctxt "2115"
+msgid ""
+"これから話す事を、\n"
+"どうか内密にしてくれんか？"
+msgstr ""
+
+msgctxt "2116"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2117"
+msgid "どうしますか？"
+msgstr ""
+
+msgctxt "2118"
+msgid "はい"
+msgstr ""
+
+msgctxt "2119"
+msgid "いいえ"
+msgstr ""
+
+msgctxt "2120"
+msgid ""
+"この村の象徴である\n"
+"#02銀の鈴#00が、盗賊に盗まれてしまった。"
+msgstr ""
+
+msgctxt "2121"
+msgid ""
+"なんとしてでも取り戻したいのだ。\n"
+"最悪の場合、奴らに金を払ってもいい。"
+msgstr ""
+
+msgctxt "2122"
+msgid ""
+"お若いの……\n"
+"盗賊と交渉して来てくれんかね？\n"
+"村の者にはとても頼めんのだ……。"
+msgstr ""
+
+msgctxt "2123"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2124"
+msgid "どうしますか？"
+msgstr ""
+
+msgctxt "2125"
+msgid "承知する"
+msgstr ""
+
+msgctxt "2126"
+msgid "断る"
+msgstr ""
+
+msgctxt "2127"
+msgid "そうか、ありがたい！"
+msgstr ""
+
+msgctxt "2128"
+msgid ""
+"#02盗賊の砦#00は、村の北にある山道を\n"
+"登っていった先にあるようだ。"
+msgstr ""
+
+msgctxt "2129"
+msgid ""
+"首領に会ったら伝えてくれ。\n"
+"出せる範囲であれば、金は惜しまんとな。"
+msgstr ""
+
+msgctxt "2130"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2131"
+msgid "……それでは、よろしく頼む。"
+msgstr ""
+
+msgctxt "2132"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2133"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2134"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2135"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2136"
+msgid ""
+"くれぐれも『銀の鈴』が盗まれたことは\n"
+"村の者には内密にしておいてくれ。"
+msgstr ""
+
+msgctxt "2137"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2138"
+msgid ""
+"そうか……\n"
+"君にも、いろいろと都合があるだろうしな。"
+msgstr ""
+
+msgctxt "2139"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2140"
+msgid ""
+"すまなかったな。\n"
+"今の話は忘れてくれんか……。"
+msgstr ""
+
+msgctxt "2141"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2142"
+msgid "そ、そうか……。"
+msgstr ""
+
+msgctxt "2143"
+msgid "おお、君は……。"
+msgstr ""
+
+msgctxt "2144"
+msgid "話を聞いてくれる気になったのかね？"
+msgstr ""
+
+msgctxt "2145"
+msgid "おお、君は……。"
+msgstr ""
+
+msgctxt "2146"
+msgid ""
+"盗賊たちとの交渉を\n"
+"頼まれてくれるのかね？"
+msgstr ""
+
+msgctxt "2147"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2148"
+msgid ""
+"そんな馬鹿な……\n"
+"銀の鈴を盗んだのが、盗賊ではないだと？"
+msgstr ""
+
+msgctxt "2149"
+msgid ""
+"信じられん……！\n"
+"奴ら以外に誰がそんなことをする？"
+msgstr ""
+
+msgctxt "2150"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2151"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2152"
+msgid ""
+"黒いマントをまとった男が\n"
+"足早に山道を登っていったのを\n"
+"村の者が目撃しているのだぞ！"
+msgstr ""
+
+msgctxt "2153"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2154"
+msgid ""
+"鈴を盗んだのが盗賊で無いとしたら\n"
+"いったい誰が……何のために……？"
+msgstr ""
+
+msgctxt "2155"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2156"
+msgid ""
+"おお、それはまさしく銀の鈴……。\n"
+"まさか、君が盗賊から取り戻してくれたのかね？"
+msgstr ""
+
+msgctxt "2157"
+msgid ""
+"……なに、盗賊の仕業じゃない？\n"
+"神殿の地下にあっただと？"
+msgstr ""
+
+msgctxt "2158"
+msgid "うーむ……わけがわからん。"
+msgstr ""
+
+msgctxt "2159"
+msgid "とにかく、君にはお礼をせんとな。"
+msgstr ""
+
+msgctxt "2160"
+msgid ""
+"……そうだ。\n"
+"この指輪を持っていきなさい。"
+msgstr ""
+
+msgctxt "2161"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2162"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2163"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2164"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2165"
+msgid ""
+"それは我が家に伝わる家宝でな。\n"
+"君の力を、さらに引き出してくれるはずだ。"
+msgstr ""
+
+msgctxt "2166"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2167"
+msgid ""
+"君には世話になった。\n"
+"ゆっくり休んでいきなさい。"
+msgstr ""
+
+msgctxt "2168"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2169"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2170"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2171"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2172"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2173"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2174"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2175"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2176"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2177"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2178"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2179"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2180"
+msgid "どうしますか？"
+msgstr ""
+
+msgctxt "2181"
+msgid "盗賊の首領と話す"
+msgstr ""
+
+msgctxt "2182"
+msgid "交渉する"
+msgstr ""
+
+msgctxt "2183"
+msgid "その場を離れる"
+msgstr ""
+
+msgctxt "2184"
+msgid "怖いからやめる"
+msgstr ""
+
+msgctxt "2185"
+msgid "…………。"
+msgstr ""
+
+msgctxt "2186"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2187"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2188"
+msgid ""
+"命知らずの小僧だな。\n"
+"こんな所に何をしに来た？"
+msgstr ""
+
+msgctxt "2189"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2190"
+msgid ""
+"まさか一人で、\n"
+"盗賊狩りに来たわけじゃあるまい。"
+msgstr ""
+
+msgctxt "2191"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2192"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2193"
+msgid "……俺たちが町を荒らしまわっているって？"
+msgstr ""
+
+msgctxt "2194"
+msgid "フッ、冗談じゃない。"
+msgstr ""
+
+msgctxt "2195"
+msgid ""
+"勘違いするなよ。\n"
+"無法者にだって掟はある。"
+msgstr ""
+
+msgctxt "2196"
+msgid ""
+"悪どく儲けている奴らからは戴くが\n"
+"汗水たらして懸命に働いている人間から\n"
+"盗んだりするものか。"
+msgstr ""
+
+msgctxt "2197"
+msgid ""
+"それどころか……\n"
+"俺たちの所からも物がなくなるんだ。\n"
+"それも銀製品ばかりさ。"
+msgstr ""
+
+msgctxt "2198"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2199"
+msgid ""
+"誰だか知らんが……必ず見つけ出して\n"
+"落とし前をつけさせてやる。"
+msgstr ""
+
+msgctxt "2200"
+msgid ""
+"お前、面白い物を持っているじゃないか。\n"
+"そのマスクは神殿の中で見つけたな？"
+msgstr ""
+
+msgctxt "2201"
+msgid ""
+"それをつけていると、\n"
+"隠された扉を見つけられるそうだぞ。"
+msgstr ""
+
+msgctxt "2202"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2203"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2204"
+msgid "それは『トバの章』……。"
+msgstr ""
+
+msgctxt "2205"
+msgid ""
+"そうか……\n"
+"サラが言っていた剣士ってのは\n"
+"お前のことだったのか……。"
+msgstr ""
+
+msgctxt "2206"
+msgid "……サラの話は聞いた。"
+msgstr ""
+
+msgctxt "2207"
+msgid ""
+"俺たちが犯人だって噂も流れてるが\n"
+"お門違いもいいところだ。"
+msgstr ""
+
+msgctxt "2208"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2209"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2210"
+msgid ""
+"サラはな……\n"
+"俺の従姉妹だったんだ……。"
+msgstr ""
+
+msgctxt "2211"
+msgid "サラをやったのは、たぶん『奴』に違いない。"
+msgstr ""
+
+msgctxt "2212"
+msgid ""
+"黒いマントの男……\n"
+"エステリア各地で銀製品を強奪し\n"
+"俺たちのしわざに見せかけていた男だ。"
+msgstr ""
+
+msgctxt "2213"
+msgid "もう少しで、尻尾を掴めたのに……。"
+msgstr ""
+
+msgctxt "2214"
+msgid "……絶対に……許せん…ッ！"
+msgstr ""
+
+msgctxt "2215"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2216"
+msgid ""
+"おふくろから話は聞いている。\n"
+"イースの本を捜しに、ダームの塔に入るそうだな。"
+msgstr ""
+
+msgctxt "2217"
+msgid ""
+"嵐の結界が現れてから、あの塔には\n"
+"魔物の兵士が大量にうろつくようになったんだ。"
+msgstr ""
+
+msgctxt "2218"
+msgid ""
+"俺たち盗賊団は、塔から魔物を一掃しようとしたが\n"
+"逆に返り討ちにあってしまった。"
+msgstr ""
+
+msgctxt "2219"
+msgid ""
+"兵士どもならまだしも……\n"
+"巨大な化け物には、まったく歯が立たなかった。"
+msgstr ""
+
+msgctxt "2220"
+msgid ""
+"俺の右腕だった#02ドギ#00って男も行方知れずだ……。\n"
+"たぶん生きてはいないだろう。"
+msgstr ""
+
+msgctxt "2221"
+msgid "ダームの塔は、それほど危険な場所なんだ。"
+msgstr ""
+
+msgctxt "2222"
+msgid "生半可な奴を、中に入れるわけにはいかん。"
+msgstr ""
+
+msgctxt "2223"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2224"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2225"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2226"
+msgid "ふむ……。"
+msgstr ""
+
+msgctxt "2227"
+msgid ""
+"その銀の盾と銀の鎧、\n"
+"そして銀の剣を使いこなせれば\n"
+"何とかなるかもしれない……。"
+msgstr ""
+
+msgctxt "2228"
+msgid ""
+"……いいだろう。\n"
+"扉を開けてやる。"
+msgstr ""
+
+msgctxt "2229"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2230"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2231"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2232"
+msgid ""
+"ちょっと待て！\n"
+"お前が持っているウィングだが……。"
+msgstr ""
+
+msgctxt "2233"
+msgid ""
+"ダームの塔のまわりは、\n"
+"強力な結界が張り巡らされている。"
+msgstr ""
+
+msgctxt "2234"
+msgid ""
+"うかつに使ったら、外まで飛べずに\n"
+"石の壁にめりこむか、墜落死だ。"
+msgstr ""
+
+msgctxt "2235"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2236"
+msgid "そいつは俺が預かっておいてやる。"
+msgstr ""
+
+msgctxt "2237"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2238"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2239"
+msgid ""
+"そこの石造りの扉は一方通行になっていて\n"
+"中に入ったら最後、\n"
+"向こう側からは開けることができない。"
+msgstr ""
+
+msgctxt "2240"
+msgid ""
+"おまけに、音も完全に遮断している。\n"
+"だから簡単には出してやれん。"
+msgstr ""
+
+msgctxt "2241"
+msgid ""
+"かと言って、この塔にいるのは\n"
+"せいぜい一日が限界だろう。"
+msgstr ""
+
+msgctxt "2242"
+msgid ""
+"そこで明日の朝……\n"
+"イースの本が手に入らなくても\n"
+"かならず扉の前に戻ってくるんだ。"
+msgstr ""
+
+msgctxt "2243"
+msgid "その時に、扉を開けてやる。"
+msgstr ""
+
+msgctxt "2244"
+msgid ""
+"……よし、行ってこい！\n"
+"生き残ることを最優先にするんだぞ！"
+msgstr ""
+
+msgctxt "2245"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2246"
+msgid ""
+"お前の装備では、\n"
+"恐らく塔の魔物に太刀打ちできんだろう。"
+msgstr ""
+
+msgctxt "2247"
+msgid ""
+"いくらサラの見出した剣士でも\n"
+"あまりにも無茶というものだ。"
+msgstr ""
+
+msgctxt "2248"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2249"
+msgid ""
+"ダームの塔では、多くの部下を亡くした。\n"
+"お前をその二の舞にするわけにはいかん。"
+msgstr ""
+
+msgctxt "2250"
+msgid "だめだ……あきらめろ。"
+msgstr ""
+
+msgctxt "2251"
+msgid ""
+"塔の上の方には、\n"
+"とんでもない化け物もいる……。"
+msgstr ""
+
+msgctxt "2252"
+msgid ""
+"そんな装備では\n"
+"太刀打ちできるわけがない。"
+msgstr ""
+
+msgctxt "2253"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2254"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2255"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2256"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2257"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2258"
+msgid ""
+"なに……\n"
+"俺たちが『銀の鈴』を盗んだだと？"
+msgstr ""
+
+msgctxt "2259"
+msgid "そいつは、とんだ誤解だな。"
+msgstr ""
+
+msgctxt "2260"
+msgid ""
+"『銀の鈴』がゼピック村の象徴だってのは\n"
+"俺たちも知っている。"
+msgstr ""
+
+msgctxt "2261"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2262"
+msgid ""
+"そんな物を盗んで、人の心を踏みにじるほど\n"
+"俺たちは落ちぶれちゃいない。"
+msgstr ""
+
+msgctxt "2263"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2264"
+msgid ""
+"そんな物を盗んで、人の心を踏みにじるほど\n"
+"俺たちは落ちぶれちゃいない。"
+msgstr ""
+
+msgctxt "2265"
+msgid ""
+"信じる信じないは勝手だが、\n"
+"そいつは俺たちのしわざじゃないぜ。"
+msgstr ""
+
+msgctxt "2266"
+msgid "信じるかどうかは、お前の勝手だがな。"
+msgstr ""
+
+msgctxt "2267"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2268"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2269"
+msgid "なんだと……黒マントの男？"
+msgstr ""
+
+msgctxt "2270"
+msgid ""
+"そいつは俺たちと何の関係もない。\n"
+"それ所か、俺たちもそいつの居場所を探してるのさ。"
+msgstr ""
+
+msgctxt "2271"
+msgid "信じるかどうかは、おまえと村長の自由だ。"
+msgstr ""
+
+msgctxt "2272"
+msgid "…………。"
+msgstr ""
+
+msgctxt "2273"
+msgid ""
+"お前が持ってるのが『銀の鈴』だ。\n"
+"どうだ、疑いは解けたか？"
+msgstr ""
+
+msgctxt "2274"
+msgid ""
+"それにしても……\n"
+"神殿の地下に隠してあっただと？"
+msgstr ""
+
+msgctxt "2275"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2276"
+msgid ""
+"魔物どもにそんな知恵があるとは思えない。\n"
+"これも『奴』の仕業だろうか……。"
+msgstr ""
+
+msgctxt "2277"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2278"
+msgid ""
+"魔物どもにそんな知恵があるとは思えない。\n"
+"これも『奴』の仕業だろうか……。"
+msgstr ""
+
+msgctxt "2279"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2280"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2281"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2282"
+msgid ""
+"わしは若い頃、この地に伝わる\n"
+"古文書の噂を聞いたことがある。\n"
+"それには大昔、この国を災いから救った\n"
+"女神のことが記されているという。"
+msgstr ""
+
+msgctxt "2283"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2284"
+msgid ""
+"本当にそんな女神がいらっしゃるなら\n"
+"こうして魔物を恐れながら\n"
+"暮らすこともないだろうに……。"
+msgstr ""
+
+msgctxt "2285"
+msgid ""
+"魔物が本当にいるなら、\n"
+"女神だっていてもよさそうなものだが。\n"
+"それを望むのは愚かだろうか？"
+msgstr ""
+
+msgctxt "2286"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2287"
+msgid ""
+"少年よ、聞いてくれ！\n"
+""
+msgstr ""
+
+msgctxt "2288"
+msgid ""
+"湖の桟橋でのことじゃ。\n"
+"美しい娘に草笛の鳴らし方を教えたら\n"
+"ものすごく喜ばれてしまったのだ。"
+msgstr ""
+
+msgctxt "2289"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2290"
+msgid "なんだか、無性に嬉しくなってしまった。"
+msgstr ""
+
+msgctxt "2291"
+msgid ""
+"わしは老い先短いかもしれん。\n"
+"だが、今日の日を永遠に忘れはしない。\n"
+"はっはっは。"
+msgstr ""
+
+msgctxt "2292"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2293"
+msgid ""
+"昔、わしが銀鉱山で働いていたころ、\n"
+"坑道の奥で奇妙な部屋を見つけたんじゃ。\n"
+"そこは青白い光で満たされていて\n"
+"二体の、美しい女神像が置かれていた。"
+msgstr ""
+
+msgctxt "2294"
+msgid ""
+"あんまり神々しいんで\n"
+"鉱山の守り神に違いねぇってんで\n"
+"わしら鉱員は、毎日祈りを\n"
+"欠かさなかったもんじゃが……。"
+msgstr ""
+
+msgctxt "2295"
+msgid ""
+"ある日、片方の女神像が\n"
+"忽然と消え失せていたんじゃ。\n"
+"不思議なことがあるもんだと思ったよ。"
+msgstr ""
+
+msgctxt "2296"
+msgid ""
+"黒い珠を抱えた、もう一体の女神像は\n"
+"今でも鉱山の奥にあるはずじゃが……\n"
+"魔物が現れたために、放置されたままじゃ。"
+msgstr ""
+
+msgctxt "2297"
+msgid ""
+"あの女神像を、魔物のいる中に\n"
+"置き去りにしておくのは忍びない。\n"
+"あんた、代わりに運び出してくれんかね？"
+msgstr ""
+
+msgctxt "2298"
+msgid ""
+"ジェバの家に、若い娘が来てるな。\n"
+"いっぺん話してみたが、折り目正しい\n"
+"気立てのよさそうなお嬢さんだった。"
+msgstr ""
+
+msgctxt "2299"
+msgid ""
+"ただ、あの顔……\n"
+"どこかで見たような気がするが……\n"
+"まぁ……気のせいかもしれんな。"
+msgstr ""
+
+msgctxt "2300"
+msgid ""
+"どこかで見たような気もするが……\n"
+"あんな綺麗な娘さんを忘れるはずもないしなあ。"
+msgstr ""
+
+msgctxt "2301"
+msgid ""
+"うーん……\n"
+"やっぱり、わしの気のせいだな。"
+msgstr ""
+
+msgctxt "2302"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2303"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2304"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2305"
+msgid ""
+"皆、盗賊のことを嫌っているようじゃが\n"
+"首領のゴーバンは、あれで大した男じゃ。"
+msgstr ""
+
+msgctxt "2306"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2307"
+msgid ""
+"わしは以前、魔物に襲われかけた時\n"
+"ゴーバンに助けてもらったことがある。"
+msgstr ""
+
+msgctxt "2308"
+msgid ""
+"もし、機会があったら、\n"
+"腹を割って話してみるといい。"
+msgstr ""
+
+msgctxt "2309"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2310"
+msgid ""
+"ほう、ゴーバンと話してきたのか。\n"
+"ただの盗賊には見えなかったじゃろう？"
+msgstr ""
+
+msgctxt "2311"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2312"
+msgid ""
+"最近、盗難が相次いでいるらしいが、\n"
+"あの男の仕業だとは、とても信じられんよ。"
+msgstr ""
+
+msgctxt "2313"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2314"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2315"
+msgid ""
+"山の神殿には近づいちゃいけないよ。\n"
+"フード姿の亡霊が現れるそうだからね。"
+msgstr ""
+
+msgctxt "2316"
+msgid ""
+"実際に、あの神殿に行って\n"
+"帰って来なかった人間もいるくらいだ。"
+msgstr ""
+
+msgctxt "2317"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2318"
+msgid ""
+"なんだって……山の神殿にいた\n"
+"フード姿の亡霊を倒したっていうのかい？"
+msgstr ""
+
+msgctxt "2319"
+msgid "あんた、よく無事に帰ってこれたねぇ。"
+msgstr ""
+
+msgctxt "2320"
+msgid ""
+"神殿の亡霊は居なくなったようだが……\n"
+"今度は草原で、不思議な事があったそうだ。"
+msgstr ""
+
+msgctxt "2321"
+msgid ""
+"生あったかい風に乗って、囁くような声が、\n"
+"どこからともなく聞こえてくるそうだよ。\n"
+"なんだか、気味が悪い話だねぇ……。"
+msgstr ""
+
+msgctxt "2322"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2323"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2324"
+msgid ""
+"この村には年寄りが多いので\n"
+"魔物に襲われたら、\n"
+"ひとたまりもないじゃろう。"
+msgstr ""
+
+msgctxt "2325"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2326"
+msgid ""
+"だが不思議なことに、\n"
+"いまだ村が襲われたことはない。\n"
+"村の宝である『銀の鈴』の音色が\n"
+"魔物を退けるからだと言われておる。"
+msgstr ""
+
+msgctxt "2327"
+msgid "もし本当にそうなら、ありがたいことじゃ。"
+msgstr ""
+
+msgctxt "2328"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2329"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2330"
+msgid ""
+"『ダームの塔』の隣に\n"
+"いつのまにか盗賊の砦ができたとか。\n"
+"なんでも、塔の入口を塞ぐように\n"
+"建っているそうですよ。"
+msgstr ""
+
+msgctxt "2331"
+msgid ""
+"どうして、あんな危険な場所に\n"
+"わざわざ建てたのでしょうねぇ？"
+msgstr ""
+
+msgctxt "2332"
+msgid ""
+"魔物といい、盗賊といい……\n"
+"何を考えてるのかサッパリですよ。"
+msgstr ""
+
+msgctxt "2333"
+msgid "こんにちは、アドルさん。"
+msgstr ""
+
+msgctxt "2334"
+msgid ""
+"アドルさんのおかげで\n"
+"村の方々に、私のハーモニカを\n"
+"聞いてもらえるようになりました。"
+msgstr ""
+
+msgctxt "2335"
+msgid ""
+"本当にありがとうございました。\n"
+"改めて、お礼を言わせてください。"
+msgstr ""
+
+msgctxt "2336"
+msgid ""
+"それでは私、これで失礼します。\n"
+"また……お会いできるといいですね。"
+msgstr ""
+
+msgctxt "2337"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2338"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2339"
+msgid ""
+"西に広がる草原には、\n"
+"２本の大きな樹が生えているんだよ。"
+msgstr ""
+
+msgctxt "2340"
+msgid ""
+"一本は、ここから南に行った所にあって\n"
+"もう一本は、銀鉱山の西の向こうにあるんだ。"
+msgstr ""
+
+msgctxt "2341"
+msgid ""
+"あたしが子供の頃には\n"
+"とても美味しい実を付けていたが……\n"
+"今では滅多に採れなくなってしまったねぇ。"
+msgstr ""
+
+msgctxt "2342"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2343"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2344"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2345"
+msgid ""
+"次にレアさんのハーモニカを聞けるのは\n"
+"いつになるんだろう……。\n"
+""
+msgstr ""
+
+msgctxt "2346"
+msgid ""
+"一人で、エステリアの町と村を\n"
+"演奏してまわっているらしいけど……\n"
+"魔物に襲われたりしないか心配だなぁ。"
+msgstr ""
+
+msgctxt "2347"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2348"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2349"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2350"
+msgid ""
+"この前、怪しい奴を見かけたんだ。\n"
+"黒いマントをまとった\n"
+"暑苦しそうな風体をしててさ、\n"
+"足早に、村の北口から出てったよ。"
+msgstr ""
+
+msgctxt "2351"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2352"
+msgid ""
+"あっちの方は、今は魔物か盗賊しか\n"
+"いないはずなのに……\n"
+"いったい何者なんだ？"
+msgstr ""
+
+msgctxt "2353"
+msgid ""
+"まあ、どちらにせよ、\n"
+"マトモな奴じゃないことは確かだな。"
+msgstr ""
+
+msgctxt "2354"
+msgid ""
+"ジェバさんの家にいる娘さん、\n"
+"記憶喪失なんだって？\n"
+"あんなに可愛いのに、気の毒だよな。"
+msgstr ""
+
+msgctxt "2355"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2356"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2357"
+msgid ""
+"ルタのやつ、\n"
+"またいなくなったのか……。\n"
+"あんな美人の奥さんを心配させて\n"
+"ほーんと、罪作りなヤツだよなぁ。"
+msgstr ""
+
+msgctxt "2358"
+msgid ""
+"あーあ……。\n"
+"俺も自分がいなくなったら\n"
+"本気で心配してくれるような彼女が\n"
+"欲しいもんだよ。"
+msgstr ""
+
+msgctxt "2359"
+msgid ""
+"知ってるか？\n"
+"今この村に、とんでもなく綺麗な\n"
+"女の子がいるんだよっ。"
+msgstr ""
+
+msgctxt "2360"
+msgid ""
+"『フィーナ』っていうんだ。\n"
+"名前も可愛いだろー？\n"
+"なんとか仲良くなれないかなぁ。"
+msgstr ""
+
+msgctxt "2361"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2362"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2363"
+msgid ""
+"村長の様子がどうもおかしいわ。\n"
+"ぼんやりとしながら\n"
+"村の中をうろついていたの。"
+msgstr ""
+
+msgctxt "2364"
+msgid ""
+"『私の全財産で、\n"
+"　奴らは満足してくれるだろうか？』\n"
+"……なんて独り言を言ってたけど。"
+msgstr ""
+
+msgctxt "2365"
+msgid ""
+"村長が、鼻歌を歌いながら\n"
+"村の中を散歩していたわ。"
+msgstr ""
+
+msgctxt "2366"
+msgid ""
+"この間まで、\n"
+"青ざめた顔をしてたのに……\n"
+"悩みごとが解決したのかしらね？"
+msgstr ""
+
+msgctxt "2367"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2368"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2369"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2370"
+msgid ""
+"レアさんのハーモニカって\n"
+"なんて素敵なのかしら……。"
+msgstr ""
+
+msgctxt "2371"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2372"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2373"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2374"
+msgid ""
+"この村には『ジェバ』という\n"
+"不思議なおばあさんがいるの。"
+msgstr ""
+
+msgctxt "2375"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2376"
+msgid ""
+"エステリアの歴史にも詳しくて\n"
+"幼いころ、よく聞かせてもらったわ。\n"
+"なんでも遥か昔、この地には\n"
+"女神が治める美しい国があったとか……。"
+msgstr ""
+
+msgctxt "2377"
+msgid ""
+"何か知りたいことがあったら、\n"
+"ジェバさんを訪ねてみるといいわ。"
+msgstr ""
+
+msgctxt "2378"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2379"
+msgid ""
+"あっ、あなたがアドルさんね？\n"
+"フィーナから聞いたわよ。\n"
+"彼女を助けてあげたんですってね。"
+msgstr ""
+
+msgctxt "2380"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2381"
+msgid ""
+"彼女とはすぐに友達になったの。\n"
+"本当に優しい、いい子だわ……。"
+msgstr ""
+
+msgctxt "2382"
+msgid ""
+"彼女の事、いたわってあげてね。\n"
+"平気そうに振る舞っているけど、\n"
+"記憶をなくして、とても不安なはずよ。"
+msgstr ""
+
+msgctxt "2383"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2384"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2385"
+msgid ""
+"ミネアの方は大変ね。\n"
+"盗賊たちが\n"
+"荒らし回っているそうじゃない。"
+msgstr ""
+
+msgctxt "2386"
+msgid ""
+"ミネアは、この村よりも\n"
+"お金持ちの家が多そうだから\n"
+"狙われやすいのかもね。"
+msgstr ""
+
+msgctxt "2387"
+msgid ""
+"この村で、盗まれそうな物といえば\n"
+"ロベルス村長の家にある\n"
+"『銀の鈴』くらいじゃないかしら？"
+msgstr ""
+
+msgctxt "2388"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2389"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2390"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2391"
+msgid ""
+"湖の岸辺には行ってみた？\n"
+"とっても綺麗なところだから\n"
+"行ってみるといいよ。"
+msgstr ""
+
+msgctxt "2392"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2393"
+msgid ""
+"特に、桟橋の上なんか\n"
+"ひなたぼっこするのに絶好の場所さ。"
+msgstr ""
+
+msgctxt "2394"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2395"
+msgid "でも、たいてい、先客がいるけどね。"
+msgstr ""
+
+msgctxt "2396"
+msgid ""
+"フィーナお姉ちゃんって美人だよなぁ。\n"
+"なんだか、あったかくて優しいし……。"
+msgstr ""
+
+msgctxt "2397"
+msgid ""
+"昨日なんか、桟橋のところで\n"
+"一緒にひなたぼっこしちゃったんだ。\n"
+"これって、デートっていうのかなぁ？"
+msgstr ""
+
+msgctxt "2398"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2399"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2400"
+msgid "ＺＺＺ……"
+msgstr ""
+
+msgctxt "2401"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2402"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2403"
+msgid ""
+"……今日は空から魚が降りよった。\n"
+"ほんにエステリアは不思議な国じゃ……。"
+msgstr ""
+
+msgctxt "2404"
+msgid "ＺＺＺ……"
+msgstr ""
+
+msgctxt "2405"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2406"
+msgid ""
+"今朝、目が醒めると\n"
+"夫のルタの姿が\n"
+"どこにも見当たらないんです。"
+msgstr ""
+
+msgctxt "2407"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2408"
+msgid ""
+"どうやら、ルタは夢遊病に\n"
+"かかっているみたいなんです……。\n"
+"もう……どこに行ってしまったのかしら？"
+msgstr ""
+
+msgctxt "2409"
+msgid ""
+"危険なところに行ってなければ\n"
+"いいけど……。"
+msgstr ""
+
+msgctxt "2410"
+msgid "ああ……心配だわ……。"
+msgstr ""
+
+msgctxt "2411"
+msgid ""
+"えっ……\n"
+"ルタがバルバドの町に\n"
+"いたですって！？"
+msgstr ""
+
+msgctxt "2412"
+msgid "ああ神様、感謝いたします……！"
+msgstr ""
+
+msgctxt "2413"
+msgid "……それでは、ルタは今？"
+msgstr ""
+
+msgctxt "2414"
+msgid "えっ、わからないんですか……。"
+msgstr ""
+
+msgctxt "2415"
+msgid ""
+"ルタったら、この村に帰ってくるまでに\n"
+"また、どこかで迷ってるんじゃないかしら……。"
+msgstr ""
+
+msgctxt "2416"
+msgid "大丈夫かしら……。"
+msgstr ""
+
+msgctxt "2417"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2418"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2419"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2420"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2421"
+msgid "…………。"
+msgstr ""
+
+msgctxt "2422"
+msgid ""
+"それにしても\n"
+"『奴』は神出鬼没だな……。"
+msgstr ""
+
+msgctxt "2423"
+msgid ""
+"エステリアは狭いから\n"
+"隠れるところなんて限られてるのに。\n"
+"一体どこに行きやがった？"
+msgstr ""
+
+msgctxt "2424"
+msgid ""
+"お頭、恐ろしく機嫌が悪いな。\n"
+"……まあ、無理もねえか。"
+msgstr ""
+
+msgctxt "2425"
+msgid ""
+"オレたちも、サラさんには\n"
+"いろいろと世話になった。\n"
+"……絶対に仇を討ってやるさ。"
+msgstr ""
+
+msgctxt "2426"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2427"
+msgid ""
+"本当は、お頭だってダームの塔に\n"
+"乗り込んで行きたいんだと思うぜ。"
+msgstr ""
+
+msgctxt "2428"
+msgid ""
+"だけど俺たちは、\n"
+"サラさんを殺した野郎を\n"
+"捕まえなくちゃならねぇ。"
+msgstr ""
+
+msgctxt "2429"
+msgid ""
+"ま、死なない程度に頑張りな。\n"
+"アンタには、\n"
+"帰りを待ってくれる人がいるんだろ？"
+msgstr ""
+
+msgctxt "2430"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2431"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2432"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2433"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2434"
+msgid "………。"
+msgstr ""
+
+msgctxt "2435"
+msgid ""
+"ダームの塔は魔物だらけだ。\n"
+"剣と鎧で武装してる奴までいるんだぜ。"
+msgstr ""
+
+msgctxt "2436"
+msgid ""
+"入ろうだなんて考えない方が\n"
+"身のためだぞ。\n"
+"まあ『入れたら』の話だがな。"
+msgstr ""
+
+msgctxt "2437"
+msgid ""
+"お前、嵐の結界の外から来たんだってな。\n"
+"俺たちの仲間のドギってのも\n"
+"大陸から渡ってきた人間だったんだ。"
+msgstr ""
+
+msgctxt "2438"
+msgid ""
+"腕っぷしも、きっぷも\n"
+"稀に見るような奴だったが\n"
+"今は、もうここにはいねぇんだ……。"
+msgstr ""
+
+msgctxt "2439"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2440"
+msgid ""
+"まさか、お前みてぇなガキを\n"
+"ダームの塔に入れるとはな……\n"
+"まったく、お頭の気が知れねぇよ。"
+msgstr ""
+
+msgctxt "2441"
+msgid ""
+"いいか、危なくなったら外の回廊へ逃げろ。\n"
+"魔物が追ってくることは滅多にないはずだ。"
+msgstr ""
+
+msgctxt "2442"
+msgid ""
+"それと、持ち物には常に気をつけておけ。\n"
+"一瞬のミスが、死につながるのを忘れるな！"
+msgstr ""
+
+msgctxt "2443"
+msgid ""
+"石造りの台座が二つある。\n"
+"どうやら何かの像を乗せていたようだ。"
+msgstr ""
+
+msgctxt "2444"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2445"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2446"
+msgid ""
+"……本当にいいのかね？\n"
+"自警団の連中も、手が空いたら\n"
+"ゼピック村まで護衛すると言っておる。"
+msgstr ""
+
+msgctxt "2447"
+msgid ""
+"御心配には及びません。\n"
+"なんとか一人でも帰れますよ。"
+msgstr ""
+
+msgctxt "2448"
+msgid ""
+"早いところ、\n"
+"妻を安心させてやりたいですし……。"
+msgstr ""
+
+msgctxt "2449"
+msgid "そうか、わかった。"
+msgstr ""
+
+msgctxt "2450"
+msgid ""
+"夢遊病か……\n"
+"わしにはお手上げじゃ。\n"
+"まったく面目ないのぉ。"
+msgstr ""
+
+msgctxt "2451"
+msgid ""
+"とんでもありません。\n"
+"本当に、ありがとうございました。"
+msgstr ""
+
+msgctxt "2452"
+msgid "それでは、失礼します。"
+msgstr ""
+
+msgctxt "2453"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2454"
+msgid "ああ、これは失礼……。"
+msgstr ""
+
+msgctxt "2455"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2456"
+msgid ""
+"おお、アドル君。\n"
+"元気にしとるかね？"
+msgstr ""
+
+msgctxt "2457"
+msgid ""
+"なに、今の人か？\n"
+"ゼピック村のルタ君といってな。"
+msgstr ""
+
+msgctxt "2458"
+msgid ""
+"夢遊病にかかっているらしくて、\n"
+"この近くでふらふらと歩いていたのを\n"
+"自警団の連中が見つけたんじゃよ。"
+msgstr ""
+
+msgctxt "2459"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2460"
+msgid ""
+"うーむ……\n"
+"夢遊病とは、またやっかいじゃなぁ。"
+msgstr ""
+
+msgctxt "2461"
+msgid ""
+"まあ、ルタ君の場合は\n"
+"健康そうな顔色をしていたから、\n"
+"それほど心配は無さそうじゃが……。"
+msgstr ""
+
+msgctxt "2462"
+msgid ""
+"何はともあれ、健康なのが一番じゃ。\n"
+"アドル君も、身体には気を付けてな。"
+msgstr ""
+
+msgctxt "2463"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2464"
+msgid ""
+"今の方、まだお若いのに\n"
+"奥さんがいらっしゃるんですって。"
+msgstr ""
+
+msgctxt "2465"
+msgid ""
+"朝起きたら旦那さんがいないだなんて……\n"
+"奥さん、居ても立ってもいられないほど\n"
+"心配してるでしょうね。"
+msgstr ""
+
+msgctxt "2466"
+msgid ""
+"でも、ゼピック村からここまで来る間に\n"
+"魔物に襲われなくて、良かったですよねぇ。"
+msgstr ""
+
+msgctxt "2467"
+msgid ""
+"無事に、奥さんのところに\n"
+"たどり着けるといいんですけど……。"
+msgstr ""
+
+msgctxt "2468"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2469"
+msgid "……た…す…"
+msgstr ""
+
+msgctxt "2470"
+msgid "…け…て……"
+msgstr ""
+
+msgctxt "2471"
+msgid "見てないで、たすけてくれ>2―<1―<1っ！"
+msgstr ""
+
+msgctxt "2472"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2473"
+msgid ""
+"あ、ありがとうございました。\n"
+"どこのどなたかは存じませんが\n"
+"命拾いしました。"
+msgstr ""
+
+msgctxt "2474"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2475"
+msgid ""
+"おや、あなたは確か……\n"
+"バルバドの病院でお目にかかりましたね。"
+msgstr ""
+
+msgctxt "2476"
+msgid ""
+"……申し遅れました。\n"
+"私はゼピック村のルタ＝ジェンマという者です。"
+msgstr ""
+
+msgctxt "2477"
+msgid ""
+"アドルは自分の名前を名乗り\n"
+"奥さんが捜していたことを伝えた。"
+msgstr ""
+
+msgctxt "2478"
+msgid ""
+"そうですか……\n"
+"また、心配させてしまいましたね。"
+msgstr ""
+
+msgctxt "2479"
+msgid ""
+"恥ずかしながら、私には\n"
+"夢遊病の気があるようなのです。"
+msgstr ""
+
+msgctxt "2480"
+msgid ""
+"こうなったのは半年ほど前……\n"
+"『嵐の結界』が現れた頃からなんです。"
+msgstr ""
+
+msgctxt "2481"
+msgid ""
+"おや……\n"
+"また、いつのまにか\n"
+"こんなところに来てしまっている。"
+msgstr ""
+
+msgctxt "2482"
+msgid ""
+"ゼピック村は、どちらでしょう？\n"
+"ご存知なら、連れていってもらえませんか？"
+msgstr ""
+
+msgctxt "2483"
+msgid ""
+"ルタ＝ジェンマに頼まれ\n"
+"彼をゼピック村まで\n"
+"護衛することになった。"
+msgstr ""
+
+msgctxt "2484"
+msgid "池の底に、キラキラと輝く物が見える。"
+msgstr ""
+
+msgctxt "2485"
+msgid "ああ……ルタ！"
+msgstr ""
+
+msgctxt "2486"
+msgid ""
+"すまない……\n"
+"心配をかけてしまったね。"
+msgstr ""
+
+msgctxt "2487"
+msgid ""
+"あなたが魔物に\n"
+"襲われたんじゃないかって……"
+msgstr ""
+
+msgctxt "2488"
+msgid "本当に…心配したんだからっ……！"
+msgstr ""
+
+msgctxt "2489"
+msgid "大丈夫だよ、この通り何ともない。"
+msgstr ""
+
+msgctxt "2490"
+msgid ""
+"こちらのアドルさんが、\n"
+"私を魔物から救ってくれたんだ。"
+msgstr ""
+
+msgctxt "2491"
+msgid "そうですか……。"
+msgstr ""
+
+msgctxt "2492"
+msgid ""
+"ありがとう……\n"
+"夫を救ってくださって\n"
+"本当に何とお礼を言っていいか……。"
+msgstr ""
+
+msgctxt "2493"
+msgid ""
+"アドルさん……\n"
+"ここで失礼させてください。"
+msgstr ""
+
+msgctxt "2494"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2495"
+msgid "どうも、お世話になりました。"
+msgstr ""
+
+msgctxt "2496"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2497"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2498"
+msgid ""
+"妻には心配をかけてしまいました。\n"
+"本当に、申し訳ない気持ちで一杯です。"
+msgstr ""
+
+msgctxt "2499"
+msgid ""
+"しかし私は、この夢遊病に\n"
+"何か意味があるのではないかと思うのです。"
+msgstr ""
+
+msgctxt "2500"
+msgid ""
+"……夢の中で、不思議な声を聞きました。\n"
+""
+msgstr ""
+
+msgctxt "2501"
+msgid ""
+"透き通った、若い女性の声で、\n"
+"まるで、私を何処かに誘うような……"
+msgstr ""
+
+msgctxt "2502"
+msgid ""
+"私には……その呼びかけに\n"
+"応えなくてはならない義務がある。\n"
+""
+msgstr ""
+
+msgctxt "2503"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2504"
+msgid "……そんな気がしてならないのです。"
+msgstr ""
+
+msgctxt "2505"
+msgid "アドルさんにはお世話になりました。"
+msgstr ""
+
+msgctxt "2506"
+msgid ""
+"何もない家ですが、\n"
+"ゆっくりとくつろいでください。"
+msgstr ""
+
+msgctxt "2507"
+msgid ""
+"まったくルタときたら\n"
+"人の気も知らないで……！"
+msgstr ""
+
+msgctxt "2508"
+msgid ""
+"『また夢遊病が起きるかもしれないけど\n"
+"　必ず戻ってくるから、心配しないでくれ。』\n"
+"……なんて言うんです……。"
+msgstr ""
+
+msgctxt "2509"
+msgid ""
+"ああ、不安だわ……\n"
+"ベッドに縛りつけておこうかしら？"
+msgstr ""
+
+msgctxt "2510"
+msgid ""
+"草原を渡る涼しげな風が\n"
+"大樹の梢を優しく揺らしている。"
+msgstr ""
+
+msgctxt "2511"
+msgid ""
+"あたりに魔物の気配はなく\n"
+"ただ葉擦れの音だけが聞こえていた。"
+msgstr ""
+
+msgctxt "2512"
+msgid ""
+"草原を渡る涼しげな風が\n"
+"大樹の梢を優しく揺らしている。"
+msgstr ""
+
+msgctxt "2513"
+msgid ""
+"風の音にまじって\n"
+"なにかの呟きが聞こえてきた。"
+msgstr ""
+
+msgctxt "2514"
+msgid ""
+"草原を渡る涼しげな風が\n"
+"大樹の梢を優しく揺らしている。"
+msgstr ""
+
+msgctxt "2515"
+msgid ""
+"風の音にまじって\n"
+"アドルに語りかける声があった。"
+msgstr ""
+
+msgctxt "2516"
+msgid "大樹の根元から、銀色の光があふれ出す。"
+msgstr ""
+
+msgctxt "2517"
+msgid ""
+"草原を渡る涼しげな風が\n"
+"大樹の梢を優しく揺らしている。"
+msgstr ""
+
+msgctxt "2518"
+msgid ""
+"あの不思議な声は\n"
+"もう聞こえない……。"
+msgstr ""
+
+msgctxt "2519"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2520"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2521"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2522"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2523"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2524"
+msgid "うおッ！"
+msgstr ""
+
+msgctxt "2525"
+msgid ""
+"お、驚かさないでくれ。\n"
+"魔物の兵士かと思ったじゃないか……。"
+msgstr ""
+
+msgctxt "2526"
+msgid ""
+"見たことのない顔だが……\n"
+"魔物どもの仲間ではないのだろう？"
+msgstr ""
+
+msgctxt "2527"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2528"
+msgid ""
+"よく、こんな危険な場所に\n"
+"入り込むことが出来たものだな。"
+msgstr ""
+
+msgctxt "2529"
+msgid ""
+"……済まないが、\n"
+"あんたの相手をしている暇はない。"
+msgstr ""
+
+msgctxt "2530"
+msgid ""
+"大事な物を失ってしまって\n"
+"大変なんだ……。"
+msgstr ""
+
+msgctxt "2531"
+msgid ""
+"おお……！\n"
+"その偶像はわしのじゃないか！"
+msgstr ""
+
+msgctxt "2532"
+msgid ""
+"そうか、ドギに頼まれたのか。\n"
+"届けてくれてありがとうよ。"
+msgstr ""
+
+msgctxt "2533"
+msgid "わしの名前はラーバという。"
+msgstr ""
+
+msgctxt "2534"
+msgid ""
+"これでも学者の端くれでな。\n"
+"半年前、古代遺跡を調査するため\n"
+"エステリアに渡ってきた。"
+msgstr ""
+
+msgctxt "2535"
+msgid ""
+"しかし、この塔を調べている最中に\n"
+"いきなり魔物が湧き出してきてなぁ。"
+msgstr ""
+
+msgctxt "2536"
+msgid "それ以来、ここに閉じこめられてしまったんだ。"
+msgstr ""
+
+msgctxt "2537"
+msgid ""
+"……この像は、わしの命綱だ。\n"
+"色々と不思議な力を秘めておる。"
+msgstr ""
+
+msgctxt "2538"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2539"
+msgid ""
+"身につけていると、\n"
+"完全に気配を消すことができるのだ。"
+msgstr ""
+
+msgctxt "2540"
+msgid ""
+"これがあったからこそ、\n"
+"今まで生き残ることができたのだよ。"
+msgstr ""
+
+msgctxt "2541"
+msgid ""
+"……さて、お若いの。\n"
+"どうしてこの塔に入ったのかね？"
+msgstr ""
+
+msgctxt "2542"
+msgid ""
+"見れば、それなりの装備を整えているな。\n"
+"なにか目的があって来たのだろう？"
+msgstr ""
+
+msgctxt "2543"
+msgid ""
+"アドルはイースの本を探しに\n"
+"ダームの塔に侵入したことを話した。"
+msgstr ""
+
+msgctxt "2544"
+msgid "……そうか……"
+msgstr ""
+
+msgctxt "2545"
+msgid "やはり、そうだったのか！"
+msgstr ""
+
+msgctxt "2546"
+msgid ""
+"『イース』という名前は、\n"
+"大陸側に伝わる古文書にも\n"
+"しばしば登場しておる。"
+msgstr ""
+
+msgctxt "2547"
+msgid ""
+"『魔法』と呼ばれる不思議な力と\n"
+"白銀に輝く金属によって栄華を極めた国。"
+msgstr ""
+
+msgctxt "2548"
+msgid ""
+"しかし古代王国『イース』の名前は\n"
+"ある時期を境に、歴史から姿を消した。"
+msgstr ""
+
+msgctxt "2549"
+msgid ""
+"今となっては、\n"
+"どこに存在していたのかすら判らない。"
+msgstr ""
+
+msgctxt "2550"
+msgid ""
+"われわれ学者の間では\n"
+"よくある理想郷伝説のひとつとして\n"
+"片づけられていた名前だったのだよ。"
+msgstr ""
+
+msgctxt "2551"
+msgid ""
+"しかし、かの『イース』は、\n"
+"このエステリアの地に実在していたんだ。\n"
+"わしの仮説は正しかった……！"
+msgstr ""
+
+msgctxt "2552"
+msgid ""
+"……イース消失を伝えた\n"
+"数少ない文献によれば、その時にも\n"
+"『嵐の結界』のようなものが発生していた。"
+msgstr ""
+
+msgctxt "2553"
+msgid ""
+"数年にも及ぶ嵐の結界が消えると、『イース』は\n"
+"影も形もなく、荒れ果てた地上には巨大な塔が\n"
+"天を衝くようにそびえ立っていたという。"
+msgstr ""
+
+msgctxt "2554"
+msgid ""
+"エステリアの語り部は伝えている……\n"
+"突然、魔物の軍勢が現れ、国土を蹂躪したあと、\n"
+"一夜にして、国土と民の半分が消えた、と。"
+msgstr ""
+
+msgctxt "2555"
+msgid ""
+"そして、残された魔物たちによって、\n"
+"この『ダームの塔』が建造されたという。"
+msgstr ""
+
+msgctxt "2556"
+msgid ""
+"しかし、塔が完成してから程なくして\n"
+"魔物たちは消え失せ、災いは去ったそうだ。"
+msgstr ""
+
+msgctxt "2557"
+msgid ""
+"それから、数百年の時が過ぎ去り……\n"
+"この地の人々は、過去の災いを忘れてしまった。"
+msgstr ""
+
+msgctxt "2558"
+msgid ""
+"……しかし災いは、\n"
+"本当に去ったわけでは無かったのだ。"
+msgstr ""
+
+msgctxt "2559"
+msgid ""
+"あんたも感じるだろう？\n"
+"今、この塔には、何者かの意思が働いている。"
+msgstr ""
+
+msgctxt "2560"
+msgid ""
+"統率された魔物の兵士に、邪悪なトラップ……\n"
+"間違いなく、それを背後から操る者がいるはずだ。"
+msgstr ""
+
+msgctxt "2561"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2562"
+msgid ""
+"その者の狙いは何なのか……\n"
+"それを突き止める必要がありそうだな。"
+msgstr ""
+
+msgctxt "2563"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2564"
+msgid ""
+"……それはともかく、\n"
+"お前さん、このまま塔の中を探索するつもりかね？"
+msgstr ""
+
+msgctxt "2565"
+msgid "だったら、これを持っていくといいだろう。"
+msgstr ""
+
+msgctxt "2566"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2567"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2568"
+msgid ""
+"その首飾りには、魔除けの力があってな。\n"
+"邪悪なトラップから、あんたを守ってくれるはずだ。"
+msgstr ""
+
+msgctxt "2569"
+msgid ""
+"……すまない。\n"
+"少し考えごとをさせてくれ。"
+msgstr ""
+
+msgctxt "2570"
+msgid "気がつくと、牢屋の中だった。"
+msgstr ""
+
+msgctxt "2571"
+msgid ""
+"アドルは装備を確認した。\n"
+"……持ち物がいくつか\n"
+"無くなっているのに気づいた。"
+msgstr ""
+
+msgctxt "2572"
+msgid "気がつくと、ふたたび牢屋の中だった。"
+msgstr ""
+
+msgctxt "2573"
+msgid "またも装備を荒らされた形跡がある。"
+msgstr ""
+
+msgctxt "2574"
+msgid ""
+"通路には、\n"
+"動くものの気配はない。"
+msgstr ""
+
+msgctxt "2575"
+msgid ""
+"鉄格子は頑丈で、\n"
+"揺すってもビクともしない。"
+msgstr ""
+
+msgctxt "2576"
+msgid "扉らしき物も見当たらない。"
+msgstr ""
+
+msgctxt "2577"
+msgid ""
+"がっしりとした石組みの壁だ。\n"
+"湿ったホコリが張り付いている。"
+msgstr ""
+
+msgctxt "2578"
+msgid ""
+"窓や排水溝は見当たらない。\n"
+"空気の流れも感じられないようだ。"
+msgstr ""
+
+msgctxt "2579"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2580"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2581"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2582"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2583"
+msgid "……気が付いたようですね。"
+msgstr ""
+
+msgctxt "2584"
+msgid ""
+"どうも、初めまして。\n"
+"私はゼピック村に住んでいる\n"
+"ルタ＝ジェンマという者です。"
+msgstr ""
+
+msgctxt "2585"
+msgid ""
+"恥ずかしながら、\n"
+"私は夢遊病の気がありましてね。\n"
+"気がついたら、塔の中をさ迷っていたんです。"
+msgstr ""
+
+msgctxt "2586"
+msgid ""
+"魔物の兵士に、見つからないように\n"
+"なんとか逃げ回っていたのですが……。"
+msgstr ""
+
+msgctxt "2587"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2588"
+msgid ""
+"あっけなく捕まってしまい……\n"
+"この地下牢に放りこまれてしまったんです。"
+msgstr ""
+
+msgctxt "2589"
+msgid ""
+"アドルさん……。\n"
+"こんな所でお会いするとは……。"
+msgstr ""
+
+msgctxt "2590"
+msgid ""
+"私の方は、また夢遊病が起きたようです。\n"
+"気がついたら、塔の中をさ迷っていました。"
+msgstr ""
+
+msgctxt "2591"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2592"
+msgid ""
+"アドルさんは\n"
+"自ら望んで、この塔に入ったのですか？\n"
+"何というか……無茶なことをする人ですね。"
+msgstr ""
+
+msgctxt "2593"
+msgid ""
+"でも、不思議ですね。\n"
+"あなたの目には迷いの色が見られない。"
+msgstr ""
+
+msgctxt "2594"
+msgid ""
+"私とは違って、何かに導かれるだけでなく\n"
+"自分の意志でここにいる……そんな強さを感じます。"
+msgstr ""
+
+msgctxt "2595"
+msgid ""
+"……そうそう、この塔には\n"
+"私たち以外の人間も入り込んでいるようですよ。"
+msgstr ""
+
+msgctxt "2596"
+msgid ""
+"魔物に捕まる直前、石像の並んでいる場所で\n"
+"杖を持った老人の姿を見たんです。\n"
+"通路の途中で、見失ってしまいましたが……。"
+msgstr ""
+
+msgctxt "2597"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2598"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2599"
+msgid "若いの、助けに来てやったぜ。"
+msgstr ""
+
+msgctxt "2600"
+msgid "俺はドギって言うんだ、よろしくな！"
+msgstr ""
+
+msgctxt "2601"
+msgid ""
+"詳しい事情は後で聞くから\n"
+"とにかく、ここから早く逃げるこった。"
+msgstr ""
+
+msgctxt "2602"
+msgid ""
+"……とは言っても、この塔には\n"
+"陰険なトラップが幾つも仕掛けられている。\n"
+"適当に逃げたんじゃ、また捕まるのがオチだ。"
+msgstr ""
+
+msgctxt "2603"
+msgid ""
+"３階ほど上がった#02石像の並んでいる通路#00に\n"
+"#02ラーバ#00という老人が隠れている。"
+msgstr ""
+
+msgctxt "2604"
+msgid ""
+"この塔について詳しい爺さんだ。\n"
+"会って話を聞いてみるといいだろう。"
+msgstr ""
+
+msgctxt "2605"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2606"
+msgid "さあ、奥にいる人も早く逃げろよ。"
+msgstr ""
+
+msgctxt "2607"
+msgid ""
+"ああ、ついでに悪いんだが、\n"
+"この像をラーバに届けてほしいんだ。"
+msgstr ""
+
+msgctxt "2608"
+msgid "爺さん、これを無くして困っていたからな。"
+msgstr ""
+
+msgctxt "2609"
+msgid ""
+"詳しい事情は後で聞くから、さっさと行くんだ。\n"
+"いつ魔物が来るかわからねぇ。"
+msgstr ""
+
+msgctxt "2610"
+msgid "あなたは先に逃げてください。"
+msgstr ""
+
+msgctxt "2611"
+msgid ""
+"私はあなたと違って剣士ではありません。\n"
+"魔物に見つからないように\n"
+"うまく隙をついて逃げますから。"
+msgstr ""
+
+msgctxt "2612"
+msgid ""
+"いいかげんにしろよ！！\n"
+"この壁を壊すのも大変なんだぞ。"
+msgstr ""
+
+msgctxt "2613"
+msgid ""
+"いいかげんにしろよ！！\n"
+"この壁を壊すのも大変なんだぞ。"
+msgstr ""
+
+msgctxt "2614"
+msgid ""
+"あぁ？　もぬけのからか？\n"
+"確かに奴が放り込まれたと思ったんだが……。"
+msgstr ""
+
+msgctxt "2615"
+msgid ""
+"もう、いいかげんにしろよ！！\n"
+"何度もこの壁を壊すのは大変なんだぞ。"
+msgstr ""
+
+msgctxt "2616"
+msgid ""
+"もう、いいかげんにしろよ！！\n"
+"何度もこの壁を壊すのは大変なんだぞ。"
+msgstr ""
+
+msgctxt "2617"
+msgid ""
+"うおぅ！　誰もいねぇ！\n"
+"…って、おい、偶像を使って姿を消してるのか？\n"
+"遊んでる場合じゃねえだろ！？"
+msgstr ""
+
+msgctxt "2618"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2619"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2620"
+msgid ""
+"よう、また会ったな。\n"
+"俺だよ、ドギだ。"
+msgstr ""
+
+msgctxt "2621"
+msgid ""
+"それだけ派手に動き回っていて\n"
+"よく無事でいたもんだ。"
+msgstr ""
+
+msgctxt "2622"
+msgid ""
+"ところでお前……\n"
+"どうして、こんな物騒な所に入りこんだんだ？"
+msgstr ""
+
+msgctxt "2623"
+msgid ""
+"アドルは塔に侵入した事情を\n"
+"ドギに説明した。"
+msgstr ""
+
+msgctxt "2624"
+msgid ""
+"……そうだったのか。\n"
+"ゴーバンのお頭にも会ったのかい。"
+msgstr ""
+
+msgctxt "2625"
+msgid "お頭たちには、心配をかけちまったな……。"
+msgstr ""
+
+msgctxt "2626"
+msgid ""
+"ラーバには会っただろ？\n"
+"ちょっと変わった爺さんだが\n"
+"あれでも、俺の命の恩人でな。"
+msgstr ""
+
+msgctxt "2627"
+msgid ""
+"魔物にやられそうになった時\n"
+"あの偶像の力で助けてくれたのさ。"
+msgstr ""
+
+msgctxt "2628"
+msgid ""
+"その恩返しのため、調査の手伝いをしてる内に\n"
+"つい帰りそびれちまったんだ。"
+msgstr ""
+
+msgctxt "2629"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2630"
+msgid "しかし……ここらが潮時かもしれんな。"
+msgstr ""
+
+msgctxt "2631"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2632"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2633"
+msgid ""
+"そういえば……\n"
+"お前が持っているクリスタルと\n"
+"そっくりな飾りがついた杖が何処かにあるはずだ。"
+msgstr ""
+
+msgctxt "2634"
+msgid ""
+"塔の上の階に行くためには\n"
+"その杖が必要だって聞いたことがある。"
+msgstr ""
+
+msgctxt "2635"
+msgid ""
+"……これは前に、お頭の\n"
+"おふくろさんから聞いた話だがね。"
+msgstr ""
+
+msgctxt "2636"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2637"
+msgid ""
+"しかし、アドル……\n"
+"ずいぶん頑張っているみたいだな。"
+msgstr ""
+
+msgctxt "2638"
+msgid ""
+"俺に手伝えることがあったら言ってくれ。\n"
+"力仕事だったら、お手のもんだぜ？"
+msgstr ""
+
+msgctxt "2639"
+msgid ""
+"アドルは、ゴーバンが明日の朝、\n"
+"塔の出口を開いてくれることを伝えて\n"
+"怪我した人達を脱出させるように頼んだ。"
+msgstr ""
+
+msgctxt "2640"
+msgid "……そうか、お頭が……"
+msgstr ""
+
+msgctxt "2641"
+msgid ""
+"わかった、怪我している連中は\n"
+"俺が出口まで背負っていくことにしよう。"
+msgstr ""
+
+msgctxt "2642"
+msgid ""
+"ラドの塔にいるっていう女の子も\n"
+"俺が責任を持って、出口まで連れてゆく。"
+msgstr ""
+
+msgctxt "2643"
+msgid ""
+"だから、お前は安心して\n"
+"塔のてっぺんにいる黒幕を叩きのめしてこい。"
+msgstr ""
+
+msgctxt "2644"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2645"
+msgid "いいか……絶対に死ぬんじゃねえぞ！"
+msgstr ""
+
+msgctxt "2646"
+msgid ""
+"……怪我している連中は\n"
+"俺が出口まで背負っていくことにしよう。\n"
+""
+msgstr ""
+
+msgctxt "2647"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2648"
+msgid "その杖は……"
+msgstr ""
+
+msgctxt "2649"
+msgid ""
+"お頭のおふくろさんが言ってたのは\n"
+"たぶんその杖のことだろうな。"
+msgstr ""
+
+msgctxt "2650"
+msgid ""
+"そいつを持っていれば、\n"
+"塔の上の階に行くことができると思うぜ。"
+msgstr ""
+
+msgctxt "2651"
+msgid ""
+"だが、上の階には\n"
+"もっとタチの悪い魔物がいるはずだ。"
+msgstr ""
+
+msgctxt "2652"
+msgid "くれぐれも気をつけるんだぞ。"
+msgstr ""
+
+msgctxt "2653"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2654"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2655"
+msgid "やあ、あんたか……。"
+msgstr ""
+
+msgctxt "2656"
+msgid ""
+"面目ない、魔物に見つかって\n"
+"こんな所に閉じこめられてしまったよ。"
+msgstr ""
+
+msgctxt "2657"
+msgid ""
+"あの偶像も……\n"
+"魔物に叩き壊されてしまった。"
+msgstr ""
+
+msgctxt "2658"
+msgid ""
+"早く逃げろだと？\n"
+"『悪魔の回廊』の仕掛けを知らんのか？\n"
+"あの音は、人間の生気を蝕む。"
+msgstr ""
+
+msgctxt "2659"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2660"
+msgid ""
+"若いあんたならともかく、\n"
+"わしのようなオイボレには無理だ。"
+msgstr ""
+
+msgctxt "2661"
+msgid ""
+"それに、あんただって顔色が悪いぞ。\n"
+"少し休んでいきなさい。"
+msgstr ""
+
+msgctxt "2662"
+msgid ""
+"あの悪魔の旋律は、\n"
+"外からの風で鳴っている仕掛けだ。"
+msgstr ""
+
+msgctxt "2663"
+msgid ""
+"どうやら、#02外にある柱の一本#00が、\n"
+"風を取り入れる通風管になっているらしい。"
+msgstr ""
+
+msgctxt "2664"
+msgid "それさえ壊せれば、鳴り止むと思うのだが……。"
+msgstr ""
+
+msgctxt "2665"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2666"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2667"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2668"
+msgid ""
+"アドルさん……\n"
+"私ですよ、ルタ＝ジェンマです。"
+msgstr ""
+
+msgctxt "2669"
+msgid ""
+"ラーバ老人の所に行ったのですが\n"
+"魔物たちに見つかってしまいましてね……。"
+msgstr ""
+
+msgctxt "2670"
+msgid ""
+"なんとか逃げてきたのですが……\n"
+"ちょっと……足を怪我してしまいました。"
+msgstr ""
+
+msgctxt "2671"
+msgid ""
+"私なら大丈夫……\n"
+"見た目ほど、ひどい怪我ではありません。"
+msgstr ""
+
+msgctxt "2672"
+msgid ""
+"それより老人から聞いたのですが、\n"
+"この塔に、一人の少女が連れて来られたそうです。"
+msgstr ""
+
+msgctxt "2673"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2674"
+msgid ""
+"なんだか、不吉な予感がします。\n"
+"どうか彼女を助けてあげてください。"
+msgstr ""
+
+msgctxt "2675"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2676"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2677"
+msgid ""
+"アドルさん、お願いします。\n"
+"この塔に連れてこられたという娘さんを、\n"
+"どうか助けてあげてください。"
+msgstr ""
+
+msgctxt "2678"
+msgid ""
+"よかった……\n"
+"彼女は無事でしたか。"
+msgstr ""
+
+msgctxt "2679"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2680"
+msgid ""
+"しかし、会ったこともないのに、\n"
+"どうしてこんなに、その娘の事が気になるのか。\n"
+"……自分でも不思議ですよ。"
+msgstr ""
+
+msgctxt "2681"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2682"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2683"
+msgid ""
+"そういえば、あなたの持っている\n"
+"その革張りの本……"
+msgstr ""
+
+msgctxt "2684"
+msgid ""
+"それと似たような本を\n"
+"以前、私の家で見たことがあります。"
+msgstr ""
+
+msgctxt "2685"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2686"
+msgid "今はもう失われてしまいましたが……。"
+msgstr ""
+
+msgctxt "2687"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2688"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2689"
+msgid "おや、その革張りの本は……。"
+msgstr ""
+
+msgctxt "2690"
+msgid ""
+"『ジェンマの章』を、なぜあなたが？\n"
+"それは私の先祖が記したものなんです。"
+msgstr ""
+
+msgctxt "2691"
+msgid ""
+"私が幼い頃に紛失してしまって、\n"
+"ずっと行方がわかりませんでした。"
+msgstr ""
+
+msgctxt "2692"
+msgid ""
+"……その昔、\n"
+"父からこんな話を聞かされたものです。"
+msgstr ""
+
+msgctxt "2693"
+msgid ""
+"六冊のイースの本をすべて集めた者には\n"
+"この地に平和をもたらす力が与えられると……。"
+msgstr ""
+
+msgctxt "2694"
+msgid "……アドルさん。"
+msgstr ""
+
+msgctxt "2695"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2696"
+msgid ""
+"これは私の家に古くから伝わる品です。\n"
+"どうか受け取ってください。"
+msgstr ""
+
+msgctxt "2697"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2698"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2699"
+msgid "足の傷が思ったよりも深そうです……。"
+msgstr ""
+
+msgctxt "2700"
+msgid ""
+"足の傷は思ったよりも深そうです。\n"
+"だいぶ楽にはなったのですが……。"
+msgstr ""
+
+msgctxt "2701"
+msgid ""
+"どうやら、ここを動けそうにありません。\n"
+"構わず先に行ってください。"
+msgstr ""
+
+msgctxt "2702"
+msgid ""
+"私のことなら大丈夫。\n"
+"なんとかなりますよ。"
+msgstr ""
+
+msgctxt "2703"
+msgid ""
+"アドルさん……\n"
+"私ですよ、ルタ＝ジェンマです。"
+msgstr ""
+
+msgctxt "2704"
+msgid ""
+"ラーバ老人の所に行ったのですが\n"
+"魔物たちに見つかってしまいましてね……。"
+msgstr ""
+
+msgctxt "2705"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2706"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2707"
+msgid ""
+"なんとか逃げてきたのですが……\n"
+"ちょっと……足を怪我してしまいました。"
+msgstr ""
+
+msgctxt "2708"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2709"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2710"
+msgid ""
+"あんたが、回廊の曲を止めてくれたんだろう？\n"
+"礼を言うよ……おかげで自由の身になれた。"
+msgstr ""
+
+msgctxt "2711"
+msgid ""
+"偶像がないから、あっさりと魔物に見つかって\n"
+"このありさまだがね……。"
+msgstr ""
+
+msgctxt "2712"
+msgid ""
+"なに……わしの事は心配いらん。\n"
+"それよりも、大変なことが起こってしまった。"
+msgstr ""
+
+msgctxt "2713"
+msgid ""
+"３階ほど上にある渡り廊下は\n"
+"#02ラドの塔#00という場所に通じている。"
+msgstr ""
+
+msgctxt "2714"
+msgid ""
+"幽閉用の小さな塔でな。\n"
+"先ほど、そこに一人の娘が閉じ込められた。"
+msgstr ""
+
+msgctxt "2715"
+msgid ""
+"娘が閉じ込められている部屋の扉は、\n"
+"#02邪悪な者#00しか開くことができないという。"
+msgstr ""
+
+msgctxt "2716"
+msgid ""
+"なんとか、扉を開ける手だてを見つけて\n"
+"娘を助けてやってくれないか？"
+msgstr ""
+
+msgctxt "2717"
+msgid "…………クッ。"
+msgstr ""
+
+msgctxt "2718"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2719"
+msgid ""
+"ちょっと長く喋っていたら\n"
+"魔物にやられた傷が痛んできた……。"
+msgstr ""
+
+msgctxt "2720"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2721"
+msgid ""
+"娘が閉じ込められている部屋の扉は、\n"
+"#02邪悪な者#00しか開くことができないそうだが……\n"
+"お前さんなら、開ける方法を見つけられるだろう。"
+msgstr ""
+
+msgctxt "2722"
+msgid ""
+"さあ、魔物が来ないうちに行った方がいい。\n"
+"急がないと、捕まった娘が殺されてしまうぞ。"
+msgstr ""
+
+msgctxt "2723"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2724"
+msgid ""
+"そうか、娘は無事だったか。\n"
+"……少し安心したよ。"
+msgstr ""
+
+msgctxt "2725"
+msgid ""
+"わしは……ここで休んでいる。\n"
+"イースの本を、探しにいくがいい。"
+msgstr ""
+
+msgctxt "2726"
+msgid ""
+"本がすべて手に入ったら\n"
+"わしにも、ぜひ読ませてくれよ……。"
+msgstr ""
+
+msgctxt "2727"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2728"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2729"
+msgid ""
+"……なに、最上階にある扉に触れたら\n"
+"火花のようなものに弾かれてしまっただと？"
+msgstr ""
+
+msgctxt "2730"
+msgid ""
+"ふぅむ……\n"
+"どうやら強力な結界が働いているようだな。"
+msgstr ""
+
+msgctxt "2731"
+msgid ""
+"わしの首飾りも、破邪の力を秘めているが、\n"
+"最上階の扉を開くためには、\n"
+"それ以上の力を秘めた品物が必要かもしれん。"
+msgstr ""
+
+msgctxt "2732"
+msgid ""
+"……そういえば、ルタという青年が、\n"
+"首飾りと同じ鉱石でできた護符を持っていたな。\n"
+""
+msgstr ""
+
+msgctxt "2733"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2734"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2735"
+msgid "あの護符ならば、あるいは……"
+msgstr ""
+
+msgctxt "2736"
+msgid "あの護符ならば、あるいは……"
+msgstr ""
+
+msgctxt "2737"
+msgid "……なんだ、すでに持っとるじゃないか。"
+msgstr ""
+
+msgctxt "2738"
+msgid ""
+"うむ、その護符ならば\n"
+"最上階の扉にかけられた結界を\n"
+"解除する事ができるかもしれん。"
+msgstr ""
+
+msgctxt "2739"
+msgid ""
+"……おそらく最上階には\n"
+"塔を支配する、全ての元凶がいるはずじゃ。\n"
+""
+msgstr ""
+
+msgctxt "2740"
+msgid ""
+"何者かは知らんが、まっとうな方法で\n"
+"太刀打ちできる相手だとは思わぬ方がいい。"
+msgstr ""
+
+msgctxt "2741"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2742"
+msgid "アドル君……くれぐれも気をつけるのだぞ。"
+msgstr ""
+
+msgctxt "2743"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2744"
+msgid "ルタ君から護符を預かってきたのか……"
+msgstr ""
+
+msgctxt "2745"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2746"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2747"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2748"
+msgid "ああ……アドルさんですね。"
+msgstr ""
+
+msgctxt "2749"
+msgid "お久しぶりです……詩人のレアです。"
+msgstr ""
+
+msgctxt "2750"
+msgid "あなたが、ここに来てくれると信じていました。"
+msgstr ""
+
+msgctxt "2751"
+msgid ""
+"実は、あなたに伝えたい事があって、\n"
+"……私はわざと魔物に捕まったのです。"
+msgstr ""
+
+msgctxt "2752"
+msgid ""
+"私をここに閉じこめたのは\n"
+"#02ダルク＝ファクト#00……。\n"
+""
+msgstr ""
+
+msgctxt "2753"
+msgid "漆黒のマントをまとった、恐ろしい男です。"
+msgstr ""
+
+msgctxt "2754"
+msgid ""
+"彼は魔物の力を利用して\n"
+"このエステリアを、自分の物にするつもりです。"
+msgstr ""
+
+msgctxt "2755"
+msgid "それどころか、世界に君臨する野望すら……。"
+msgstr ""
+
+msgctxt "2756"
+msgid ""
+"アドルさん……\n"
+"あなたは『イースの本』を持っていますね？"
+msgstr ""
+
+msgctxt "2757"
+msgid ""
+"全てのイースの本が、彼の手に渡ったら\n"
+"この世は、大いなる災厄に見舞われるでしょう。"
+msgstr ""
+
+msgctxt "2758"
+msgid ""
+"……どうか、お願いします。\n"
+"ダルク＝ファクトの野望を止めてください。"
+msgstr ""
+
+msgctxt "2759"
+msgid ""
+"イースの本は、限られた者にしか\n"
+"読むことができないようになっています。"
+msgstr ""
+
+msgctxt "2760"
+msgid "あなたには、読む権利があります。"
+msgstr ""
+
+msgctxt "2761"
+msgid ""
+"この品を持っていってください。\n"
+"イースの文字を読むためのものです。"
+msgstr ""
+
+msgctxt "2762"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2763"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2764"
+msgid ""
+"……六冊のイースの本を読んだ時、\n"
+"全ての真実は、明らかになるでしょう。"
+msgstr ""
+
+msgctxt "2765"
+msgid ""
+"アドルさん……\n"
+"どうか、その目で真実を確かめてください。"
+msgstr ""
+
+msgctxt "2766"
+msgid ""
+"ダームの塔は、\n"
+"こんなにも恐ろしい所なのに……\n"
+"なんだか……とっても懐かしい気がします。"
+msgstr ""
+
+msgctxt "2767"
+msgid ""
+"……アドルさん、私には\n"
+"この後やらなければならないことがあります。"
+msgstr ""
+
+msgctxt "2768"
+msgid ""
+"私のことは気にしないで、\n"
+"どうか……先に進んでください。"
+msgstr ""
+
+msgctxt "2769"
+msgid ""
+"それから、ダルク＝ファクトには\n"
+"くれぐれも気をつけてください。"
+msgstr ""
+
+msgctxt "2770"
+msgid ""
+"彼のまとっている、漆黒のマントには、\n"
+"#02クレリア#00という金属が編みこまれています。"
+msgstr ""
+
+msgctxt "2771"
+msgid ""
+"同じクレリアでできた装備でなければ\n"
+"とても太刀打ちできないでしょう。"
+msgstr ""
+
+msgctxt "2772"
+msgid ""
+"#03ほう……\n"
+"お前が、あの占い師の見出した剣士か。"
+msgstr ""
+
+msgctxt "2773"
+msgid ""
+"#03よくぞ、本をそこまで集めたものだ。\n"
+"誉めてやろう。"
+msgstr ""
+
+msgctxt "2774"
+msgid ""
+"#03だが、イースの本に隠された謎を知られては、\n"
+"私の計画が振り出しに戻ってしまうのだ。"
+msgstr ""
+
+msgctxt "2775"
+msgid ""
+"#03この世に『ダルク＝ファクト』の名を残すためにも\n"
+"お前には、ここで死んでもらう。"
+msgstr ""
+
+msgctxt "2776"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2777"
+msgid ""
+"#03その程度の力で私に挑むとは……\n"
+"おのれの無力を呪いながら、朽ち果てるがいい。"
+msgstr ""
+
+msgctxt "2778"
+msgid ""
+"#03六冊の本が集まる時、大いなる力が生まれる。\n"
+"……お前がそれを見ることは、永遠にないがな！"
+msgstr ""
+
+msgctxt "2779"
+msgid "男のマントから最終章が見つかった。"
+msgstr ""
+
+msgctxt "2780"
+msgid ""
+"アドルが六冊の本を重ねると\n"
+"目映いばかりの光があふれだし、\n"
+"あたりは柔らかな安らぎにつつまれていった。"
+msgstr ""
+
+msgctxt "2781"
+msgid "扉に触れた瞬間、腕に激痛が走った。"
+msgstr ""
+
+msgctxt "2782"
+msgid "８８版ボツセリフ"
+msgstr ""
+
+msgctxt "2783"
+msgid ""
+"冥途の土産にいい事を教えてやろう。\n"
+"お前が神殿から助けた娘は\n"
+"ジェンマの章に記されるイースの国の女神。\n"
+"彼女は悪魔を封印するために\n"
+"数百年の間、地下で眠り続けていたのだ。\n"
+""
+msgstr ""
+
+msgctxt "2784"
+msgid ""
+"私が悪魔の封印を解いたため、\n"
+"あの娘も眠りから醒めたというわけだ。\n"
+"もっとも、イースの時代の記憶は失って\n"
+"いるがね。\n"
+"お前を殺したあと、あの娘は私の\n"
+"はした女として貰ってやる。\n"
+"では、そろそろゆくぞ！"
+msgstr ""
+
+msgctxt "2785"
+msgid "木の根元から銀色の光が溢れ出す。"
+msgstr ""
+
+msgctxt "2786"
+msgid ""
+"南 >1ミネア>6        200メライ\n"
+"北 ゼピック村>5     9クリメライ\n"
+"   ラスティン鉱山  7クリメライ"
+msgstr ""
+
+msgctxt "2787"
+msgid ""
+"北 ゼピック村>5     7クリメライ\n"
+"   ラスティン鉱山  5クリメライ\n"
+"南 >1ミネア>6        3クリメライ"
+msgstr ""
+
+msgctxt "2788"
+msgid "↑ ゼピック村・ラスティン村方面"
+msgstr ""
+
+msgctxt "2789"
+msgid ""
+"東   <2ゼピック村>5     3クリメライ\n"
+"北西 ラスティン鉱山  500メライ\n"
+"南   <1ミネア>6        7クリメライ"
+msgstr ""
+
+msgctxt "2790"
+msgid ""
+"北 ゼピック村     >22クリメライ\n"
+"西 ミネア        >38クリメライ\n"
+"   <1ラスティン鉱山  <22クリメライ"
+msgstr ""
+
+msgctxt "2791"
+msgid "→ ゼピック村"
+msgstr ""
+
+msgctxt "2792"
+msgid ""
+"西 ミネア城門 750メライ\n"
+"南 バルバド港>1 5クリメライ"
+msgstr ""
+
+msgctxt "2793"
+msgid ""
+"↑ ミネア城門\n"
+" <3※足下注意"
+msgstr ""
+
+msgctxt "2794"
+msgid ""
+"↑ ラスティン鉱山\n"
+""
+msgstr ""
+
+msgctxt "2795"
+msgid "自警団寄合所"
+msgstr ""
+
+msgctxt "2796"
+msgid "武器倉庫"
+msgstr ""
+
+msgctxt "2797"
+msgid "鍵がかかっているようだ。"
+msgstr ""
+
+msgctxt "2798"
+msgid ""
+"ねじれた形状の鍵穴がついている。\n"
+"中から何かの気配を感じる。"
+msgstr ""
+
+msgctxt "2799"
+msgid "神殿の鍵を使った。"
+msgstr ""
+
+msgctxt "2800"
+msgid ""
+"鍵のかかった牢屋。\n"
+"奥に何かいるようだ。"
+msgstr ""
+
+msgctxt "2801"
+msgid "牢屋の鍵を使った。"
+msgstr ""
+
+msgctxt "2802"
+msgid ""
+"鍵がかかっているようだ。\n"
+"中から何かの気配を感じる。"
+msgstr ""
+
+msgctxt "2803"
+msgid "象牙の鍵を使った。"
+msgstr ""
+
+msgctxt "2804"
+msgid "鍵がかかっているようだ。"
+msgstr ""
+
+msgctxt "2805"
+msgid "大理石の鍵を使った。"
+msgstr ""
+
+msgctxt "2806"
+msgid ""
+"すさまじい殺気を通路の奥に感じる。\n"
+"強い力が呼び覚まされようとしている。"
+msgstr ""
+
+msgctxt "2807"
+msgid ""
+"奇妙な紋章が描かれた扉。\n"
+"中から何かの気配を感じる。"
+msgstr ""
+
+msgctxt "2808"
+msgid "ダームの鍵を使った。"
+msgstr ""
+
+msgctxt "2809"
+msgid ""
+"扉を叩いてみたが、反響すらしない。\n"
+"向こう側は、どうやら岩壁のようだ……。"
+msgstr ""
+
+msgctxt "2810"
+msgid ""
+"何か像のようなものが\n"
+"上に置かれていた形跡がある。"
+msgstr ""
+
+msgctxt "2811"
+msgid "固く閉ざされている……。"
+msgstr ""
+
+msgctxt "2812"
+msgid ""
+"押してみたが、岩の扉はびくともしない。\n"
+"鍵穴らしきものもないようだ。"
+msgstr ""
+
+msgctxt "2813"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2814"
+msgid ""
+"硬い表皮を削り取って、\n"
+"果肉質の部分にかじりついた。"
+msgstr ""
+
+msgctxt "2815"
+msgid ""
+"甘く芳醇な味わいが口の中に広がる。\n"
+"その刹那……奇妙な感覚が\n"
+"アドルの背筋を駆け抜けていった。"
+msgstr ""
+
+msgctxt "2816"
+msgid ""
+"どこにも怪我をしていないから\n"
+"使う必要はないだろう。"
+msgstr ""
+
+msgctxt "2817"
+msgid ""
+"『イースの本』\n"
+"この謎めいた古文書を開いてみた。\n"
+"アドルの知らない文字が綴られている……。"
+msgstr ""
+
+msgctxt "2818"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2819"
+msgid "<!empty>"
+msgstr ""

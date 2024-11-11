@@ -44,7 +44,7 @@ std::vector<YS1ExeTVO> GetYS1ETVOs(const std::vector<std::vector<std::string>> &
 
 std::vector<YS1ExeAddonTVO> GetYS1ATVOs(const std::string &exeAddonTextPath);
 
-std::vector<ParaTranzVO> GetPTVOs(const std::vector<std::vector<std::string>> &paraTranzCsv);
+std::vector<ParaTranzVO> GetPTVOs(const std::vector<std::vector<std::string>> &paraTranzCsv, bool needEmpty = false);
 
 std::vector<ParaTranzVO> GetPTVOs(const std::vector<YS1ExeTVO> &ys1ExeTVOs);
 
