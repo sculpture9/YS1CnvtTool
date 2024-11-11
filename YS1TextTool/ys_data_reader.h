@@ -48,7 +48,7 @@ std::vector<ParaTranzVO> GetPTVOs(const std::vector<std::vector<std::string>> &p
 
 std::vector<ParaTranzVO> GetPTVOs(const std::vector<YS1ExeTVO> &ys1ExeTVOs);
 
-std::vector<ParaTranzVO> GetPTVOs(const std::vector<YS1POVO> &ys1POVOs);
+std::vector<ParaTranzVO> GetPTVOs(const std::vector<YS1POVO> &ys1POVOs, bool needEmpty = false);
 
 std::vector<YS1POVO> GetYS1POVOs(const std::vector<std::vector<std::string>> &translatedPO);
 

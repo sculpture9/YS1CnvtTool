@@ -34,15 +34,15 @@ constexpr auto YS_FONT_STYLE_DIA = "text2.ini";
 
 constexpr auto YS_FONT_STYLE_PSP = "text.ini";
 
-constexpr auto YS1_SCANE_PO_ORI_PATH = "\\work\\source\\SCENA Complete∑≠“Î“∆÷≤∞Ê.po";
+constexpr auto YS1_SCANE_PO_ORI_PATH = "work\\source\\SCENA Complete∑≠“Î“∆÷≤∞Ê.po";
 
-constexpr auto YS1_SCANE_CSV_PT_ORI_PATH = "\\work\\source\\SCENA_pt.csv";
+constexpr auto YS1_SCANE_CSV_PT_ORI_PATH = "work\\source\\SCENA_pt.csv";
 
-constexpr auto YS1_SCANE_PO_TGT_PATH = "\\work\\target\\SCENA Complete∑≠“Î“∆÷≤∞Ê.po";
+constexpr auto YS1_SCANE_PO_TGT_PATH = "work\\target\\SCENA Complete∑≠“Î“∆÷≤∞Ê.po";
 
-constexpr auto YS1_SCANE_CSV_PT_TGT_PATH = "\\work\\target\\SCENA_pt.csv";
+constexpr auto YS1_SCANE_CSV_PT_TGT_PATH = "work\\target\\SCENA_pt.csv";
 
-constexpr auto YS_CONFIG_FONT_INI_PATH = "E:\\Project\\YSTranslationProject\\Tool\\YCTT.v1.0\\config_font.ini";
+constexpr auto YS_CONFIG_FONT_INI_PATH = "work\\target\\config_font.ini";
 
 constexpr auto YS_CONFIG_FONT_PREFIX = "CharacterSize=18\nMaxHeightFromOrigin=8\nFont=fonts/msyh.ttf\nSpaceWidth=8";
 
@@ -51,5 +51,7 @@ constexpr auto YS1_SCANE_PO_MSG_CTXT = "msgctxt ";
 constexpr auto YS1_SCANE_PO_MSG_ID = "msgid ";
 
 constexpr auto YS1_SCANE_PO_MSG_STR = "msgstr ";
+
+constexpr auto YS1_SCANE_PO_MSG_ID_EMPTY = "<!empty>";
 
 constexpr auto YS1_SCANE_PO_PREFIX = "msgid \"\"\nmsgstr \"\"\n\"Project-Id-Version: Ys I & II Chronicles+\\n\"\n\"Report-Msgid-Bugs-To: anyemail@gmail.com\\n\"\n\"POT-Creation-Date: 2024/11/3\\n\"\n\"PO-Revision-Date: \\n\"\n\"Last-Translator: \\n\"\n\"Language-Team: Any\\n\"\n\"Language: zh-CN\\n\"\n\"MIME-Version: 1.0\\n\"\n\"Content-Type: text/plain; charset=UTF-8\\n\"\n\"Content-Transfer-Encoding: 8bit\\n\"\n";

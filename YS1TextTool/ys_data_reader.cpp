@@ -114,13 +114,17 @@ std::vector<ParaTranzVO> GetPTVOs(const std::vector<YS1ExeTVO> &ys1ExeTVOs)
     return result;
 }
 
-std::vector<ParaTranzVO> GetPTVOs(const std::vector<YS1POVO> &ys1POVOs) 
+std::vector<ParaTranzVO> GetPTVOs(const std::vector<YS1POVO> &ys1POVOs, bool needEmpty)
 {
     if (ys1POVOs.size() == 0) { return {}; }
     vector<ParaTranzVO> result;
     for (int i = 0; i < ys1POVOs.size(); i++)
     {
         auto povo = ys1POVOs[i];
+        if (!needEmpty && povo.msgid == YS1_SCANE_PO_MSG_ID_EMPTY)
+        {
+            continue;
+        }
         ParaTranzVO ptvo;
         ptvo.Key = povo.msgctxt;
         ptvo.Source = MultiLine2One(povo.msgid, false);

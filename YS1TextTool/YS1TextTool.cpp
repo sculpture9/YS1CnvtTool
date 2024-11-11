@@ -13,14 +13,13 @@ int main()
 {
     //SupportGetCSVFromExeText();
     //SupportUpdateCSVWithAddonText(YS1_EXE_CSV_ORI_PATH, YS1_EXE_ADDON_TEXT_ORI_PATH, YS1_EXE_CSV_TGT_PATH);
-    SupportUpdateCSVWithAddonText(YS2_EXE_CSV_ORI_PATH, YS2_EXE_ADDON_TEXT_ORI_PATH, YS2_EXE_CSV_TGT_PATH);
+    //SupportUpdateCSVWithAddonText(YS2_EXE_CSV_ORI_PATH, YS2_EXE_ADDON_TEXT_ORI_PATH, YS2_EXE_CSV_TGT_PATH);
     //GenerateConfigFontText();
     //TransCSV2ParaTranzCSV();
-    //MergeParaTranzCSV2TransCSV()
+    //MergeParaTranzCSV2TransCSV();
     //PO2ParaTranzCSV();
     //MergeParaTranzCSV2PO();
-
-    cout << "press any key to exit." << endl;
+    cout << "succeed! press any key to exit." << endl;
     _getch();
 }
 
@@ -148,6 +147,12 @@ void MergeParaTranzCSV2PO()
                 tgtVOs[i].msgstr = ptVO.Translation;
                 ptVOs.erase(ptVOs.begin() + j);
                 break;
+            }
+            //if no found
+            if (j = ptVOs.size() - 1)
+            {
+                cout << YS1_SCANE_PO_MSG_CTXT << ": " << tgtVOs[i].msgctxt << "Not Repalce. " << endl;
+                cout << YS1_SCANE_PO_MSG_ID << ": " << tgtVOs[i].msgid << endl;
             }
         }
     }
