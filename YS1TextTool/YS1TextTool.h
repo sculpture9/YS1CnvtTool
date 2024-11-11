@@ -17,3 +17,5 @@ void GenerateSectionList(std::vector<std::vector<std::string>> matchCSV, std::ve
 std::vector<YS1POVO> GetResultOfTranslation(std::vector<Section> oriSecList, std::vector<Section> scSecList, std::vector<YS1POVO> oriPOVOs, std::vector<YS1POVO> scPOVOs);
 int TranslateSection(std::vector<YS1POVO> &result, int oriLineNo, const std::vector<YS1POVO> &oriPO, const std::vector<YS1POVO> &scPO, Section oriSection, Section scSection);
 void MatchPOText(std::string tgtPOPath, std::string matchCSVPath, std::string oriPOPath, std::string scPOPath);
+void DividedParaTranzCSV(int fileCapacity);
+void MergeParaTranzCSV(int fileNum);

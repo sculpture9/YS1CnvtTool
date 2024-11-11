@@ -11,7 +11,7 @@
 
 int main()
 {
-    MatchPOText(TARGET_PO_PATH, SC2ENGFORSCENA_PATH, ORIGIN_PO_PATH, TS_PO_PATH);
+    //MatchPOText(TARGET_PO_PATH, SC2ENGFORSCENA_PATH, ORIGIN_PO_PATH, TS_PO_PATH);
     //SupportGetCSVFromExeText();
     //SupportUpdateCSVWithAddonText(YS1_EXE_CSV_ORI_PATH, YS1_EXE_ADDON_TEXT_ORI_PATH, YS1_EXE_CSV_TGT_PATH);
     //SupportUpdateCSVWithAddonText(YS2_EXE_CSV_ORI_PATH, YS2_EXE_ADDON_TEXT_ORI_PATH, YS2_EXE_CSV_TGT_PATH);
@@ -20,6 +20,7 @@ int main()
     //MergeParaTranzCSV2TransCSV();
     //PO2ParaTranzCSV();
     //MergeParaTranzCSV2PO();
+    DividedParaTranzCSV(100);
     cout << "succeed! press any key to exit." << endl;
     _getch();
 }
@@ -196,6 +197,54 @@ node.TransformWith(new Binary2Po()).Stream.WriteTo(target1POPath);*/
         cout << ("Move Succeed！") << endl;
     }
     else cout << ("Move Failed！") << endl;
+}
+
+void DividedParaTranzCSV(int fileCapacity)
+{
+    if (fileCapacity <= 0) { return; }
+    vector<vector<string>> ptCSV;
+    long lineFLag;
+    ReadDataFromCSV(ptCSV, YS1_SCANE_CSV_PT_ORI_PATH, lineFLag, false);
+    vector<ParaTranzVO> ptVOs = GetPTVOs(ptCSV);
+    vector<ParaTranzVO> writeData;
+    int counter = 0;
+    int flag = 0;
+    for (int i = 0; i < ptVOs.size(); i++)
+    {
+        counter++;
+        if ((counter % fileCapacity) == 0 || i == (ptVOs.size() - 1))
+        {
+            flag++;
+            writeData.push_back(ptVOs[i]);
+            WriteVOs2CSV(writeData, YS1_SCANE_CSV_PT_DIVIDED_TGT_PATH_PREFIX + to_string(flag) + ".csv");
+            writeData.clear();
+        }
+        else
+        {
+            writeData.push_back(ptVOs[i]);
+        }
+    }
+}
+
+void MergeParaTranzCSV(int fileNum)
+{
+    if (fileNum <= 1) { return; }
+    vector<ParaTranzVO> result;
+    vector<vector<string>> sonCSV;
+    vector<ParaTranzVO> sonVOs; 
+    long lineFLag;
+    for (int flag = 1; flag <= fileNum; flag++)
+    {
+        ReadDataFromCSV(sonCSV, YS1_SCANE_CSV_PT_DIVIDED_ORI_PATH_PREFIX + to_string(flag) + ".csv", lineFLag, false);
+        sonVOs = GetPTVOs(sonCSV);
+        for (int i = 0; i < sonVOs.size(); i++)
+        {
+            result.push_back(sonVOs[i]);
+        }
+        sonCSV.clear();
+        sonVOs.clear();
+    }
+    WriteVOs2CSV(result, YS1_EXE_CSV_PT_TGT_PATH);
 }
 
 void GenerateSectionList(vector<vector<string>> matchCSV, vector<Section> &oriList, vector<Section> &scList)

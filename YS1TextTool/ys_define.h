@@ -47,9 +47,13 @@ constexpr auto YS1_SCANE_PO_ORI_PATH = "work\\source\\SCENA Complete∑≠“Î“∆÷≤∞Ê.p
 
 constexpr auto YS1_SCANE_CSV_PT_ORI_PATH = "work\\source\\SCENA_pt.csv";
 
+constexpr auto YS1_SCANE_CSV_PT_DIVIDED_ORI_PATH_PREFIX = "work\\source\\divided_pt_csv\\SCENA_pt_part";
+
 constexpr auto YS1_SCANE_PO_TGT_PATH = "work\\target\\SCENA Complete∑≠“Î“∆÷≤∞Ê.po";
 
 constexpr auto YS1_SCANE_CSV_PT_TGT_PATH = "work\\target\\SCENA_pt.csv";
+
+constexpr auto YS1_SCANE_CSV_PT_DIVIDED_TGT_PATH_PREFIX = "work\\target\\divided_pt_csv\\SCENA_pt_part";
 
 constexpr auto YS_CONFIG_FONT_INI_PATH = "work\\target\\config_font.ini";
 
