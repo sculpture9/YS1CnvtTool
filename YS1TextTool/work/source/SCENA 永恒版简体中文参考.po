@@ -1,0 +1,14136 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ys I & II Chronicles+\n"
+"Report-Msgid-Bugs-To: anyemail@gmail.com\n"
+"POT-Creation-Date: 2024/9/23\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Any\n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "0"
+msgid "the Ancient Ys vanished omen."
+msgstr ""
+
+msgctxt "1"
+msgid "Now Loading..."
+msgstr ""
+
+msgctxt "2"
+msgid "Copyright 1987,1998 Nihon Falcom Corp."
+msgstr ""
+
+msgctxt "3"
+msgid "http://www.falcom.com/"
+msgstr ""
+
+msgctxt "4"
+msgid "◆ 功能选项 ◆"
+msgstr ""
+
+msgctxt "5"
+msgid "◆ 开发用菜单 ◆"
+msgstr ""
+
+msgctxt "6"
+msgid "◆ 储存进度 ◆"
+msgstr ""
+
+msgctxt "7"
+msgid "◆ 读取进度 ◆"
+msgstr ""
+
+msgctxt "8"
+msgid "◆ 配备 ◆"
+msgstr ""
+
+msgctxt "9"
+msgid "◆ 物品清单 ◆"
+msgstr ""
+
+msgctxt "10"
+msgid "◆ 状态 ◆"
+msgstr ""
+
+msgctxt "11"
+msgid "◆ 动作流畅度 ◆"
+msgstr ""
+
+msgctxt "12"
+msgid "◆ 画面亮度调整 ◆"
+msgstr ""
+
+msgctxt "13"
+msgid "◆ 方向判断的选择 ◆"
+msgstr ""
+
+msgctxt "14"
+msgid "◆ 旗标编辑 ◆"
+msgstr ""
+
+msgctxt "15"
+msgid "◆ 所持物品编辑 ◆"
+msgstr ""
+
+msgctxt "16"
+msgid "◆ 死了的魔王设定 ◆"
+msgstr ""
+
+msgctxt "17"
+msgid "◆ 魔法效果等 ◆"
+msgstr ""
+
+msgctxt "18"
+msgid "◆ 地图选择 ◆"
+msgstr ""
+
+msgctxt "19"
+msgid "◆ 背景音乐与音效 ◆"
+msgstr ""
+
+msgctxt "20"
+msgid "主菜单"
+msgstr ""
+
+msgctxt "21"
+msgid "◆ 窗口设计 ◆"
+msgstr ""
+
+msgctxt "22"
+msgid "背景的阴影修补 - ON"
+msgstr ""
+
+msgctxt "23"
+msgid "背景的阴影修充 - OFF"
+msgstr ""
+
+msgctxt "24"
+msgid "VRAM - VIDEO"
+msgstr ""
+
+msgctxt "25"
+msgid "VRAM - SYSTEM"
+msgstr ""
+
+msgctxt "26"
+msgid "◆ 操作与输入 ◆"
+msgstr ""
+
+msgctxt "27"
+msgid "移动方法 - 设定按键ON/OFF"
+msgstr ""
+
+msgctxt "28"
+msgid "移动方法 - 移向光标"
+msgstr ""
+
+msgctxt "29"
+msgid "移动方向 - 8方向"
+msgstr ""
+
+msgctxt "30"
+msgid "移动方向 - 4方向"
+msgstr ""
+
+msgctxt "31"
+msgid "移动方向 - Free"
+msgstr ""
+
+msgctxt "32"
+msgid "自动移动 - OFF"
+msgstr ""
+
+msgctxt "33"
+msgid "自动移动 - ON"
+msgstr ""
+
+msgctxt "34"
+msgid "摇杆 - 使用"
+msgstr ""
+
+msgctxt "35"
+msgid "摇杆 - 不用"
+msgstr ""
+
+msgctxt "36"
+msgid "摇杆 - 没有"
+msgstr ""
+
+msgctxt "37"
+msgid "指令选取中动作暂停 - ON"
+msgstr ""
+
+msgctxt "38"
+msgid "指令选取中动作暂停 - OFF"
+msgstr ""
+
+msgctxt "39"
+msgid "◆ 其它 ◆"
+msgstr ""
+
+msgctxt "40"
+msgid "影像遮蔽 - 遮蔽"
+msgstr ""
+
+msgctxt "41"
+msgid "影像遮蔽 - 不遮蔽"
+msgstr ""
+
+msgctxt "42"
+msgid "抓图 - ON"
+msgstr ""
+
+msgctxt "43"
+msgid "抓图 - OFF"
+msgstr ""
+
+msgctxt "44"
+msgid "时间表示 - ON"
+msgstr ""
+
+msgctxt "45"
+msgid "时间表示 - OFF"
+msgstr ""
+
+msgctxt "46"
+msgid "游戏自动开始 - ON"
+msgstr ""
+
+msgctxt "47"
+msgid "游戏自动开始 - OFF"
+msgstr ""
+
+msgctxt "48"
+msgid "Frame Rate显示 - ON"
+msgstr ""
+
+msgctxt "49"
+msgid "Frame Rate显示 - OFF"
+msgstr ""
+
+msgctxt "50"
+msgid "伊苏之书"
+msgstr ""
+
+msgctxt "51"
+msgid "返回"
+msgstr ""
+
+msgctxt "52"
+msgid "◇  返回  ◇"
+msgstr ""
+
+msgctxt "53"
+msgid "刀剑"
+msgstr ""
+
+msgctxt "54"
+msgid "盾牌"
+msgstr ""
+
+msgctxt "55"
+msgid "盔甲"
+msgstr ""
+
+msgctxt "56"
+msgid "戒指"
+msgstr ""
+
+msgctxt "57"
+msgid "短剑"
+msgstr ""
+
+msgctxt "58"
+msgid "长剑"
+msgstr ""
+
+msgctxt "59"
+msgid "弯刀"
+msgstr ""
+
+msgctxt "60"
+msgid "银剑"
+msgstr ""
+
+msgctxt "61"
+msgid "火焰剑"
+msgstr ""
+
+msgctxt "62"
+msgid "小盾"
+msgstr ""
+
+msgctxt "63"
+msgid "皮盾"
+msgstr ""
+
+msgctxt "64"
+msgid "巨盾"
+msgstr ""
+
+msgctxt "65"
+msgid "银之盾"
+msgstr ""
+
+msgctxt "66"
+msgid "战士之盾"
+msgstr ""
+
+msgctxt "67"
+msgid "锁链甲"
+msgstr ""
+
+msgctxt "68"
+msgid "铁甲"
+msgstr ""
+
+msgctxt "69"
+msgid "反弹铠甲"
+msgstr ""
+
+msgctxt "70"
+msgid "银之铠"
+msgstr ""
+
+msgctxt "71"
+msgid "战士之铠"
+msgstr ""
+
+msgctxt "72"
+msgid "力量戒指"
+msgstr ""
+
+msgctxt "73"
+msgid "黄铜戒指"
+msgstr ""
+
+msgctxt "74"
+msgid "时之戒指"
+msgstr ""
+
+msgctxt "75"
+msgid "治愈戒指"
+msgstr ""
+
+msgctxt "76"
+msgid "诅咒戒指"
+msgstr ""
+
+msgctxt "77"
+msgid "伊苏之书"
+msgstr ""
+
+msgctxt "78"
+msgid "伊苏之书"
+msgstr ""
+
+msgctxt "79"
+msgid "伊苏之书"
+msgstr ""
+
+msgctxt "80"
+msgid "伊苏之书"
+msgstr ""
+
+msgctxt "81"
+msgid "伊苏之书"
+msgstr ""
+
+msgctxt "82"
+msgid "伊苏之书"
+msgstr ""
+
+msgctxt "83"
+msgid "水晶"
+msgstr ""
+
+msgctxt "84"
+msgid "红宝石"
+msgstr ""
+
+msgctxt "85"
+msgid "宝箱之钥"
+msgstr ""
+
+msgctxt "86"
+msgid "牢房之钥"
+msgstr ""
+
+msgctxt "87"
+msgid "神殿之钥"
+msgstr ""
+
+msgctxt "88"
+msgid "象牙之钥"
+msgstr ""
+
+msgctxt "89"
+msgid "大理石之钥"
+msgstr ""
+
+msgctxt "90"
+msgid "达姆之钥"
+msgstr ""
+
+msgctxt "91"
+msgid "<1偶像"
+msgstr ""
+
+msgctxt "92"
+msgid "法杖"
+msgstr ""
+
+msgctxt "93"
+msgid "银之口琴"
+msgstr ""
+
+msgctxt "94"
+msgid "银之铃"
+msgstr ""
+
+msgctxt "95"
+msgid "萝妲之果"
+msgstr ""
+
+msgctxt "96"
+msgid "蓝宝石戒指"
+msgstr ""
+
+msgctxt "97"
+msgid "项链"
+msgstr ""
+
+msgctxt "98"
+msgid "金之台座"
+msgstr ""
+
+msgctxt "99"
+msgid "治伤药"
+msgstr ""
+
+msgctxt "100"
+msgid "回归之翼"
+msgstr ""
+
+msgctxt "101"
+msgid "魔法镜"
+msgstr ""
+
+msgctxt "102"
+msgid "铁锤"
+msgstr ""
+
+msgctxt "103"
+msgid "魔眼面具"
+msgstr ""
+
+msgctxt "104"
+msgid "蓝石项链"
+msgstr ""
+
+msgctxt "105"
+msgid "眼镜"
+msgstr ""
+
+msgctxt "106"
+msgid "湛蓝守护"
+msgstr ""
+
+msgctxt "107"
+msgid "贝斯提里药"
+msgstr ""
+
+msgctxt "108"
+msgid "纸片"
+msgstr ""
+
+msgctxt "109"
+msgid "空色封面之书"
+msgstr ""
+
+msgctxt "110"
+msgid "红色封面之书"
+msgstr ""
+
+msgctxt "111"
+msgid "蓝色封面之书"
+msgstr ""
+
+msgctxt "112"
+msgid "黄色封面之书"
+msgstr ""
+
+msgctxt "113"
+msgid "绿色封面之书"
+msgstr ""
+
+msgctxt "114"
+msgid "黑色封面之书"
+msgstr ""
+
+msgctxt "115"
+msgid ""
+"价格低廉、效果不大的短剑。使用\n"
+"简单，也可以应用在日常生活中。\n"
+"不能期望用它来战斗能有什么效果。"
+msgstr ""
+
+msgctxt "116"
+msgid ""
+"钢铁制的长剑。宽阔的剑身，相当\n"
+"具份量，使起来颇感吃力，不过它\n"
+"的破坏力在战斗中会有相当的表现。"
+msgstr ""
+
+msgctxt "117"
+msgid ""
+"来自遥远东方的贵重刀器。新月形\n"
+"的锋利刀身蕴含着极大的破坏力。"
+msgstr ""
+
+msgctxt "118"
+msgid ""
+"装饰华丽的长剑。剑身散发银白的\n"
+"光泽，具有消灭邪恶事物的力量。"
+msgstr ""
+
+msgctxt "119"
+msgid ""
+"烈焰加护的巨剑，是最强的魔剑。\n"
+"它的斩击，能断金裂石、炽灼成灰\n"
+"，完全无法防御。"
+msgstr ""
+
+msgctxt "120"
+msgid ""
+"采用硬质木材并以金属加强的小型\n"
+"盾牌。价格便宜、使用称手。不过\n"
+"其强度与防御范围都不理想。"
+msgstr ""
+
+msgctxt "121"
+msgid ""
+"以鞣皮紧密打实所制成的中型盾牌\n"
+"。以这种大小而言是轻了许多，用\n"
+"起来相当顺手，强度也蛮理想。"
+msgstr ""
+
+msgctxt "122"
+msgid ""
+"钢铁制的大型盾牌。因为相当沉重\n"
+"，装备起来颇为费力。具有与其重\n"
+"量相当的防御力。"
+msgstr ""
+
+msgctxt "123"
+msgid ""
+"被施以精美刻纹的白银之盾。凡是\n"
+"邪恶者一律不能靠近，表面刻有祈\n"
+"祷文字。"
+msgstr ""
+
+msgctxt "124"
+msgid ""
+"烈焰加护的巨盾。对使用它的人而\n"
+"言，蕴含有能遮断一切攻击的防御\n"
+"力。"
+msgstr ""
+
+msgctxt "125"
+msgid ""
+"以细铁索编成的身体防具。通风良\n"
+"好，但承受攻击的耐力较差。"
+msgstr ""
+
+msgctxt "126"
+msgid ""
+"以钢铁材料板金而成的盔甲。在战\n"
+"斗中可发挥令人信赖的防御力，不\n"
+"过只有体魄健壮者才能装备。"
+msgstr ""
+
+msgctxt "127"
+msgid ""
+"以特殊树脂炼造的铠甲。并不特别\n"
+"轻，也不特别有利于活动，其强韧\n"
+"度在铁甲之上。"
+msgstr ""
+
+msgctxt "128"
+msgid ""
+"施以十分精美装饰的白银之铠。因\n"
+"为获得神的祝福，装备它的人能不\n"
+"受邪气的侵害。"
+msgstr ""
+
+msgctxt "129"
+msgid ""
+"烈焰加护的铠甲。因为具有能抵挡\n"
+"所有攻击的耐性，所以不论面对什\n"
+"么敌人皆可适用。"
+msgstr ""
+
+msgctxt "130"
+msgid ""
+"青铜制的戒指。能提升肉体的潜能\n"
+"，对战斗有莫大助益。"
+msgstr ""
+
+msgctxt "131"
+msgid ""
+"黄铜制的戒指。能在装备者周围产\n"
+"生结界，减少外来的冲击力。"
+msgstr ""
+
+msgctxt "132"
+msgid ""
+"珊瑚化石制成的戒指。可转化时间\n"
+"的恒定特性为力量，施压在周围的\n"
+"邪恶生物上，使其动作迟缓。"
+msgstr ""
+
+msgctxt "133"
+msgid ""
+"受到神圣祝福的戒指。即使在充满\n"
+"邪气的地方，也能回复体力。"
+msgstr ""
+
+msgctxt "134"
+msgid ""
+"戴上它的人，内心会染上邪气，是\n"
+"一只可怕的、会吞噬人性的戒指。\n"
+"刻有血一般的文字。"
+msgstr ""
+
+msgctxt "135"
+msgid ""
+"以优雅文字图形滚边，皮质封面的\n"
+"古文书，由已经失传的古文字所写\n"
+"成。所以没有人看得懂。"
+msgstr ""
+
+msgctxt "136"
+msgid ""
+"以优雅文字图形滚边，皮质封面的\n"
+"古文书，由已经失传的古文字所写\n"
+"成。所以没有人看得懂。"
+msgstr ""
+
+msgctxt "137"
+msgid ""
+"以优雅文字图形滚边，皮质封面的\n"
+"古文书，由已经失传的古文字所写\n"
+"成。所以没有人看得懂。"
+msgstr ""
+
+msgctxt "138"
+msgid ""
+"以优雅文字图形滚边，皮质封面的\n"
+"古文书，由已经失传的古文字所写\n"
+"成。所以没有人看得懂。"
+msgstr ""
+
+msgctxt "139"
+msgid ""
+"以优雅文字图形滚边，皮质封面的\n"
+"古文书，由已经失传的古文字所写\n"
+"成。所以没有人看得懂。"
+msgstr ""
+
+msgctxt "140"
+msgid ""
+"以优雅文字图形滚边，皮质封面的\n"
+"古文书，由已经失传的古文字所写\n"
+"成。所以没有人看得懂。"
+msgstr ""
+
+msgctxt "141"
+msgid ""
+"大颗的光之水晶，以优美的台座固\n"
+"定。光线透入水晶，其内部会反射\n"
+"出读数、呈星状的光点。"
+msgstr ""
+
+msgctxt "142"
+msgid ""
+"大颗的红宝石，装饰以雕工精美的\n"
+"黄金，是最近才琢磨成的道具。"
+msgstr ""
+
+msgctxt "143"
+msgid ""
+"青铜钥匙，刻着奇妙的纹章。可用\n"
+"它来开启刻有相同纹章图样的宝箱。"
+msgstr ""
+
+msgctxt "144"
+msgid ""
+"朴质而沉重的铁制钥匙。末端部份\n"
+"已有点点锈斑。"
+msgstr ""
+
+msgctxt "145"
+msgid ""
+"红宝石与雕刻细致的黄金组合而成\n"
+"的精美钥匙。匙牙部份呈极其复杂\n"
+"的螺旋形。"
+msgstr ""
+
+msgctxt "146"
+msgid ""
+"以淡淡乳白色象牙制成的钥匙。以\n"
+"纠缠成长条状的文字图样滚边，是\n"
+"一只雕工精细的钥匙。"
+msgstr ""
+
+msgctxt "147"
+msgid ""
+"以翠绿色大理石制成的钥匙，色泽\n"
+"丰富、造型优美。匙牙部份呈三叉\n"
+"戟状。"
+msgstr ""
+
+msgctxt "148"
+msgid ""
+"以闪烁青色光芒的矿石制成的钥匙\n"
+"。持有她就可以搜集散落在艾斯塔\n"
+"里亚遗迹里的纹章。"
+msgstr ""
+
+msgctxt "149"
+msgid ""
+"沉甸甸的青铜像，依据古代飞龙的\n"
+"形象所铸成。托于掌中，身心会感\n"
+"到一片祥和。"
+msgstr ""
+
+msgctxt "150"
+msgid ""
+"魔导士专用的棒状短杖，杖身刻满\n"
+"咒法文字。"
+msgstr ""
+
+msgctxt "151"
+msgid ""
+"银制古董口琴，闪烁着银白光辉，\n"
+"可演奏出美妙的音乐。"
+msgstr ""
+
+msgctxt "152"
+msgid ""
+"自古以来流传下来的塞皮克村之宝\n"
+"，据说可保护村庄远离灾祸。摇晃\n"
+"她，会发出清脆悦耳的声音。"
+msgstr ""
+
+msgctxt "153"
+msgid ""
+"生长在艾斯塔里亚的树木之果实。\n"
+"据说它柔嫩的果肉，味道之美天下\n"
+"无双。"
+msgstr ""
+
+msgctxt "154"
+msgid ""
+"镶嵌着蓝宝石的戒指。指圈内侧刻\n"
+"有看来像是有关于赠主的某种信息。"
+msgstr ""
+
+msgctxt "155"
+msgid ""
+"黄金项链。小粒的红宝石缀满整副\n"
+"项链，有点儿不按章法的设计。"
+msgstr ""
+
+msgctxt "156"
+msgid ""
+"纯金制的台座。顶端有个小孔，似\n"
+"乎可承载某种球形物体，至于承载\n"
+"什么东西，则尚未明了。"
+msgstr ""
+
+msgctxt "157"
+msgid ""
+"取高山植物毛地黄加以煎煮，所提\n"
+"炼出的色泽鲜红的口服药水。"
+msgstr ""
+
+msgctxt "158"
+msgid ""
+"仿鸟翼之形所制成的符录。可在一\n"
+"瞬间，跳跃至曾路过的城镇或村庄。"
+msgstr ""
+
+msgctxt "159"
+msgid ""
+"被镜子反射成像的物体会暂时静止\n"
+"。其耐久力有一定的限度，使用数\n"
+"次后，就会丧失功效。"
+msgstr ""
+
+msgctxt "160"
+msgid ""
+"平凡无奇的铁锤，可用来敲击木桩\n"
+"或击碎岩石。"
+msgstr ""
+
+msgctxt "161"
+msgid ""
+"石制面具，额头部份嵌有一粒翡翠\n"
+"。可通过其眼孔窥视一切。"
+msgstr ""
+
+msgctxt "162"
+msgid ""
+"散放青色光芒的奇妙矿石所制成的\n"
+"项链。蕴藏有强力的破邪咒文，可\n"
+"破除一切咒法。"
+msgstr ""
+
+msgctxt "163"
+msgid ""
+"历史久远的古式单片眼镜。看起来\n"
+"像是阅读用的，可是镜片却没有度\n"
+"数。"
+msgstr ""
+
+msgctxt "164"
+msgid ""
+"洁玛家一族代代相承的避邪物。微\n"
+"微的寒气中，隐隐散放出凛冽的青\n"
+"色光芒。"
+msgstr ""
+
+msgctxt "165"
+msgid ""
+"由伟大的传道师所调合而成的饮用\n"
+"药水。可以得到有关于魔物方面的\n"
+"知识。"
+msgstr ""
+
+msgctxt "166"
+msgid ""
+"在一张纸上、写着几行由读不出来\n"
+"的文字所写的文章。"
+msgstr ""
+
+msgctxt "167"
+msgid "亚特鲁"
+msgstr ""
+
+msgctxt "168"
+msgid "菲娜"
+msgstr ""
+
+msgctxt "169"
+msgid "蕾雅"
+msgstr ""
+
+msgctxt "170"
+msgid "洁瓦"
+msgstr ""
+
+msgctxt "171"
+msgid "盗贼古邦"
+msgstr ""
+
+msgctxt "172"
+msgid "古邦"
+msgstr ""
+
+msgctxt "173"
+msgid "多奇"
+msgstr ""
+
+msgctxt "174"
+msgid "占卜师莎拉"
+msgstr ""
+
+msgctxt "175"
+msgid "莎拉"
+msgstr ""
+
+msgctxt "176"
+msgid "欧曼"
+msgstr ""
+
+msgctxt "177"
+msgid "罗杰第"
+msgstr ""
+
+msgctxt "178"
+msgid "迪欧斯"
+msgstr ""
+
+msgctxt "179"
+msgid "皮姆"
+msgstr ""
+
+msgctxt "180"
+msgid "医师克拉杰"
+msgstr ""
+
+msgctxt "181"
+msgid "多尼斯"
+msgstr ""
+
+msgctxt "182"
+msgid "医师布鲁多"
+msgstr ""
+
+msgctxt "183"
+msgid "斯拉夫"
+msgstr ""
+
+msgctxt "184"
+msgid "护士"
+msgstr ""
+
+msgctxt "185"
+msgid "艾拉"
+msgstr ""
+
+msgctxt "186"
+msgid "护士"
+msgstr ""
+
+msgctxt "187"
+msgid "莉莎"
+msgstr ""
+
+msgctxt "188"
+msgid "卢达·洁玛之妻"
+msgstr ""
+
+msgctxt "189"
+msgid "琼安娜"
+msgstr ""
+
+msgctxt "190"
+msgid "侍女"
+msgstr ""
+
+msgctxt "191"
+msgid "莉姆"
+msgstr ""
+
+msgctxt "192"
+msgid "贾雷克"
+msgstr ""
+
+msgctxt "193"
+msgid "卢达·洁玛"
+msgstr ""
+
+msgctxt "194"
+msgid "拉瓦"
+msgstr ""
+
+msgctxt "195"
+msgid "达尔克·法克特"
+msgstr ""
+
+msgctxt "196"
+msgid "年轻人"
+msgstr ""
+
+msgctxt "197"
+msgid "自警团的年轻人"
+msgstr ""
+
+msgctxt "198"
+msgid "男人"
+msgstr ""
+
+msgctxt "199"
+msgid "女人"
+msgstr ""
+
+msgctxt "200"
+msgid "男孩"
+msgstr ""
+
+msgctxt "201"
+msgid "女孩"
+msgstr ""
+
+msgctxt "202"
+msgid "老人"
+msgstr ""
+
+msgctxt "203"
+msgid "老婆婆"
+msgstr ""
+
+msgctxt "204"
+msgid "叔叔"
+msgstr ""
+
+msgctxt "205"
+msgid "阿姨"
+msgstr ""
+
+msgctxt "206"
+msgid "贸易商"
+msgstr ""
+
+msgctxt "207"
+msgid "贸易商夫人"
+msgstr ""
+
+msgctxt "208"
+msgid "亲方"
+msgstr ""
+
+msgctxt "209"
+msgid "瘦子盗贼"
+msgstr ""
+
+msgctxt "210"
+msgid "胖子盗贼"
+msgstr ""
+
+msgctxt "211"
+msgid "女人"
+msgstr ""
+
+msgctxt "212"
+msgid "村长"
+msgstr ""
+
+msgctxt "213"
+msgid "酒场主人"
+msgstr ""
+
+msgctxt "214"
+msgid "镇长"
+msgstr ""
+
+msgctxt "215"
+msgid "镇长夫人"
+msgstr ""
+
+msgctxt "216"
+msgid "牧场主"
+msgstr ""
+
+msgctxt "217"
+msgid "长尾"
+msgstr ""
+
+msgctxt "218"
+msgid "村上"
+msgstr ""
+
+msgctxt "219"
+msgid "岩崎"
+msgstr ""
+
+msgctxt "220"
+msgid "铃木"
+msgstr ""
+
+msgctxt "221"
+msgid "早川"
+msgstr ""
+
+msgctxt "222"
+msgid "西藤"
+msgstr ""
+
+msgctxt "223"
+msgid "矢吹"
+msgstr ""
+
+msgctxt "224"
+msgid "竹入"
+msgstr ""
+
+msgctxt "225"
+msgid "田中"
+msgstr ""
+
+msgctxt "226"
+msgid "轻泽"
+msgstr ""
+
+msgctxt "227"
+msgid "卡乌"
+msgstr ""
+
+msgctxt "228"
+msgid "民家"
+msgstr ""
+
+msgctxt "229"
+msgid "港町巴尔巴多"
+msgstr ""
+
+msgctxt "230"
+msgid "布鲁多的病院"
+msgstr ""
+
+msgctxt "231"
+msgid "仓库"
+msgstr ""
+
+msgctxt "232"
+msgid "自警团的武器库"
+msgstr ""
+
+msgctxt "233"
+msgid "酒场"
+msgstr ""
+
+msgctxt "234"
+msgid "米内亚镇"
+msgstr ""
+
+msgctxt "235"
+msgid "占卜店“莎拉”"
+msgstr ""
+
+msgctxt "236"
+msgid "武器店“罗杰第”"
+msgstr ""
+
+msgctxt "237"
+msgid "防具店“迪欧斯”"
+msgstr ""
+
+msgctxt "238"
+msgid "克拉杰的病院"
+msgstr ""
+
+msgctxt "239"
+msgid "欧曼的酒场"
+msgstr ""
+
+msgctxt "240"
+msgid "交易所“皮姆”"
+msgstr ""
+
+msgctxt "241"
+msgid "塞皮克村"
+msgstr ""
+
+msgctxt "242"
+msgid "村长的家"
+msgstr ""
+
+msgctxt "243"
+msgid "洁瓦的家"
+msgstr ""
+
+msgctxt "244"
+msgid "卢达的家"
+msgstr ""
+
+msgctxt "245"
+msgid "盗贼山寨"
+msgstr ""
+
+msgctxt "246"
+msgid "草原"
+msgstr ""
+
+msgctxt "247"
+msgid "萝妲之树"
+msgstr ""
+
+msgctxt "248"
+msgid "废坑"
+msgstr ""
+
+msgctxt "249"
+msgid "神殿"
+msgstr ""
+
+msgctxt "250"
+msgid "第1层"
+msgstr ""
+
+msgctxt "251"
+msgid "第2层"
+msgstr ""
+
+msgctxt "252"
+msgid "第3层"
+msgstr ""
+
+msgctxt "253"
+msgid "达姆之塔"
+msgstr ""
+
+msgctxt "254"
+msgid "地下牢"
+msgstr ""
+
+msgctxt "255"
+msgid "拉多之塔"
+msgstr ""
+
+msgctxt "256"
+msgid "测试地图"
+msgstr ""
+
+msgctxt "257"
+msgid "哈达尔之章"
+msgstr ""
+
+msgctxt "258"
+msgid "托霸之章"
+msgstr ""
+
+msgctxt "259"
+msgid "达比之章"
+msgstr ""
+
+msgctxt "260"
+msgid "梅萨之章"
+msgstr ""
+
+msgctxt "261"
+msgid "洁玛之章"
+msgstr ""
+
+msgctxt "262"
+msgid "法克特之章"
+msgstr ""
+
+msgctxt "263"
+msgid ""
+"\n"
+"拿到手了。"
+msgstr ""
+
+msgctxt "264"
+msgid ""
+"\n"
+"买到了。"
+msgstr ""
+
+msgctxt "265"
+msgid ""
+"\n"
+"…买到了。"
+msgstr ""
+
+msgctxt "266"
+msgid ""
+"\n"
+"找到了。"
+msgstr ""
+
+msgctxt "267"
+msgid ""
+"\n"
+"借到了。"
+msgstr ""
+
+msgctxt "268"
+msgid ""
+"\n"
+"交出去了。"
+msgstr ""
+
+msgctxt "269"
+msgid ""
+"\n"
+"取回来了。"
+msgstr ""
+
+msgctxt "270"
+msgid ""
+"\n"
+"给了出去。"
+msgstr ""
+
+msgctxt "271"
+msgid ""
+"\n"
+"得到了。"
+msgstr ""
+
+msgctxt "272"
+msgid ""
+"\n"
+">4Gold#05>4卖得了#09１２００。"
+msgstr ""
+
+msgctxt "273"
+msgid ""
+"\n"
+">4Gold#05>4卖得了#09５００。"
+msgstr ""
+
+msgctxt "274"
+msgid ""
+"\n"
+">4Gold#05>4卖得了#09２０００。"
+msgstr ""
+
+msgctxt "275"
+msgid ""
+"\n"
+">4Gold#05>4卖得了#09１３２０。"
+msgstr ""
+
+msgctxt "276"
+msgid ""
+"\n"
+">4Gold#05>4卖得了#09５５０。"
+msgstr ""
+
+msgctxt "277"
+msgid ""
+"\n"
+">4Gold#05>4卖得了#09２２００。"
+msgstr ""
+
+msgctxt "278"
+msgid ""
+"已经收起来了，\n"
+"已经再也没有任何东西还要带的了。"
+msgstr ""
+
+msgctxt "279"
+msgid ""
+"简直就像是被针刺到了一样的痛、\n"
+"戒指紧紧咬住了手指，已经拔不下来了。"
+msgstr ""
+
+msgctxt "280"
+msgid ""
+"得到了不可思议的知觉能力，\n"
+"要显示出状况的话就只有战斗看看了！"
+msgstr ""
+
+msgctxt "281"
+msgid "体力正在慢慢回复中……。"
+msgstr ""
+
+msgctxt "282"
+msgid "已经被上了锁。"
+msgstr ""
+
+msgctxt "283"
+msgid "宝箱是空的。"
+msgstr ""
+
+msgctxt "284"
+msgid "什么都不买"
+msgstr ""
+
+msgctxt "285"
+msgid "要买"
+msgstr ""
+
+msgctxt "286"
+msgid "不买"
+msgstr ""
+
+msgctxt "287"
+msgid "什么都不卖"
+msgstr ""
+
+msgctxt "288"
+msgid "要卖"
+msgstr ""
+
+msgctxt "289"
+msgid "不卖"
+msgstr ""
+
+msgctxt "290"
+msgid "停止交谈"
+msgstr ""
+
+msgctxt "291"
+msgid "停止购买物品"
+msgstr ""
+
+msgctxt "292"
+msgid "主菜单"
+msgstr ""
+
+msgctxt "293"
+msgid "好的"
+msgstr ""
+
+msgctxt "294"
+msgid "不好"
+msgstr ""
+
+msgctxt "295"
+msgid "离开"
+msgstr ""
+
+msgctxt "296"
+msgid "停止"
+msgstr ""
+
+msgctxt "297"
+msgid "要怎么办呢？"
+msgstr ""
+
+msgctxt "298"
+msgid ""
+"如果不是MIDI设备并不存在、就是有其它的软件正在占用着\n"
+"系统资源。现在并没有办法使用MIDI来演奏BGM。"
+msgstr ""
+
+msgctxt "299"
+msgid ""
+"如果不是CD音响并不存在、就是有其它的软件正在占用着\n"
+"系统资源。现在并没有办法使用CD来演奏BGM。"
+msgstr ""
+
+msgctxt "300"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "301"
+msgid "啊哈、这可不是醒过来了嘛。"
+msgstr ""
+
+msgctxt "302"
+msgid ""
+"还是不要太勉强吧$20。\n"
+"身体状况还不是很好啊。"
+msgstr ""
+
+msgctxt "303"
+msgid ""
+"怎么啦$20？\n"
+"是不是还有什么地方会痛呢？"
+msgstr ""
+
+msgctxt "304"
+msgid ""
+"亚特鲁试着想要移动身体。\n"
+"──可是全身都在痛、\n"
+"简直是连动都不能动。"
+msgstr ""
+
+msgctxt "305"
+msgid ""
+"你尽管放心好了$20。\n"
+"这里可是巴尔巴多的病院哦。"
+msgstr ""
+
+msgctxt "306"
+msgid ""
+"──爸爸$10！\n"
+"他已经清醒过来了吗？"
+msgstr ""
+
+msgctxt "307"
+msgid ""
+"哦…是斯拉夫啊$10，　来得还真快啊$20！\n"
+"自警团那边现在怎么样啦？"
+msgstr ""
+
+msgctxt "308"
+msgid ""
+"还是和以前一样$20。\n"
+"没有任何进展呢。"
+msgstr ""
+
+msgctxt "309"
+msgid ""
+"真是好不容易，\n"
+"终于清醒过来了啊。"
+msgstr ""
+
+msgctxt "310"
+msgid "终于清醒过来了，太好了！"
+msgstr ""
+
+msgctxt "311"
+msgid ""
+"这么说来，还没有作自我介绍呢$20！\n"
+"我的名字是布鲁多$10，\n"
+"这里就是我的病院。"
+msgstr ""
+
+msgctxt "312"
+msgid ""
+"这位是我的儿子斯拉夫$10。\n"
+"你倒在靠近海边的森林里面，\n"
+"就是斯拉夫把你送到这里来的哦。"
+msgstr ""
+
+msgctxt "313"
+msgid ""
+"那时候正好有野兽想要把你吃掉但是却被\n"
+"我们给赶走了$20。\n"
+"──真的是太危险了呢。"
+msgstr ""
+
+msgctxt "314"
+msgid ""
+"亚特鲁向斯拉夫道谢\n"
+"并且告知了自己的名字。"
+msgstr ""
+
+msgctxt "315"
+msgid ""
+"你叫作亚特鲁啊，真是个好名字呢$20！\n"
+"可是我从来没有看过你，\n"
+"是从什么地方来的呢？"
+msgstr ""
+
+msgctxt "316"
+msgid ""
+"亚特鲁把从普罗玛洛克港搭乘\n"
+"小船渡海来到了艾斯塔里亚的\n"
+"事情告诉了布鲁多他们。"
+msgstr ""
+
+msgctxt "317"
+msgid "什么…是从外面进来的啊！"
+msgstr ""
+
+msgctxt "318"
+msgid ""
+"这还真是…让人吃惊啊$20。\n"
+"没想到有人能够穿越\n"
+"岚之结界从外面来到这里……。"
+msgstr ""
+
+msgctxt "319"
+msgid "你们两位在说些什么啊！？"
+msgstr ""
+
+msgctxt "320"
+msgid ""
+"哎呀呀，罗唆的护士小姐\n"
+"终于还是来了……。"
+msgstr ""
+
+msgctxt "321"
+msgid ""
+"哎呀！\n"
+"你是嫌我太罗唆了是吗$10？\n"
+"真是受不了你……。"
+msgstr ""
+
+msgctxt "322"
+msgid ""
+"斯拉夫先生，他是受伤的人吧$10？\n"
+"不让他好好安静的休养的话是不行的。"
+msgstr ""
+
+msgctxt "323"
+msgid "啊呀，我可没注意到这一点呢。"
+msgstr ""
+
+msgctxt "324"
+msgid ""
+"那么，\n"
+"你就先好好的休息吧$20。\n"
+"我会再来看你的。"
+msgstr ""
+
+msgctxt "325"
+msgid "我先告辞了……。"
+msgstr ""
+
+msgctxt "326"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "327"
+msgid ""
+"亚特鲁受到了良好的医护，\n"
+"很快的身体就回复健康了。"
+msgstr ""
+
+msgctxt "328"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "329"
+msgid "又过了几天后──"
+msgstr ""
+
+msgctxt "330"
+msgid ""
+"哎呀，亚特鲁先生$20。\n"
+"你已经可以下床走动了啊。"
+msgstr ""
+
+msgctxt "331"
+msgid "不好好躺着休息的话是不行的啊。"
+msgstr ""
+
+msgctxt "332"
+msgid "算啦算啦。"
+msgstr ""
+
+msgctxt "333"
+msgid ""
+"像是到街上散散步这种程度的\n"
+"适当运动也算是很有用的啊。"
+msgstr ""
+
+msgctxt "334"
+msgid ""
+"更何况，像这种年纪的少年要让他\n"
+"一直躺在病床上的话实在是有点太\n"
+"过份了哦。"
+msgstr ""
+
+msgctxt "335"
+msgid ""
+"在港口的仓库，\n"
+"就是自警团那些人聚会的场所。"
+msgstr ""
+
+msgctxt "336"
+msgid ""
+"我想斯拉夫应该也会在那里才对，\n"
+"有什么想知道的问题，直接问他就可以了。"
+msgstr ""
+
+msgctxt "337"
+msgid "不过如果觉得不舒服就不要勉强了。"
+msgstr ""
+
+msgctxt "338"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "339"
+msgid ""
+"亚特鲁先生$20。\n"
+"在镇外会有魔物出现非常的危险$20。\n"
+"这一点请务必小心哦。"
+msgstr ""
+
+msgctxt "340"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "341"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "342"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "343"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "344"
+msgid "要怎么办？"
+msgstr ""
+
+msgctxt "345"
+msgid "与布鲁多交谈"
+msgstr ""
+
+msgctxt "346"
+msgid "与护士小姐交谈"
+msgstr ""
+
+msgctxt "347"
+msgid "希望回复健康"
+msgstr ""
+
+msgctxt "348"
+msgid "希望取得药品"
+msgstr ""
+
+msgctxt "349"
+msgid "停止交谈"
+msgstr ""
+
+msgctxt "350"
+msgid ""
+"斯拉夫那个家伙，\n"
+"曾经扬言要成立自卫警备团──"
+msgstr ""
+
+msgctxt "351"
+msgid ""
+"反正那个家伙，把一切责任都归属于自己一样的\n"
+"背负起一切……。"
+msgstr ""
+
+msgctxt "352"
+msgid ""
+"而且还有一点，就是他非常顽固$20。\n"
+"对于我所说的话简直是完全听不进去。"
+msgstr ""
+
+msgctxt "353"
+msgid "简直就和某个人一模一样呢……。"
+msgstr ""
+
+msgctxt "354"
+msgid ""
+"亚特鲁先生$20。\n"
+"虽然你还年轻但是也请不要对体力太过自信哦。"
+msgstr ""
+
+msgctxt "355"
+msgid "搞不好会让你病得更严重呢。"
+msgstr ""
+
+msgctxt "356"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "357"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "358"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "359"
+msgid ""
+"什么，受伤了？\n"
+"你跑到什么地方去啦？"
+msgstr ""
+
+msgctxt "360"
+msgid "这究竟是…到底发生了什么事啊！"
+msgstr ""
+
+msgctxt "361"
+msgid ""
+"我不是说过了\n"
+"请你要保持安静的吗$20！\n"
+"──赶快展开医疗工作。"
+msgstr ""
+
+msgctxt "362"
+msgid ""
+"就是要这么做才对$20！\n"
+"先是消毒……（我擦擦擦）\n"
+"然后涂药……（我涂涂涂）"
+msgstr ""
+
+msgctxt "363"
+msgid "接着绷带……（我包包包）"
+msgstr ""
+
+msgctxt "364"
+msgid ""
+"\n"
+"有那么痛吗？\n"
+"眼泪都流出来了呢。"
+msgstr ""
+
+msgctxt "365"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "366"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "367"
+msgid ""
+"──你看你受到惩罚了吧？\n"
+"当初就告诉你要乖一点了啊！"
+msgstr ""
+
+msgctxt "368"
+msgid ""
+"哦…，你又准备要接受那种\n"
+"惨绝人寰的医疗方法了啊？"
+msgstr ""
+
+msgctxt "369"
+msgid ""
+"回复药的原料叫作吉奇塔利斯的\n"
+"东西已经用完了哦。"
+msgstr ""
+
+msgctxt "370"
+msgid "只在镇里的话，有必要用到这个吗？"
+msgstr ""
+
+msgctxt "371"
+msgid ""
+"我知道你想要出去活动一下的心情，\n"
+"不过外出时可要小心一点哦。"
+msgstr ""
+
+msgctxt "372"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "373"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "374"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "375"
+msgid "这把剑是……"
+msgstr ""
+
+msgctxt "376"
+msgid ""
+"这么说，你一定要亲眼去确认\n"
+"艾斯塔里亚的状况是吗$20。\n"
+"──那么阻止你也没有用罗。"
+msgstr ""
+
+msgctxt "377"
+msgid "如果我能帮得上忙的话就请尽管说好了。"
+msgstr ""
+
+msgctxt "378"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "379"
+msgid "要怎么办？"
+msgstr ""
+
+msgctxt "380"
+msgid "与布鲁多交谈"
+msgstr ""
+
+msgctxt "381"
+msgid "与护士小姐交谈"
+msgstr ""
+
+msgctxt "382"
+msgid "希望回复健康"
+msgstr ""
+
+msgctxt "383"
+msgid "希望取得药品"
+msgstr ""
+
+msgctxt "384"
+msgid "停止交谈"
+msgstr ""
+
+msgctxt "385"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "386"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "387"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "388"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "389"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "390"
+msgid "不管是岚之结界也好，有魔物出现也好──"
+msgstr ""
+
+msgctxt "391"
+msgid ""
+"现在的艾斯塔里亚好像\n"
+"的确发生了什么事情的样子。"
+msgstr ""
+
+msgctxt "392"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "393"
+msgid ""
+"斯拉夫也从自警团的同伴那里\n"
+"听到了各式各样的消息哦。"
+msgstr ""
+
+msgctxt "394"
+msgid ""
+"如果我或斯拉夫能够帮得上忙的话，\n"
+"随时都欢迎你的光临哦。"
+msgstr ""
+
+msgctxt "395"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "396"
+msgid ""
+"在米内亚也发生了很多事情啊……$20。\n"
+"可是都没有人知道是怎么一回事啊。"
+msgstr ""
+
+msgctxt "397"
+msgid ""
+"身体的状况好像已经没有问题了$20。\n"
+"如果觉得不舒服的时候随时都可以过来。"
+msgstr ""
+
+msgctxt "398"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "399"
+msgid ""
+"我从斯拉夫那里听说了你的种种事迹$20。\n"
+"老实说…刚开始的时候的确是非常担心、\n"
+"现在就只有你可以信赖了。"
+msgstr ""
+
+msgctxt "400"
+msgid "……实在是没有办法啊。"
+msgstr ""
+
+msgctxt "401"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "402"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "403"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "404"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "405"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "406"
+msgid ""
+"你要到米内亚那里吗$20？\n"
+"你的身体还没有完全恢复，请不要太勉强了。"
+msgstr ""
+
+msgctxt "407"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "408"
+msgid "啊呀，很有精神吗。身体怎么样了？"
+msgstr ""
+
+msgctxt "409"
+msgid ""
+"就算是已经没有什么大碍了$20。\n"
+"不过如果靠着年轻就想要乱来是不行的哦。"
+msgstr ""
+
+msgctxt "410"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "411"
+msgid ""
+"在米内亚好像发生了不得了的事情的样子$20 。\n"
+"巴尔巴多镇不晓得有没有事情啊……。"
+msgstr ""
+
+msgctxt "412"
+msgid ""
+"这个巴尔巴多镇，\n"
+"是由斯拉夫的自警团所保护的范围之一，\n"
+"我想一定没有问题的。"
+msgstr ""
+
+msgctxt "413"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "414"
+msgid ""
+"身体状况好像已经恢复得差不多了呢$20！\n"
+"不过受伤的时候就不能太勉强，好好的休养\n"
+"是最重要的哦。"
+msgstr ""
+
+msgctxt "415"
+msgid ""
+"亚特鲁先生，\n"
+"如果真的不行的话就请不要勉强了。"
+msgstr ""
+
+msgctxt "416"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "417"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "418"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "419"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "420"
+msgid ""
+"搞什么，像这种程度的轻微擦伤$10。\n"
+"就不用把我给挖出来了嘛。"
+msgstr ""
+
+msgctxt "421"
+msgid ""
+"遵命$20。\n"
+"来吧，亚特鲁先生，\n"
+"请乖乖听话不要乱动哦。"
+msgstr ""
+
+msgctxt "422"
+msgid "不行啦，不要乱动啦！"
+msgstr ""
+
+msgctxt "423"
+msgid ""
+"……啊呀$20？\n"
+"这不是已经完全治好了吗。"
+msgstr ""
+
+msgctxt "424"
+msgid ""
+"你的伤口\n"
+"已经完全治疗好了。"
+msgstr ""
+
+msgctxt "425"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "426"
+msgid ""
+"哦…我看了都跟着痛呢$20。\n"
+"这样消毒$20…这样涂药$20…这样包绷带……。"
+msgstr ""
+
+msgctxt "427"
+msgid ""
+"没关系，只不过是小伤$20。\n"
+"只要涂点药就可以了。"
+msgstr ""
+
+msgctxt "428"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "429"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "430"
+msgid ""
+"嘿咻，这样就好了$20。\n"
+"像你这么乱来的话$10。\n"
+"我的力量就变成非常的重要啦。"
+msgstr ""
+
+msgctxt "431"
+msgid ""
+"什么啊$20？\n"
+"现在就拼命的受伤接受治疗啦$20。\n"
+"如果比我更早变成老年疑呆怎么办。"
+msgstr ""
+
+msgctxt "432"
+msgid ""
+"对不起罗$20。\n"
+"药的原料叫作吉奇塔利斯的\n"
+"东西已经用光啦。"
+msgstr ""
+
+msgctxt "433"
+msgid ""
+"如果是米内亚的克拉杰医院的话\n"
+"应该还有充分的库存才对，\n"
+"到那里去应该就可以拿到才对。"
+msgstr ""
+
+msgctxt "434"
+msgid ""
+"是吗，又来了啊$20。\n"
+"这也是没有办法的啦。"
+msgstr ""
+
+msgctxt "435"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "436"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "437"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "438"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "439"
+msgid ""
+"喔喔，亚特鲁$20！\n"
+"已经可以出来活动了吗？"
+msgstr ""
+
+msgctxt "440"
+msgid ""
+"每次我去探病的时候，总是看到你在睡觉哦。\n"
+"看样子真的是累坏了呢。"
+msgstr ""
+
+msgctxt "441"
+msgid ""
+"可是……外面那些人对于艾斯塔里亚的事情\n"
+"应该也有特别的看法吧。"
+msgstr ""
+
+msgctxt "442"
+msgid "能不能说给我听呢？"
+msgstr ""
+
+msgctxt "443"
+msgid ""
+"\n"
+"亚特鲁就把人们对于艾斯塔里亚的看法\n"
+"认为是受到诅咒的国家的事情说了出来。"
+msgstr ""
+
+msgctxt "444"
+msgid ""
+"──这样啊$20。\n"
+"可以说是虽不中亦不远矣啦。"
+msgstr ""
+
+msgctxt "445"
+msgid ""
+"结果还是没有办法对外面那些人抱有期望$20。\n"
+"可是光是靠我们自己又能怎么办呢……。"
+msgstr ""
+
+msgctxt "446"
+msgid ""
+"好吧，就算是作为谢礼好了，\n"
+"我也把我所知道的事情告诉你可以吗？"
+msgstr ""
+
+msgctxt "447"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "448"
+msgid ""
+"亚特鲁你好，看起来很有精神的样子嘛$20，\n"
+"我可以再问你几个问题吗？"
+msgstr ""
+
+msgctxt "449"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "450"
+msgid "你想问些什么？"
+msgstr ""
+
+msgctxt "451"
+msgid "巴尔巴多"
+msgstr ""
+
+msgctxt "452"
+msgid "艾斯塔里亚"
+msgstr ""
+
+msgctxt "453"
+msgid "岚之结界"
+msgstr ""
+
+msgctxt "454"
+msgid "自警团"
+msgstr ""
+
+msgctxt "455"
+msgid "没什么好问的了"
+msgstr ""
+
+msgctxt "456"
+msgid "这个巴尔巴多镇，是艾斯塔里亚唯一的港镇。"
+msgstr ""
+
+msgctxt "457"
+msgid ""
+"在几十年前，只不过是个海边的渔村而已，\n"
+"自从在艾斯塔里亚发现了银矿以来，\n"
+"巴尔巴多就慢慢发展成为贸易港口。"
+msgstr ""
+
+msgctxt "458"
+msgid ""
+"……但是自从岚之结界出现之后，\n"
+"连一艘船也都没有再来，银矿也完全无法出口了。"
+msgstr ""
+
+msgctxt "459"
+msgid "也因为如此，结果又变回为渔村了……。"
+msgstr ""
+
+msgctxt "460"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "461"
+msgid ""
+"不过，在银矿能获得高利润的时候\n"
+"所有人都为了金钱而四处奔走$20，\n"
+"像那种情形说不定也算是很不错的呢。"
+msgstr ""
+
+msgctxt "462"
+msgid "艾斯塔里亚是一个小小的岛国。"
+msgstr ""
+
+msgctxt "463"
+msgid ""
+"也许你曾经听说过，\n"
+"就是被称为“白号角的沙滩”。"
+msgstr ""
+
+msgctxt "464"
+msgid ""
+"到处都看得到有珍珠贝壳\n"
+"是一个纯白而且美丽的海滩$20。\n"
+"如果没有魔物出现的话、在那散步是一大享受呢。"
+msgstr ""
+
+msgctxt "465"
+msgid ""
+"有人居住的地方，\n"
+"就是巴尔巴多、城壁都市米内亚镇$20，\n"
+"以及塞皮克村三个地方而已。"
+msgstr ""
+
+msgctxt "466"
+msgid ""
+"就在不久之前，还有一个拉斯汀村……。\n"
+"因为银况山被封闭起来，而且又有魔物出现袭击人类，\n"
+"所以谁都不愿意住在那里……。"
+msgstr ""
+
+msgctxt "467"
+msgid ""
+"从这个镇上往北方走下去，草原那边\n"
+"有一个被城壁包围起来叫作米内亚的镇$20。\n"
+"如果你的目标是那里，就得在这里先作好整备工作。"
+msgstr ""
+
+msgctxt "468"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "469"
+msgid ""
+"接下来嘛…，对了$20。\n"
+"在艾斯塔里亚有个有名的地方叫作“达姆之塔”。"
+msgstr ""
+
+msgctxt "470"
+msgid ""
+"接下来嘛…，对了$20。\n"
+"在艾斯塔里亚有个有名的地方叫作“达姆之塔”。你也是为了这个目的而来的吧？"
+msgstr ""
+
+msgctxt "471"
+msgid ""
+"在天气晴朗的日子渡海，\n"
+"好像从海的对面普罗马罗克也可以\n"
+"看得到的样子。"
+msgstr ""
+
+msgctxt "472"
+msgid ""
+"算了，名胜古迹太多啦……$20。\n"
+"自从岚之结界出现以来，\n"
+"魔物就到处跑来跑去了。"
+msgstr ""
+
+msgctxt "473"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "474"
+msgid "像这样到处走来走去不是太过于危险了吗？"
+msgstr ""
+
+msgctxt "475"
+msgid "那个是…记得是差不多半年之前的事情吧。"
+msgstr ""
+
+msgctxt "476"
+msgid ""
+"装载着银矿的贸易船，从巴尔巴多港出港的那一晚\n"
+"暴风就出现了。"
+msgstr ""
+
+msgctxt "477"
+msgid ""
+"暴风几乎摧毁了所有的船只，船的碎片都流到了\n"
+"白号角的沙滩那里去了。"
+msgstr ""
+
+msgctxt "478"
+msgid ""
+"幸好，那一次没有闹出人命来。\n"
+"不过从那一天以来，所有的船只\n"
+"都碰上了同样的遭遇…。"
+msgstr ""
+
+msgctxt "479"
+msgid ""
+"就是因为出现了岚之结界$20。\n"
+"艾斯塔里亚的人们\n"
+"连一步也没有办法离开这个岛到外面去。"
+msgstr ""
+
+msgctxt "480"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "481"
+msgid ""
+"到现在，几乎所有的人都已经完全放弃了，\n"
+"就连我都快要忍耐不下去了。"
+msgstr ""
+
+msgctxt "482"
+msgid ""
+"在和岚之结界同一时期，\n"
+"魔物开始出现在艾斯塔里亚了。"
+msgstr ""
+
+msgctxt "483"
+msgid ""
+"袭击你的那只红毛狗也是其中的一种$20，\n"
+"我们把它称作赤魔狼。"
+msgstr ""
+
+msgctxt "484"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "485"
+msgid ""
+"魔物在一开始的时候，只是在山路上跑来跑去而已\n"
+"不久就下山对人们的住所展开攻击。"
+msgstr ""
+
+msgctxt "486"
+msgid "因为如此，巴尔巴多所受到的伤害是最大的。"
+msgstr ""
+
+msgctxt "487"
+msgid ""
+"比起来米内亚就几乎没有什么危险\n"
+"因为有坚固的城壁防守着，所以可以安心的住在里面。"
+msgstr ""
+
+msgctxt "488"
+msgid ""
+"塞皮克村只有防守的栅栏而已\n"
+"不过魔物也没有办法靠近，\n"
+"听说是因为有个不可思议的铃守护着村子。"
+msgstr ""
+
+msgctxt "489"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "490"
+msgid ""
+"──在这里也没什么用$20，\n"
+"自己的镇就只能靠自己来守护$20。\n"
+"不是吗？"
+msgstr ""
+
+msgctxt "491"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "492"
+msgid "不过你也算是相当的鲁莽呢。"
+msgstr ""
+
+msgctxt "493"
+msgid ""
+"竟然会拿命来\n"
+"挑战这个岚之结界呢……。"
+msgstr ""
+
+msgctxt "494"
+msgid ""
+"难道说，\n"
+"你是想要到艾斯塔里亚各地\n"
+"去看看吗？"
+msgstr ""
+
+msgctxt "495"
+msgid ""
+"这个嘛…劝你还是别去吧$20。\n"
+"离开了巴尔巴多之后，搞不好马上就被魔物给吃掉了呢。"
+msgstr ""
+
+msgctxt "496"
+msgid ""
+"……先别谈这个，你看这样如何$20。\n"
+"要不要加入我们的自警团啊$20？\n"
+"我认为你很适合这个工作的……。"
+msgstr ""
+
+msgctxt "497"
+msgid ""
+"\n"
+"亚特鲁把自己亲眼所看到\n"
+"而且确定的事实说了出来。"
+msgstr ""
+
+msgctxt "498"
+msgid ""
+"……我明白了$30。\n"
+"这样啊，你已经下定决心了啊……。"
+msgstr ""
+
+msgctxt "499"
+msgid ""
+"你啊，还真是个了不起的家伙呢$20。\n"
+"光是能够超越岚之结界这件事情，\n"
+"本身就已经称得上是一个奇迹了呢。"
+msgstr ""
+
+msgctxt "500"
+msgid ""
+"我也注意到了。\n"
+"好像真的有不可思议的命运正等待着你呢。"
+msgstr ""
+
+msgctxt "501"
+msgid ""
+"──当你离开了巴尔巴多之后，就一直往北方走$20。\n"
+"过不了多久，就可以看到米内亚的城壁了。"
+msgstr ""
+
+msgctxt "502"
+msgid ""
+"米内亚是艾斯塔里亚中最大的城镇了，\n"
+"我想那里一定会有你想知道的情报的。"
+msgstr ""
+
+msgctxt "503"
+msgid "对了，你把这个带在身上好了。"
+msgstr ""
+
+msgctxt "504"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "505"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "506"
+msgid ""
+"就算是我个人的饯别礼物好了$20。\n"
+"这是我们自警团所使用的东西，\n"
+"虽然好小、但却是最容易使用的。"
+msgstr ""
+
+msgctxt "507"
+msgid ""
+"防具方面呢，很可惜我没有时间准备$20。\n"
+"不过在米内亚那里可是有不少不错的防具屋$20。\n"
+"只要有钱就不怕买不到好东西。"
+msgstr ""
+
+msgctxt "508"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "509"
+msgid ""
+"──那么$20。\n"
+"后会有期了。"
+msgstr ""
+
+msgctxt "510"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "511"
+msgid "当你再度来到巴尔巴多的时候，记得一定要来找我哦。"
+msgstr ""
+
+msgctxt "512"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "513"
+msgid "是啊，我一定会再来的。"
+msgstr ""
+
+msgctxt "514"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "515"
+msgid ""
+"亚特鲁……$10。\n"
+"你要离开巴尔巴多也不先交代一声？\n"
+"未免太冷淡一点了吧。"
+msgstr ""
+
+msgctxt "516"
+msgid ""
+"可是，看到你这么有精神$10。\n"
+"我就安心了。"
+msgstr ""
+
+msgctxt "517"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "518"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "519"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "520"
+msgid "记得下次再来的时候，一定要来找我哦。"
+msgstr ""
+
+msgctxt "521"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "522"
+msgid ""
+"嗨，亚特鲁。\n"
+"怎么啦，有什么进展没有？"
+msgstr ""
+
+msgctxt "523"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "524"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "525"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "526"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "527"
+msgid ""
+"满有精神的嘛$20。\n"
+"艾斯塔里亚那边的情形如何？"
+msgstr ""
+
+msgctxt "528"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "529"
+msgid "一定要记得来找我哦。"
+msgstr ""
+
+msgctxt "530"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "531"
+msgid ""
+"啊呀，这不是亚特鲁吗$20。\n"
+"怎么啦，有什么进展没有？"
+msgstr ""
+
+msgctxt "532"
+msgid ""
+"你是怎么啦，摆出一付扑克脸……$20。\n"
+"亚特鲁，到底发生了什么事情啊？"
+msgstr ""
+
+msgctxt "533"
+msgid ""
+"\n"
+"亚特鲁把从巨大的魔物出现以来的一连串\n"
+"事情全部告诉了斯拉夫。"
+msgstr ""
+
+msgctxt "534"
+msgid ""
+"我从我们那里的人听说了\n"
+"在米内亚好像发生了什么事件的样子。"
+msgstr ""
+
+msgctxt "535"
+msgid ""
+"亚特鲁，\n"
+"你是不是知道些什么特别的事情，\n"
+"能不能告诉我呢？"
+msgstr ""
+
+msgctxt "536"
+msgid ""
+"\n"
+"亚特鲁把一连串发生的\n"
+"事情都告诉了斯拉夫。"
+msgstr ""
+
+msgctxt "537"
+msgid ""
+"从莎拉委托希望能够找出\n"
+"“伊苏之书”的事情……\n"
+"以及在神殿里不可思议的体验……。"
+msgstr ""
+
+msgctxt "538"
+msgid ""
+"嗯～～……$20。\n"
+"真是的，这是什么世界啊！～～"
+msgstr ""
+
+msgctxt "539"
+msgid ""
+"在这半年间，这个岛上\n"
+"到底发生了什么样的事情啊？"
+msgstr ""
+
+msgctxt "540"
+msgid ""
+"──可是……果然是有着\n"
+"不可思议的命运正在等待着你呢！"
+msgstr ""
+
+msgctxt "541"
+msgid ""
+"──亚特鲁，现在方便吗$20？\n"
+"跟我过来一下。"
+msgstr ""
+
+msgctxt "542"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "543"
+msgid "亚特鲁，收下这把剑吧。"
+msgstr ""
+
+msgctxt "544"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "545"
+msgid ""
+"这是我在半年前，\n"
+"在白号角沙滩巡逻的时候在海边捡到的。"
+msgstr ""
+
+msgctxt "546"
+msgid ""
+"我想大概是被岚之结界所破坏的贸易船\n"
+"上面的货物之一吧。"
+msgstr ""
+
+msgctxt "547"
+msgid ""
+"“在弯曲的刀身之中蕴藏着极强的威力”\n"
+"这是我从父亲那里学到的知识，\n"
+"好像是在东方国家的人所使用的剑吧。"
+msgstr ""
+
+msgctxt "548"
+msgid "──这把剑就交给你了。"
+msgstr ""
+
+msgctxt "549"
+msgid ""
+"呵呵，真是不可思议啊！\n"
+"看到你一心勇往直前的样子，\n"
+"总觉得至少应该帮你一点忙才对呢。"
+msgstr ""
+
+msgctxt "550"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "551"
+msgid ""
+"…啊哈哈$20！\n"
+"那么再见啦$10！\n"
+"如果有什么事情，就到仓库来找我吧。"
+msgstr ""
+
+msgctxt "552"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "553"
+msgid ""
+"亚特鲁，可终于等到你啦$20，\n"
+"有没有弄清楚到底是什么事情呢？"
+msgstr ""
+
+msgctxt "554"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "555"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "556"
+msgid ""
+"──是啊$20，\n"
+"好不容易来到了达姆之塔呢。"
+msgstr ""
+
+msgctxt "557"
+msgid ""
+"可是啊，亚特鲁$20，\n"
+"没想到你不光是外表长得好看而已$20、\n"
+"嗯…，我还真的是……看走眼了呢。"
+msgstr ""
+
+msgctxt "558"
+msgid ""
+"我在刚开始的时候，\n"
+"还以为你只不过是一个血气方刚的少年而已……。"
+msgstr ""
+
+msgctxt "559"
+msgid "可是到现在你的眼神仍然是那么的坚定不移。"
+msgstr ""
+
+msgctxt "560"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "561"
+msgid "我已经没有什么事情可以再教你了。"
+msgstr ""
+
+msgctxt "562"
+msgid ""
+"去吧……用你的眼睛\n"
+"亲眼去确认引发出这一连串异变的真相吧。"
+msgstr ""
+
+msgctxt "563"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "564"
+msgid "然后……一定要回到这里哦！"
+msgstr ""
+
+msgctxt "565"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "566"
+msgid "我已经没有什么事情可以再教你的了。"
+msgstr ""
+
+msgctxt "567"
+msgid ""
+"去吧……用你的眼睛\n"
+"亲眼去确认引发出这一连串异变的真相吧。"
+msgstr ""
+
+msgctxt "568"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "569"
+msgid "然后……一定要回到这里哦！"
+msgstr ""
+
+msgctxt "570"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "571"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "572"
+msgid ""
+"那个红头发的──\n"
+"我想起来了，你就是亚特鲁先生吧$20？\n"
+"我已经听布鲁多先生说过你的事情了。"
+msgstr ""
+
+msgctxt "573"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "574"
+msgid ""
+"就如你所见，即使开店也等于是公休$10。\n"
+"而这全部都是因为岚之结界的关系\n"
+"所有的船都来不了了……。"
+msgstr ""
+
+msgctxt "575"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "576"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "577"
+msgid "想要喝些什么吗？"
+msgstr ""
+
+msgctxt "578"
+msgid ""
+"没什么客人虽然是满轻松的，\n"
+"但是实在是太闲了也不好呢……。"
+msgstr ""
+
+msgctxt "579"
+msgid ""
+"米内亚镇那边怎么样了呢$20？\n"
+"如果没有魔物出现的话，连我都\n"
+"想要去那里玩玩呢。"
+msgstr ""
+
+msgctxt "580"
+msgid ""
+"啊啊…闲死人啦。\n"
+"如果有什么有趣的事情的话，\n"
+"就说来听听好了。"
+msgstr ""
+
+msgctxt "581"
+msgid ""
+"你有去欧曼的酒场看过了吗？\n"
+"因为米内亚的贸易的关系\n"
+"有不少好东西哦。"
+msgstr ""
+
+msgctxt "582"
+msgid ""
+"可是，那里经常会\n"
+"出现一些无所事事的家伙，\n"
+"必需要特别小心才行。"
+msgstr ""
+
+msgctxt "583"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "584"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "585"
+msgid ""
+"听说有人救了斯拉夫、\n"
+"那个人就是你吗$20？\n"
+"的确，看得出来是个深藏不露的\n"
+"厉害的红头发呢。"
+msgstr ""
+
+msgctxt "586"
+msgid ""
+"你叫作亚特鲁吧，\n"
+"那么，请多指教罗！"
+msgstr ""
+
+msgctxt "587"
+msgid ""
+"嗯？ ……怎么啦？\n"
+"找我有什么事情吗？"
+msgstr ""
+
+msgctxt "588"
+msgid ""
+"自警团的工作之一，\n"
+"就是保护镇上的人，护送他们来往于\n"
+"米内亚及塞皮克村之间──"
+msgstr ""
+
+msgctxt "589"
+msgid ""
+"可是魔物它们并不攻击我们，\n"
+"而是绕过护卫从后面攻击那些人，\n"
+"简直是无孔不入$10，\n"
+"真是可怕又狡猾的家伙。"
+msgstr ""
+
+msgctxt "590"
+msgid ""
+"为了要保护别人，\n"
+"经常要让自己站在敌人与同伴之间的位置。"
+msgstr ""
+
+msgctxt "591"
+msgid ""
+"反正那些家伙都很狡猾，\n"
+"一到了荒野，必须连一点机会都不给它们。"
+msgstr ""
+
+msgctxt "592"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "593"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "594"
+msgid ""
+"从这里可以看得到整个镇外的地方$10。\n"
+"只要有任何魔物想要侵入的话\n"
+"只要瞄一眼就知道了。"
+msgstr ""
+
+msgctxt "595"
+msgid ""
+"虽然我认为在大白天的时候，\n"
+"魔物应该是不会袭击过来才对$20，\n"
+"……不过也千万不能大意。"
+msgstr ""
+
+msgctxt "596"
+msgid ""
+"虽然是乡下无聊的工作，不过为了镇上的安全\n"
+"总是得要有人来做才可以$20。\n"
+"……所以我绝对不会分心的。"
+msgstr ""
+
+msgctxt "597"
+msgid ""
+"这里虽然还没有被魔物给袭击过$20。\n"
+"但是，只要我们一不小心的话\n"
+"它们就像是事先约好似的攻过来……$20。\n"
+"简直就像是有什么人在操纵似的。"
+msgstr ""
+
+msgctxt "598"
+msgid ""
+"这里并不像米内亚一样有坚固的城壁可以防守，\n"
+"完全必须靠我们自警团来警戒保护才行。"
+msgstr ""
+
+msgctxt "599"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "600"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "601"
+msgid ""
+"啊啊～都是因为听说有丰富的银矿\n"
+"所以我才会特地跑到\n"
+"这种鸟不生蛋的边境来的啊……。"
+msgstr ""
+
+msgctxt "602"
+msgid ""
+"真想赶快回到大陆去啊$20。\n"
+"可是又会碰到那个可怕的结界啊……。"
+msgstr ""
+
+msgctxt "603"
+msgid ""
+"你也是从大陆那里过来的吧$10？\n"
+"艾斯塔里亚到底发生了什么事情啊？"
+msgstr ""
+
+msgctxt "604"
+msgid ""
+"你知道在米内亚有个叫作皮姆的商人吗$10？\n"
+"那个家伙是和我在同一时间，\n"
+"来到艾斯塔里亚的。"
+msgstr ""
+
+msgctxt "605"
+msgid ""
+"听说他现在变得很有声望的样子\n"
+"不过我想他一定是在背地里干了什么坏事$20。\n"
+"如果不是这样的话，\n"
+"绝对不可能存到能够开交易所的钱的。"
+msgstr ""
+
+msgctxt "606"
+msgid ""
+"啊啊…$20…\n"
+"到底有什么方法能够回到大陆上去呢……。"
+msgstr ""
+
+msgctxt "607"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "608"
+msgid ""
+"在巴尔巴多这里，\n"
+"除了我们以外曾经有过许多的贸易商人$20。\n"
+"但是，都在搭船想要逃生的时候\n"
+"被暴风给吞没了……。"
+msgstr ""
+
+msgctxt "609"
+msgid ""
+"我则是因为携家带眷的关系，\n"
+"动作慢了许多没赶上当时的船，\n"
+"现在想想当时还真是走运呢。"
+msgstr ""
+
+msgctxt "610"
+msgid ""
+"你说想要去米内亚？\n"
+"在草原会有魔物出现，要小心一点哦。"
+msgstr ""
+
+msgctxt "611"
+msgid ""
+"所以我们这些人从那时候起，\n"
+"就简直是闲得发慌不知道要干什么……$20。\n"
+"我没能加入自警团，而且也不会打渔\n"
+"但是总要让身体有事做才对。"
+msgstr ""
+
+msgctxt "612"
+msgid ""
+"所以我想我一定能够为这个镇上尽一点\n"
+"心力的。"
+msgstr ""
+
+msgctxt "613"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "614"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "615"
+msgid ""
+"爸爸他就只会说要离开这个国家到外面去$10。\n"
+"不过我可不想那么快就离开哦$10。\n"
+"这里有好不容易交到的朋友们啊……。"
+msgstr ""
+
+msgctxt "616"
+msgid "啊～啊，我好想和邻居的孩子一起出去玩啊。"
+msgstr ""
+
+msgctxt "617"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "618"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "619"
+msgid ""
+"我的儿子和媳妇两人，\n"
+"就住在米内亚镇里面啊。"
+msgstr ""
+
+msgctxt "620"
+msgid ""
+"还说什么要接我过去一起住……$20。\n"
+"开什么玩笑啊$10。\n"
+"我可是绝～对～\n"
+"打死也不会离开这里的啦。"
+msgstr ""
+
+msgctxt "621"
+msgid ""
+"到了我这把年纪是不可能会\n"
+"离开这个住惯了的家里的啦。"
+msgstr ""
+
+msgctxt "622"
+msgid ""
+"我可是在这里出生，而且\n"
+"在这里长大成人的哦。"
+msgstr ""
+
+msgctxt "623"
+msgid ""
+"在米内亚的儿子和媳妇两个，\n"
+"不知道现在过得好不好……。"
+msgstr ""
+
+msgctxt "624"
+msgid ""
+"我的孙子也很调皮，\n"
+"老是跑到镇外面去玩……$20。\n"
+"我没办法跟得上，所以非常的担心呢。"
+msgstr ""
+
+msgctxt "625"
+msgid ""
+"有精神虽然是很好的事情\n"
+"……但总是我孙子啊，多少都会担心呢。"
+msgstr ""
+
+msgctxt "626"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "627"
+msgid ""
+"斯拉夫干得不错嘛\n"
+"反正他常常接受磨练……。"
+msgstr ""
+
+msgctxt "628"
+msgid ""
+"魔物入侵的威胁是从傍晚开始的\n"
+"到时候在巴尔巴多的所有人员，\n"
+"都移到米内亚那边不是会比较好吗？"
+msgstr ""
+
+msgctxt "629"
+msgid ""
+"不管再怎么努力，\n"
+"反正都拿魔物它们没有办法啊……。"
+msgstr ""
+
+msgctxt "630"
+msgid "对吧，你也是这么想的吧？"
+msgstr ""
+
+msgctxt "631"
+msgid ""
+"好像是在什么地方听说的\n"
+"连拉斯汀的废矿坑也\n"
+"已经封闭起来了。"
+msgstr ""
+
+msgctxt "632"
+msgid ""
+"不过就算有出产银矿，\n"
+"没有办法出口就一点意义也没有了。"
+msgstr ""
+
+msgctxt "633"
+msgid ""
+"你要去米内亚是吗$20？\n"
+"可是在草原上有魔物出现啊……。"
+msgstr ""
+
+msgctxt "634"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "635"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "636"
+msgid ""
+"这里是我们生活长大成人的镇……$20。\n"
+"如果可以的话真不希望搬走啊。"
+msgstr ""
+
+msgctxt "637"
+msgid ""
+"可是，我也是有孩子的人啊……$20。\n"
+"有坚固城壁的米内亚那边\n"
+"不是比较安全吗？"
+msgstr ""
+
+msgctxt "638"
+msgid ""
+"我家的孩子真是的，\n"
+"竟然带着隔壁家的女儿一起\n"
+"跑到米内亚那边去了。"
+msgstr ""
+
+msgctxt "639"
+msgid ""
+"亏我一直叮咛着他，\n"
+"说镇外面非常的危险竟然还……$20。\n"
+"等他回来以后，一定要好好痛骂一顿才行。"
+msgstr ""
+
+msgctxt "640"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "641"
+msgid ""
+"这位大哥，你是从外面来的吗$10？\n"
+"我们这里的结界是不是很厉害啊？"
+msgstr ""
+
+msgctxt "642"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "643"
+msgid ""
+"可是，我可不希望结界消失不见哦$10。\n"
+"如果消失的话，邻家的女孩子跟我说她就要\n"
+"搭船回去了。"
+msgstr ""
+
+msgctxt "644"
+msgid ""
+"…结界，\n"
+"我希望它一直存在啊……。"
+msgstr ""
+
+msgctxt "645"
+msgid ""
+"为了成为魔物的食物，\n"
+"所以被养育在镇上。"
+msgstr ""
+
+msgctxt "646"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "647"
+msgid ""
+"这个东西，\n"
+"可是最上等的美味哦！"
+msgstr ""
+
+msgctxt "648"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "649"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "650"
+msgid ""
+"船没有办法出去，\n"
+"所以在港口根本没有工作可做呢。"
+msgstr ""
+
+msgctxt "651"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "652"
+msgid ""
+"如果能够一直有银矿的交易的话，\n"
+"我就可以作出这么～宽的箭头了！\n"
+"真是太可惜了。"
+msgstr ""
+
+msgctxt "653"
+msgid ""
+"啊～，我到底该怎么办才好呢$20？\n"
+"……我可不想到头来还是只能当个渔夫而已啊。\n"
+""
+msgstr ""
+
+msgctxt "654"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "655"
+msgid ""
+"在草原上，要注意的是有蓝色头部的魔物。\n"
+"像我不大会战斗，\n"
+"不止是受伤，搞不好会连命都没了也不一定。"
+msgstr ""
+
+msgctxt "656"
+msgid ""
+"在死之前，\n"
+"如果没有办法战胜敌人的话就逃跑吧。"
+msgstr ""
+
+msgctxt "657"
+msgid ""
+"斯拉夫先生也真是的，\n"
+"只要再放轻松一点点就可以了啦$10。\n"
+"就算有什么事情\n"
+"也多的是办法逃到米内亚去啊。"
+msgstr ""
+
+msgctxt "658"
+msgid ""
+"虽然我深爱着这个城镇，\n"
+"但是如果连命都没有的话那就……。"
+msgstr ""
+
+msgctxt "659"
+msgid ""
+"这是从某个地方听到的，\n"
+"在米内亚镇上到处都有\n"
+"盗贼出没啊。"
+msgstr ""
+
+msgctxt "660"
+msgid ""
+"魔物与盗贼吗……$20？\n"
+"还真是祸不单行啊。"
+msgstr ""
+
+msgctxt "661"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "662"
+msgid ""
+"在半年之前啊，那真是太好了……$20。\n"
+"巨大的贸易船一艘接着一艘开来，\n"
+"这个巴尔巴多也发展得十分惊人。"
+msgstr ""
+
+msgctxt "663"
+msgid ""
+"可是现在，只是个小渔村……$20。\n"
+"还真是怀念那个时代啊。"
+msgstr ""
+
+msgctxt "664"
+msgid ""
+"…呜呼$20、\n"
+"只不过半年就变回小渔村$20/\n"
+"还真是怀念那个时代啊……。"
+msgstr ""
+
+msgctxt "665"
+msgid ""
+"那个，叫作岚之结界的\n"
+"到底是什么原因才会产生的呢？"
+msgstr ""
+
+msgctxt "666"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "667"
+msgid ""
+"差不多在半年之前，在巴尔巴多街道上\n"
+"突然有魔物出现。"
+msgstr ""
+
+msgctxt "668"
+msgid ""
+"也因为如此在北边米内亚的朋友们也都\n"
+"暂时见不到面了$20。\n"
+"一直到现在都还是这个样子……。"
+msgstr ""
+
+msgctxt "669"
+msgid ""
+"在米内亚镇，有着坚固的城壁\n"
+"所以比起这里来我想是安全得多了。"
+msgstr ""
+
+msgctxt "670"
+msgid ""
+"都是因为不久前魔物出现的关系\n"
+"已经不能到米内亚去了$20，\n"
+"不知道我的朋友现在好不好……。"
+msgstr ""
+
+msgctxt "671"
+msgid ""
+"结果还是只有自警团能够信赖$20。\n"
+"从米内亚与塞皮克村之间，\n"
+"来回都要靠他们在路上保护。"
+msgstr ""
+
+msgctxt "672"
+msgid ""
+"可是如果连一些鸡毛蒜皮的小事都拜托$20，\n"
+"这样子还是很不好对不对？"
+msgstr ""
+
+msgctxt "673"
+msgid ""
+"可是，不能跟别人说哦！\n"
+"男人可是为了我才\n"
+"冒着这些危险跑出去的呢……"
+msgstr ""
+
+msgctxt "674"
+msgid "会让人上瘾的快感呢。"
+msgstr ""
+
+msgctxt "675"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "676"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "677"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "678"
+msgid ""
+"今天天气真好啊！\n"
+""
+msgstr ""
+
+msgctxt "679"
+msgid ""
+"在米内亚镇内有一位占卜师，\n"
+"曾经说过有关于岚之结界及魔物出现等\n"
+"许许多多的预言的样子……。"
+msgstr ""
+
+msgctxt "680"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "681"
+msgid ""
+"当这个灾难过去了之后\n"
+"希望你能告诉我一些事情。"
+msgstr ""
+
+msgctxt "682"
+msgid ""
+"如果你想要知道一些什么的话，\n"
+"就去拜访在米内亚的那位占卜师吧，\n"
+"这也许是最好的方法也说不定哦。"
+msgstr ""
+
+msgctxt "683"
+msgid ""
+"在塞皮克村的另一头、神殿的遗迹之中有\n"
+"两个背生双翼的女神像并排在一起$20。\n"
+"她们的长相，是这个世界上的人所无法\n"
+"想像的美貌！"
+msgstr ""
+
+msgctxt "684"
+msgid ""
+"可是，那个神殿从外表看起来虽然很大，\n"
+"但是里面却是意想不到的狭窄$20，\n"
+"不过，这是很久前的事情了，记忆都已经模糊了。"
+msgstr ""
+
+msgctxt "685"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "686"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "687"
+msgid ""
+"我在这之前\n"
+"一直都在这里打渔──"
+msgstr ""
+
+msgctxt "688"
+msgid ""
+"从岚之结界发生之后\n"
+"相反的鱼获量突然的多了起来$20。\n"
+"这实在是太讽刺了啊。"
+msgstr ""
+
+msgctxt "689"
+msgid ""
+"因为岚之结界的关系，\n"
+"没有办法再进行贸易了，\n"
+"但是托这个的福大家也不必担心会饿死呢。"
+msgstr ""
+
+msgctxt "690"
+msgid ""
+"这教我该怎么说才好呢\n"
+"我想巴尔巴多啊，\n"
+"最好还是个渔村就可以了。"
+msgstr ""
+
+msgctxt "691"
+msgid ""
+"不管发生了什么事情，\n"
+"就这样回复以往的生活也不坏啊？"
+msgstr ""
+
+msgctxt "692"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "693"
+msgid ""
+"我也已经稍微长大了\n"
+"一点了哦。"
+msgstr ""
+
+msgctxt "694"
+msgid ""
+"等我再长大一点，\n"
+"就可以帅气的挥动着长剑，\n"
+"保护大家了。"
+msgstr ""
+
+msgctxt "695"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "696"
+msgid ""
+"我本来是想要去米内亚玩的，\n"
+"结果被隔壁家的妈妈给拦了下来。"
+msgstr ""
+
+msgctxt "697"
+msgid ""
+"说是有怪物出现什么的$20。\n"
+"还真是无聊呢……。"
+msgstr ""
+
+msgctxt "698"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "699"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "700"
+msgid ""
+"在岚之结界发生之前，\n"
+"这个酒场也是相当繁荣的呢。"
+msgstr ""
+
+msgctxt "701"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "702"
+msgid ""
+"虽然贫穷，但是只要能够\n"
+"住下来的话我是完全不在乎的……\n"
+"虽然没有什么客人，但总得找事情做。"
+msgstr ""
+
+msgctxt "703"
+msgid ""
+"我也不想一天到晚只会发呆，\n"
+"所以就拜托斯拉夫先生，让我也\n"
+"加入了自警团。"
+msgstr ""
+
+msgctxt "704"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "705"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "706"
+msgid "我说斯拉夫先生～～！"
+msgstr ""
+
+msgctxt "707"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "708"
+msgid ""
+"当我说想要加入自警团的时候\n"
+"竟然被人说“这不是小孩子的玩意儿”！"
+msgstr ""
+
+msgctxt "709"
+msgid ""
+"又温柔、又值得信赖\n"
+"像这种样子的人，\n"
+"我是最喜欢的了。"
+msgstr ""
+
+msgctxt "710"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "711"
+msgid "可是…你到底是几岁啊？"
+msgstr ""
+
+msgctxt "712"
+msgid ""
+"这个……，17岁左右吧$20？\n"
+"看起来跟我最多只差两岁而已没错吧！"
+msgstr ""
+
+msgctxt "713"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "714"
+msgid ""
+"呜，亚特鲁你倒是说说看\n"
+"为什么我就是不行嘛。"
+msgstr ""
+
+msgctxt "715"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "716"
+msgid ""
+"呜，亚特鲁你倒是说说看\n"
+"为什么我就是不行嘛。"
+msgstr ""
+
+msgctxt "717"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "718"
+msgid "我的故乡是在遥远的北方国家。"
+msgstr ""
+
+msgctxt "719"
+msgid "……故乡的姊姊，不知道过得好不好。"
+msgstr ""
+
+msgctxt "720"
+msgid ""
+"啊$10！　这下糟了$20，\n"
+"我快要无聊死了啦！"
+msgstr ""
+
+msgctxt "721"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "722"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "723"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "724"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "725"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "726"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "727"
+msgid ""
+"小女子是诗人名叫蕾雅$20。\n"
+"有一个仅次于我生命般重要的银之口琴\n"
+"不晓得掉到什么地方去了。"
+msgstr ""
+
+msgctxt "728"
+msgid ""
+"如果没有那个的话就没有办法写歌了$20，\n"
+"我该怎么办才好呢……。"
+msgstr ""
+
+msgctxt "729"
+msgid ""
+"作为一个诗人──\n"
+"就是要把我们乡土的自然与历史、人们的生活与信仰\n"
+"用歌声给表现出来。"
+msgstr ""
+
+msgctxt "730"
+msgid ""
+"我就是用银之口琴来写作歌曲的，\n"
+"可是我一不小心就把它给弄丢了。"
+msgstr ""
+
+msgctxt "731"
+msgid ""
+"剑士大人，\n"
+"如果你在什么地方看到我的银之口琴的话，\n"
+"就请在下一次见面的时候告诉我。"
+msgstr ""
+
+msgctxt "732"
+msgid ""
+"在如同母亲一样的多阿尔湾、或是在艾斯塔里亚的山河间，\n"
+"有着随风飘来歌声的回忆，\n"
+"这是我所能做到的慈爱。"
+msgstr ""
+
+msgctxt "733"
+msgid ""
+"可是我如果没有了银之口琴的话，\n"
+"就不能再写作歌曲了啊。"
+msgstr ""
+
+msgctxt "734"
+msgid ""
+"拜托您，如果在街头巷尾间听到有什么\n"
+"有关于我的口琴的消息传出来的话，\n"
+"无论是什么事情都请您告诉我一声。"
+msgstr ""
+
+msgctxt "735"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "736"
+msgid ""
+"啊……\n"
+"你帮我找到口琴了呢！"
+msgstr ""
+
+msgctxt "737"
+msgid ""
+"──呃…，是在废矿坑的深处那边……$20。\n"
+"为什么会到那种地方去呢……。"
+msgstr ""
+
+msgctxt "738"
+msgid ""
+"终于找回来了，真是太好了$20。\n"
+"非常的感谢您。"
+msgstr ""
+
+msgctxt "739"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "740"
+msgid ""
+"请问……\n"
+"能不能告诉我您的大名？"
+msgstr ""
+
+msgctxt "741"
+msgid ""
+"\n"
+"　　　　　　　　 亚特鲁报出了自己的名字。"
+msgstr ""
+
+msgctxt "742"
+msgid ""
+"您是…亚特鲁$10…先生……是吧$20。\n"
+"…$20…真是好听又响亮的名字呢。"
+msgstr ""
+
+msgctxt "743"
+msgid ""
+"亚特鲁先生，\n"
+"请接受让您帮我找回口琴的谢礼。"
+msgstr ""
+
+msgctxt "744"
+msgid "有一首曲子，请您听一听。"
+msgstr ""
+
+msgctxt "745"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "746"
+msgid ""
+"小女子是诗人名叫蕾雅$20。\n"
+"……我把重要的口琴给弄丢了，\n"
+"现在不知道如何是好。"
+msgstr ""
+
+msgctxt "747"
+msgid ""
+"如果没有了口琴的话，我就不能写作歌曲了$20。\n"
+"我该怎么办才好呢……。"
+msgstr ""
+
+msgctxt "748"
+msgid ""
+"啊…，\n"
+"这就是我的口琴啊$20。\n"
+"这还真是偶然啊！"
+msgstr ""
+
+msgctxt "749"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "750"
+msgid ""
+"麻烦您替我找回了口琴，\n"
+"真的是非常感谢您。"
+msgstr ""
+
+msgctxt "751"
+msgid ""
+"麻烦您替我找回了口琴，\n"
+"真的是非常感谢您。"
+msgstr ""
+
+msgctxt "752"
+msgid ""
+"呵呵。蕾雅我$10，\n"
+"可是从心底衷心的感谢哦。"
+msgstr ""
+
+msgctxt "753"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "754"
+msgid ""
+"巴丘·巴迪多……。\n"
+"每当我看到这个悲哀大地的伤痕时\n"
+"就会感觉到自己的胸口要撕裂般的心痛。"
+msgstr ""
+
+msgctxt "755"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "756"
+msgid ""
+"亚特鲁先生，\n"
+"麻烦您替我找回了口琴，\n"
+"真的是非常感谢您。"
+msgstr ""
+
+msgctxt "757"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "758"
+msgid ""
+"这首诗……，\n"
+"是我在几天前所写下来的。"
+msgstr ""
+
+msgctxt "759"
+msgid "亚特鲁把纸交给了蕾雅。"
+msgstr ""
+
+msgctxt "760"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "761"
+msgid "这么麻烦您，真的是非常的感谢。"
+msgstr ""
+
+msgctxt "762"
+msgid ""
+"夕阳西沉之后，月亮就醒了过来……\n"
+"当悲伤的梦醒之后，祝福所有的人都能够平安归来。\n"
+""
+msgstr ""
+
+msgctxt "763"
+msgid ""
+"我说菲娜，\n"
+"你可有注意到我们的使命吗？"
+msgstr ""
+
+msgctxt "764"
+msgid ""
+"然后……$20。\n"
+"我……。"
+msgstr ""
+
+msgctxt "765"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "766"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "767"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "768"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "769"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "770"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "771"
+msgid "啊啊……你是…！？"
+msgstr ""
+
+msgctxt "772"
+msgid "你不是这个艾斯塔里亚的人。"
+msgstr ""
+
+msgctxt "773"
+msgid ""
+"难道说……\n"
+"是超越了岚之结界……\n"
+"从海那边渡海而来的吗？"
+msgstr ""
+
+msgctxt "774"
+msgid "那么你可能…就是我正在寻找的人。"
+msgstr ""
+
+msgctxt "775"
+msgid ""
+"啊啊…为了这一天\n"
+"我不知已经等待了多少日子啊……！"
+msgstr ""
+
+msgctxt "776"
+msgid ""
+"──有事相求$20。\n"
+"当你把身为剑士的装备整备完毕之后\n"
+"能不能请你再来这里一趟呢？"
+msgstr ""
+
+msgctxt "777"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "778"
+msgid "有一件事，我想拜托你去做。"
+msgstr ""
+
+msgctxt "779"
+msgid ""
+"拜托您……$20。\n"
+"当你集齐了剑、铠和盾的时候\n"
+"请再一次来到这里。"
+msgstr ""
+
+msgctxt "780"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "781"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "782"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "783"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "784"
+msgid ""
+"剑士阁下……\n"
+"欢迎您再度光临。"
+msgstr ""
+
+msgctxt "785"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "786"
+msgid ""
+"那么就单刀直入，剑士阁下\n"
+"可曾听说过有一本叫作\n"
+"“伊苏之书”的书吗？"
+msgstr ""
+
+msgctxt "787"
+msgid "我知道"
+msgstr ""
+
+msgctxt "788"
+msgid "我不知道"
+msgstr ""
+
+msgctxt "789"
+msgid ""
+"──这个水晶球\n"
+"显示出“伊苏之书”中的一册\n"
+"现在存在于山中神殿的某个地方。"
+msgstr ""
+
+msgctxt "790"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "791"
+msgid ""
+"剑士阁下，请你去找出\n"
+"这本书并且带回来。"
+msgstr ""
+
+msgctxt "792"
+msgid "我答应"
+msgstr ""
+
+msgctxt "793"
+msgid "我拒绝"
+msgstr ""
+
+msgctxt "794"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "795"
+msgid ""
+"您真的愿意帮我这个忙吗$10？\n"
+"剑士阁下，真是太感谢您了……。"
+msgstr ""
+
+msgctxt "796"
+msgid ""
+"请你带着这颗水晶球上路$20。\n"
+"它会带领你的道路，使你能够\n"
+"到达神殿的所在。"
+msgstr ""
+
+msgctxt "797"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "798"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "799"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "800"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "801"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "802"
+msgid ""
+"是吗……$20。\n"
+"我还以为您可以帮得上这个忙的……。"
+msgstr ""
+
+msgctxt "803"
+msgid ""
+"所谓“伊苏”，是在遥远的\n"
+"从前在这里所存在过的\n"
+"某个王国的名字……。"
+msgstr ""
+
+msgctxt "804"
+msgid ""
+"而点缀着这段失去了的历史的东西\n"
+"就是这个“伊苏之书”。"
+msgstr ""
+
+msgctxt "805"
+msgid ""
+"里面到底记载了什么样的事情\n"
+"我没有办法确定。"
+msgstr ""
+
+msgctxt "806"
+msgid ""
+"我只能确定在这六本分散开来的\n"
+"书上记载了“伊苏”灭亡的理由\n"
+"而已。"
+msgstr ""
+
+msgctxt "807"
+msgid ""
+"请你带着这颗水晶球上路$20。\n"
+"它会带领你的道路，使你能够\n"
+"到达神殿的所在。"
+msgstr ""
+
+msgctxt "808"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "809"
+msgid ""
+"剑士阁下、\n"
+"你愿意为我去把这本书\n"
+"找出来吗？"
+msgstr ""
+
+msgctxt "810"
+msgid "在塞皮克村，有一位我的叔母名叫洁瓦。"
+msgstr ""
+
+msgctxt "811"
+msgid ""
+"如果想要明白神殿或伊苏的事情$20。\n"
+"只要去拜访她就绝对不会错的。"
+msgstr ""
+
+msgctxt "812"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "813"
+msgid ""
+"塞皮克村，\n"
+"在米内亚北方广阔草原的东北方向，\n"
+"是通往神殿的必经之路。"
+msgstr ""
+
+msgctxt "814"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "815"
+msgid "啊啊……你是…！？"
+msgstr ""
+
+msgctxt "816"
+msgid "你不是这个艾斯塔里亚的人。"
+msgstr ""
+
+msgctxt "817"
+msgid ""
+"难道说……\n"
+"是超越了岚之结界……\n"
+"从海那边渡海而来的吗？"
+msgstr ""
+
+msgctxt "818"
+msgid "那么你可能…就是我正在寻找的人。"
+msgstr ""
+
+msgctxt "819"
+msgid ""
+"啊啊…为了这一天\n"
+"我不知已经等待了多少日子啊……！"
+msgstr ""
+
+msgctxt "820"
+msgid ""
+"──那么，剑士阁下，\n"
+"我有一件事情想要拜托您。"
+msgstr ""
+
+msgctxt "821"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "822"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "823"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "824"
+msgid ""
+"剑士阁下，事情怎么样了$10？\n"
+"是不是已经找到了“伊苏之书”呢？"
+msgstr ""
+
+msgctxt "825"
+msgid ""
+"──你说什么$10？\n"
+"有少女被囚禁在神殿的地底下…。"
+msgstr ""
+
+msgctxt "826"
+msgid "不会吧……。"
+msgstr ""
+
+msgctxt "827"
+msgid ""
+"剑士阁下…$10！\n"
+"事态发展成这样的话已经刻不容缓了。"
+msgstr ""
+
+msgctxt "828"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "829"
+msgid ""
+"请你把“伊苏之书”给找出来$20。\n"
+"详细的事情，等有机会再告诉你。"
+msgstr ""
+
+msgctxt "830"
+msgid ""
+"剑士阁下…$10！\n"
+"事态发展成这样的话已经刻不容缓了。"
+msgstr ""
+
+msgctxt "831"
+msgid ""
+"请你把“伊苏之书”给找出来$20。\n"
+"详细的事情，等有机会再告诉你。"
+msgstr ""
+
+msgctxt "832"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "833"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "834"
+msgid ""
+"你就是亚特鲁先生吧$20。\n"
+"有件令人悲伤的事情要告诉你。"
+msgstr ""
+
+msgctxt "835"
+msgid ""
+"莎拉她…\n"
+"不知道被什么人给杀害了$20。\n"
+"真是好可怜啊……。"
+msgstr ""
+
+msgctxt "836"
+msgid ""
+"请你收下这本书吧$20。\n"
+"这是她在死去的前一天交给我保管的。"
+msgstr ""
+
+msgctxt "837"
+msgid ""
+"──她微笑说自己可能会发生意外，\n"
+"必须要把这东西交给一位叫作亚特鲁的\n"
+"红色头发的剑士。"
+msgstr ""
+
+msgctxt "838"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "839"
+msgid ""
+"我本来还以为她在开玩笑，\n"
+"几乎忘记她本身就是个占卜师了$20。\n"
+"所以我也并不当真的接了过来……。"
+msgstr ""
+
+msgctxt "840"
+msgid ""
+"这么说来，\n"
+"莎拉只留下一句话说是“去废矿坑”\n"
+"之后就离开了。"
+msgstr ""
+
+msgctxt "841"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "842"
+msgid ""
+"如果是你的话\n"
+"也许能够明白她所说的话是\n"
+"什么意思也说不定呢……。"
+msgstr ""
+
+msgctxt "843"
+msgid ""
+"看着普罗玛洛克港。\n"
+"我的脚边就是海。\n"
+"风吹起来好舒服……。"
+msgstr ""
+
+msgctxt "844"
+msgid ""
+"我没有办法行动，\n"
+"这点要请你明白。"
+msgstr ""
+
+msgctxt "845"
+msgid ""
+"我所学的占卜秘法，\n"
+"也没有办法提供支持。"
+msgstr ""
+
+msgctxt "846"
+msgid ""
+"去爱人吧，\n"
+"以你的热情努力的去做吧。\n"
+"现在就只能这样了。"
+msgstr ""
+
+msgctxt "847"
+msgid ""
+"不够不够，\n"
+"有很多事情都是应该要去做的。"
+msgstr ""
+
+msgctxt "848"
+msgid ""
+"海。\n"
+"真好啊～。"
+msgstr ""
+
+msgctxt "849"
+msgid ""
+"只要只要一直往大陆的方向过去。\n"
+"如同少女般的憧憬的心……。"
+msgstr ""
+
+msgctxt "850"
+msgid ""
+"而其脚步，可以通向遥远之处。\n"
+"如同街道不断的延伸……。"
+msgstr ""
+
+msgctxt "851"
+msgid "……你讨厌年长的女人吗？……"
+msgstr ""
+
+msgctxt "852"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "853"
+msgid "……有何贵干？"
+msgstr ""
+
+msgctxt "854"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "855"
+msgid "要怎么办？"
+msgstr ""
+
+msgctxt "856"
+msgid "与店主交谈"
+msgstr ""
+
+msgctxt "857"
+msgid "想要挖出来的东西"
+msgstr ""
+
+msgctxt "858"
+msgid "来卖东西的"
+msgstr ""
+
+msgctxt "859"
+msgid "离开店面"
+msgstr ""
+
+msgctxt "860"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "861"
+msgid ""
+"喔喔，少见的红色头发。\n"
+"你不是这个国家的人吧？"
+msgstr ""
+
+msgctxt "862"
+msgid ""
+"我也是从外地来的呢。\n"
+"都是因为那个岚之结界，害得我\n"
+"也被封锁在这个小国家里面。"
+msgstr ""
+
+msgctxt "863"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "864"
+msgid ""
+"我们同样都是外国来的。\n"
+"可以算你便宜一点哦？"
+msgstr ""
+
+msgctxt "865"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "866"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "867"
+msgid ""
+"咦…，那个蓝宝石戒指好像是\n"
+"多尼斯的东西呢。\n"
+"我也有一个就好了。"
+msgstr ""
+
+msgctxt "868"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "869"
+msgid ""
+"哎呀呀，没想到能够帮助\n"
+"别人的感觉会这么舒服呢。"
+msgstr ""
+
+msgctxt "870"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "871"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "872"
+msgid ""
+"你是外来的人所以我想还不知道吧。\n"
+"最近，在米内亚那边出现了很多的盗贼哦。"
+msgstr ""
+
+msgctxt "873"
+msgid ""
+"就连这里的交易所\n"
+"在那个结界产生之前也都曾经受害过。"
+msgstr ""
+
+msgctxt "874"
+msgid "金之台座、银之铠──全部都是昂贵的东西。"
+msgstr ""
+
+msgctxt "875"
+msgid ""
+"真是糟到不能再糟了……\n"
+"像那些家伙，真应该马上抓起来\n"
+"全部都吊死就好了。"
+msgstr ""
+
+msgctxt "876"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "877"
+msgid ""
+"你不是说要到神殿那里去吗。\n"
+"到时候应该会发掘出一些东西吧？\n"
+"想不想要高价卖掉呢？"
+msgstr ""
+
+msgctxt "878"
+msgid ""
+"那座神殿从这里就可以看得到了，\n"
+"但是因为魔物的关系所以没有办法靠近。\n"
+"是不是里面有什么东西你想要的？"
+msgstr ""
+
+msgctxt "879"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "880"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "881"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "882"
+msgid "那个女占卜师被杀掉了。"
+msgstr ""
+
+msgctxt "883"
+msgid ""
+"能够判断出自己即将死亡的话\n"
+"占卜的工夫也算是极为高明的了。"
+msgstr ""
+
+msgctxt "884"
+msgid ""
+"这话可不能说出去──\n"
+"那个女人，据说和那些盗贼有关的样子。\n"
+"我想可能是脱离了的同伴吧。"
+msgstr ""
+
+msgctxt "885"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "886"
+msgid ""
+"又看到你了，还真是个厉害的家伙呢。\n"
+"能够从废矿坑深处生还平安归来的话、\n"
+"绝对是了不起的事情。"
+msgstr ""
+
+msgctxt "887"
+msgid ""
+"在废矿坑里面有没有捡到什么好东西呢？\n"
+"我出高价向你买哦。"
+msgstr ""
+
+msgctxt "888"
+msgid ""
+"啊呀，这副银之铠……\n"
+"总觉得好像在哪里见过的样子。"
+msgstr ""
+
+msgctxt "889"
+msgid ""
+"从我这里被抢走的铠甲、\n"
+"怎么会这么闪闪发光呢……。"
+msgstr ""
+
+msgctxt "890"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "891"
+msgid "那么…是我的错觉吗？"
+msgstr ""
+
+msgctxt "892"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "893"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "894"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "895"
+msgid ""
+"现在剩下的，\n"
+"就只有这些东西了。"
+msgstr ""
+
+msgctxt "896"
+msgid "蓝宝石戒指"
+msgstr ""
+
+msgctxt "897"
+msgid "回归之翼"
+msgstr ""
+
+msgctxt "898"
+msgid "魔法镜"
+msgstr ""
+
+msgctxt "899"
+msgid "什么都不买"
+msgstr ""
+
+msgctxt "900"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "901"
+msgid ""
+"像这种蓝宝石\n"
+"最适合当作礼物送给女朋友的了，\n"
+"她一定会大为惊喜的哦。"
+msgstr ""
+
+msgctxt "902"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "903"
+msgid ""
+"像这种蓝宝石\n"
+"要不要当作礼物送给女朋友啊？\n"
+"她一定会大为惊喜的哦。现在可以特价优待你。"
+msgstr ""
+
+msgctxt "904"
+msgid "呼呼呼…你还真是不好伺候呢。"
+msgstr ""
+
+msgctxt "905"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "906"
+msgid "#09１０００>4Gold#05>4。"
+msgstr ""
+
+msgctxt "907"
+msgid "买了"
+msgstr ""
+
+msgctxt "908"
+msgid "不买"
+msgstr ""
+
+msgctxt "909"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "910"
+msgid "#09９００>4Gold#05>4可以吗。"
+msgstr ""
+
+msgctxt "911"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "912"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "913"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "914"
+msgid "好的，请再度惠顾。"
+msgstr ""
+
+msgctxt "915"
+msgid ""
+"你带的钱不够哦。\n"
+"抱歉啦，就算只差一文钱也没办法。\n"
+"因为我可是个生意人呢。"
+msgstr ""
+
+msgctxt "916"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "917"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "918"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "919"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "920"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "921"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "922"
+msgid "已经不想买了吗？"
+msgstr ""
+
+msgctxt "923"
+msgid "……你是想作弄我吗？"
+msgstr ""
+
+msgctxt "924"
+msgid "………。"
+msgstr ""
+
+msgctxt "925"
+msgid "……呵呵呵，算我败给你啦。"
+msgstr ""
+
+msgctxt "926"
+msgid "什么样的东西都有它一定的行情的啦。"
+msgstr ""
+
+msgctxt "927"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "928"
+msgid ""
+"这个可是个不可思议的物品哦。\n"
+"无论是从多远的地方都可以在一瞬间回到这个地方。"
+msgstr ""
+
+msgctxt "929"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "930"
+msgid ""
+"这个可是个不可思议的物品哦。\n"
+"无论是从多远的地方都可以在一瞬间回到这个地方。怎么样，我可以算你便宜一点哦。"
+msgstr ""
+
+msgctxt "931"
+msgid "呼呼呼…你还真是不好伺候呢。"
+msgstr ""
+
+msgctxt "932"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "933"
+msgid "#09２０００>4Gold#05>4。"
+msgstr ""
+
+msgctxt "934"
+msgid "买了"
+msgstr ""
+
+msgctxt "935"
+msgid "不买"
+msgstr ""
+
+msgctxt "936"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "937"
+msgid "#09１８００>4Gold#05>4怎么样。"
+msgstr ""
+
+msgctxt "938"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "939"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "940"
+msgid ""
+"之前买去的那家伙\n"
+"好像还没有用过的样子。"
+msgstr ""
+
+msgctxt "941"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "942"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "943"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "944"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "945"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "946"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "947"
+msgid "……呵呵呵，算我败给你啦。"
+msgstr ""
+
+msgctxt "948"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "949"
+msgid ""
+"这面镜子具有能够使魔物的动作停止的力量。\n"
+"是相当贵重的宝物。\n"
+"不过使用几次之后就会失效了。"
+msgstr ""
+
+msgctxt "950"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "951"
+msgid ""
+"这面镜子具有能够使魔物的动作停止的力量。\n"
+"是相当贵重的宝物。不过使用几次之后就会失效了。\n"
+"怎么样，我可以算你便宜一点哦。"
+msgstr ""
+
+msgctxt "952"
+msgid "呼呼呼…你还真是不好伺候呢。"
+msgstr ""
+
+msgctxt "953"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "954"
+msgid "#09１０００>4Gold#05>4。"
+msgstr ""
+
+msgctxt "955"
+msgid "买了"
+msgstr ""
+
+msgctxt "956"
+msgid "不买"
+msgstr ""
+
+msgctxt "957"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "958"
+msgid "#09９００>4Gold#05>4怎么样。"
+msgstr ""
+
+msgctxt "959"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "960"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "961"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "962"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "963"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "964"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "965"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "966"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "967"
+msgid "……呵呵呵、算我败给你啦。"
+msgstr ""
+
+msgctxt "968"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "969"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "970"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "971"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "972"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "973"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "974"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "975"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "976"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "977"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "978"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "979"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "980"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "981"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "982"
+msgid "想要卖些什么？"
+msgstr ""
+
+msgctxt "983"
+msgid "红宝石"
+msgstr ""
+
+msgctxt "984"
+msgid "项链"
+msgstr ""
+
+msgctxt "985"
+msgid "金之台座"
+msgstr ""
+
+msgctxt "986"
+msgid "什么都不卖"
+msgstr ""
+
+msgctxt "987"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "988"
+msgid ""
+"这个是很好看的红宝石。\n"
+"这么大，装饰起来一定很好看。"
+msgstr ""
+
+msgctxt "989"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "990"
+msgid ""
+"这个是很好看的红宝石。\n"
+"这么大，装饰起来一定很好看。我想，看在你的面子上可以用高价来买哦。"
+msgstr ""
+
+msgctxt "991"
+msgid "呵呵呵，没想到你对这些东西的价值也满清楚的嘛。"
+msgstr ""
+
+msgctxt "992"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "993"
+msgid ""
+"#09１２００>4Gold#05>4\n"
+"卖给我吧。"
+msgstr ""
+
+msgctxt "994"
+msgid "卖了"
+msgstr ""
+
+msgctxt "995"
+msgid "不卖"
+msgstr ""
+
+msgctxt "996"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "997"
+msgid ""
+"#09１３２０>4Gold#05>4\n"
+"卖给我吧。"
+msgstr ""
+
+msgctxt "998"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "999"
+msgid "呵呵……那就谢啦。"
+msgstr ""
+
+msgctxt "1000"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1001"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1002"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1003"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1004"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1005"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1006"
+msgid "已经不想再卖了吗？"
+msgstr ""
+
+msgctxt "1007"
+msgid "……你是想要作弄我吗？"
+msgstr ""
+
+msgctxt "1008"
+msgid "………。"
+msgstr ""
+
+msgctxt "1009"
+msgid "……呵呵，你满会卖东西的嘛。"
+msgstr ""
+
+msgctxt "1010"
+msgid "再怎么缠我也不会出更高的价钱啦。"
+msgstr ""
+
+msgctxt "1011"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1012"
+msgid ""
+"看起来像是很旧的项链嘛。\n"
+"宝石颗粒也很小，刮痕却很多。"
+msgstr ""
+
+msgctxt "1013"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1014"
+msgid ""
+"看起来像是很旧的项链嘛。\n"
+"宝石颗粒也很小，刮痕却很多。但是，看在你的面子上可以用高价来买哦。"
+msgstr ""
+
+msgctxt "1015"
+msgid "呵呵呵，没想到你对这些东西的价值也满清楚的嘛。"
+msgstr ""
+
+msgctxt "1016"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1017"
+msgid ""
+"#09５００>4Gold#05>4的价钱可以的话\n"
+"我就向你买。"
+msgstr ""
+
+msgctxt "1018"
+msgid "卖了"
+msgstr ""
+
+msgctxt "1019"
+msgid "不卖"
+msgstr ""
+
+msgctxt "1020"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1021"
+msgid ""
+"#09５５０>4Gold#05>4的价钱可以的话\n"
+"我就向你买。"
+msgstr ""
+
+msgctxt "1022"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1023"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1024"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1025"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1026"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1027"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1028"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1029"
+msgid "……呵呵，你满会卖东西的嘛。"
+msgstr ""
+
+msgctxt "1030"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1031"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1032"
+msgid ""
+"这、这个台座是──\n"
+"为什么你会有这个东西呢？"
+msgstr ""
+
+msgctxt "1033"
+msgid ""
+"原来是沉在池子里面啊…\n"
+"这个台座还真是有点意思呢。\n"
+"哎呀，你还真是会找东西呢。"
+msgstr ""
+
+msgctxt "1034"
+msgid ""
+"原来是沉在池子里面啊…\n"
+"哎呀，你还真是会找东西呢。"
+msgstr ""
+
+msgctxt "1035"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1036"
+msgid ""
+"这、这个台座是──\n"
+"为什么你会有这个东西呢？"
+msgstr ""
+
+msgctxt "1037"
+msgid ""
+"原来是沉在池子里面啊…\n"
+"哎呀，你还真是会找东西呢。如果是你的话、看样子可以从你这里买到好东西哦。"
+msgstr ""
+
+msgctxt "1038"
+msgid "呵呵呵，没想到你对这些东西的价值也满清楚的嘛。"
+msgstr ""
+
+msgctxt "1039"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1040"
+msgid ""
+"#09２０００>4Gold#05>4\n"
+"我就向你买。"
+msgstr ""
+
+msgctxt "1041"
+msgid "卖了"
+msgstr ""
+
+msgctxt "1042"
+msgid "不卖"
+msgstr ""
+
+msgctxt "1043"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1044"
+msgid ""
+"#09２２００>4Gold#05>4\n"
+"就卖给我吧。"
+msgstr ""
+
+msgctxt "1045"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1046"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1047"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1048"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1049"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1050"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1051"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1052"
+msgid "……呵呵，你满会卖东西的嘛。"
+msgstr ""
+
+msgctxt "1053"
+msgid ""
+"呼～，我这边也已经没有\n"
+"什么特别想要的东西了。"
+msgstr ""
+
+msgctxt "1054"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1055"
+msgid "你好，欢迎光临！"
+msgstr ""
+
+msgctxt "1056"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1057"
+msgid "要怎么办？"
+msgstr ""
+
+msgctxt "1058"
+msgid "与店主交谈"
+msgstr ""
+
+msgctxt "1059"
+msgid "购买武器"
+msgstr ""
+
+msgctxt "1060"
+msgid "离开店面"
+msgstr ""
+
+msgctxt "1061"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1062"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1063"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1064"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1065"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1066"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1067"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1068"
+msgid ""
+"你身上带的剑看起来不错嘛。\n"
+"是巴尔巴多的自警团所使用的东西吧。"
+msgstr ""
+
+msgctxt "1069"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1070"
+msgid ""
+"可是在我的店里、\n"
+"还有很多在实战方面更有用的剑哦。\n"
+"如果想要的话就让你看一看。"
+msgstr ""
+
+msgctxt "1071"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1072"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1073"
+msgid ""
+"这是好不容易才买到的弯刀。\n"
+"如果你中意的话要不要买啊？"
+msgstr ""
+
+msgctxt "1074"
+msgid ""
+"无论是持有再怎么优良的刀剑\n"
+"但是面对凶恶的魔物，从正面攻击简直是\n"
+"自杀的行为哦。"
+msgstr ""
+
+msgctxt "1075"
+msgid ""
+"必须从旁边绕到背后，然后攻击要害，\n"
+"这样的话就比较容易获得胜利。"
+msgstr ""
+
+msgctxt "1076"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1077"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1078"
+msgid ""
+"这把长剑是──\n"
+"真是惊人啊，这不是东方的弯刀吗！"
+msgstr ""
+
+msgctxt "1079"
+msgid ""
+"这可不是可以随便拿到的东西呢。\n"
+"是从哪里得到的呢？"
+msgstr ""
+
+msgctxt "1080"
+msgid ""
+"弯刀和普通的刀剑在使用技巧上有所差别，\n"
+"如果是你的话我想应该没问题吧。"
+msgstr ""
+
+msgctxt "1081"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1082"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1083"
+msgid ""
+"这、这把是什么剑啊！？\n"
+"刀刃竟然会发出耀眼的光芒呢！"
+msgstr ""
+
+msgctxt "1084"
+msgid ""
+"好像是用纯银整体打造而成的东西……\n"
+"很明显的蕴藏了某种“力量”在里面。"
+msgstr ""
+
+msgctxt "1085"
+msgid ""
+"我开这武器屋这么多年以来\n"
+"还是第一次看到这么厉害的剑呢……！"
+msgstr ""
+
+msgctxt "1086"
+msgid ""
+"这把剑的剑身还会轻微的颤抖\n"
+"难道就是传说的银之剑吗……！"
+msgstr ""
+
+msgctxt "1087"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1088"
+msgid "想要什么样的剑呢？"
+msgstr ""
+
+msgctxt "1089"
+msgid "短剑"
+msgstr ""
+
+msgctxt "1090"
+msgid "长剑"
+msgstr ""
+
+msgctxt "1091"
+msgid "弯刀"
+msgstr ""
+
+msgctxt "1092"
+msgid "什么都不买"
+msgstr ""
+
+msgctxt "1093"
+msgid ""
+"短剑体积小而且重量轻，\n"
+"使用起来非常的简便。\n"
+"可以当作日常用品使用。"
+msgstr ""
+
+msgctxt "1094"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1095"
+msgid "#09５００>4Gold#05>4可以吗？"
+msgstr ""
+
+msgctxt "1096"
+msgid "买了"
+msgstr ""
+
+msgctxt "1097"
+msgid "不买"
+msgstr ""
+
+msgctxt "1098"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1099"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1100"
+msgid ""
+"什么嘛，你不是已经有了吗。\n"
+"带个两三把你也不嫌累啊？"
+msgstr ""
+
+msgctxt "1101"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1102"
+msgid "谢谢，请再度光临！"
+msgstr ""
+
+msgctxt "1103"
+msgid ""
+"你身上带的钱好像不够哦。\n"
+"等你带够了钱，要再度光临哦。"
+msgstr ""
+
+msgctxt "1104"
+msgid ""
+"这把长剑，\n"
+"是让剑士在实战之中使用的长剑。\n"
+"值得骄傲的是整体都是用钢铁所打造的。"
+msgstr ""
+
+msgctxt "1105"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1106"
+msgid "#09２０００>4Gold#05>4可以吗？"
+msgstr ""
+
+msgctxt "1107"
+msgid "买了"
+msgstr ""
+
+msgctxt "1108"
+msgid "不买"
+msgstr ""
+
+msgctxt "1109"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1110"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1111"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1112"
+msgid ""
+"真对不起，弯刀是东方的国家所使用的刀剑\n"
+"因为岚之结界的原因都没有贸易船进来\n"
+"所以非常难以得到。"
+msgstr ""
+
+msgctxt "1113"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1114"
+msgid "再过一阵子应该就能得到，所以现在请忍耐一下。"
+msgstr ""
+
+msgctxt "1115"
+msgid ""
+"弯刀是东方国家所使用刀身弯曲的长刀\n"
+"和普通的刀剑使用起来在技术上有所差别，\n"
+"但是保证有不同的效果。"
+msgstr ""
+
+msgctxt "1116"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1117"
+msgid "#09５０００>4Gold#05>4可以吗？"
+msgstr ""
+
+msgctxt "1118"
+msgid "买了"
+msgstr ""
+
+msgctxt "1119"
+msgid "不买"
+msgstr ""
+
+msgctxt "1120"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1121"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1122"
+msgid "欢迎再度光临！"
+msgstr ""
+
+msgctxt "1123"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1124"
+msgid "你好、欢迎光临。"
+msgstr ""
+
+msgctxt "1125"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1126"
+msgid "要怎么办？"
+msgstr ""
+
+msgctxt "1127"
+msgid "与店主交谈"
+msgstr ""
+
+msgctxt "1128"
+msgid "购买铠甲"
+msgstr ""
+
+msgctxt "1129"
+msgid "购买盾牌"
+msgstr ""
+
+msgctxt "1130"
+msgid "离开店面"
+msgstr ""
+
+msgctxt "1131"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1132"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1133"
+msgid ""
+"比起武器来防具应该是更优先才对，\n"
+"这样的话活下来的可能性才会提高。"
+msgstr ""
+
+msgctxt "1134"
+msgid ""
+"虽然说“攻击是最大的防御”，\n"
+"但是如果被魔物包围的时候，还能这么说吗？"
+msgstr ""
+
+msgctxt "1135"
+msgid ""
+"这个白银之盾\n"
+"是经过神圣的力量所加护而成的呢。"
+msgstr ""
+
+msgctxt "1136"
+msgid ""
+"表面刻着的古代文字是\n"
+"祝福的咒文。"
+msgstr ""
+
+msgctxt "1137"
+msgid "──真是让人着迷的铠甲啊。"
+msgstr ""
+
+msgctxt "1138"
+msgid ""
+"整体都是用纯银打造而成的\n"
+"所以强度完全没有受到伤害。"
+msgstr ""
+
+msgctxt "1139"
+msgid ""
+"在装饰用的浮雕之间\n"
+"巧妙的雕刻着祝福的咒文。"
+msgstr ""
+
+msgctxt "1140"
+msgid "这实在是很了不起吧……！"
+msgstr ""
+
+msgctxt "1141"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1142"
+msgid "想要什么样的铠甲呢？"
+msgstr ""
+
+msgctxt "1143"
+msgid "锁链甲"
+msgstr ""
+
+msgctxt "1144"
+msgid "铁甲"
+msgstr ""
+
+msgctxt "1145"
+msgid "反弹铠甲"
+msgstr ""
+
+msgctxt "1146"
+msgid "什么都不买"
+msgstr ""
+
+msgctxt "1147"
+msgid ""
+"锁链甲是用锁链编织而成的铠甲。\n"
+"可以使你的动作更加轻快，\n"
+"而且通风良好，所以不会觉得太热。"
+msgstr ""
+
+msgctxt "1148"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1149"
+msgid "#09４００>4Gold#05>4可以吗？"
+msgstr ""
+
+msgctxt "1150"
+msgid "买了"
+msgstr ""
+
+msgctxt "1151"
+msgid "不买"
+msgstr ""
+
+msgctxt "1152"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1153"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1154"
+msgid ""
+"这么说起来，之前你也有来买过吧。\n"
+"我们的商品绝对没有问题\n"
+"你可以尽管安心的使用。"
+msgstr ""
+
+msgctxt "1155"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1156"
+msgid ""
+"谢谢惠顾。\n"
+"请小心的使用哦。"
+msgstr ""
+
+msgctxt "1157"
+msgid ""
+"好像是超过预算的样子呢。\n"
+"不用太勉强，可以先从比较\n"
+"便宜的装备买齐会比较好。"
+msgstr ""
+
+msgctxt "1158"
+msgid ""
+"这个是铁甲，\n"
+"是以整块铁板组合而成的铠甲。\n"
+"虽然是重了一点，但是防御力是一流的。"
+msgstr ""
+
+msgctxt "1159"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1160"
+msgid "#09２０００>4Gold#05>4可以吗？"
+msgstr ""
+
+msgctxt "1161"
+msgid "买了"
+msgstr ""
+
+msgctxt "1162"
+msgid "不买"
+msgstr ""
+
+msgctxt "1163"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1164"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1165"
+msgid ""
+"反弹铠甲是我们自傲的商品哦。\n"
+"用特殊的树脂，在皮革铠假的表面加工而成的。\n"
+"重量很轻，而且硬度比起钢铁还要更高。"
+msgstr ""
+
+msgctxt "1166"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1167"
+msgid ""
+"#09５０００>4Gold#05>4的价格\n"
+"你绝对不会吃亏的。"
+msgstr ""
+
+msgctxt "1168"
+msgid "买了"
+msgstr ""
+
+msgctxt "1169"
+msgid "不买"
+msgstr ""
+
+msgctxt "1170"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1171"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1172"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1173"
+msgid "想要什么样的盾牌呢？"
+msgstr ""
+
+msgctxt "1174"
+msgid "小盾"
+msgstr ""
+
+msgctxt "1175"
+msgid "皮盾"
+msgstr ""
+
+msgctxt "1176"
+msgid "巨盾"
+msgstr ""
+
+msgctxt "1177"
+msgid "什么都不买"
+msgstr ""
+
+msgctxt "1178"
+msgid ""
+"这个是小盾\n"
+"是由坚硬的木材配合金属补强的盾牌。\n"
+"重量轻使用起来非常简便。"
+msgstr ""
+
+msgctxt "1179"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1180"
+msgid "#09７００>4Gold#05>4可以吗？"
+msgstr ""
+
+msgctxt "1181"
+msgid "买了"
+msgstr ""
+
+msgctxt "1182"
+msgid "不买"
+msgstr ""
+
+msgctxt "1183"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1184"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1185"
+msgid ""
+"这个是皮盾\n"
+"是以鞣皮紧密打实而制成的盾牌。\n"
+"虽然重了点，但是强度也更为提高。"
+msgstr ""
+
+msgctxt "1186"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1187"
+msgid "#09２０００>4Gold#05>4可以吗？"
+msgstr ""
+
+msgctxt "1188"
+msgid "买了"
+msgstr ""
+
+msgctxt "1189"
+msgid "不买"
+msgstr ""
+
+msgctxt "1190"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1191"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1192"
+msgid ""
+"这个是巨盾，\n"
+"是以整块铁板加工制成的盾牌，虽然相当的重\n"
+"但是能够承受任何魔物的攻击。"
+msgstr ""
+
+msgctxt "1193"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1194"
+msgid ""
+"#09６０００>4Gold#05>4的价钱\n"
+"你绝对不会吃亏的。"
+msgstr ""
+
+msgctxt "1195"
+msgid "买了"
+msgstr ""
+
+msgctxt "1196"
+msgid "不买"
+msgstr ""
+
+msgctxt "1197"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1198"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1199"
+msgid "请再度光临。"
+msgstr ""
+
+msgctxt "1200"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1201"
+msgid "请问有什么事吗？"
+msgstr ""
+
+msgctxt "1202"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1203"
+msgid "要怎么办？"
+msgstr ""
+
+msgctxt "1204"
+msgid "与护士交谈"
+msgstr ""
+
+msgctxt "1205"
+msgid "治疗伤口"
+msgstr ""
+
+msgctxt "1206"
+msgid "购买药物"
+msgstr ""
+
+msgctxt "1207"
+msgid "停止交谈"
+msgstr ""
+
+msgctxt "1208"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1209"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1210"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1211"
+msgid ""
+"自从魔物出现以来\n"
+"就有许多人受伤，我们快要忙不过来了。"
+msgstr ""
+
+msgctxt "1212"
+msgid ""
+"克拉杰医生到没有医生的塞皮克村\n"
+"出诊去了。"
+msgstr ""
+
+msgctxt "1213"
+msgid ""
+"克拉杰医生因为太忙了，所以停留在\n"
+"医院的时间相对的就会缩短。"
+msgstr ""
+
+msgctxt "1214"
+msgid ""
+"在艾斯塔里亚，巴尔巴多的布鲁多医生和\n"
+"克拉杰医生都是当地仅有的医生、\n"
+"所以都非常的辛苦。"
+msgstr ""
+
+msgctxt "1215"
+msgid ""
+"我……曾经去过\n"
+"莎拉的占卜店。"
+msgstr ""
+
+msgctxt "1216"
+msgid ""
+"就在几天前说“你会见到一直在寻找的人”，\n"
+"我真是非常的高兴……。"
+msgstr ""
+
+msgctxt "1217"
+msgid "没想到竟然发生这种事……。"
+msgstr ""
+
+msgctxt "1218"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1219"
+msgid ""
+"亚特鲁先生，你身上有带着药吗$10？\n"
+"就算是平常没有什么特别的事情，\n"
+"经常带在身上的话我也比较安心哦。"
+msgstr ""
+
+msgctxt "1220"
+msgid ""
+"克拉杰医生仍然是那么的忙碌$20。\n"
+"……我会拼命努力，希望能够多少帮得上\n"
+"医生一点忙。"
+msgstr ""
+
+msgctxt "1221"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1222"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1223"
+msgid ""
+"啊呀$10？\n"
+"亚特鲁先生，你并没有受伤啊？"
+msgstr ""
+
+msgctxt "1224"
+msgid ""
+"医生现在出诊去了$20。\n"
+"如果可以的话，就由我来治疗好吗？"
+msgstr ""
+
+msgctxt "1225"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1226"
+msgid ""
+"#09５０>4Gold#05>4就可以了\n"
+"可以吗？"
+msgstr ""
+
+msgctxt "1227"
+msgid "让她治疗"
+msgstr ""
+
+msgctxt "1228"
+msgid "还是算了"
+msgstr ""
+
+msgctxt "1229"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1230"
+msgid ""
+"请你乖乖的、\n"
+"千万不要乱动哦──。"
+msgstr ""
+
+msgctxt "1231"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1232"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1233"
+msgid ""
+"好啦，这样就可以了$20。\n"
+"亚特鲁先生、\n"
+"请不要乱来哦。"
+msgstr ""
+
+msgctxt "1234"
+msgid "治疗结束啦$20。已经不会再痛了吧？"
+msgstr ""
+
+msgctxt "1235"
+msgid "啊呀…你身上带的钱不够啊？"
+msgstr ""
+
+msgctxt "1236"
+msgid ""
+"嗯～～、那么\n"
+"我就不能帮你治疗罗。"
+msgstr ""
+
+msgctxt "1237"
+msgid ""
+"…呵呵、开玩笑的啦☆\n"
+"你以为我会放着\n"
+"受伤的人在眼前而不管吗？"
+msgstr ""
+
+msgctxt "1238"
+msgid ""
+"我们的药品，是除了高山以外无法生长的吉奇塔利斯草\n"
+"为原料炮制而成的$20。\n"
+"无论是什么样的伤口，都能够很快的治好哦。"
+msgstr ""
+
+msgctxt "1239"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1240"
+msgid ""
+"#09１０００>4Gold#05>4的话\n"
+"是稍微贵了一点、\n"
+"你意下如何？"
+msgstr ""
+
+msgctxt "1241"
+msgid "买了"
+msgstr ""
+
+msgctxt "1242"
+msgid "不买"
+msgstr ""
+
+msgctxt "1243"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1244"
+msgid ""
+"啊呀，亚特鲁先生$10。\n"
+"原来你身上已经有了啊？"
+msgstr ""
+
+msgctxt "1245"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1246"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1247"
+msgid ""
+"好的，请收下$20。\n"
+"请小心的使用哦。"
+msgstr ""
+
+msgctxt "1248"
+msgid ""
+"啊呀……\n"
+"你身上带的钱不够呢。"
+msgstr ""
+
+msgctxt "1249"
+msgid "请多保重。"
+msgstr ""
+
+msgctxt "1250"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1251"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1252"
+msgid "要怎么办？"
+msgstr ""
+
+msgctxt "1253"
+msgid "和老板交谈"
+msgstr ""
+
+msgctxt "1254"
+msgid "和肌肉男人交谈"
+msgstr ""
+
+msgctxt "1255"
+msgid "和独眼男人交谈"
+msgstr ""
+
+msgctxt "1256"
+msgid "离开这个地方"
+msgstr ""
+
+msgctxt "1257"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1258"
+msgid ""
+"这位先生，好像不是这个镇上的人吧$20。\n"
+"到底是从什么地方来的呢？"
+msgstr ""
+
+msgctxt "1259"
+msgid "──你说你是从巴尔巴多来的？"
+msgstr ""
+
+msgctxt "1260"
+msgid ""
+"原来如此，听说有一个超越结界而\n"
+"来的红色头发的小鬼，原来就是你啊！"
+msgstr ""
+
+msgctxt "1261"
+msgid ""
+"真是的，巴尔巴多的自警团那些人\n"
+"之前到米内亚来的时候\n"
+"就已经说过有关于你的事情了。"
+msgstr ""
+
+msgctxt "1262"
+msgid ""
+"真是不好意思，\n"
+"我用这种怀疑的语气向你问话。"
+msgstr ""
+
+msgctxt "1263"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1264"
+msgid ""
+"最近，不知道为什么\n"
+"盗贼好像很喜欢光顾这个镇上的样子$20。\n"
+"我还以为你也是。"
+msgstr ""
+
+msgctxt "1265"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1266"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1267"
+msgid ""
+"我听说了，莎拉有请你从神殿之中\n"
+"带回来一些东西。"
+msgstr ""
+
+msgctxt "1268"
+msgid ""
+"……我听说了莎拉的事情了$20。\n"
+"那些家伙还真是过份啊$20。\n"
+"到底有什么目的呢……。"
+msgstr ""
+
+msgctxt "1269"
+msgid ""
+"你好，亚特鲁$10。\n"
+"偶尔也到我的店里来休息一下嘛$20。\n"
+"如果是你的话可是十分欢迎哦。"
+msgstr ""
+
+msgctxt "1270"
+msgid ""
+"盗贼那些人，简直是为所欲为$20。\n"
+"有没有办法悬赏那些盗贼呢……。"
+msgstr ""
+
+msgctxt "1271"
+msgid "怎样，你能不能帮助我们呢？"
+msgstr ""
+
+msgctxt "1272"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1273"
+msgid "──是曾经见过的人吗？"
+msgstr ""
+
+msgctxt "1274"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1275"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1276"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1277"
+msgid ""
+"我是贾雷克$20。\n"
+"是为了狩猎盗贼而被雇用的人。"
+msgstr ""
+
+msgctxt "1278"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1279"
+msgid "要不要一起过来喝酒啊？"
+msgstr ""
+
+msgctxt "1280"
+msgid ""
+"一起喝酒\n"
+""
+msgstr ""
+
+msgctxt "1281"
+msgid "客气地婉拒"
+msgstr ""
+
+msgctxt "1282"
+msgid ""
+"在很久很久以前，这个国家有一个\n"
+"叫作“萝妲”的大树的样子。"
+msgstr ""
+
+msgctxt "1283"
+msgid ""
+"它的果实与种子，是所有食物都比不上的\n"
+"令人终生难忘的美味。"
+msgstr ""
+
+msgctxt "1284"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1285"
+msgid ""
+"在死之前就算只有一次也好\n"
+"真希望能够吃得到啊。"
+msgstr ""
+
+msgctxt "1286"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1287"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1288"
+msgid ""
+"在盗贼的骚动之后，就出了人命……$20。\n"
+"真是的，这是什么乱七八糟的世界啊。"
+msgstr ""
+
+msgctxt "1289"
+msgid ""
+"如果抢夺的犯人不是盗贼的话，\n"
+"那么犯人到底会是谁呢？"
+msgstr ""
+
+msgctxt "1290"
+msgid "是吗……。"
+msgstr ""
+
+msgctxt "1291"
+msgid ""
+"什么……$20！\n"
+"这就是萝妲之种子吗！？"
+msgstr ""
+
+msgctxt "1292"
+msgid ""
+"拜，拜托$20。\n"
+"就算是只有一小片也好……。"
+msgstr ""
+
+msgctxt "1293"
+msgid "──不，我想还是算了。"
+msgstr ""
+
+msgctxt "1294"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1295"
+msgid ""
+"没想到还是有点失控啊，\n"
+"还真是不够成熟有待磨练呢。"
+msgstr ""
+
+msgctxt "1296"
+msgid ""
+"只要知道“存在”就足够了$20。\n"
+"要享受的话等以后有时间再说吧。"
+msgstr ""
+
+msgctxt "1297"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1298"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1299"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1300"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1301"
+msgid "啊啊……我该怎么办才好呢。"
+msgstr ""
+
+msgctxt "1302"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1303"
+msgid ""
+"这位兄弟！　能不能听一听\n"
+"我的烦恼呢？"
+msgstr ""
+
+msgctxt "1304"
+msgid "请说"
+msgstr ""
+
+msgctxt "1305"
+msgid "不听"
+msgstr ""
+
+msgctxt "1306"
+msgid "我的名字是多尼斯。"
+msgstr ""
+
+msgctxt "1307"
+msgid ""
+"因为帮家母送东西，\n"
+"里面有一个贵重的蓝宝石戒指。\n"
+"可是现在却失去了。"
+msgstr ""
+
+msgctxt "1308"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1309"
+msgid ""
+"我已经再也回不去了啦……$20。\n"
+"可恶啊，会变成这样全部都是\n"
+"因为盗贼的关系啊。"
+msgstr ""
+
+msgctxt "1310"
+msgid ""
+"我已经再也回不去了啦……$20。\n"
+"可恶啊，会变成这样全部都是\n"
+"那些盗贼所干的好事啊。"
+msgstr ""
+
+msgctxt "1311"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1312"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1313"
+msgid ""
+"啊啊……\n"
+"我该怎么办才好呢。\n"
+"如果找不到戒指的话就没有办法回家了……。"
+msgstr ""
+
+msgctxt "1314"
+msgid ""
+"盗贼那些家伙，为什么连像我这种人\n"
+"身上的戒指都要抢走呢？"
+msgstr ""
+
+msgctxt "1315"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1316"
+msgid ""
+"……呃～嗝…你说啊亚特鲁$20。\n"
+"什么啊？　一脸严肃的样子$10。算啦，全都泡汤啦$10。\n"
+"呃～嗝。"
+msgstr ""
+
+msgctxt "1317"
+msgid ""
+"喂喂，多尼斯$10。你…是不是喝过头啦$10。\n"
+"我说亚特鲁啊$10。你有没有办法帮他一个忙呢？"
+msgstr ""
+
+msgctxt "1318"
+msgid ""
+"………$20。\n"
+"…呜呜～没有戒指的话…我就……。"
+msgstr ""
+
+msgctxt "1319"
+msgid ""
+"啊啊～$20。\n"
+"我应该怎么向家母说明才好呢。"
+msgstr ""
+
+msgctxt "1320"
+msgid ""
+"真是的，多尼斯这家伙还真是伤脑筋啊$20。\n"
+"亚特鲁先生，能不能帮他这个忙呢？"
+msgstr ""
+
+msgctxt "1321"
+msgid "真是没有意思的小兄弟啊……。"
+msgstr ""
+
+msgctxt "1322"
+msgid ""
+"在交易所有这样的戒指在卖$10？\n"
+"那么我去买回来不就好了！"
+msgstr ""
+
+msgctxt "1323"
+msgid ""
+"谢谢，谢谢…\n"
+"这样的话我就有脸回去见家母了。"
+msgstr ""
+
+msgctxt "1324"
+msgid "这些是我的一点点心意$20。请你务必要收下来！"
+msgstr ""
+
+msgctxt "1325"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1326"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1327"
+msgid ">4Gold#05>4得到了#09１５００。"
+msgstr ""
+
+msgctxt "1328"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1329"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1330"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1331"
+msgid ""
+"为了庆祝我找回戒指\n"
+"让我再请你喝一杯吧！"
+msgstr ""
+
+msgctxt "1332"
+msgid ""
+"喔喔，亚特鲁$10。\n"
+"这样我就可以把戒指交给家母了$20。\n"
+"谢谢你，都是托你的福啊。"
+msgstr ""
+
+msgctxt "1333"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1334"
+msgid ""
+"呜嗝～$20。\n"
+"好像喝太多了$10。觉得好不舒服啊$10……呜噗。"
+msgstr ""
+
+msgctxt "1335"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1336"
+msgid ""
+"什么～$10？　咦、\n"
+"头目，你在找我啊$10？\n"
+"……我想也差不多可以回去了吧。"
+msgstr ""
+
+msgctxt "1337"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1338"
+msgid "前面那位，请等一下！"
+msgstr ""
+
+msgctxt "1339"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1340"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1341"
+msgid ""
+"小孩子不可以一个人到外面的\n"
+"你的爸爸或妈妈应该有这样告诉过你吧？"
+msgstr ""
+
+msgctxt "1342"
+msgid "………。"
+msgstr ""
+
+msgctxt "1343"
+msgid "……啊呀？"
+msgstr ""
+
+msgctxt "1344"
+msgid "这、这真是非常对不起。"
+msgstr ""
+
+msgctxt "1345"
+msgid ""
+"以你的年纪、\n"
+"还把你当小孩子看待的话实在是太失礼了。"
+msgstr ""
+
+msgctxt "1346"
+msgid "没看过的生面孔，是从巴尔巴多来的吧？"
+msgstr ""
+
+msgctxt "1347"
+msgid ""
+"在这前面有魔物出现哦$20。\n"
+"别太勉强，还是先到米内亚会比较好吧。"
+msgstr ""
+
+msgctxt "1348"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1349"
+msgid ""
+"我的哥哥，\n"
+"因为在矿山工作的关系\n"
+"被从洞穴深处冒出来的怪物攻击\n"
+"受到了重伤。"
+msgstr ""
+
+msgctxt "1350"
+msgid ""
+"虽然我们都很想努力应战，\n"
+"但是却完全派不上用场的样子。"
+msgstr ""
+
+msgctxt "1351"
+msgid ""
+"如果还想要命的话，\n"
+"就不要再去管那些怪物的事啦。"
+msgstr ""
+
+msgctxt "1352"
+msgid "我的哥哥，他可是镇上最有力气的人哦……。"
+msgstr ""
+
+msgctxt "1353"
+msgid "我曾经和蕾雅姊姊一起玩。"
+msgstr ""
+
+msgctxt "1354"
+msgid ""
+"蕾雅姊姊，\n"
+"她可是个超级女强人哦。\n"
+"可是她是个大人，\n"
+"真希望她能够手下留情一点。"
+msgstr ""
+
+msgctxt "1355"
+msgid "我曾经和蕾雅姊姊一起玩。"
+msgstr ""
+
+msgctxt "1356"
+msgid ""
+"蕾雅姐姐，\n"
+"就如同外表看起来一样柔弱。\n"
+"不过我的哥哥就不是这个样子了，\n"
+"看起来就是一付伟大的样子。"
+msgstr ""
+
+msgctxt "1357"
+msgid "我曾经和蕾雅姊姊一起玩。"
+msgstr ""
+
+msgctxt "1358"
+msgid ""
+"蕾雅姊姊，\n"
+"她玩起猜拳来是最强的了。\n"
+"可是她是个大人，\n"
+"真希望她能够手下留情一点。"
+msgstr ""
+
+msgctxt "1359"
+msgid "我曾经和蕾雅姊姊一起玩。"
+msgstr ""
+
+msgctxt "1360"
+msgid ""
+"蕾雅姊姊，\n"
+"她玩起猜拳来是最弱的了。\n"
+"不过我的哥哥就不是这个样子了、\n"
+"看起来就是一付伟大的样子。"
+msgstr ""
+
+msgctxt "1361"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1362"
+msgid ""
+"在怪物们到处游荡之前，\n"
+"在原野的那棵大树底下\n"
+"就是我们游戏的场所……。"
+msgstr ""
+
+msgctxt "1363"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1364"
+msgid ""
+"连大人他们都没有办法离开这个镇上\n"
+"所以最近都没有再去过了。"
+msgstr ""
+
+msgctxt "1365"
+msgid ""
+"那棵树…，我好想在那棵树下玩一次、\n"
+"别的树我都不想要啊。"
+msgstr ""
+
+msgctxt "1366"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1367"
+msgid ""
+"我的爷爷他对于有关\n"
+"艾斯塔里亚的一些事情\n"
+"知道得相当清楚。"
+msgstr ""
+
+msgctxt "1368"
+msgid ""
+"我最喜欢的，就是在很久以前\n"
+"把魔物军团一举歼灭的那把\n"
+"“银色之剑”的故事。"
+msgstr ""
+
+msgctxt "1369"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1370"
+msgid ""
+"爷爷他曾经说过，\n"
+"银色之剑在这个国家的某个地方\n"
+"一直持续着长眠。"
+msgstr ""
+
+msgctxt "1371"
+msgid ""
+"有了那个的话\n"
+"魔物什么的根本就不堪一击$20。\n"
+"如果真是这样的话就好了。"
+msgstr ""
+
+msgctxt "1372"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1373"
+msgid ""
+"爷爷他曾经说过、\n"
+"银色之剑在这个国家的某个地方\n"
+"一直持续着长眠。"
+msgstr ""
+
+msgctxt "1374"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1375"
+msgid ""
+"有了那个的话\n"
+"魔物什么的根本就不堪一击$20。\n"
+"如果真是这样的话就好了。"
+msgstr ""
+
+msgctxt "1376"
+msgid "咦！　这个，难道说这把剑…$20？"
+msgstr ""
+
+msgctxt "1377"
+msgid ""
+"……好厉害啊<1──$20。\n"
+"那么，如果是这位哥哥、\n"
+"是不是就要去把魔物们打垮呢？"
+msgstr ""
+
+msgctxt "1378"
+msgid "魔物什么的，要把它们打垮哦！"
+msgstr ""
+
+msgctxt "1379"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1380"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1381"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1382"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1383"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1384"
+msgid "这位哥哥，难道说你是一位剑士吗？"
+msgstr ""
+
+msgctxt "1385"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1386"
+msgid ""
+"那个…、有一位占卜师姊姊正在\n"
+"到处寻找着剑士呢！"
+msgstr ""
+
+msgctxt "1387"
+msgid "我们去看看吧！"
+msgstr ""
+
+msgctxt "1388"
+msgid ""
+"去看看好不好$20？\n"
+"……我们去看看嘛！"
+msgstr ""
+
+msgctxt "1389"
+msgid ""
+"呼呼，占卜的姊姊她\n"
+"可是一位大美人哦。"
+msgstr ""
+
+msgctxt "1390"
+msgid ""
+"莎拉姊姊到底跑到什么\n"
+"地方去玩了呢，怎么连\n"
+"一个人都没有啊……。"
+msgstr ""
+
+msgctxt "1391"
+msgid ""
+"莎拉姊姊到底\n"
+"跑到哪里去了嘛……？"
+msgstr ""
+
+msgctxt "1392"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1393"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1394"
+msgid ""
+"最近，经常会看到有穿着黑色\n"
+"斗蓬的人到处跑来跑去$20。\n"
+"那件斗蓬的表面会发出一阵\n"
+"蓝色的光芒。"
+msgstr ""
+
+msgctxt "1395"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1396"
+msgid ""
+"也许是我看错了也说不定，\n"
+"不过总觉得那家伙让人感到不舒服……。"
+msgstr ""
+
+msgctxt "1397"
+msgid "真是让人不舒服的家伙呢……。"
+msgstr ""
+
+msgctxt "1398"
+msgid ""
+"这一阵子，本来在附近跑来跑去的\n"
+"那个穿黑斗蓬的男人已经看不到了$20。\n"
+"该不会是他把莎拉给杀害的吧。"
+msgstr ""
+
+msgctxt "1399"
+msgid ""
+"可恶啊$10！\n"
+"怎么会有一种讨厌的预感呢……。"
+msgstr ""
+
+msgctxt "1400"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1401"
+msgid ""
+"最近，占卜师姊姊的样子\n"
+"变得好奇怪呢。"
+msgstr ""
+
+msgctxt "1402"
+msgid ""
+"“世界即将灭亡”什么的、\n"
+"经常会说出一些莫名其妙的话来……。"
+msgstr ""
+
+msgctxt "1403"
+msgid ""
+"到底在这个艾斯塔里亚\n"
+"会发生什么样的事情呢。"
+msgstr ""
+
+msgctxt "1404"
+msgid ""
+"虽然魔物的数量有所增加，但是\n"
+"这里是米内亚里面\n"
+"不是应该比较安全的吗！"
+msgstr ""
+
+msgctxt "1405"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1406"
+msgid ""
+"交易所的主人刚才\n"
+"在路上捡起一个戒指$20。\n"
+"接下来就走到店里\n"
+"然后就把戒指放到架子上去了。"
+msgstr ""
+
+msgctxt "1407"
+msgid ""
+"把捡到的东西拿来当作商品出卖、\n"
+"还真是个厚脸皮的家伙呢。"
+msgstr ""
+
+msgctxt "1408"
+msgid ""
+"真是的，像我就没那么走运\n"
+"可以捡到东西呢。"
+msgstr ""
+
+msgctxt "1409"
+msgid ""
+"如果考虑到要还给失物的主人…$20…\n"
+"我想不会吧。"
+msgstr ""
+
+msgctxt "1410"
+msgid ""
+"虽然我是想在交易所把宝石给卖了、\n"
+"但是完全没有办法和他们讨价还价、\n"
+"结果还是没有办法卖出去。"
+msgstr ""
+
+msgctxt "1411"
+msgid ""
+"如果再逼得紧一点的话、\n"
+"我想应该会有点用吧……。"
+msgstr ""
+
+msgctxt "1412"
+msgid ""
+"什么～～$20！\n"
+"你说那个家伙答应了你的杀价？"
+msgstr ""
+
+msgctxt "1413"
+msgid "你还真是不死心啊，像我就没有办法这样了。"
+msgstr ""
+
+msgctxt "1414"
+msgid ""
+"没想到你真的让那家伙屈服了……\n"
+"像我就没有办法这样了。"
+msgstr ""
+
+msgctxt "1415"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1416"
+msgid ""
+"如果像是今天一样的好天气\n"
+"就可以从城壁上面\n"
+"直接看得到达姆之塔。"
+msgstr ""
+
+msgctxt "1417"
+msgid ""
+"从塞皮克村沿着山道沿一路\n"
+"爬上去的话，旁边那里就是\n"
+"盗贼的大本营的样子。我想\n"
+"还是不要接近比较好哦。"
+msgstr ""
+
+msgctxt "1418"
+msgid "不管盗贼做些什么，都和我们无关。"
+msgstr ""
+
+msgctxt "1419"
+msgid "如果触摸的话神会降罪的哦。"
+msgstr ""
+
+msgctxt "1420"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1421"
+msgid ""
+"在北边山道所通往的方向\n"
+"那里有被称为“巴丘·巴迪多”\n"
+"像是钵状的巨大洞穴。"
+msgstr ""
+
+msgctxt "1422"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1423"
+msgid ""
+"最近，在镇上引起骚动的盗贼们\n"
+"好像是从那里来的。"
+msgstr ""
+
+msgctxt "1424"
+msgid ""
+"城壁可以防止魔物进入，\n"
+"好像连盗贼也没有办法通过的样子呢。"
+msgstr ""
+
+msgctxt "1425"
+msgid "她正在吹奏着银之口琴。"
+msgstr ""
+
+msgctxt "1426"
+msgid ""
+"这也是盗贼干的吧。\n"
+"就这么决定了。"
+msgstr ""
+
+msgctxt "1427"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1428"
+msgid ""
+"自从银矿山被封锁起来之后，\n"
+"物价指数的跳升也是没有办法的事啊$20。\n"
+"真是的，全都是一些讨厌的事。\n"
+""
+msgstr ""
+
+msgctxt "1429"
+msgid ""
+"可是就算是取得银矿\n"
+"但是因为有岚之结界\n"
+"也没有办法作进出口生意啊。"
+msgstr ""
+
+msgctxt "1430"
+msgid ""
+"虽然是想要很多很多东西，\n"
+"可是能够有一些基本的就够了。"
+msgstr ""
+
+msgctxt "1431"
+msgid "啊～啊，真是希望赶快恢复景气啊。"
+msgstr ""
+
+msgctxt "1432"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1433"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1434"
+msgid ""
+"你看到了那个独眼的男人吗$10？\n"
+"那个人叫做多尼斯……。"
+msgstr ""
+
+msgctxt "1435"
+msgid ""
+"啊嗯…可恶啊，\n"
+"不愿意想起的脸孔又浮现脑中啦\n"
+"没有心情工作了，翘班要去哪里好呢。"
+msgstr ""
+
+msgctxt "1436"
+msgid ""
+"多尼斯那混蛋，\n"
+"又跑到哪里去了啊！"
+msgstr ""
+
+msgctxt "1437"
+msgid ""
+"又不是要送老婆戒指，\n"
+"眼睛睁那么大干嘛！"
+msgstr ""
+
+msgctxt "1438"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1439"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1440"
+msgid ""
+"前面的人赶快让一让啊$10！\n"
+"有受伤的人要出去。"
+msgstr ""
+
+msgctxt "1441"
+msgid ""
+"我吗$10？\n"
+"我是医生名叫克拉杰。"
+msgstr ""
+
+msgctxt "1442"
+msgid ""
+"喂！不要来烦我好不好，\n"
+"我现在真的是忙得要死了呢。"
+msgstr ""
+
+msgctxt "1443"
+msgid ""
+"喂喂、\n"
+"如果要我帮你诊断受伤的地方的话，\n"
+"就请你马上离开这里！"
+msgstr ""
+
+msgctxt "1444"
+msgid ""
+"如果不快点赶去就来不及了$10！\n"
+"那么我就先失陪了。"
+msgstr ""
+
+msgctxt "1445"
+msgid ""
+"那边的人让开一下好不好$10！\n"
+"我现在要过去看病了啦。"
+msgstr ""
+
+msgctxt "1446"
+msgid ""
+"我吗$10？\n"
+"我是医生名叫克拉杰。"
+msgstr ""
+
+msgctxt "1447"
+msgid ""
+"那边的人让一让好不好$10！\n"
+"我来做诊疗了啊。"
+msgstr ""
+
+msgctxt "1448"
+msgid ""
+"我吗$10？\n"
+"我是医生名叫克拉杰。"
+msgstr ""
+
+msgctxt "1449"
+msgid ""
+"现在正在看诊中$20。\n"
+"能不能请你先安静一点！\n"
+""
+msgstr ""
+
+msgctxt "1450"
+msgid ""
+"我已经去过了莎拉的店了…$20。\n"
+"那个年轻人……什么都没有完成嘛。"
+msgstr ""
+
+msgctxt "1451"
+msgid ""
+"──我会尽所有力量的，\n"
+"你大可以放心。"
+msgstr ""
+
+msgctxt "1452"
+msgid ""
+"没错，简直就像是把自己所有的\n"
+"一切都作个了结似的……。"
+msgstr ""
+
+msgctxt "1453"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1454"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1455"
+msgid ""
+"自从魔物出现之后\n"
+"就有许多人从巴尔巴多或拉斯汀村\n"
+"移民到这里定居了。"
+msgstr ""
+
+msgctxt "1456"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1457"
+msgid ""
+"可是虽然这里有坚固的城壁\n"
+"照这样一直\n"
+"关闭着封锁起来也不是个办法$20。\n"
+"有没有什么方法能够把魔物一扫而光呢……。"
+msgstr ""
+
+msgctxt "1458"
+msgid ""
+"像这样一直关闭着封锁起来也不是个办法$20。\n"
+"有没有什么方法能够把魔物一扫而光呢……。"
+msgstr ""
+
+msgctxt "1459"
+msgid ""
+"就占卜师被杀害这件事情来说，\n"
+"有关于犯人的线索\n"
+"还是完全没有头绪。"
+msgstr ""
+
+msgctxt "1460"
+msgid ""
+"也就是说，就算是有城壁保护着\n"
+"也不见得能够完全的安心……。"
+msgstr ""
+
+msgctxt "1461"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1462"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1463"
+msgid ""
+"米内亚的历史是很长久的哦$20。\n"
+"这些城壁建筑起来的时间，\n"
+"听说已经是很久很久以前的事情了。"
+msgstr ""
+
+msgctxt "1464"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1465"
+msgid ""
+"竟然能够用整块石头制造出\n"
+"这么巨大的城壁，这种技术\n"
+"本身就是非常不可思议的事情呢。"
+msgstr ""
+
+msgctxt "1466"
+msgid ""
+"像这么巨大的城壁，\n"
+"到底是怎样才能制造出来的呢。"
+msgstr ""
+
+msgctxt "1467"
+msgid ""
+"自从发生占卜师的事件以来\n"
+"镇上的人们，\n"
+"心中都潜藏着一股不安。"
+msgstr ""
+
+msgctxt "1468"
+msgid ""
+"这也是没有办法的事情$20。\n"
+"就算是再坚固的城壁，也是没有办法防止\n"
+"从内部发生的灾难啊……。"
+msgstr ""
+
+msgctxt "1469"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1470"
+msgid ""
+"我的母亲\n"
+"在巴尔巴多一个人独居着。"
+msgstr ""
+
+msgctxt "1471"
+msgid ""
+"那里没有城壁所以更加的危险\n"
+"我好几次都说想接她过来一起住，\n"
+"但是她无论如何都听不进去……。"
+msgstr ""
+
+msgctxt "1472"
+msgid ""
+"我知道她所说的不想离开已经住惯了的\n"
+"家的心情，不过如果要付出生命作为代\n"
+"价的话不是更不值得吗？"
+msgstr ""
+
+msgctxt "1473"
+msgid "啊啊，真伤脑筋……怎么会这样啊。"
+msgstr ""
+
+msgctxt "1474"
+msgid ""
+"自从魔物出现以来\n"
+"小孩子们全部都被\n"
+"禁止出门了──"
+msgstr ""
+
+msgctxt "1475"
+msgid ""
+"像这样只能在城壁里面的地方\n"
+"好像已经玩腻的样子$20。\n"
+"虽然是勉强了点，不过我们也\n"
+"是不得已的啊……。"
+msgstr ""
+
+msgctxt "1476"
+msgid ""
+"城壁外侧的小道非常狭窄\n"
+"所以走路的时候很辛苦$20。\n"
+"在结界产生之前，采掘出来的银矿\n"
+"要运到巴尔巴多好像也是很辛苦的样子。"
+msgstr ""
+
+msgctxt "1477"
+msgid ""
+"本来想在南边开一个门，\n"
+"好像会破坏城壁整体强度的样子$20。\n"
+"现在有魔物出现之后，\n"
+"反倒是帮了我们一个大忙呢。"
+msgstr ""
+
+msgctxt "1478"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1479"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1480"
+msgid ""
+"这个镇上来了一位名叫克拉杰的\n"
+"名医$20。\n"
+"使用了医生所调制的药，\n"
+"伤口一下子就全部都治好了。"
+msgstr ""
+
+msgctxt "1481"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1482"
+msgid ""
+"如果有急诊病人的话，\n"
+"他就会马上赶着过来$20。\n"
+"真的是非常仁慈的人啊。"
+msgstr ""
+
+msgctxt "1483"
+msgid ""
+"更何况，无论在什么地方他都会立刻赶过去、\n"
+"在病院里面的时间反而变少了。"
+msgstr ""
+
+msgctxt "1484"
+msgid ""
+"像今天克拉杰医生说过要来\n"
+"作诊查$20。\n"
+"就会想办法立刻赶过来。\n"
+"真的是非常仁慈的人啊。"
+msgstr ""
+
+msgctxt "1485"
+msgid ""
+"只要用了医生所调制的药、\n"
+"伤口一下子就全部都治好了。"
+msgstr ""
+
+msgctxt "1486"
+msgid ""
+"只要有这位医生在的话就可以\n"
+"安心的过日子了。"
+msgstr ""
+
+msgctxt "1487"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1488"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1489"
+msgid ""
+"发生了可怕的事情$20。\n"
+"情形就有点改变了，\n"
+"就是那个性情温和的小女孩……。"
+msgstr ""
+
+msgctxt "1490"
+msgid ""
+"这么说起来……那个小女孩\n"
+"听说在某个地方还有亲戚的样子。"
+msgstr ""
+
+msgctxt "1491"
+msgid ""
+"不过到底是住在什么地方……\n"
+"很可惜的完全不知道、\n"
+"也没有办法去通知……。"
+msgstr ""
+
+msgctxt "1492"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1493"
+msgid ""
+"我想无论如何都应该通知一下\n"
+"那个小女孩的亲戚才对，\n"
+"对了，就由你去通知好了……。"
+msgstr ""
+
+msgctxt "1494"
+msgid "对了，就由你去通知好了……。"
+msgstr ""
+
+msgctxt "1495"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1496"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1497"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1498"
+msgid ""
+"我想矿山那里还是绝对不要过去比较好$10。\n"
+"因为在那里出现的魔物都是很强的$10。\n"
+"不过我也知道它们的弱点就是了。"
+msgstr ""
+
+msgctxt "1499"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1500"
+msgid ""
+"幸好，在矿山出现的魔物们\n"
+"好像从来都不会离开到外面来的样子$20。\n"
+"听说是因为不喜欢太阳光。"
+msgstr ""
+
+msgctxt "1501"
+msgid ""
+"不过，反正你也不会去那里\n"
+"那么就当它们不存在好啦。"
+msgstr ""
+
+msgctxt "1502"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1503"
+msgid ""
+"在矿山里面可是非常暗的，而且又有大量复杂的地道$20。\n"
+"这是当初为了取得银矿而日积月累挖掘的结果。"
+msgstr ""
+
+msgctxt "1504"
+msgid ""
+"就算是对里面已经很熟悉的人\n"
+"一不小心也会迷路出不来的可怕迷宫…$20…\n"
+"所以现在就变成魔物的巢穴了。"
+msgstr ""
+
+msgctxt "1505"
+msgid ""
+"在里面的视野非常有限，\n"
+"所以一不小心就会被不知哪里冒出来的魔物袭击。"
+msgstr ""
+
+msgctxt "1506"
+msgid ""
+"如果真的非去不可的话，\n"
+"就必须具有相当的实力以及觉悟。"
+msgstr ""
+
+msgctxt "1507"
+msgid ""
+"像那么可怕的魔物\n"
+"都在矿山深处的地方才会出现……。"
+msgstr ""
+
+msgctxt "1508"
+msgid "好厉害。"
+msgstr ""
+
+msgctxt "1509"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1510"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1511"
+msgid ""
+"我的父亲，就是在最东边的塞皮克村\n"
+"里面的村长。"
+msgstr ""
+
+msgctxt "1512"
+msgid ""
+"最近，好像是因为什么麻烦事情\n"
+"而深深烦恼的样子。"
+msgstr ""
+
+msgctxt "1513"
+msgid ""
+"如果之前有见过的话\n"
+"就是说“好好和村民们交谈”\n"
+"这句话的人吧……。"
+msgstr ""
+
+msgctxt "1514"
+msgid ""
+"拜托你$20。\n"
+"如果到了塞皮克村的话\n"
+"能不能请你去拜访一下我的父亲？"
+msgstr ""
+
+msgctxt "1515"
+msgid "唉～，到底怎么了嘛……。"
+msgstr ""
+
+msgctxt "1516"
+msgid ""
+"拜托你$20。\n"
+"如果到了塞皮克村的话\n"
+"能不能请你去探望一下我的父亲？"
+msgstr ""
+
+msgctxt "1517"
+msgid ""
+"我已经听在塞皮克村的父亲说过了$20。\n"
+"说是要请你把银之铃\n"
+"给取回来。"
+msgstr ""
+
+msgctxt "1518"
+msgid ""
+"我也要向你道谢才对$20。\n"
+"真的是非常感谢你。"
+msgstr ""
+
+msgctxt "1519"
+msgid ""
+"我们以前住在拉斯汀村，\n"
+"直到村子被魔物们消灭之前……。"
+msgstr ""
+
+msgctxt "1520"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1521"
+msgid ""
+"在傍晚的时候会从废矿坑出来的\n"
+"可不是普通的蝙蝠，\n"
+"可怕的狰狞凶猛，而且会袭击人和家畜。"
+msgstr ""
+
+msgctxt "1522"
+msgid ""
+"特别是喜欢攻击小孩子们，\n"
+"已经有好几个人牺牲了……。"
+msgstr ""
+
+msgctxt "1523"
+msgid ""
+"如果能够打倒那些蝙蝠的首领的话，\n"
+"死去的人们也应该可以瞑目了吧……。"
+msgstr ""
+
+msgctxt "1524"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1525"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1526"
+msgid ""
+"我讨厌到外面去玩，\n"
+"可是……。"
+msgstr ""
+
+msgctxt "1527"
+msgid ""
+"就是不要$20！\n"
+"………。"
+msgstr ""
+
+msgctxt "1528"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1529"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1530"
+msgid ""
+"如果再也演奏不出那美丽的音乐的话，\n"
+"实在是十分可惜啊。"
+msgstr ""
+
+msgctxt "1531"
+msgid ""
+"我也在此祈祷着，\n"
+"希望能够找回那银之口琴。"
+msgstr ""
+
+msgctxt "1532"
+msgid ""
+"如果发现了口琴在什么地方的线索，\n"
+"我想我一定会告诉你的啦。"
+msgstr ""
+
+msgctxt "1533"
+msgid ""
+"我想起来了，以前当我听到那首\n"
+"曲子时候的回忆，\n"
+"真希望能够再度听到啊。"
+msgstr ""
+
+msgctxt "1534"
+msgid ""
+"如果能够找回那个口琴的话\n"
+"就太好了。"
+msgstr ""
+
+msgctxt "1535"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1536"
+msgid ""
+"我本来是在拉斯汀废矿坑里面工作的$20。\n"
+"但是在半年前，从坑道的深处突然有\n"
+"怪物像涌泉一样的不断地冒了出来！"
+msgstr ""
+
+msgctxt "1537"
+msgid ""
+"因为它们的关系害得矿山被封闭$20。\n"
+"你以为我有可能咽得下这口气吗！"
+msgstr ""
+
+msgctxt "1538"
+msgid "畜牲～，我要把那些混蛋魔物全部都给杀掉～～！"
+msgstr ""
+
+msgctxt "1539"
+msgid ""
+"…虽然想这么说，但是像那种视线不清的\n"
+"地方会报仇不成反而被杀的。"
+msgstr ""
+
+msgctxt "1540"
+msgid ""
+"狗屎～～～～$10！\n"
+"也只能硬是吞下这口气啦。"
+msgstr ""
+
+msgctxt "1541"
+msgid ""
+"什么$10！　你要去矿山的深处$10？\n"
+"……那么那些魔物…？"
+msgstr ""
+
+msgctxt "1542"
+msgid "……开始蠢动起来了啊、原来这样啊～"
+msgstr ""
+
+msgctxt "1543"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1544"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1545"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1546"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1547"
+msgid ""
+"你知道在城壁的角落吹奏着口琴的那位\n"
+"女吟游诗人吗？"
+msgstr ""
+
+msgctxt "1548"
+msgid ""
+"不仅本人是位美女，而且吹奏的曲子\n"
+"也是非常的美丽。"
+msgstr ""
+
+msgctxt "1549"
+msgid ""
+"可是，这里暂时听不到\n"
+"那清澈的音色了……。"
+msgstr ""
+
+msgctxt "1550"
+msgid ""
+"看着那样的美女不但可以保养眼睛，\n"
+"而且那样的音色听起来也非常舒服。"
+msgstr ""
+
+msgctxt "1551"
+msgid ""
+"我看过那位吟游诗人站在城壁上面$20。\n"
+"一脸悲伤的表情\n"
+"眺望着山的那一边……。"
+msgstr ""
+
+msgctxt "1552"
+msgid ""
+"虽然我很想上前和她说话\n"
+"但是那种气氛让我无法靠近。"
+msgstr ""
+
+msgctxt "1553"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1554"
+msgid ""
+"我发现了好男人啦$10！\n"
+"虽然是穿着一身黑色斗蓬\n"
+"但是还是很英俊──"
+msgstr ""
+
+msgctxt "1555"
+msgid ""
+"可是他的眼神看起来好可怕\n"
+"我实在不敢开口跟他说话……。"
+msgstr ""
+
+msgctxt "1556"
+msgid ""
+"嗯～～$10，\n"
+"你看起来也相当不错嘛、\n"
+"只是年纪比我小了一点……。"
+msgstr ""
+
+msgctxt "1557"
+msgid ""
+"隔壁的人…$10…\n"
+"真是可怜啊……。"
+msgstr ""
+
+msgctxt "1558"
+msgid ""
+"在之前看过那穿黑色斗蓬的男人\n"
+"看起来虽然也不错，\n"
+"但是你好像比他更好的样子呢。"
+msgstr ""
+
+msgctxt "1559"
+msgid "可是…$10，年纪比我小这一点……。"
+msgstr ""
+
+msgctxt "1560"
+msgid ""
+"啊呀，没想到才一会儿没见、\n"
+"体格好像变的更魁梧了呢。"
+msgstr ""
+
+msgctxt "1561"
+msgid "……真是，把我当成男人太失礼了。"
+msgstr ""
+
+msgctxt "1562"
+msgid ""
+"虽然我不知道你是为了谁这么的拼命，\n"
+"不过实在是太帅了。"
+msgstr ""
+
+msgctxt "1563"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1564"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1565"
+msgid ""
+"嗨，这不是亚特鲁吗$10！\n"
+"你不记得了吗，\n"
+"在巴尔巴多的仓库我们见过吧？"
+msgstr ""
+
+msgctxt "1566"
+msgid ""
+"我可不是跑到这里来玩的哦$20，\n"
+"是为了自警团的工作而来的。"
+msgstr ""
+
+msgctxt "1567"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1568"
+msgid ""
+"这么说起来，斯拉夫他\n"
+"很担心你的状况哦。"
+msgstr ""
+
+msgctxt "1569"
+msgid ""
+"如果你能回去露个脸的话$20。\n"
+"他也会比较放心吧。"
+msgstr ""
+
+msgctxt "1570"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1571"
+msgid ""
+"嗨，这不是亚特鲁吗$10！\n"
+"你不记得了吗，\n"
+"在巴尔巴多的仓库我们见过吧？"
+msgstr ""
+
+msgctxt "1572"
+msgid ""
+"我可不是跑到这里来玩的哦$20，\n"
+"是为了自警团的工作而来的。"
+msgstr ""
+
+msgctxt "1573"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1574"
+msgid ""
+"什么啊，连这里也发生了不得了的\n"
+"事情啊……。"
+msgstr ""
+
+msgctxt "1575"
+msgid ""
+"虽然有城壁在保护着、但是还发生这种事情$20。\n"
+"所以我们更不可以有任何疏忽。"
+msgstr ""
+
+msgctxt "1576"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1577"
+msgid "嗯咕、嗯咕、嗯咕（牛饮声）……。"
+msgstr ""
+
+msgctxt "1578"
+msgid "噗哈啊～～～～っ！"
+msgstr ""
+
+msgctxt "1579"
+msgid "呼～～，五脏六腑都活了起来啦。"
+msgstr ""
+
+msgctxt "1580"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1581"
+msgid ""
+"哟，小兄弟$20。\n"
+"你要不要也来一杯啊？"
+msgstr ""
+
+msgctxt "1582"
+msgid ""
+"未成年$10？  １７岁……真年轻啊$20。\n"
+"我在１７岁的时候在干什么呢$10？\n"
+"人类的年纪还真是突然就增加了啊。"
+msgstr ""
+
+msgctxt "1583"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1584"
+msgid "你要去占卜店看看吗？"
+msgstr ""
+
+msgctxt "1585"
+msgid ""
+"那里的女性虽然年轻，但是占卜的功力却很高强$20。\n"
+"如果你对于前途有所疑惑的话\n"
+"去找她商量就绝对不会错的。"
+msgstr ""
+
+msgctxt "1586"
+msgid ""
+"被莎拉所信赖而委托了某项工作的剑士\n"
+"原来就是你啊。"
+msgstr ""
+
+msgctxt "1587"
+msgid "请务必不要让她的期待落空了哦。"
+msgstr ""
+
+msgctxt "1588"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1589"
+msgid "我的工作，就是在艾斯塔里亚的名胜当导游。"
+msgstr ""
+
+msgctxt "1590"
+msgid "因为岚之结界与魔物的关系，现在正在失业中。"
+msgstr ""
+
+msgctxt "1591"
+msgid ""
+"……这么说来，在结界发生之前\n"
+"曾经带过一位奇怪的爷爷到山中的遗迹去过。"
+msgstr ""
+
+msgctxt "1592"
+msgid ""
+"看起来像是学者的样子，\n"
+"说是要到达姆之塔去作研究$20。\n"
+"如果平安无事的话就好了……。"
+msgstr ""
+
+msgctxt "1593"
+msgid "已经过了这么久，那位爷爷不知道是否平安？"
+msgstr ""
+
+msgctxt "1594"
+msgid ""
+"达姆之塔、白号角沙滩$20。\n"
+"萨尔门神殿、巴丘·巴迪多。"
+msgstr ""
+
+msgctxt "1595"
+msgid ""
+"因为在这个岛上当导游，\n"
+"所以没有我不熟悉的地方。"
+msgstr ""
+
+msgctxt "1596"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1597"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1598"
+msgid ""
+"你问我是在什么地方受伤的$10？\n"
+"我在家里就突然被什么人给偷袭啦！"
+msgstr ""
+
+msgctxt "1599"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1600"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1601"
+msgid ""
+"因为是从被后打过来的，\n"
+"所以也没有看到他的脸，\n"
+"不过我想绝对是传说的盗贼！"
+msgstr ""
+
+msgctxt "1602"
+msgid ""
+"也因为如此，古老的家传宝物\n"
+"银色之盾也被抢走了……。"
+msgstr ""
+
+msgctxt "1603"
+msgid ""
+"不过，从很久以前就丢在\n"
+"仓库角落的地上，\n"
+"没想到是那么贵重的东西呢……。"
+msgstr ""
+
+msgctxt "1604"
+msgid ""
+"魔物加盗贼…$10…\n"
+"还真是乱七八糟啊。"
+msgstr ""
+
+msgctxt "1605"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1606"
+msgid "那个盾牌，是从我家被抢走的东西啊……。"
+msgstr ""
+
+msgctxt "1607"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1608"
+msgid ""
+"……什么，\n"
+"你说被收藏在神殿的地底下$10！\n"
+"还真是个不可思议的事情啊……。"
+msgstr ""
+
+msgctxt "1609"
+msgid "………。"
+msgstr ""
+
+msgctxt "1610"
+msgid ""
+"年轻人啊，如果可以的话就请你\n"
+"善加利用这面盾牌好吗？"
+msgstr ""
+
+msgctxt "1611"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1612"
+msgid ""
+"我想，如果交给你使用的话\n"
+"会比在我家一直传承下去要\n"
+"好得多吧……。"
+msgstr ""
+
+msgctxt "1613"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1614"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1615"
+msgid ""
+"这面盾牌，与其放在仓库里面，\n"
+"还不如在你的手中使用起来\n"
+"要更加适合吧。"
+msgstr ""
+
+msgctxt "1616"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1617"
+msgid "唔$20，看起来很适合你嘛。"
+msgstr ""
+
+msgctxt "1618"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1619"
+msgid ""
+"在草原出现的赤魔狼的动作\n"
+"很快，所以要特别小心。"
+msgstr ""
+
+msgctxt "1620"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1621"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1622"
+msgid "我也被它们包围过，幸好逃了出来。"
+msgstr ""
+
+msgctxt "1623"
+msgid ""
+"尽管如此…$10…我一直逃到草原\n"
+"那棵大树附近，才终于把紧追不放\n"
+"的赤魔狼给甩掉了。"
+msgstr ""
+
+msgctxt "1624"
+msgid ""
+"托那棵树的福即使我受那么重的伤也逃掉了\n"
+"不过……，到底是什么原因呢……？"
+msgstr ""
+
+msgctxt "1625"
+msgid "算了，反正我这条命能够捡回来就谢天谢地啦。"
+msgstr ""
+
+msgctxt "1626"
+msgid "（梦话咬牙）……。"
+msgstr ""
+
+msgctxt "1627"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1628"
+msgid "………。"
+msgstr ""
+
+msgctxt "1629"
+msgid "嘿嘿嘿，这下不妙了……。"
+msgstr ""
+
+msgctxt "1630"
+msgid "………。"
+msgstr ""
+
+msgctxt "1631"
+msgid "呼，呼……。"
+msgstr ""
+
+msgctxt "1632"
+msgid "嗯～，嗯～……。"
+msgstr ""
+
+msgctxt "1633"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1634"
+msgid "救命啊……有狼，是赤魔狼……。"
+msgstr ""
+
+msgctxt "1635"
+msgid "………。"
+msgstr ""
+
+msgctxt "1636"
+msgid "呼呼～～……。"
+msgstr ""
+
+msgctxt "1637"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1638"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1639"
+msgid "……是谁？"
+msgstr ""
+
+msgctxt "1640"
+msgid ""
+"\n"
+"　　　　　　　　 亚特鲁把自己的名字以及曾经\n"
+"　　　　　　　　 拜访过神殿的事情说了出来。"
+msgstr ""
+
+msgctxt "1641"
+msgid ""
+"我的名字是菲娜，\n"
+"从很久很久以前就被关在这个地方了。"
+msgstr ""
+
+msgctxt "1642"
+msgid ""
+"把我关在这个地方的人\n"
+"是个穿着黑色斗蓬的男人……。"
+msgstr ""
+
+msgctxt "1643"
+msgid "他能够控制魔物的行动，是个非常可怕的人。"
+msgstr ""
+
+msgctxt "1644"
+msgid ""
+"如果留在这里，你也会有危险的。\n"
+"请赶快离开这里吧……。"
+msgstr ""
+
+msgctxt "1645"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1646"
+msgid "带她一起逃走"
+msgstr ""
+
+msgctxt "1647"
+msgid "下次一定来救"
+msgstr ""
+
+msgctxt "1648"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1649"
+msgid "你要……救我出去吗？"
+msgstr ""
+
+msgctxt "1650"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1651"
+msgid ""
+"真是不敢相信……\n"
+"竟然能够从这里逃出去……。"
+msgstr ""
+
+msgctxt "1652"
+msgid "亚特鲁…先生。"
+msgstr ""
+
+msgctxt "1653"
+msgid "……真是非常感谢你。"
+msgstr ""
+
+msgctxt "1654"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1655"
+msgid ""
+"保护着被囚禁的少女\n"
+"菲娜到达安全\n"
+"场所的护卫工作。"
+msgstr ""
+
+msgctxt "1656"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1657"
+msgid ""
+"我……\n"
+"请不要太在意我。"
+msgstr ""
+
+msgctxt "1658"
+msgid ""
+"…这个先不提，你是不是正在\n"
+"寻找些什么东西呢？"
+msgstr ""
+
+msgctxt "1659"
+msgid ""
+"这个神殿的地下，被装设了许多\n"
+"可怕的陷阱。"
+msgstr ""
+
+msgctxt "1660"
+msgid ""
+"如果不能看穿这些陷阱的话\n"
+"有很多地方就没有办法进去的。"
+msgstr ""
+
+msgctxt "1661"
+msgid "请你把这个带在身上。"
+msgstr ""
+
+msgctxt "1662"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1663"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1664"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1665"
+msgid ""
+"这个面具，是穿黑色斗蓬的人\n"
+"忘在这个房间的东西……。"
+msgstr ""
+
+msgctxt "1666"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1667"
+msgid "我想一定能够有所帮助的。"
+msgstr ""
+
+msgctxt "1668"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1669"
+msgid ""
+"亚特鲁先生……、\n"
+"请快一点离开这里。"
+msgstr ""
+
+msgctxt "1670"
+msgid "如果被巡逻的魔物看到了就不得了了。"
+msgstr ""
+
+msgctxt "1671"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1672"
+msgid "亚特鲁先生，希望你平安无事……。"
+msgstr ""
+
+msgctxt "1673"
+msgid "亚特鲁先生，你真的平安无事了啊？"
+msgstr ""
+
+msgctxt "1674"
+msgid "太好了……。"
+msgstr ""
+
+msgctxt "1675"
+msgid "要找的东西应该已经找到了吧。"
+msgstr ""
+
+msgctxt "1676"
+msgid "──咦，你要带着我离开这里吗？"
+msgstr ""
+
+msgctxt "1677"
+msgid ""
+"注意到了在牢房里被囚禁的\n"
+"少女。"
+msgstr ""
+
+msgctxt "1678"
+msgid "没有办法放着她不管。"
+msgstr ""
+
+msgctxt "1679"
+msgid ""
+"反正这个东西以两个\n"
+"人类的力量是没有办法\n"
+"带走的。"
+msgstr ""
+
+msgctxt "1680"
+msgid ""
+"没有办法把她放着\n"
+"不管自己一个人回去。"
+msgstr ""
+
+msgctxt "1681"
+msgid "有一个通往地下的长长楼梯。"
+msgstr ""
+
+msgctxt "1682"
+msgid ""
+"已经不能再带着她到更危险的\n"
+"地方去了。"
+msgstr ""
+
+msgctxt "1683"
+msgid "有一个通往地下的长长楼梯。"
+msgstr ""
+
+msgctxt "1684"
+msgid "但是也不能放着她在这里不管。"
+msgstr ""
+
+msgctxt "1685"
+msgid "发现了隐藏在墙壁内侧的房间。"
+msgstr ""
+
+msgctxt "1686"
+msgid ""
+"这个面具，是穿黑色斗蓬的人\n"
+"忘在这个房间的东西……。"
+msgstr ""
+
+msgctxt "1687"
+msgid "我想一定能够有所帮助的。"
+msgstr ""
+
+msgctxt "1688"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1689"
+msgid "前面已经是无路可走了啊……。"
+msgstr ""
+
+msgctxt "1690"
+msgid ""
+"那个…，亚特鲁先生……\n"
+"这里好挤啊……。"
+msgstr ""
+
+msgctxt "1691"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1692"
+msgid "前面已经是无路可走了啊……。"
+msgstr ""
+
+msgctxt "1693"
+msgid ""
+"那个…，亚特鲁先生……\n"
+"这个面具好可怕哦……。"
+msgstr ""
+
+msgctxt "1694"
+msgid ""
+"没有办法带着她一起走，\n"
+"但是也不能让她一个人留着。"
+msgstr ""
+
+msgctxt "1695"
+msgid ""
+"没有办法带着她一起走，\n"
+"从刚才那个房间开始就一直不安的四处张望。"
+msgstr ""
+
+msgctxt "1696"
+msgid "这前面……好可怕…。"
+msgstr ""
+
+msgctxt "1697"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1698"
+msgid "这里可不是个适合带女孩子过来的地方吧。"
+msgstr ""
+
+msgctxt "1699"
+msgid ""
+"可是，没问题吗$10？\n"
+"这位小姐看起来脸色相当的不妙啊……。"
+msgstr ""
+
+msgctxt "1700"
+msgid "在附近的村子，有一位叫作洁瓦的婆婆。"
+msgstr ""
+
+msgctxt "1701"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1702"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1703"
+msgid ""
+"──什么，你知道$10？\n"
+"那么说明起来就快得多了$20。\n"
+"我的意思是，让她在那里休息好了。"
+msgstr ""
+
+msgctxt "1704"
+msgid ""
+"你还在拖拖拉拉个什么$20。\n"
+"还不赶快带她过去！"
+msgstr ""
+
+msgctxt "1705"
+msgid "喔喔，欢迎来到这个鸟不生蛋的地方。"
+msgstr ""
+
+msgctxt "1706"
+msgid ""
+"可是我说小姐啊，\n"
+"你难道没有听过吗？"
+msgstr ""
+
+msgctxt "1707"
+msgid "这里可是恶名远播的盗贼山寨啊。"
+msgstr ""
+
+msgctxt "1708"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1709"
+msgid ""
+"我看还是先把带你来到这个地方的\n"
+"薄情大哥放在一旁不管好了，\n"
+"想不想和我一起喝个茶呢？"
+msgstr ""
+
+msgctxt "1710"
+msgid "不能把金钱和女人放着不管！"
+msgstr ""
+
+msgctxt "1711"
+msgid ""
+"我不是一向都是这么说的吗$10？\n"
+"不过还真是完全没有防备啊。"
+msgstr ""
+
+msgctxt "1712"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1713"
+msgid ""
+"安心好了$20。\n"
+"我们只会找有钱人当作下手的对象的啦。"
+msgstr ""
+
+msgctxt "1714"
+msgid "………。"
+msgstr ""
+
+msgctxt "1715"
+msgid "没关系的$20，亚特鲁先生。"
+msgstr ""
+
+msgctxt "1716"
+msgid ""
+"我只是觉得有点累了而已……。\n"
+""
+msgstr ""
+
+msgctxt "1717"
+msgid "请不要…$10…放在$20…心上…"
+msgstr ""
+
+msgctxt "1718"
+msgid ""
+"菲娜她\n"
+"闭上了眼睛。\n"
+"摸摸额头才发现非常烫手。"
+msgstr ""
+
+msgctxt "1719"
+msgid ""
+"必须要尽快找医生来看病才行。\n"
+"幸好洁瓦的家就在这附近。"
+msgstr ""
+
+msgctxt "1720"
+msgid ""
+"菲娜失去了意识昏迷不醒。\n"
+"亚特鲁背起了菲娜，\n"
+"开始前往洁瓦的家。"
+msgstr ""
+
+msgctxt "1721"
+msgid "──睡得满香甜的嘛。"
+msgstr ""
+
+msgctxt "1722"
+msgid ""
+"我想大概是药产生作用的样子，\n"
+"只要好好的睡一晚明天就有精神了。"
+msgstr ""
+
+msgctxt "1723"
+msgid "可是…无论怎么听都觉得不可思议呢。"
+msgstr ""
+
+msgctxt "1724"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1725"
+msgid ""
+"在被永久封印起来的地下的圣域\n"
+"不知道什么时候变成魔物的巢穴了……。"
+msgstr ""
+
+msgctxt "1726"
+msgid ""
+"而且，那孩子\n"
+"还被囚禁在圣域里面……$20。\n"
+"嗯～～……我实在是搞不清楚。"
+msgstr ""
+
+msgctxt "1727"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1728"
+msgid ""
+"因为药效的关系\n"
+"菲娜静静地睡着而且发出\n"
+"均匀的呼吸声……。"
+msgstr ""
+
+msgctxt "1729"
+msgid "那个孩子就交给我来照顾好了。"
+msgstr ""
+
+msgctxt "1730"
+msgid ""
+"你大可不用担心，\n"
+"再过一阵子应该就会醒过来了。"
+msgstr ""
+
+msgctxt "1731"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1732"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1733"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1734"
+msgid "亚特鲁先生……。"
+msgstr ""
+
+msgctxt "1735"
+msgid ""
+"你把我从地下牢之中救了出来\n"
+"真是非常感谢$20。\n"
+"我实在……好高兴哦。"
+msgstr ""
+
+msgctxt "1736"
+msgid ""
+"我是……除了我的名字\n"
+"叫作菲娜之外什么都不记得了。"
+msgstr ""
+
+msgctxt "1737"
+msgid ""
+"我不记得以前生活的情形$20。\n"
+"以及为何会被囚禁在神殿里面。"
+msgstr ""
+
+msgctxt "1738"
+msgid "……我完全都不记得了。"
+msgstr ""
+
+msgctxt "1739"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1740"
+msgid "我……到底是……。"
+msgstr ""
+
+msgctxt "1741"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1742"
+msgid "……这个村子真好啊。"
+msgstr ""
+
+msgctxt "1743"
+msgid ""
+"洁瓦婆婆和所有的人\n"
+"全部都是非常亲切的。"
+msgstr ""
+
+msgctxt "1744"
+msgid ""
+"这样的话…我想一定能和亚特鲁\n"
+"先生再见面的吧……。"
+msgstr ""
+
+msgctxt "1745"
+msgid "如果能够一直这样下去的话就好了。"
+msgstr ""
+
+msgctxt "1746"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1747"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1748"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1749"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1750"
+msgid "这位先生，你不是艾斯塔里亚的人吧？"
+msgstr ""
+
+msgctxt "1751"
+msgid ""
+"这还真是少见的情形啊$20。\n"
+"连“岚之结界”也拿你没有办法呢。"
+msgstr ""
+
+msgctxt "1752"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1753"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1754"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1755"
+msgid "这个水晶球是莎拉的……。"
+msgstr ""
+
+msgctxt "1756"
+msgid ""
+"是嘛，这位先生就是\n"
+"莎拉所找到的剑士啊。"
+msgstr ""
+
+msgctxt "1757"
+msgid ""
+"要去神殿寻找“伊苏之书”\n"
+"这件事啊……。"
+msgstr ""
+
+msgctxt "1758"
+msgid "那么就带着这把钥匙去吧。"
+msgstr ""
+
+msgctxt "1759"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1760"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1761"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1762"
+msgid ""
+"伊苏之书，\n"
+"我想应该是在神殿的地下长眠着。"
+msgstr ""
+
+msgctxt "1763"
+msgid ""
+"在入口的附近\n"
+"也有用肉眼就可以看到的──"
+msgstr ""
+
+msgctxt "1764"
+msgid ""
+"被封印起来的地下的圣域\n"
+"是穿越永恒、谁也无法进入的。"
+msgstr ""
+
+msgctxt "1765"
+msgid ""
+"我不知道发生了什么事情$20。\n"
+"从头到尾都完全没有去注意。"
+msgstr ""
+
+msgctxt "1766"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1767"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1768"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1769"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1770"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1771"
+msgid "亚特鲁先生……！"
+msgstr ""
+
+msgctxt "1772"
+msgid ""
+"我说你大可不必担心这孩子的事情啦$20。\n"
+"很快就会很有精神的了。"
+msgstr ""
+
+msgctxt "1773"
+msgid "因为劳累的关系所以才会发烧的样子。"
+msgstr ""
+
+msgctxt "1774"
+msgid "……对不起，亚特鲁先生。"
+msgstr ""
+
+msgctxt "1775"
+msgid "还没有向你道谢就昏了过去……。"
+msgstr ""
+
+msgctxt "1776"
+msgid ""
+"让你救我出来……\n"
+"真的是非常感谢你。"
+msgstr ""
+
+msgctxt "1777"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1778"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1779"
+msgid "要怎么办？"
+msgstr ""
+
+msgctxt "1780"
+msgid "和洁瓦交谈"
+msgstr ""
+
+msgctxt "1781"
+msgid "和菲娜交谈"
+msgstr ""
+
+msgctxt "1782"
+msgid "停止交谈"
+msgstr ""
+
+msgctxt "1783"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1784"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1785"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1786"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1787"
+msgid "这孩子就暂时交给我照顾好了。"
+msgstr ""
+
+msgctxt "1788"
+msgid ""
+"反正就算你带在身边\n"
+"就会受到那些人注意的样子。"
+msgstr ""
+
+msgctxt "1789"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1790"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1791"
+msgid ""
+"是嘛…$20…\n"
+"真的在神殿里面得到了哈达尔之章了啊。"
+msgstr ""
+
+msgctxt "1792"
+msgid ""
+"\n"
+"　　　　　　　洁瓦的眼神有一点寂寞。"
+msgstr ""
+
+msgctxt "1793"
+msgid "……命运的齿轮开始转动了啊。"
+msgstr ""
+
+msgctxt "1794"
+msgid "………。"
+msgstr ""
+
+msgctxt "1795"
+msgid "快点、到莎拉那里去吧。"
+msgstr ""
+
+msgctxt "1796"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1797"
+msgid ""
+"怎么啦$20。\n"
+"你的脸色看起来不大好哦？"
+msgstr ""
+
+msgctxt "1798"
+msgid ""
+"\n"
+"　　　　　　亚特鲁把莎拉已经死亡的事情告诉了洁瓦。"
+msgstr ""
+
+msgctxt "1799"
+msgid "………。"
+msgstr ""
+
+msgctxt "1800"
+msgid "…是这样啊。"
+msgstr ""
+
+msgctxt "1801"
+msgid "难怪我就说过嘛……有一种讨厌的预感。"
+msgstr ""
+
+msgctxt "1802"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1803"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1804"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1805"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1806"
+msgid ""
+"莎拉她好像……也对于自己的\n"
+"命运已经有所领悟的样子啊……。"
+msgstr ""
+
+msgctxt "1807"
+msgid "………。"
+msgstr ""
+
+msgctxt "1808"
+msgid ""
+"你有注意到莎拉的事情吗$20？\n"
+"那个女孩，对于自己的命运已经十分明白了。"
+msgstr ""
+
+msgctxt "1809"
+msgid ""
+"虽然心情非常的悲伤\n"
+"但是那女孩仍然考虑着身后所发生的事情。"
+msgstr ""
+
+msgctxt "1810"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1811"
+msgid "要怎么办？"
+msgstr ""
+
+msgctxt "1812"
+msgid "和洁瓦交谈"
+msgstr ""
+
+msgctxt "1813"
+msgid "和菲娜交谈"
+msgstr ""
+
+msgctxt "1814"
+msgid "拿书过来看"
+msgstr ""
+
+msgctxt "1815"
+msgid "停止交谈"
+msgstr ""
+
+msgctxt "1816"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1817"
+msgid ""
+"──为什么，我会被关在\n"
+"这种地方呢……。"
+msgstr ""
+
+msgctxt "1818"
+msgid "……我也不知道。"
+msgstr ""
+
+msgctxt "1819"
+msgid ""
+"我所能够记得的，只有牢房里面生活的记忆\n"
+"还有自己的名字而已……。"
+msgstr ""
+
+msgctxt "1820"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1821"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1822"
+msgid ""
+"只要一想起以前的事情\n"
+"就会头痛得不得了……。"
+msgstr ""
+
+msgctxt "1823"
+msgid ""
+"……亚特鲁先生$20。\n"
+"当你带着我离开牢房的时候……\n"
+"我真的是太高兴了。"
+msgstr ""
+
+msgctxt "1824"
+msgid ""
+"我暂时要在洁瓦婆婆的家里\n"
+"打扰一阵子$20。\n"
+"如果有空的话请过来看看我。"
+msgstr ""
+
+msgctxt "1825"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1826"
+msgid ""
+"啊呀，原来是你啊$20。\n"
+"要找菲娜的话，她正在村子里面散步呢。\n"
+""
+msgstr ""
+
+msgctxt "1827"
+msgid ""
+"怎么啦$20，\n"
+"你的脸色看起来不大好哦？"
+msgstr ""
+
+msgctxt "1828"
+msgid ""
+"\n"
+"　　　　　　亚特鲁把莎拉已经死亡的事情告诉了洁瓦。"
+msgstr ""
+
+msgctxt "1829"
+msgid "………。"
+msgstr ""
+
+msgctxt "1830"
+msgid "……是这样啊。"
+msgstr ""
+
+msgctxt "1831"
+msgid "难怪我就说过嘛……有一种讨厌的预感。"
+msgstr ""
+
+msgctxt "1832"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1833"
+msgid ""
+"莎拉她好像……也对于自己的\n"
+"命运已经有所领悟的样子啊……。"
+msgstr ""
+
+msgctxt "1834"
+msgid "………。"
+msgstr ""
+
+msgctxt "1835"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1836"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1837"
+msgid ""
+"你有注意到莎拉的事情吗$20？\n"
+"那个女孩，对于自己的命运已经十分明白了た。"
+msgstr ""
+
+msgctxt "1838"
+msgid ""
+"虽然心情非常的悲伤\n"
+"但是那女孩仍然考虑着身后所发生的事情。"
+msgstr ""
+
+msgctxt "1839"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1840"
+msgid "要怎么办？"
+msgstr ""
+
+msgctxt "1841"
+msgid "和洁瓦交谈"
+msgstr ""
+
+msgctxt "1842"
+msgid "拿书过来看"
+msgstr ""
+
+msgctxt "1843"
+msgid "停止交谈"
+msgstr ""
+
+msgctxt "1844"
+msgid ""
+"莎拉和我，都是\n"
+"伊苏的六神官中的一位——托霸的子孙……。"
+msgstr ""
+
+msgctxt "1845"
+msgid ""
+"告诉所有人曾经在伊苏所发生过的灾难\n"
+"并且使这个灾难不致于再度发生\n"
+"这就是我们的使命……。"
+msgstr ""
+
+msgctxt "1846"
+msgid ""
+"莎拉漂亮的完成了她的工作$20。\n"
+"那个女孩子真是非常了不起。"
+msgstr ""
+
+msgctxt "1847"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1848"
+msgid ""
+"……就这么一直\n"
+"消沉下去也不是个办法。"
+msgstr ""
+
+msgctxt "1849"
+msgid ""
+"为了继承那孩子的遗志……\n"
+"在我的能力范围之内会全力协助你的。"
+msgstr ""
+
+msgctxt "1850"
+msgid ""
+"无论如何，你总是那孩子\n"
+"所找出来的剑士啊。"
+msgstr ""
+
+msgctxt "1851"
+msgid "──终于取得了“伊苏之书”啊。"
+msgstr ""
+
+msgctxt "1852"
+msgid ""
+"莎拉不在了以后，\n"
+"能够解读这些古代文字的恐怕也只剩下我一个人了。"
+msgstr ""
+
+msgctxt "1853"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1854"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1855"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1856"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1857"
+msgid "要解读哪一章？"
+msgstr ""
+
+msgctxt "1858"
+msgid "哈达尔之章"
+msgstr ""
+
+msgctxt "1859"
+msgid "托霸之章"
+msgstr ""
+
+msgctxt "1860"
+msgid "达比之章"
+msgstr ""
+
+msgctxt "1861"
+msgid "停止解读"
+msgstr ""
+
+msgctxt "1862"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1863"
+msgid "这些是有关于神殿的事情……。"
+msgstr ""
+
+msgctxt "1864"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1865"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1866"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1867"
+msgid ""
+"这个不是从我托霸家所失去的\n"
+"伊苏之书吗……。"
+msgstr ""
+
+msgctxt "1868"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1869"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1870"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1871"
+msgid ""
+"废矿坑深处……\n"
+"原来是在那种地方啊。"
+msgstr ""
+
+msgctxt "1872"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1873"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1874"
+msgid ""
+"这本书里面的内容、\n"
+"与这一连串的事件背后的真相\n"
+"应该可以对照得出来。"
+msgstr ""
+
+msgctxt "1875"
+msgid ""
+"岚之结界……魔物的出现……\n"
+"银制品的强盗事件……"
+msgstr ""
+
+msgctxt "1876"
+msgid "以及莎拉的死亡……。"
+msgstr ""
+
+msgctxt "1877"
+msgid ""
+"──所有发生过的事情、\n"
+"在时光的流逝之中也算不上是\n"
+"什么重大的事情。"
+msgstr ""
+
+msgctxt "1878"
+msgid ""
+"能够解读这些东西的\n"
+"恐怕也只剩下我一个人而已吧。"
+msgstr ""
+
+msgctxt "1879"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1880"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1881"
+msgid "要怎么办？"
+msgstr ""
+
+msgctxt "1882"
+msgid "与洁瓦交谈"
+msgstr ""
+
+msgctxt "1883"
+msgid "与菲娜交谈"
+msgstr ""
+
+msgctxt "1884"
+msgid "拿书过来看"
+msgstr ""
+
+msgctxt "1885"
+msgid "停止交谈"
+msgstr ""
+
+msgctxt "1886"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1887"
+msgid "从刚才开始村民们就在传说着奇怪的事情。"
+msgstr ""
+
+msgctxt "1888"
+msgid ""
+"就是从草原吹过来的风中\n"
+"听到了不可思议的声音。"
+msgstr ""
+
+msgctxt "1889"
+msgid ""
+"而这个声音的主人\n"
+"可能就是草原上的“萝妲之树”吧。"
+msgstr ""
+
+msgctxt "1890"
+msgid ""
+"在很久以前，这片土地上的人\n"
+"是能够与萝妲之树作心灵交流的。"
+msgstr ""
+
+msgctxt "1891"
+msgid ""
+"如果能够和那株古木交谈的话\n"
+"也许就能得到某些线索也说不定。"
+msgstr ""
+
+msgctxt "1892"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1893"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1894"
+msgid "伊苏之书全部共六册……。"
+msgstr ""
+
+msgctxt "1895"
+msgid "剩下的三册，一定就在达姆之塔里面。"
+msgstr ""
+
+msgctxt "1896"
+msgid ""
+"至于在那里的原因，\n"
+"因为是和神殿同样都是古老的遗迹。"
+msgstr ""
+
+msgctxt "1897"
+msgid ""
+"你可以拜托我的儿子古邦\n"
+"请他帮你把塔的入口打开。"
+msgstr ""
+
+msgctxt "1898"
+msgid "你也是个独当一面的剑士吧。"
+msgstr ""
+
+msgctxt "1899"
+msgid ""
+"你是莎拉的预言所指的人……\n"
+"也一路成长到了目前的样子。"
+msgstr ""
+
+msgctxt "1900"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1901"
+msgid ""
+"如果是你的话，我想进入那个“恶魔之塔”\n"
+"也一定没有问题的。"
+msgstr ""
+
+msgctxt "1902"
+msgid ""
+"所谓的达姆，对我们来说就是“恶魔”\n"
+"的意思。"
+msgstr ""
+
+msgctxt "1903"
+msgid ""
+"在那个塔里面，你所知道的常识\n"
+"一切都不适用，这点要特别注意。"
+msgstr ""
+
+msgctxt "1904"
+msgid "真心的希望你能够采取慎重的行动。"
+msgstr ""
+
+msgctxt "1905"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1906"
+msgid ""
+"最近，洁瓦婆婆\n"
+"教了我许许多多的事情。"
+msgstr ""
+
+msgctxt "1907"
+msgid ""
+"药草的调制方法……\n"
+"占卜的方法……\n"
+"艾斯塔里亚的文化和历史……。"
+msgstr ""
+
+msgctxt "1908"
+msgid "每天都过的好充实哦。"
+msgstr ""
+
+msgctxt "1909"
+msgid ""
+"被关在神殿的那段日子，我每天都被自己是什么人的\n"
+"这种不安所包围着。"
+msgstr ""
+
+msgctxt "1910"
+msgid "──是真的，现在也还是有点怕。"
+msgstr ""
+
+msgctxt "1911"
+msgid ""
+"可是那个时候……从亚特鲁先生\n"
+"牵起了我的手开始……。"
+msgstr ""
+
+msgctxt "1912"
+msgid "我好像就得到了勇气了……。"
+msgstr ""
+
+msgctxt "1913"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1914"
+msgid "我又可以一直向前迈进了。"
+msgstr ""
+
+msgctxt "1915"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1916"
+msgid ""
+"我…对于亚特鲁先生有关的所有事情都\n"
+"完全不晓得。"
+msgstr ""
+
+msgctxt "1917"
+msgid "可是，我只希望能够和我作一个约定。"
+msgstr ""
+
+msgctxt "1918"
+msgid "就是请你一定要平安回来……。"
+msgstr ""
+
+msgctxt "1919"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1920"
+msgid "然后再一次，来到我的面前与我相会……。"
+msgstr ""
+
+msgctxt "1921"
+msgid ""
+"亚特鲁先生，请你好好努力。\n"
+"我…会一直等着你的。"
+msgstr ""
+
+msgctxt "1922"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1923"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1924"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1925"
+msgid "要解读哪一章？"
+msgstr ""
+
+msgctxt "1926"
+msgid "哈达尔之章"
+msgstr ""
+
+msgctxt "1927"
+msgid "托霸之章"
+msgstr ""
+
+msgctxt "1928"
+msgid "达比之章"
+msgstr ""
+
+msgctxt "1929"
+msgid "停止解读"
+msgstr ""
+
+msgctxt "1930"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1931"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1932"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1933"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1934"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1935"
+msgid "喔喔…！"
+msgstr ""
+
+msgctxt "1936"
+msgid "年轻人，你是从哪里来的啊？"
+msgstr ""
+
+msgctxt "1937"
+msgid ""
+"──是吗，从巴尔巴多来的啊$20。\n"
+"如果是和布鲁多阁下有缘的人的话就可以安心了。"
+msgstr ""
+
+msgctxt "1938"
+msgid ""
+"如果想要知道一些事情的话，就去\n"
+"和村人们交谈吧……。"
+msgstr ""
+
+msgctxt "1939"
+msgid ""
+"现在我所要告诉你的\n"
+"能不能当作是秘密呢？"
+msgstr ""
+
+msgctxt "1940"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1941"
+msgid "要怎么办？"
+msgstr ""
+
+msgctxt "1942"
+msgid "好的"
+msgstr ""
+
+msgctxt "1943"
+msgid "不好"
+msgstr ""
+
+msgctxt "1944"
+msgid ""
+"这个村子的象征就是\n"
+"“银之铃”，被盗贼们给抢走了。"
+msgstr ""
+
+msgctxt "1945"
+msgid ""
+"这是无论如何都必须取回来的$20。\n"
+"最坏的打算，就是付给那些人赎金也可以。"
+msgstr ""
+
+msgctxt "1946"
+msgid ""
+"年轻人啊──\n"
+"能不能麻烦你去向盗贼交涉呢$10？\n"
+"村人们也非常需要你的帮忙啊……。"
+msgstr ""
+
+msgctxt "1947"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1948"
+msgid "该怎么办？"
+msgstr ""
+
+msgctxt "1949"
+msgid "答应"
+msgstr ""
+
+msgctxt "1950"
+msgid "拒绝"
+msgstr ""
+
+msgctxt "1951"
+msgid "真的吗，谢谢你！"
+msgstr ""
+
+msgctxt "1952"
+msgid ""
+"盗贼的根据地，从村子北方的山道\n"
+"一直爬上去走到底就到了。"
+msgstr ""
+
+msgctxt "1953"
+msgid ""
+"你就告诉他们想要和首领见面$20。\n"
+"只要是能力所及的范围之内，多少钱我们都付。"
+msgstr ""
+
+msgctxt "1954"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1955"
+msgid "──那么，就拜托你了。"
+msgstr ""
+
+msgctxt "1956"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1957"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1958"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1959"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1960"
+msgid ""
+"衷心的希望关于“银之铃”被抢走的事情\n"
+"能够对村子里的人保密。"
+msgstr ""
+
+msgctxt "1961"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1962"
+msgid ""
+"是这样吗……\n"
+"我想你也应该有各种理由吧。"
+msgstr ""
+
+msgctxt "1963"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1964"
+msgid ""
+"既然这样的话$20。\n"
+"就请把刚才的话给忘了吧……。"
+msgstr ""
+
+msgctxt "1965"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1966"
+msgid "真、真的吗……。"
+msgstr ""
+
+msgctxt "1967"
+msgid "喔喔，是你……。"
+msgstr ""
+
+msgctxt "1968"
+msgid "终于愿意听我所说的话了吗？"
+msgstr ""
+
+msgctxt "1969"
+msgid "喔喔，是你……。"
+msgstr ""
+
+msgctxt "1970"
+msgid ""
+"能不能拜托你去向\n"
+"盗贼交涉呢？"
+msgstr ""
+
+msgctxt "1971"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1972"
+msgid ""
+"怎么会有这种事…\n"
+"抢走银之铃的人，不是那些盗贼吗？"
+msgstr ""
+
+msgctxt "1973"
+msgid ""
+"真是不敢相信……$10！\n"
+"可是除了他们以外还会有谁呢？"
+msgstr ""
+
+msgctxt "1974"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1975"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1976"
+msgid ""
+"曾经有村民曾经目击到\n"
+"有一个穿着黑色斗蓬的男人\n"
+"快速的往山路上面走去哦！"
+msgstr ""
+
+msgctxt "1977"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1978"
+msgid "…可是，他到底是谁……。"
+msgstr ""
+
+msgctxt "1979"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1980"
+msgid ""
+"喔喔，这个的确就是银之铃……$20。\n"
+"难道说，你是从盗贼那里取回来的吗？"
+msgstr ""
+
+msgctxt "1981"
+msgid ""
+"──什么，你说不是从盗贼那里$10？\n"
+"而是从神殿的地下？"
+msgstr ""
+
+msgctxt "1982"
+msgid "唔～…真是搞不懂啊。"
+msgstr ""
+
+msgctxt "1983"
+msgid "总而言之，应该要向你道谢才对。"
+msgstr ""
+
+msgctxt "1984"
+msgid ""
+"……对了，\n"
+"这个戒指就请你收下好了。"
+msgstr ""
+
+msgctxt "1985"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1986"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1987"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1988"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1989"
+msgid ""
+"这个是我家的传家之宝$20。\n"
+"可以引出你潜在的力量。"
+msgstr ""
+
+msgctxt "1990"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1991"
+msgid ""
+"真是太麻烦你了$20。\n"
+"请好好的休息一下吧。"
+msgstr ""
+
+msgctxt "1992"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1993"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1994"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1995"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1996"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1997"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1998"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "1999"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2000"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2001"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2002"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2003"
+msgid "该怎么办？"
+msgstr ""
+
+msgctxt "2004"
+msgid "和盗贼首领交谈"
+msgstr ""
+
+msgctxt "2005"
+msgid "开始交涉"
+msgstr ""
+
+msgctxt "2006"
+msgid "当场离开"
+msgstr ""
+
+msgctxt "2007"
+msgid "吓得停止"
+msgstr ""
+
+msgctxt "2008"
+msgid "………。"
+msgstr ""
+
+msgctxt "2009"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2010"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2011"
+msgid ""
+"不爱惜性命的小鬼啊，\n"
+"为什么来到这个地方？"
+msgstr ""
+
+msgctxt "2012"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2013"
+msgid ""
+"莫非你一个人\n"
+"就想来打倒盗贼去领奖金吧。"
+msgstr ""
+
+msgctxt "2014"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2015"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2016"
+msgid "──你说我们在镇上到处捣乱？"
+msgstr ""
+
+msgctxt "2017"
+msgid "哈哈，开什么玩笑啊。"
+msgstr ""
+
+msgctxt "2018"
+msgid ""
+"你搞错了啦$20。\n"
+"坏人也有坏人的规矩哦。"
+msgstr ""
+
+msgctxt "2019"
+msgid ""
+"我们只会找干了坏事有大量金钱的人下手\n"
+"对于那些流着汗水拼命工作的人是绝对不\n"
+"会去动他们的。"
+msgstr ""
+
+msgctxt "2020"
+msgid ""
+"而且话说回来\n"
+"我们这里抢来的东西虽然不少$20。\n"
+"但是都没有银制品哦。"
+msgstr ""
+
+msgctxt "2021"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2022"
+msgid ""
+"我不知道是谁……一定要把他找出来\n"
+"就算设陷阱也要把他抓到。"
+msgstr ""
+
+msgctxt "2023"
+msgid ""
+"你带的这个东西看起来满有趣的嘛$20。\n"
+"这个面具是在神殿里面找到的吗？"
+msgstr ""
+
+msgctxt "2024"
+msgid ""
+"只要有了这个东西、\n"
+"就可以发现藏在暗处的门了。"
+msgstr ""
+
+msgctxt "2025"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2026"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2027"
+msgid "这就是“托霸之章”……。"
+msgstr ""
+
+msgctxt "2028"
+msgid ""
+"对了……\n"
+"莎拉所说的剑士\n"
+"应该就是你吧……。"
+msgstr ""
+
+msgctxt "2029"
+msgid "……我听莎拉说过了。"
+msgstr ""
+
+msgctxt "2030"
+msgid ""
+"当我们是犯人的消息流传的时候\n"
+"也有人不这么认为的吧。"
+msgstr ""
+
+msgctxt "2031"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2032"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2033"
+msgid ""
+"其实莎拉……\n"
+"就是我的妹妹……。"
+msgstr ""
+
+msgctxt "2034"
+msgid "杀害莎拉的人，我想就是那个家伙没错。"
+msgstr ""
+
+msgctxt "2035"
+msgid ""
+"穿黑色斗蓬的男人──\n"
+"在艾斯塔里亚各地抢夺银制品\n"
+"干着和我们的工作一样事情的男人。"
+msgstr ""
+
+msgctxt "2036"
+msgid "害我们背黑锅还要帮他收烂摊子……。"
+msgstr ""
+
+msgctxt "2037"
+msgid "…绝对……饶不了他！"
+msgstr ""
+
+msgctxt "2038"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2039"
+msgid ""
+"这些话就不用再说了$20。\n"
+"赶快到达姆之塔、去搜寻伊苏之书吧。"
+msgstr ""
+
+msgctxt "2040"
+msgid ""
+"从岚之结界出现以来，那个塔里面\n"
+"就出现了大量的魔物士兵。"
+msgstr ""
+
+msgctxt "2041"
+msgid ""
+"以我们的盗贼团来说，想要把塔中的魔物扫荡的话\n"
+"反过来会死光的是我们这边。"
+msgstr ""
+
+msgctxt "2042"
+msgid ""
+"虽然只是士兵而已\n"
+"但是里面有巨大的怪物，我们完全拿他没办法。"
+msgstr ""
+
+msgctxt "2043"
+msgid ""
+"我的左右手一个叫作多奇的男人也失踪了……$20。\n"
+"我想大概已经死了吧。"
+msgstr ""
+
+msgctxt "2044"
+msgid ""
+"──达姆之塔\n"
+"是个非常危险的地方。"
+msgstr ""
+
+msgctxt "2045"
+msgid "普通人的话是绝对进不去的。"
+msgstr ""
+
+msgctxt "2046"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2047"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2048"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2049"
+msgid "呼……。"
+msgstr ""
+
+msgctxt "2050"
+msgid ""
+"这个银之盾和银之铠、\n"
+"还有银之剑如果使用起来的话\n"
+"不知道会发生什么事情……。"
+msgstr ""
+
+msgctxt "2051"
+msgid ""
+"──好吧$20。\n"
+"我这就把门打开。"
+msgstr ""
+
+msgctxt "2052"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2053"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2054"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2055"
+msgid ""
+"稍等一下$10！\n"
+"你有带着回归之翼吧……。"
+msgstr ""
+
+msgctxt "2056"
+msgid ""
+"达姆之塔的附近、\n"
+"张设着强力的结界。"
+msgstr ""
+
+msgctxt "2057"
+msgid ""
+"如果不小心使用的话，就会飞到外面\n"
+"撞上石壁，然后掉下去摔死。"
+msgstr ""
+
+msgctxt "2058"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2059"
+msgid "那个东西就交给我保管好了。"
+msgstr ""
+
+msgctxt "2060"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2061"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2062"
+msgid ""
+"在那里的石造的门只能从一边通过进入里面，\n"
+"只能从里面而不能从我们这边打开。"
+msgstr ""
+
+msgctxt "2063"
+msgid ""
+"托他的福，声音完全被遮断了$20。\n"
+"所以说不是那么简单就能打开的。"
+msgstr ""
+
+msgctxt "2064"
+msgid ""
+"我曾经说过，在这个塔里面\n"
+"充其量也只能停留一天为限。"
+msgstr ""
+
+msgctxt "2065"
+msgid ""
+"明天早上在这里……\n"
+"就算是没有得到伊苏之书也好\n"
+"一定要回到这个门前来。"
+msgstr ""
+
+msgctxt "2066"
+msgid "到那时候，我会把门打开的。"
+msgstr ""
+
+msgctxt "2067"
+msgid ""
+"──那么，就快去快回$10！\n"
+"总之要以能够存活下来为最优先考虑哦！"
+msgstr ""
+
+msgctxt "2068"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2069"
+msgid ""
+"以你的装备来说，\n"
+"恐怕没有办法和塔里的魔物们一较长短吧。"
+msgstr ""
+
+msgctxt "2070"
+msgid ""
+"就算你是莎拉所选出来的剑士也好\n"
+"这样的话也是没有办法的。"
+msgstr ""
+
+msgctxt "2071"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2072"
+msgid ""
+"我已经有许多的部下死在达姆之塔$20。\n"
+"不能再让它第二次发生了。"
+msgstr ""
+
+msgctxt "2073"
+msgid "不行的……还是放弃吧。"
+msgstr ""
+
+msgctxt "2074"
+msgid ""
+"在塔的上面、\n"
+"有非常厉害的怪物……。"
+msgstr ""
+
+msgctxt "2075"
+msgid ""
+"像这种装备\n"
+"根本就没得拼嘛。"
+msgstr ""
+
+msgctxt "2076"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2077"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2078"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2079"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2080"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2081"
+msgid ""
+"──什么，你说是我们\n"
+"把“银之铃”给抢走的？"
+msgstr ""
+
+msgctxt "2082"
+msgid "你是不是有什么地方误解了啊？"
+msgstr ""
+
+msgctxt "2083"
+msgid ""
+"我们也都知道“银之铃”是塞皮克村\n"
+"的象征这件事啊。"
+msgstr ""
+
+msgctxt "2084"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2085"
+msgid ""
+"如果去抢这种东西，等于是践踏人们的内心\n"
+"我们是绝对不会干这种事的。"
+msgstr ""
+
+msgctxt "2086"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2087"
+msgid ""
+"如果去抢这种东西，等于是践踏人们的内心\n"
+"我们是绝对不会干这种事的。"
+msgstr ""
+
+msgctxt "2088"
+msgid ""
+"要不要相信是随便你，\n"
+"不过这绝对不是我们干的。"
+msgstr ""
+
+msgctxt "2089"
+msgid "信不信在你。"
+msgstr ""
+
+msgctxt "2090"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2091"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2092"
+msgid "你说什么……穿黑色斗蓬的男人？"
+msgstr ""
+
+msgctxt "2093"
+msgid ""
+"那种人与我们无关$20，\n"
+"而且，我们也在到处找那个家伙呢。"
+msgstr ""
+
+msgctxt "2094"
+msgid "信或者是不信，是你和村长的自由。"
+msgstr ""
+
+msgctxt "2095"
+msgid "………。"
+msgstr ""
+
+msgctxt "2096"
+msgid ""
+"你手上所拿的就是“银之铃”了$20。\n"
+"怎样，疑问解开了吗？"
+msgstr ""
+
+msgctxt "2097"
+msgid ""
+"虽然如此……\n"
+"可是怎么会藏在神殿的地下呢？"
+msgstr ""
+
+msgctxt "2098"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2099"
+msgid ""
+"我不认为魔物们会有这种程度的智慧$20。\n"
+"我想这也是那家伙干的好事吧……。"
+msgstr ""
+
+msgctxt "2100"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2101"
+msgid ""
+"我不认为魔物们会有这种程度的智慧$20。\n"
+"我想这也是那家伙干的好事吧……。"
+msgstr ""
+
+msgctxt "2102"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2103"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2104"
+msgid ""
+"我在年轻的时候，也曾经听说过\n"
+"这里所流传有关于古文书的传说$20。\n"
+"是叙述着在很久很久以前，解救这个国家\n"
+"所受到灾难的女神的事情。"
+msgstr ""
+
+msgctxt "2105"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2106"
+msgid ""
+"如果真的有这样的女神降临的话\n"
+"像这种魔物就不足为惧了\n"
+"人们也能安心的过日子了吧……。"
+msgstr ""
+
+msgctxt "2107"
+msgid ""
+"如果真的有魔物存在的话，\n"
+"那么应该也会有女神是真的存在吧，\n"
+"希望这不只是我的空想而已。"
+msgstr ""
+
+msgctxt "2108"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2109"
+msgid ""
+"少年啊，请听我说吧$20！\n"
+""
+msgstr ""
+
+msgctxt "2110"
+msgid ""
+"湖那里有一座桥。\n"
+"有一位美丽的姑娘教我吹奏草笛的方法\n"
+"我实在是太高兴了啊。"
+msgstr ""
+
+msgctxt "2111"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2112"
+msgid "这可是不涉及男女之私的兴奋哦。"
+msgstr ""
+
+msgctxt "2113"
+msgid ""
+"也许我老了来日无多也不一定。\n"
+"但是、今天是我永远也不会忘记的。\n"
+"哈哈哈。"
+msgstr ""
+
+msgctxt "2114"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2115"
+msgid ""
+"以前，我可是在矿山里面工作的……\n"
+"在坑道的深处发现了一间奇怪的房间$20。\n"
+"在那里充满着青白色的光芒\n"
+"有两座女神像竖立在那里。"
+msgstr ""
+
+msgctxt "2116"
+msgid ""
+"虽然不知道是什么神\n"
+"但是是守护着银山的神应该是不会错的\n"
+"所以我们这些矿工，每天都\n"
+"向神像祈祷不敢忘记……。"
+msgstr ""
+
+msgctxt "2117"
+msgid ""
+"自从魔物出现以来，女神像也\n"
+"就一直照原来的样子放在那个地方$20。\n"
+"如果我能再年轻一点的话\n"
+"就可以把神像运出来了……。"
+msgstr ""
+
+msgctxt "2118"
+msgid "你能不能帮我把神像运出来呢？"
+msgstr ""
+
+msgctxt "2119"
+msgid ""
+"啊啊，如果我能够再年轻一点的话、\n"
+"就绝对不会放着不管的啊。"
+msgstr ""
+
+msgctxt "2120"
+msgid ""
+"洁瓦的家来了位年轻的女孩子$20。\n"
+"当我和她说话的时候\n"
+"眼光一直注视着我\n"
+"真是讨人喜欢的小姑娘呢。"
+msgstr ""
+
+msgctxt "2121"
+msgid ""
+"只是，她的脸……\n"
+"总觉得好像在什么地方见过\n"
+"算了，也许是我看错了……。"
+msgstr ""
+
+msgctxt "2122"
+msgid ""
+"我总觉得好像在什么地方见过……\n"
+"像那么美丽的女孩子应该是绝对不会忘了才对啊。"
+msgstr ""
+
+msgctxt "2123"
+msgid ""
+"那么…$20…\n"
+"应该还是我的错觉吧。"
+msgstr ""
+
+msgctxt "2124"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2125"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2126"
+msgid ""
+"各位，不要那么痛恨盗贼他们啊。\n"
+"盗贼首领古邦，可是一位伟大的男人哦。"
+msgstr ""
+
+msgctxt "2127"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2128"
+msgid ""
+"当我以前被魔物袭击的时候\n"
+"他曾经救过我一命啊。"
+msgstr ""
+
+msgctxt "2129"
+msgid ""
+"如果有机会的会，\n"
+"可以试着和他谈谈。"
+msgstr ""
+
+msgctxt "2130"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2131"
+msgid "怎么啦？"
+msgstr ""
+
+msgctxt "2132"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2133"
+msgid ""
+"盗贼他们也很辛苦，\n"
+"首领古邦可是一位伟大的男人啊。"
+msgstr ""
+
+msgctxt "2134"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2135"
+msgid ""
+"在山上碰到下雨的时候最好不要靠近神殿哦。\n"
+"听说在那里……\n"
+"会看到幽灵或是奇怪的人……。"
+msgstr ""
+
+msgctxt "2136"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2137"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2138"
+msgid ""
+"所以很明显的，\n"
+"我们不把工作完成是不行的啊。"
+msgstr ""
+
+msgctxt "2139"
+msgid ""
+"如果可以的话，你最好还是\n"
+"不要到山里面去比较好哦。"
+msgstr ""
+
+msgctxt "2140"
+msgid ""
+"最近，从西边草原那里\n"
+"吹来的风中\n"
+"听到好像是有人在说话的声音。"
+msgstr ""
+
+msgctxt "2141"
+msgid "可是我总是觉得不大舒服……。"
+msgstr ""
+
+msgctxt "2142"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2143"
+msgid ""
+"这个村子里很多人都上了年纪\n"
+"如果被魔物袭击的话，\n"
+"大概一个人也逃不掉吧。"
+msgstr ""
+
+msgctxt "2144"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2145"
+msgid ""
+"可是真是不可思议啊，\n"
+"一直到现在村子都没有被袭击过$20。\n"
+"听说是村子的宝物“银之铃”的音色\n"
+"能够逼退那些魔物的样子。"
+msgstr ""
+
+msgctxt "2146"
+msgid ""
+"如果真是这样的话，\n"
+"那就谢天谢地罗。"
+msgstr ""
+
+msgctxt "2147"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2148"
+msgid ""
+"达姆之塔的旁边\n"
+"就是盗贼山寨了$20。\n"
+"好像是把塔的入口给堵塞起来\n"
+"然后才建造起来的。"
+msgstr ""
+
+msgctxt "2149"
+msgid ""
+"可是为什么要在那种危险的地方\n"
+"特别去建造山寨呢？"
+msgstr ""
+
+msgctxt "2150"
+msgid "大概是每个人的喜好不同吧。"
+msgstr ""
+
+msgctxt "2151"
+msgid ""
+"萝妲之果，无论是生吃\n"
+"或是用面包包起来烤都是非常美味的哦。"
+msgstr ""
+
+msgctxt "2152"
+msgid ""
+"可是草原上的萝妲之树，\n"
+"从几十年前至今就没再结过果实了。\n"
+"连其种子，也因为非常稀少而\n"
+"难以得到。"
+msgstr ""
+
+msgctxt "2153"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2154"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2155"
+msgid ""
+"在这之前有看过一个奇怪的家伙$20。\n"
+"穿着一身的黑色斗蓬\n"
+"大热天也是那样包得紧紧的，\n"
+"快步的从村子北边出口离开了。"
+msgstr ""
+
+msgctxt "2156"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2157"
+msgid ""
+"到现在都还不晓得那个人是魔物\n"
+"还是盗贼……\n"
+"他到底是什么人啊？"
+msgstr ""
+
+msgctxt "2158"
+msgid ""
+"算了，不管他是谁，\n"
+"那个人怎么看都不像是个\n"
+"正经人的样子。"
+msgstr ""
+
+msgctxt "2159"
+msgid ""
+"在米内亚发生了可怕的事件$20。\n"
+"就连这个村子的附近，\n"
+"因为发现了奇怪的家伙\n"
+"所以也不见得安全……。"
+msgstr ""
+
+msgctxt "2160"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2161"
+msgid ""
+"卢达那家伙、\n"
+"又跑到哪里去了……$20。\n"
+"让这么美丽的太太担心\n"
+"真是罪恶的家伙啊。"
+msgstr ""
+
+msgctxt "2162"
+msgid ""
+"…啊啊～$20。\n"
+"我自己也搞不清楚了啦\n"
+"我好想要有一个像这样子担心我的\n"
+"女朋友啊。"
+msgstr ""
+
+msgctxt "2163"
+msgid ""
+"你知道吗$10？\n"
+"这个村子里，现在有一个非常\n"
+"漂亮的女孩子哦。"
+msgstr ""
+
+msgctxt "2164"
+msgid ""
+"她的名字是“菲娜”$20。\n"
+"很可爱的名字吧$10？\n"
+"我好想追她哦。"
+msgstr ""
+
+msgctxt "2165"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2166"
+msgid ""
+"总觉得村长的样子怎么看都很奇怪$20。\n"
+"不知道在搞什么鬼\n"
+"总是在村子里到处走来走去。"
+msgstr ""
+
+msgctxt "2167"
+msgid ""
+"“我的所有财产，\n"
+"应该就能够满足那些家伙了吧$10？”\n"
+"……他总是这样自言自语着。"
+msgstr ""
+
+msgctxt "2168"
+msgid ""
+"村长总是一边哼着歌曲\n"
+"一边在村中散步。"
+msgstr ""
+
+msgctxt "2169"
+msgid ""
+"不知道什么时候、\n"
+"本来都是一副铁青的脸……\n"
+"好像是解决了什么烦恼吧？"
+msgstr ""
+
+msgctxt "2170"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2171"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2172"
+msgid ""
+"这个村子里有一位叫作“洁瓦”\n"
+"的不可思议的老婆婆。"
+msgstr ""
+
+msgctxt "2173"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2174"
+msgid ""
+"她对艾斯塔里亚的历史非常详细\n"
+"从小时候，就已经听过很多次了$20。\n"
+"什么从很久很久以前，这个地方是\n"
+"由女神所统治的美丽国家……。"
+msgstr ""
+
+msgctxt "2175"
+msgid ""
+"如果你还想知道些什么的话，\n"
+"我想最好是到她那里去。"
+msgstr ""
+
+msgctxt "2176"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2177"
+msgid ""
+"啊，你就是亚特鲁先生吧$10？\n"
+"我已经听菲娜说过了$20。\n"
+"就是你把她救出来的是吧。"
+msgstr ""
+
+msgctxt "2178"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2179"
+msgid ""
+"她很快就交了一大堆朋友$20。\n"
+"真的是非常温柔的好孩子呢……。"
+msgstr ""
+
+msgctxt "2180"
+msgid ""
+"她是一个好女孩$20，\n"
+"一定要珍惜她哦。"
+msgstr ""
+
+msgctxt "2181"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2182"
+msgid ""
+"米内亚那里不得了了$10。\n"
+"那些盗贼\n"
+"出来四下作乱了。"
+msgstr ""
+
+msgctxt "2183"
+msgid ""
+"可是，既然抢走了银制物品\n"
+"应该已经很有钱了吧？\n"
+"还真是认真“工作”啊。"
+msgstr ""
+
+msgctxt "2184"
+msgid ""
+"这么说起来，\n"
+"莫非他们的目标是村子里祭嗣的\n"
+"神物“银之铃”吗？$20。"
+msgstr ""
+
+msgctxt "2185"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2186"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2187"
+msgid ""
+"要不要去湖边$10？\n"
+"风景非常的美丽哦\n"
+"去看看也不错呢。"
+msgstr ""
+
+msgctxt "2188"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2189"
+msgid ""
+"在那座桥上面\n"
+"是欣赏乡村风味的绝佳场所。"
+msgstr ""
+
+msgctxt "2190"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2191"
+msgid "可是，大概已经有人先去了吧。"
+msgstr ""
+
+msgctxt "2192"
+msgid ""
+"菲娜姊姊真是一位美人啊$20，\n"
+"她真的是非常的温柔……。"
+msgstr ""
+
+msgctxt "2193"
+msgid ""
+"昨天我们一起在桥上看风景$20，\n"
+"难道说这就是约会吗？"
+msgstr ""
+
+msgctxt "2194"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2195"
+msgid "ＺＺＺ……"
+msgstr ""
+
+msgctxt "2196"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2197"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2198"
+msgid ""
+"……今天从天空掉下来一大堆鱼。\n"
+"艾斯塔里亚还真是个不可思议的国家啊……"
+msgstr ""
+
+msgctxt "2199"
+msgid "ＺＺＺ……"
+msgstr ""
+
+msgctxt "2200"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2201"
+msgid ""
+"今天早上我醒过来的时候\n"
+"就已经看不到我丈夫卢达\n"
+"的踪影了。"
+msgstr ""
+
+msgctxt "2202"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2203"
+msgid ""
+"大概，卢达有梦游病\n"
+"会到处乱跑的样子吧……$20。\n"
+"真是…$10…\n"
+"到底跑到什么地方去了啊？"
+msgstr ""
+
+msgctxt "2204"
+msgid ""
+"如果没有跑到什么危险的地方\n"
+"就好了……。"
+msgstr ""
+
+msgctxt "2205"
+msgid "……真是担心啊…。"
+msgstr ""
+
+msgctxt "2206"
+msgid ""
+"咦……\n"
+"卢达跑到巴尔巴多\n"
+"去了！？"
+msgstr ""
+
+msgctxt "2207"
+msgid "啊啊神啊，感谢您……！"
+msgstr ""
+
+msgctxt "2208"
+msgid "──这么说来，卢达他现在？"
+msgstr ""
+
+msgctxt "2209"
+msgid "这、这我就不知道了……。"
+msgstr ""
+
+msgctxt "2210"
+msgid ""
+"我想，在他回到这里之前、\n"
+"可能又会迷路迷到什么地方去吧……。"
+msgstr ""
+
+msgctxt "2211"
+msgid "应该没问题吧……。"
+msgstr ""
+
+msgctxt "2212"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2213"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2214"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2215"
+msgid "………。"
+msgstr ""
+
+msgctxt "2216"
+msgid ""
+"尽管如此，\n"
+"“那家伙”还真是神出鬼没啊……。"
+msgstr ""
+
+msgctxt "2217"
+msgid ""
+"艾斯塔里亚也不算多大\n"
+"不管再怎么躲也该有个限度啊$20。\n"
+"他到底跑到哪里去了啊？"
+msgstr ""
+
+msgctxt "2218"
+msgid ""
+"头目，不要一付可怕的样子嘛$20。\n"
+"……算了，这也没有办法。"
+msgstr ""
+
+msgctxt "2219"
+msgid ""
+"我们也曾经受过莎拉小姐\n"
+"相当多的照顾$20。\n"
+"……这个仇是绝对要报的。"
+msgstr ""
+
+msgctxt "2220"
+msgid ""
+"是真的，我想头目他应该是到了\n"
+"达姆之塔去了吧。"
+msgstr ""
+
+msgctxt "2221"
+msgid ""
+"可是，我们一定要\n"
+"把杀害莎拉小姐的混蛋\n"
+"亲手抓到。"
+msgstr ""
+
+msgctxt "2222"
+msgid ""
+"不过，是在不死的范围内努力$20。\n"
+"我们也是有\n"
+"等待着我们回家的人对吧？"
+msgstr ""
+
+msgctxt "2223"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2224"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2225"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2226"
+msgid "………。"
+msgstr ""
+
+msgctxt "2227"
+msgid ""
+"达姆之塔不光只是魔物而已$20。\n"
+"也有装备了剑与铠甲等武装的家伙。"
+msgstr ""
+
+msgctxt "2228"
+msgid ""
+"如果没有事先考虑清楚并且作好\n"
+"万全的准备的话。\n"
+"进去简直就是送死哦。"
+msgstr ""
+
+msgctxt "2229"
+msgid ""
+"你是从岚之结界外面进来的吧$20。\n"
+"我们的同伴有一个叫作多奇的\n"
+"也是从大陆那边渡海过来的。"
+msgstr ""
+
+msgctxt "2230"
+msgid ""
+"他的手脚非常俐落，\n"
+"是个少见一身好工夫的人、\n"
+"可是现在已经不在这里了……。"
+msgstr ""
+
+msgctxt "2231"
+msgid ""
+"难到说像你这样的小鬼也想要\n"
+"进入达姆之塔吗……\n"
+"搞啥啊，头目他不知道在想什么。"
+msgstr ""
+
+msgctxt "2232"
+msgid ""
+"听好了，如果危险的话就赶快逃到外面的回廊$20。\n"
+"这样的话就不会有太多的魔物能追过来。"
+msgstr ""
+
+msgctxt "2233"
+msgid ""
+"还有，别忘了时常注意身上所带物品存量$20。\n"
+"只要有一瞬间的差错，就会死得很难看哦！"
+msgstr ""
+
+msgctxt "2234"
+msgid ""
+"这里有两个石制的台座。\n"
+"应该是用来放两个什么神像的样子吧。"
+msgstr ""
+
+msgctxt "2235"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2236"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2237"
+msgid ""
+"这样真的可以吗$10？\n"
+"自警团那些人说这样就可以\n"
+"保护到塞皮克村去了。"
+msgstr ""
+
+msgctxt "2238"
+msgid ""
+"请不要太过于担心了$20。\n"
+"再怎么说也比一个人回去要好啊。"
+msgstr ""
+
+msgctxt "2239"
+msgid ""
+"如果快一点的话，\n"
+"就可以让他老婆早点放下心来了……。"
+msgstr ""
+
+msgctxt "2240"
+msgid "是吗，我知道啦。"
+msgstr ""
+
+msgctxt "2241"
+msgid ""
+"梦游病啊……\n"
+"这个我就帮不上忙么$10。\n"
+"还真是没有面子啊。"
+msgstr ""
+
+msgctxt "2242"
+msgid "没有这回事啦。"
+msgstr ""
+
+msgctxt "2243"
+msgid ""
+"给您添了许多麻烦……\n"
+"真的是非常感谢您。"
+msgstr ""
+
+msgctxt "2244"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2245"
+msgid "啊啊，那么我先失陪了……。"
+msgstr ""
+
+msgctxt "2246"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2247"
+msgid ""
+"喔喔，亚特鲁$20。\n"
+"最近还好吧？"
+msgstr ""
+
+msgctxt "2248"
+msgid ""
+"什么，刚才那位$10？\n"
+"就是塞皮克村的卢达啦。"
+msgstr ""
+
+msgctxt "2249"
+msgid ""
+"好像是因为梦游病发作的样子\n"
+"在这附近到处走来走去结果被\n"
+"自警团那些人给发现的。"
+msgstr ""
+
+msgctxt "2250"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2251"
+msgid "梦游病啊……还真是个麻烦的病呢。"
+msgstr ""
+
+msgctxt "2252"
+msgid "看你精神这么好，应该是没什么问题吧？"
+msgstr ""
+
+msgctxt "2253"
+msgid "小心别太过操劳罗。"
+msgstr ""
+
+msgctxt "2254"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2255"
+msgid ""
+"刚才，那位年轻的太太\n"
+"有来过这里。"
+msgstr ""
+
+msgctxt "2256"
+msgid ""
+"说早上起床就看不到老公什么的……\n"
+"那位太太就担心得坐立不安哦。"
+msgstr ""
+
+msgctxt "2257"
+msgid ""
+"竟然能从塞皮克村那里一直迷路跑到这里来、\n"
+"幸好路上没有受到魔物的袭击。"
+msgstr ""
+
+msgctxt "2258"
+msgid ""
+"如果能够平安的回到塞皮克村\n"
+"就好了……。"
+msgstr ""
+
+msgctxt "2259"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2260"
+msgid "……救…救…"
+msgstr ""
+
+msgctxt "2261"
+msgid "…命…啊……"
+msgstr ""
+
+msgctxt "2262"
+msgid "没看到我吗，快救救我啊─！"
+msgstr ""
+
+msgctxt "2263"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2264"
+msgid ""
+"谢谢你$20。\n"
+"虽然我不知道你是哪一位\n"
+"不过幸好捡回一条命。"
+msgstr ""
+
+msgctxt "2265"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2266"
+msgid ""
+"哦呀，我记得你是……\n"
+"应该是在巴尔巴多的病院见过面的吧。"
+msgstr ""
+
+msgctxt "2267"
+msgid ""
+"忘了自我介绍啦$20。\n"
+"我是塞皮克村的卢达·洁玛。"
+msgstr ""
+
+msgctxt "2268"
+msgid ""
+"亚特鲁也报上了自己的名字\n"
+"并且告知他的太太正在找他的事情。"
+msgstr ""
+
+msgctxt "2269"
+msgid ""
+"是这样啊……\n"
+"又让她操心了呢。"
+msgstr ""
+
+msgctxt "2270"
+msgid ""
+"说起来不好意思，可是我\n"
+"多少也注意到自己有梦游病这回事。"
+msgstr ""
+
+msgctxt "2271"
+msgid ""
+"像这种情形大约是从半年前──\n"
+"“岚之结界”开始出现的时候才有的。"
+msgstr ""
+
+msgctxt "2272"
+msgid ""
+"哦呀……\n"
+"结果又在不知不觉中\n"
+"跑到这种地方来了。"
+msgstr ""
+
+msgctxt "2273"
+msgid ""
+"塞皮克村是在哪个方向呢$10？\n"
+"如果你知道的话，\n"
+"能不能请你带我回去呢？"
+msgstr ""
+
+msgctxt "2274"
+msgid ""
+"卢达·洁玛提出要求\n"
+"护送他直到回到\n"
+"塞皮克村。"
+msgstr ""
+
+msgctxt "2275"
+msgid "在池子底部、发现了闪耀光辉的物品。"
+msgstr ""
+
+msgctxt "2276"
+msgid "啊啊…卢达！"
+msgstr ""
+
+msgctxt "2277"
+msgid ""
+"对不起啦…\n"
+"让你这么担心。"
+msgstr ""
+
+msgctxt "2278"
+msgid ""
+"我一直在担心\n"
+"你会受到魔物的袭击啊──"
+msgstr ""
+
+msgctxt "2279"
+msgid "我是那么的担心啊……！"
+msgstr ""
+
+msgctxt "2280"
+msgid "现在没事啦。我不是还好好的吗。"
+msgstr ""
+
+msgctxt "2281"
+msgid ""
+"这一位是亚特鲁先生、\n"
+"是他把我从魔物手中救了出来的。"
+msgstr ""
+
+msgctxt "2282"
+msgid "是这样啊……。"
+msgstr ""
+
+msgctxt "2283"
+msgid ""
+"亚特鲁先生……\n"
+"多谢你救了我的丈夫\n"
+"真是非常谢谢你。"
+msgstr ""
+
+msgctxt "2284"
+msgid ""
+"亚特鲁先生……\n"
+"那么请让我先失陪一下。"
+msgstr ""
+
+msgctxt "2285"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2286"
+msgid "请进，我们可以好好的聊聊。"
+msgstr ""
+
+msgctxt "2287"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2288"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2289"
+msgid ""
+"没想到我太太找起人来还真是\n"
+"天翻地覆，给大家添了麻烦……。"
+msgstr ""
+
+msgctxt "2290"
+msgid ""
+"可是，我认为这个梦游病\n"
+"应该是具有某种意义的才对。"
+msgstr ""
+
+msgctxt "2291"
+msgid "当我迷路的时候，在梦中看得到。"
+msgstr ""
+
+msgctxt "2292"
+msgid ""
+"从一个黑暗的深渊之中\n"
+"传来微弱的呢喃不停的呼唤着我$20。\n"
+"──就是这样的梦。"
+msgstr ""
+
+msgctxt "2293"
+msgid ""
+"我觉得，对于这个呼唤\n"
+"似乎有义务要作出某些回应。"
+msgstr ""
+
+msgctxt "2294"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2295"
+msgid "……请不用这么在意我说的话。"
+msgstr ""
+
+msgctxt "2296"
+msgid "和亚特鲁先生聊天真是有趣啊。"
+msgstr ""
+
+msgctxt "2297"
+msgid ""
+"家里什么都没有，\n"
+"不过还是请你安心的休息。"
+msgstr ""
+
+msgctxt "2298"
+msgid ""
+"卢达他还真是的\n"
+"一点都不了解人家的心情……！"
+msgstr ""
+
+msgctxt "2299"
+msgid ""
+"──竟然还说什么\n"
+"“梦游病不知道什么时候又会发作起来\n"
+"到时候你也不用太过于担心”"
+msgstr ""
+
+msgctxt "2300"
+msgid ""
+"啊啊，真是不安啊……$20。\n"
+"是不是把他绑在床上就可以了呢？"
+msgstr ""
+
+msgctxt "2301"
+msgid ""
+"\n"
+"　　　　　　　　  轻轻吹拂过草原的凉风\n"
+"　　　　　　　　轻柔的摇动着大树的树梢。"
+msgstr ""
+
+msgctxt "2302"
+msgid ""
+"\n"
+"　　　　　　　　  轻轻吹拂过草原的凉风\n"
+"　　　　　　　　轻柔的摇动着大树的树梢。"
+msgstr ""
+
+msgctxt "2303"
+msgid ""
+"\n"
+"　　　　　　　　     从风中传来的声音\n"
+"　　　　　　　　似乎可以听到有人在说些什么。"
+msgstr ""
+
+msgctxt "2304"
+msgid ""
+"\n"
+"　　　　　　　　  轻轻吹拂过草原的凉风\n"
+"　　　　　　　　轻柔的摇动着大树的树梢。"
+msgstr ""
+
+msgctxt "2305"
+msgid ""
+"\n"
+"　　　　　　　　     从风中传来的声音\n"
+"　　　　　　　　好像对亚特鲁诉说些什么。"
+msgstr ""
+
+msgctxt "2306"
+msgid "从大树的根部、散发出了银色的光芒。"
+msgstr ""
+
+msgctxt "2307"
+msgid ""
+"\n"
+"　　　　　　　　  轻轻吹拂过草原的凉风\n"
+"　　　　　　　　轻柔的摇动着大树的树梢。"
+msgstr ""
+
+msgctxt "2308"
+msgid ""
+"\n"
+"　　　　　　　　     那个不可思议的声音\n"
+"　　　　　　　　     已经再也听不到了……。"
+msgstr ""
+
+msgctxt "2309"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2310"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2311"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2312"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2313"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2314"
+msgid "哇！"
+msgstr ""
+
+msgctxt "2315"
+msgid ""
+"哦，吓我一跳$20。\n"
+"我还以为是魔物的士兵呢。"
+msgstr ""
+
+msgctxt "2316"
+msgid ""
+"没见过的生面孔啊……\n"
+"该不会是魔物的同伴吧？"
+msgstr ""
+
+msgctxt "2317"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2318"
+msgid ""
+"像这么危险的地方\n"
+"最好还是不要进去。"
+msgstr ""
+
+msgctxt "2319"
+msgid ""
+"──抱歉啦、\n"
+"我可没有时间再来照顾你了。"
+msgstr ""
+
+msgctxt "2320"
+msgid ""
+"因为我遗失了重要的东西，\n"
+"真是不得了……。"
+msgstr ""
+
+msgctxt "2321"
+msgid ""
+"喔喔……$10！\n"
+"这个不就是我所失去的偶像吗。"
+msgstr ""
+
+msgctxt "2322"
+msgid ""
+"是吗，原来是多奇拜托你的啊$20。\n"
+"那么就请你交给他吧，先谢啦。"
+msgstr ""
+
+msgctxt "2323"
+msgid "我的名字是拉瓦。"
+msgstr ""
+
+msgctxt "2324"
+msgid ""
+"别看我这个样子可也是个学者哦$20。\n"
+"在几个月前，为了调查古代遗迹才\n"
+"渡海来到了艾斯塔里亚。"
+msgstr ""
+
+msgctxt "2325"
+msgid ""
+"可是，当我在调查这个塔的紧要关头\n"
+"里面突然冒出了一大堆的魔物。"
+msgstr ""
+
+msgctxt "2326"
+msgid "从此，这里就被封闭起来了。"
+msgstr ""
+
+msgctxt "2327"
+msgid ""
+"──这个人像，是我的第二生命$20。\n"
+"里面蕴藏着不可思议的力量。"
+msgstr ""
+
+msgctxt "2328"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2329"
+msgid ""
+"只要握着偶像的身体，就可以把自己的气息\n"
+"完全的消除。"
+msgstr ""
+
+msgctxt "2330"
+msgid ""
+"就是因为有了这个偶像\n"
+"所以我才能够活到现在哦。"
+msgstr ""
+
+msgctxt "2331"
+msgid ""
+"那么，年轻人啊$20。\n"
+"你又是为了什么要进入这个塔呢？"
+msgstr ""
+
+msgctxt "2332"
+msgid ""
+"以你的装备看起来应该是经过深思熟虑才对$20。\n"
+"到底是为了什么目的而来的呢？"
+msgstr ""
+
+msgctxt "2333"
+msgid ""
+"\n"
+"　　　　　　　　  亚特鲁把要寻找伊苏之书\n"
+"　　　　　　　　必须进入达姆之塔的事情说了出来。"
+msgstr ""
+
+msgctxt "2334"
+msgid "是这样啊……"
+msgstr ""
+
+msgctxt "2335"
+msgid "一定是这样……！"
+msgstr ""
+
+msgctxt "2336"
+msgid ""
+"“伊苏”这个名字，在大陆附近流传的古文书中\n"
+"也不时的登场哦。"
+msgstr ""
+
+msgctxt "2337"
+msgid ""
+"具有“魔法”这种不可思议的力量\n"
+"以及白银色光辉的金属造成的极度繁荣的国家。"
+msgstr ""
+
+msgctxt "2338"
+msgid ""
+"可是古代王国“伊苏”的名字在\n"
+"某个时期，从历史之中消失了身影。"
+msgstr ""
+
+msgctxt "2339"
+msgid ""
+"一直到了现在，\n"
+"也许还存在于某个地方只是我们不知道。"
+msgstr ""
+
+msgctxt "2340"
+msgid ""
+"在我们这些学者之中\n"
+"就把这些事情单方面的命名为\n"
+"“理想乡传说”哦。"
+msgstr ""
+
+msgctxt "2341"
+msgid ""
+"可是，那个“伊苏”，\n"
+"的确曾经存在于这个艾斯塔里亚，\n"
+"这一点是绝对不会错的。"
+msgstr ""
+
+msgctxt "2342"
+msgid ""
+"有一些文献记载着“伊苏”消失的传说，\n"
+"都说那个时候有“岚之结界”这种东西的产生。"
+msgstr ""
+
+msgctxt "2343"
+msgid ""
+"一直到了数年之后岚之结界消失、\n"
+"“伊苏”也从此不见踪影，在这个荒芜的大地上、\n"
+"只剩下一座巨大的塔冲天而耸立着。"
+msgstr ""
+
+msgctxt "2344"
+msgid ""
+"艾斯塔里亚的故事则是这么说的$20。\n"
+"突然，魔物大军出现、蹂躏着国土、\n"
+"在一夜之间国家及人民都消失了一半以上。"
+msgstr ""
+
+msgctxt "2345"
+msgid ""
+"然后，魔物们就建造了这座塔$20。\n"
+"到底是为了什么呢？"
+msgstr ""
+
+msgctxt "2346"
+msgid ""
+"魔物之王也并没有君临这个塔，\n"
+"没想到在不知不觉间，这个灾难悄悄地离开了。"
+msgstr ""
+
+msgctxt "2347"
+msgid ""
+"之后，艾斯塔里亚的居民\n"
+"一直对这个塔心存怨念。"
+msgstr ""
+
+msgctxt "2348"
+msgid ""
+"这个塔是以大地为主体所建造出来的。这个伤痛、\n"
+"是民族所失去自身的一半所造成的，我想应该就是\n"
+"这么一回事吧。"
+msgstr ""
+
+msgctxt "2349"
+msgid ""
+"我想你也应该注意到了吧$10？\n"
+"这里现在有某些事正要发生。"
+msgstr ""
+
+msgctxt "2350"
+msgid ""
+"散失了的书籍又再度集合起来、\n"
+"“伊苏”传说的真相显然就要揭开了。"
+msgstr ""
+
+msgctxt "2351"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2352"
+msgid ""
+"嗯～$20。\n"
+"这还真是有意思呢……。"
+msgstr ""
+
+msgctxt "2353"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2354"
+msgid ""
+"……对不起$20。\n"
+"请让我想一些事情。"
+msgstr ""
+
+msgctxt "2355"
+msgid ""
+"对了，如果你要在塔中探索的话\n"
+"还是带着这条项链会比较好哦。"
+msgstr ""
+
+msgctxt "2356"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2357"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2358"
+msgid "这个可以保护你避免受到邪恶陷阱的伤害。"
+msgstr ""
+
+msgctxt "2359"
+msgid ""
+"……对不起$20。\n"
+"请让我想一些事情。"
+msgstr ""
+
+msgctxt "2360"
+msgid "醒过来的时候就已经在牢房里面了。"
+msgstr ""
+
+msgctxt "2361"
+msgid ""
+"亚特鲁确认了装备。\n"
+"──注意到了身上所带银制\n"
+"的东西连一个也没有剩下来。"
+msgstr ""
+
+msgctxt "2362"
+msgid "醒过来的时候，又再度回到了牢房里面。"
+msgstr ""
+
+msgctxt "2363"
+msgid "又发现了装备有被破坏的痕迹。"
+msgstr ""
+
+msgctxt "2364"
+msgid ""
+"通路上面、\n"
+"完全没有任何动静。"
+msgstr ""
+
+msgctxt "2365"
+msgid ""
+"铁格子非常坚固、\n"
+"再怎么摇也动都不动。"
+msgstr ""
+
+msgctxt "2366"
+msgid ""
+"门上及接缝等可动部分\n"
+"也完全没看到。"
+msgstr ""
+
+msgctxt "2367"
+msgid ""
+"这是以石块严密组合而成的墙壁。\n"
+"只有灰尘黏在上面。"
+msgstr ""
+
+msgctxt "2368"
+msgid ""
+"很明显的看不到任何排水沟。\n"
+"也完全感觉不到空气的流动。"
+msgstr ""
+
+msgctxt "2369"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2370"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2371"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2372"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2373"
+msgid "……你醒过来了啊。"
+msgstr ""
+
+msgctxt "2374"
+msgid ""
+"我是塞皮克村的\n"
+"卢达·洁玛。"
+msgstr ""
+
+msgctxt "2375"
+msgid "当我醒过来的时候，就已经在这个塔里迷路了。"
+msgstr ""
+
+msgctxt "2376"
+msgid ""
+"在石像并排的廊下\n"
+"发现了老人的身影\n"
+"但是就在眼前，在墙壁之中消失不见了。"
+msgstr ""
+
+msgctxt "2377"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2378"
+msgid "在那之后，我就被捉起来了。"
+msgstr ""
+
+msgctxt "2379"
+msgid ""
+"亚特鲁先生……$20。\n"
+"没想到会在这种地方见面啊。"
+msgstr ""
+
+msgctxt "2380"
+msgid ""
+"我是因为梦游病又再度发作了$20。\n"
+"当我醒过来的时候，就已经在这个塔里迷路了。"
+msgstr ""
+
+msgctxt "2381"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2382"
+msgid ""
+"对了。这次我就详细的告诉你好了。\n"
+"首先，就是有关于石像并排的走廊……。"
+msgstr ""
+
+msgctxt "2383"
+msgid ""
+"当我跟丢了老人的行踪之后，\n"
+"我被魔物士兵一踢就昏了过去。\n"
+"是个穿粉红色铠甲的魔物。"
+msgstr ""
+
+msgctxt "2384"
+msgid ""
+"我只看到魔物头上绑着的辫子，魔物以不可思议的\n"
+"角度转过头来看着我，并且拉下嘴唇向我作鬼脸……。"
+msgstr ""
+
+msgctxt "2385"
+msgid ""
+"然后用它坚硬的铁甲往我的头上敲了下来，\n"
+"当我醒过来的时候，\n"
+"我就已经在这个牢房里面了……。"
+msgstr ""
+
+msgctxt "2386"
+msgid ""
+"……。\n"
+"我能说的都已经说完了……。"
+msgstr ""
+
+msgctxt "2387"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2388"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2389"
+msgid "年轻人，我来救你了。"
+msgstr ""
+
+msgctxt "2390"
+msgid "叫我多奇就可以啦，请多指教。"
+msgstr ""
+
+msgctxt "2391"
+msgid "我不知道这个地方到底发生了什么事。"
+msgstr ""
+
+msgctxt "2392"
+msgid ""
+"魔物们很难对付，陷阱又多又特别阴险$20。\n"
+"非得分分秒秒保持警戒不可呢。"
+msgstr ""
+
+msgctxt "2393"
+msgid "差不多在３楼那里，有一位叫作拉瓦的老人。"
+msgstr ""
+
+msgctxt "2394"
+msgid ""
+"那位爷爷对这个塔的事情很清楚$20。\n"
+"去找他问问题会比较好吧。"
+msgstr ""
+
+msgctxt "2395"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2396"
+msgid "里面那位也赶快逃走吧。"
+msgstr ""
+
+msgctxt "2397"
+msgid ""
+"啊啊，关于这一点不好意思，\n"
+"这个偶像希望能够交给拉瓦。"
+msgstr ""
+
+msgctxt "2398"
+msgid "我说这位爷爷，别一脸困扰的样子嘛。"
+msgstr ""
+
+msgctxt "2399"
+msgid ""
+"详细的事情等以后再说好了，赶快去吧$20。\n"
+"不晓得魔物什么时候会再过来呢。"
+msgstr ""
+
+msgctxt "2400"
+msgid "请你先逃走好了。"
+msgstr ""
+
+msgctxt "2401"
+msgid ""
+"我又不是和你一样是一位剑士$20。\n"
+"如果被魔物发现的话\n"
+"是根本没办法逃走的。"
+msgstr ""
+
+msgctxt "2402"
+msgid ""
+"你给我搞清楚好不好！$20！\n"
+"我可是很辛苦才破坏这个墙壁哦。"
+msgstr ""
+
+msgctxt "2403"
+msgid ""
+"你给我搞清楚好不好！$20！\n"
+"我可是很辛苦才破坏这个墙壁哦。"
+msgstr ""
+
+msgctxt "2404"
+msgid ""
+"啊啊？ 已经被拔起来啦？\n"
+"我还以为那家伙已经放进来了……。"
+msgstr ""
+
+msgctxt "2405"
+msgid ""
+"你给我搞清楚好不好！$20！\n"
+"我可是苦干了好几回才破坏这个墙壁哦。"
+msgstr ""
+
+msgctxt "2406"
+msgid ""
+"你给我搞清楚好不好！$20！\n"
+"我可是苦干了好几回才破坏这个墙壁哦。"
+msgstr ""
+
+msgctxt "2407"
+msgid ""
+"哇！ 怎么没有人啊！\n"
+"…不对，喂、你是用了偶像才使身形消失的吧？\n"
+"这可不是玩的地方啊！？"
+msgstr ""
+
+msgctxt "2408"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2409"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2410"
+msgid ""
+"你好，又见面了$20。\n"
+"是我啦，我是多奇啊。"
+msgstr ""
+
+msgctxt "2411"
+msgid ""
+"像我这样华丽的行动\n"
+"才能保平安无事哦。"
+msgstr ""
+
+msgctxt "2412"
+msgid ""
+"话说回来，你到底是如何进入这个\n"
+"乱七八糟的地方的啊？"
+msgstr ""
+
+msgctxt "2413"
+msgid ""
+"\n"
+"　　　　　　　　亚特鲁把进入这个塔的事情\n"
+"　　　　　　　　     　向多奇说明。"
+msgstr ""
+
+msgctxt "2414"
+msgid ""
+"──原来是这样$20。\n"
+"你已经见过了古邦头目了啊。"
+msgstr ""
+
+msgctxt "2415"
+msgid "没想到让头目他们这么担心我……。"
+msgstr ""
+
+msgctxt "2416"
+msgid ""
+"你见过拉瓦了吧$10？\n"
+"虽然是有点奇怪的老爷爷\n"
+"但他可是我的救命恩人哦。"
+msgstr ""
+
+msgctxt "2417"
+msgid ""
+"当我差点被魔物干掉的时候\n"
+"就是他用偶像的力量救了我的。"
+msgstr ""
+
+msgctxt "2418"
+msgid ""
+"为了报答救命之恩，所以我才帮忙他调查\n"
+"并且请他先回去的。"
+msgstr ""
+
+msgctxt "2419"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2420"
+msgid ""
+"可是……\n"
+"也许从现在开始正是好机会。"
+msgstr ""
+
+msgctxt "2421"
+msgid ""
+"这么说起来……\n"
+"你手上那个水晶球和那根短杖\n"
+"我好像在哪里见过的样子。"
+msgstr ""
+
+msgctxt "2422"
+msgid ""
+"总而言之那些东西\n"
+"在进入塔的内部时都是必要的。"
+msgstr ""
+
+msgctxt "2423"
+msgid ""
+"──在这之前，你也\n"
+"已经听头目他说过了吧。"
+msgstr ""
+
+msgctxt "2424"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2425"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2426"
+msgid "哦，是你啊……。"
+msgstr ""
+
+msgctxt "2427"
+msgid ""
+"真没面子，被魔物发现了以后\n"
+"就一直被关在这个地方了。"
+msgstr ""
+
+msgctxt "2428"
+msgid ""
+"那个偶像……\n"
+"也被魔物给敲坏了。"
+msgstr ""
+
+msgctxt "2429"
+msgid ""
+"还不快点逃走$10？\n"
+"你可知道“恶魔之回廊”的机关吗$10？\n"
+"那个声音可是会侵蚀人类的生机呢。"
+msgstr ""
+
+msgctxt "2430"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2431"
+msgid ""
+"像你这样的年轻人姑且不论，\n"
+"像我这样的老头子可就受不了了。"
+msgstr ""
+
+msgctxt "2432"
+msgid ""
+"而且我看你的脸色也不怎么好的样子，\n"
+"还是先休息一下好了。"
+msgstr ""
+
+msgctxt "2433"
+msgid ""
+"那个恶魔的旋律，\n"
+"是利用从外面吹来的风所设计出来的声音。"
+msgstr ""
+
+msgctxt "2434"
+msgid ""
+"应该是在这层楼的某一根柱子里，\n"
+"有着送风用的通风管的样子。"
+msgstr ""
+
+msgctxt "2435"
+msgid "如果能够破坏的话，我想这个声音就会停了……。"
+msgstr ""
+
+msgctxt "2436"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2437"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2438"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2439"
+msgid ""
+"亚特鲁先生，\n"
+"是我啦。我是卢达·洁玛。"
+msgstr ""
+
+msgctxt "2440"
+msgid ""
+"你有去过拉瓦老人那里吧\n"
+"所以才会被魔物给发现了。"
+msgstr ""
+
+msgctxt "2441"
+msgid ""
+"有好几次都想要逃跑……\n"
+"但是脚好像都不听话的样子。"
+msgstr ""
+
+msgctxt "2442"
+msgid "──这些话都是那位老人告诉我的。"
+msgstr ""
+
+msgctxt "2443"
+msgid ""
+"说是有一位少女一个人被带到\n"
+"这个达姆之塔来了。"
+msgstr ""
+
+msgctxt "2444"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2445"
+msgid ""
+"总觉得有一种可怕的预感啊$20。\n"
+"请你一定要救救她。"
+msgstr ""
+
+msgctxt "2446"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2447"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2448"
+msgid ""
+"总觉得有一种可怕的预感啊$20。\n"
+"请你一定要救救她。"
+msgstr ""
+
+msgctxt "2449"
+msgid ""
+"太好了…$20…\n"
+"她平安无事。"
+msgstr ""
+
+msgctxt "2450"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2451"
+msgid ""
+"我本来以为已经再也见不到她了\n"
+"为什么我会这么在意呢……\n"
+"连我自己都觉得不可思议呢。"
+msgstr ""
+
+msgctxt "2452"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2453"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2454"
+msgid ""
+"这么说来，你手上这本\n"
+"皮革封面的书……"
+msgstr ""
+
+msgctxt "2455"
+msgid ""
+"像这个样子的书\n"
+"我记得在什么地方见过。"
+msgstr ""
+
+msgctxt "2456"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2457"
+msgid "现在已经遗失不见了……。"
+msgstr ""
+
+msgctxt "2458"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2459"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2460"
+msgid ""
+"这么说来，你手上这本\n"
+"皮革封面的书……"
+msgstr ""
+
+msgctxt "2461"
+msgid ""
+"是“洁玛之章”，为什么在你手上$10？\n"
+"这个是我的祖先所记载的东西啊。"
+msgstr ""
+
+msgctxt "2462"
+msgid ""
+"在我小的时候就已经遗失了\n"
+"一直都找不出来。"
+msgstr ""
+
+msgctxt "2463"
+msgid ""
+"──在以前，\n"
+"我曾经听我父亲说过这些话。"
+msgstr ""
+
+msgctxt "2464"
+msgid ""
+"能够把６本伊苏之书全部收集起来的人\n"
+"就能够得到赐予这片大地和平的力量。"
+msgstr ""
+
+msgctxt "2465"
+msgid "……亚特鲁先生。"
+msgstr ""
+
+msgctxt "2466"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2467"
+msgid ""
+"这是从我家古老相传下来的东西$20。\n"
+"请你务必要接受。"
+msgstr ""
+
+msgctxt "2468"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2469"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2470"
+msgid "脚上所受的伤比我想像的还要深……。"
+msgstr ""
+
+msgctxt "2471"
+msgid "脚上所受的伤比我想像的还要深……。这下乐子可大了……。"
+msgstr ""
+
+msgctxt "2472"
+msgid ""
+"这样好了，反正我也是动不了$20。\n"
+"请你不要管我自己先走好了。"
+msgstr ""
+
+msgctxt "2473"
+msgid ""
+"我应该是不会有事的$20。\n"
+"总会有办法的嘛。"
+msgstr ""
+
+msgctxt "2474"
+msgid ""
+"亚特鲁先生$20，\n"
+"是我啦。我是卢达·洁玛。"
+msgstr ""
+
+msgctxt "2475"
+msgid ""
+"你有去过拉瓦老人那里吧\n"
+"所以才会被魔物给发现了。"
+msgstr ""
+
+msgctxt "2476"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2477"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2478"
+msgid ""
+"有好几次都想要逃跑……\n"
+"但是脚好像都不听话的样子。"
+msgstr ""
+
+msgctxt "2479"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2480"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2481"
+msgid ""
+"你也是因为听到那个回廊的\n"
+"曲子才停下来的吧？"
+msgstr ""
+
+msgctxt "2482"
+msgid ""
+"那就谢啦$20。\n"
+"托你的福我又获得自由了。"
+msgstr ""
+
+msgctxt "2483"
+msgid ""
+"偶像已经没有了，所以很容易就会被魔物发现\n"
+"照这个样子的话……。"
+msgstr ""
+
+msgctxt "2484"
+msgid ""
+"──３楼那里的走廊有一个地方可以\n"
+"通往“拉多之塔”。"
+msgstr ""
+
+msgctxt "2485"
+msgid "不久之前，那里关着一个女孩子。"
+msgstr ""
+
+msgctxt "2486"
+msgid ""
+"拉多之塔，因为设置了强力的咒语\n"
+"所以无法进入的邪恶存在。"
+msgstr ""
+
+msgctxt "2487"
+msgid ""
+"总得要想个办法进去才行\n"
+"否则就救不了那个女孩了。"
+msgstr ""
+
+msgctxt "2488"
+msgid "………呜。"
+msgstr ""
+
+msgctxt "2489"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2490"
+msgid ""
+"好像是因为说得太久了，\n"
+"被魔物弄伤的地方又痛了起来……。"
+msgstr ""
+
+msgctxt "2491"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2492"
+msgid ""
+"快点，趁着魔物还没来的时候\n"
+"最好是快走。"
+msgstr ""
+
+msgctxt "2493"
+msgid ""
+"再拖拖拉拉下去的话、\n"
+"被幽禁在拉多之塔的女孩就会被杀掉了啦。"
+msgstr ""
+
+msgctxt "2494"
+msgid ""
+"是吗，那女孩平安无事了啊$20。\n"
+"…那我就放心了。"
+msgstr ""
+
+msgctxt "2495"
+msgid ""
+"我…在这里休息一下$20。\n"
+"你去找伊苏之书好了。"
+msgstr ""
+
+msgctxt "2496"
+msgid ""
+"如果得到了所有的书的话\n"
+"请务必一定要解读出来哦……。"
+msgstr ""
+
+msgctxt "2497"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2498"
+msgid "是亚特鲁先生啊。"
+msgstr ""
+
+msgctxt "2499"
+msgid "是我啊，我是诗人蕾雅。"
+msgstr ""
+
+msgctxt "2500"
+msgid "我就知道你一定会来救我的。"
+msgstr ""
+
+msgctxt "2501"
+msgid ""
+"其实，我是因为有些事情要告诉你、\n"
+"……所以才特地被魔物给抓过来的。"
+msgstr ""
+
+msgctxt "2502"
+msgid ""
+"把我关在这个地方的，是一位\n"
+"叫作“达尔克·法克特”$20。\n"
+"──穿着一身黑色斗蓬的男人。"
+msgstr ""
+
+msgctxt "2503"
+msgid ""
+"他利用魔物的力量\n"
+"想要把这个国家──艾斯塔里亚变成自己的东西。"
+msgstr ""
+
+msgctxt "2504"
+msgid "这就是他想要君临世界的野心……。"
+msgstr ""
+
+msgctxt "2505"
+msgid ""
+"拜托你$20。\n"
+"希望你能够把达尔克·法克特杀掉。"
+msgstr ""
+
+msgctxt "2506"
+msgid ""
+"他的斗蓬是用一种叫作“库雷利亚”的金属\n"
+"编织而制成的东西。"
+msgstr ""
+
+msgctxt "2507"
+msgid ""
+"如果不是同样用库雷利亚所制成的装备的话\n"
+"是没有办法和他对抗的。"
+msgstr ""
+
+msgctxt "2508"
+msgid "──你有带着伊苏之书吗？"
+msgstr ""
+
+msgctxt "2509"
+msgid ""
+"伊苏之书，除了少数的几个人\n"
+"以外是没有办法解读的。"
+msgstr ""
+
+msgctxt "2510"
+msgid "但是你有解读的权利。"
+msgstr ""
+
+msgctxt "2511"
+msgid ""
+"请你收下这个眼镜$20。\n"
+"用这个就可以解读伊苏的文字了。"
+msgstr ""
+
+msgctxt "2512"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2513"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2514"
+msgid ""
+"达姆之塔，\n"
+"在这么可怕的地方……"
+msgstr ""
+
+msgctxt "2515"
+msgid ""
+"可是……\n"
+"总觉得非常的怀念。"
+msgstr ""
+
+msgctxt "2516"
+msgid ""
+"……亚特鲁先生、\n"
+"非常谢谢你这么关心我的事情。"
+msgstr ""
+
+msgctxt "2517"
+msgid ""
+"我的事情可以不用放在心上，\n"
+"请继续前进吧。"
+msgstr ""
+
+msgctxt "2518"
+msgid ""
+"#40哦～。\n"
+"你就是那个占卜师所挑选出来的剑士啊。"
+msgstr ""
+
+msgctxt "2519"
+msgid ""
+"#40能够把这些书本收集到这种程度，\n"
+"真是值得夸奖。"
+msgstr ""
+
+msgctxt "2520"
+msgid ""
+"#40但是隐藏在伊苏之书的谜\n"
+"如果全部被解开的话、\n"
+"我的计划就会被破坏掉了。"
+msgstr ""
+
+msgctxt "2521"
+msgid ""
+"#40为了在世上留下“达尔克·法克特”这个名字\n"
+"就只有请你去死了。"
+msgstr ""
+
+msgctxt "2522"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2523"
+msgid ""
+"#40为了你的思虑浅薄与无力而咬牙悔恨吧\n"
+"然后就可以埋骨于此啦。"
+msgstr ""
+
+msgctxt "2524"
+msgid ""
+"#40６本伊苏之书集合之时，会产生巨大的力量。\n"
+"可惜你永远也不会有机会亲眼看到了！"
+msgstr ""
+
+msgctxt "2525"
+msgid "在男人的斗蓬之下发现了最终章。"
+msgstr ""
+
+msgctxt "2526"
+msgid ""
+"亚特鲁把６本书重叠在一起\n"
+"眼前发出了一阵耀眼的光芒，\n"
+"充塞着所有空间但是又温柔得令人安心。"
+msgstr ""
+
+msgctxt "2527"
+msgid ""
+"“达尔克·法克特”\n"
+"倒下的时候，从黑暗的瞳孔反映着月光、\n"
+"仰躺而伸指向天的肉体\n"
+"化为海边的砂粒，慢慢的崩溃了……。"
+msgstr ""
+
+msgctxt "2528"
+msgid "在碰到大门的瞬间，手腕产生了剧痛。"
+msgstr ""
+
+msgctxt "2529"
+msgid "８８版台词"
+msgstr ""
+
+msgctxt "2530"
+msgid ""
+"告诉你一件好事当成是你前往地狱的饯别礼吧。\n"
+"你从神殿所救出去的那个女孩子\n"
+"就是洁玛之章所记载的伊苏之国的女神。\n"
+"她因为被恶魔封印起来的关系\n"
+"在这数百年间，都一直在地下长眠着。\n"
+""
+msgstr ""
+
+msgctxt "2531"
+msgid ""
+"因为我解开了恶魔封印的关系、\n"
+"那女孩子也从长眠之中苏醒了过来。\n"
+"只可惜，失去了在伊苏时代的记忆。\n"
+"等我把你杀了以后，那个女孩子\n"
+"就会成为我的女人了。\n"
+"好啦，也差不多该上了！"
+msgstr ""
+
+msgctxt "2532"
+msgid "从树根部份发出了耀眼的银色光芒。"
+msgstr ""
+
+msgctxt "2533"
+msgid ""
+"南 米内亚            200  梅莱\n"
+"北 塞皮克村          9公里梅莱\n"
+"   拉斯汀废矿坑      7公里梅莱"
+msgstr ""
+
+msgctxt "2534"
+msgid ""
+"北 塞皮克村          7公里梅莱\n"
+"   拉斯汀废矿坑      4公里梅莱\n"
+"南 米内亚            3公里梅莱"
+msgstr ""
+
+msgctxt "2535"
+msgid "↑ 塞皮克村·拉斯汀村方面"
+msgstr ""
+
+msgctxt "2536"
+msgid ""
+"东   塞皮克村        5公里梅莱\n"
+"北西 拉斯汀废矿坑    500  梅莱\n"
+"南   米内亚          7公里梅莱"
+msgstr ""
+
+msgctxt "2537"
+msgid ""
+"北 塞皮克村          2公里梅莱\n"
+"西 米内亚            8公里梅莱\n"
+"   拉斯汀废矿坑      4公里梅莱"
+msgstr ""
+
+msgctxt "2538"
+msgid "→ 塞皮克村"
+msgstr ""
+
+msgctxt "2539"
+msgid ""
+"西 米内亚城门        750  梅莱\n"
+"南 巴尔巴多港        5公里梅莱"
+msgstr ""
+
+msgctxt "2540"
+msgid ""
+"↑ 米内亚城门\n"
+"※ 注意脚步"
+msgstr ""
+
+msgctxt "2541"
+msgid "自警团聚会所"
+msgstr ""
+
+msgctxt "2542"
+msgid "武器仓库"
+msgstr ""
+
+msgctxt "2543"
+msgid "被锁起来了。"
+msgstr ""
+
+msgctxt "2544"
+msgid ""
+"从那个奇怪形状的锁孔之中，\n"
+"可以感觉到里面有什么动静。"
+msgstr ""
+
+msgctxt "2545"
+msgid "使用神殿之钥。"
+msgstr ""
+
+msgctxt "2546"
+msgid ""
+"上了锁的牢房。\n"
+"里面好像有什么东西。"
+msgstr ""
+
+msgctxt "2547"
+msgid "使用牢屋之钥。"
+msgstr ""
+
+msgctxt "2548"
+msgid ""
+"被锁了起来。\n"
+"可以感觉到里面有什么动静。"
+msgstr ""
+
+msgctxt "2549"
+msgid "使用象牙之钥。"
+msgstr ""
+
+msgctxt "2550"
+msgid ""
+"被锁了起来。\n"
+""
+msgstr ""
+
+msgctxt "2551"
+msgid "使用大理石之钥。"
+msgstr ""
+
+msgctxt "2552"
+msgid ""
+"从通道的深处感觉到有一股强大杀气。\n"
+"好像是因为某种强力的力量而觉醒过来。"
+msgstr ""
+
+msgctxt "2553"
+msgid ""
+"描绘着奇妙花纹的门。\n"
+"可以感觉到里面有什么动静。"
+msgstr ""
+
+msgctxt "2554"
+msgid "使用达姆之钥。"
+msgstr ""
+
+msgctxt "2555"
+msgid ""
+"试着轻敲大门，并没有任何回音。\n"
+"另外一边好像是岩壁的样子……。"
+msgstr ""
+
+msgctxt "2556"
+msgid "关得这么紧啊……。"
+msgstr ""
+
+msgctxt "2557"
+msgid ""
+"试着推了推、但是石门连动都不动。\n"
+"而且也找不到任何钥匙孔。"
+msgstr ""
+
+msgctxt "2558"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2559"
+msgid ""
+"削掉坚硬的表皮之后、\n"
+"露出来的是果肉质的部分。"
+msgstr ""
+
+msgctxt "2560"
+msgid ""
+"──这一刹那，一种奇妙的感觉\n"
+"沿着背脊向上窜升起来。"
+msgstr ""
+
+msgctxt "2561"
+msgid ""
+"并没有任何地方受伤\n"
+"没有使用的必要吧。"
+msgstr ""
+
+msgctxt "2562"
+msgid ""
+"“伊苏之书”\n"
+"打开了这个谜样的文献。\n"
+"上面是用亚特鲁所不知道的文字所记载的……。"
+msgstr ""
+
+msgctxt "2563"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2564"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2565"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2566"
+msgid "呀，终于来了。"
+msgstr ""
+
+msgctxt "2567"
+msgid ""
+"我是负责美工图形的铃木，请多指教。\n"
+"这次要谈的是伊苏的一些好东西。"
+msgstr ""
+
+msgctxt "2568"
+msgid "这个游戏很有趣吧？"
+msgstr ""
+
+msgctxt "2569"
+msgid ""
+"想要听听对这个游戏的感想。\n"
+"伊苏工作小组全员都在等着你的信哦。\n"
+"只要是有关的感想全部都请你写信过来。"
+msgstr ""
+
+msgctxt "2570"
+msgid ""
+"我们一定会用心看信。\n"
+"作为下一个（？）游戏的参考。\n"
+"请多指教。"
+msgstr ""
+
+msgctxt "2571"
+msgid "可是……要好好的看哦。"
+msgstr ""
+
+msgctxt "2572"
+msgid ""
+"会啦，这里可是“隐密房间”哦。\n"
+"真不愧是冒险家呢，竟然能够找过来。\n"
+"佩服，佩服。"
+msgstr ""
+
+msgctxt "2573"
+msgid ""
+"矢吹？　是的，那家伙是我们公司内对ＦＡＬＣＯＭ\n"
+"最熟的人，和他聊天是最快乐的哦。"
+msgstr ""
+
+msgctxt "2574"
+msgid ""
+"伊苏Ⅲ的角色的话绝对是\n"
+"交给他处理的。"
+msgstr ""
+
+msgctxt "2575"
+msgid ""
+"直到下一个企划完成之前都是单调工作的日子、\n"
+"所以心里总是觉得很烦闷。"
+msgstr ""
+
+msgctxt "2576"
+msgid "依我个人的意见，应该要稍微休息一下比较好。"
+msgstr ""
+
+msgctxt "2577"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2578"
+msgid ""
+"呀，欢迎欢迎。\n"
+"叫我村上就可以了，我是负责美工的部份。\n"
+"请多多指教。"
+msgstr ""
+
+msgctxt "2579"
+msgid ""
+"在米内亚的酒场里喝酒的那个人\n"
+"就是我。这是特别演出哦。"
+msgstr ""
+
+msgctxt "2580"
+msgid ""
+"哎呀～对很多工作都下了工夫学习嘛。\n"
+"不过要偷技术可是不行的哦。"
+msgstr ""
+
+msgctxt "2581"
+msgid ""
+"矢吹先生的绘图很厉害吧？\n"
+"什么？　也想看我画的插画？"
+msgstr ""
+
+msgctxt "2582"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2583"
+msgid "是吗，真是可惜。"
+msgstr ""
+
+msgctxt "2584"
+msgid "画的图是不是和脸一样的可爱啊？"
+msgstr ""
+
+msgctxt "2585"
+msgid "你管我！"
+msgstr ""
+
+msgctxt "2586"
+msgid "我是最喜欢菲娜的了。"
+msgstr ""
+
+msgctxt "2587"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2588"
+msgid ""
+"大家好，我是长尾。\n"
+"我也负责美工，请多指教。\n"
+"因为是第一次的关系，所以各方面都相当辛苦。"
+msgstr ""
+
+msgctxt "2589"
+msgid ""
+"帮程序抓虫，看起来好像是很快乐的事情……\n"
+"其实却是最辛苦的工作哦，\n"
+"简直就像是拷问一样，这种辛酸，你能明白吗？"
+msgstr ""
+
+msgctxt "2590"
+msgid "接下了的作品也快了吧？"
+msgstr ""
+
+msgctxt "2591"
+msgid ""
+"我可是没有图片给你们看哦。\n"
+"这样好了，总是得要献丑一番才行……\n"
+"那么，就出一些常识问答好了。"
+msgstr ""
+
+msgctxt "2592"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2593"
+msgid "× 真是可惜，常识问答的企划已经有人做了。 ×"
+msgstr ""
+
+msgctxt "2594"
+msgid ""
+"什么～，怎么会这么巧呢。\n"
+"………。"
+msgstr ""
+
+msgctxt "2595"
+msgid "抱歉，没有办法作常识问答啦。"
+msgstr ""
+
+msgctxt "2596"
+msgid ""
+"算了，像这种事情，\n"
+"等一下就拜托各位了。"
+msgstr ""
+
+msgctxt "2597"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2598"
+msgid "你好，亚特鲁君，欢迎光临。"
+msgstr ""
+
+msgctxt "2599"
+msgid ""
+"敝人是矢吹，\n"
+"在这个游戏当中是负责美工以及\n"
+"特殊效果的部份。"
+msgstr ""
+
+msgctxt "2600"
+msgid ""
+"敝人在伊苏世界之中，最喜欢的就是\n"
+"在伊苏Ⅲ中登场的艾蕾娜小姐。"
+msgstr ""
+
+msgctxt "2601"
+msgid "那一身美丽的筋肉……真教我忍不住啊。"
+msgstr ""
+
+msgctxt "2602"
+msgid "？？？"
+msgstr ""
+
+msgctxt "2603"
+msgid ""
+"请各位看看敝人所描绘的“艾蕾娜”小姐的\n"
+"插画好了。"
+msgstr ""
+
+msgctxt "2604"
+msgid "要看"
+msgstr ""
+
+msgctxt "2605"
+msgid "不看"
+msgstr ""
+
+msgctxt "2606"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2607"
+msgid "就是这样啦。　很可惜吧。"
+msgstr ""
+
+msgctxt "2608"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2609"
+msgid ""
+"也有家伙真的脱了哦。\n"
+"可是有没有看的价值呢？"
+msgstr ""
+
+msgctxt "2610"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2611"
+msgid "？？？"
+msgstr ""
+
+msgctxt "2612"
+msgid ""
+"在敝人心中艾蕾娜小姐的印象\n"
+"应该是这个样子的。"
+msgstr ""
+
+msgctxt "2613"
+msgid ""
+"啊啊～真是好美啊～美得受不了了。\n"
+"伊苏Ⅲ的各种角色，都是由这个矢吹所负责的。"
+msgstr ""
+
+msgctxt "2614"
+msgid "啊啊……。"
+msgstr ""
+
+msgctxt "2615"
+msgid "就是这样啦，颇有一看的价值吧。"
+msgstr ""
+
+msgctxt "2616"
+msgid ""
+"嗯～～，肌肉部份十分美丽的，像这么美丽的身体，\n"
+"一定是常常作健身运动吧。"
+msgstr ""
+
+msgctxt "2617"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2618"
+msgid ""
+"想要知道ＦＡＬＣＯＭ的事吗？\n"
+"没问题，敝人一定会热烈的倾囊而出的。\n"
+"但·是·呢，\n"
+"你必须能够回答敝人所问的８个以上的问题才行。"
+msgstr ""
+
+msgctxt "2619"
+msgid ""
+"要不要再度挑战问答题啊？\n"
+"有没有回去用功学习呢？\n"
+"好像有的样子。那么，问答开始！"
+msgstr ""
+
+msgctxt "2620"
+msgid ""
+"真是太厉害了。这算是了不起的ＦＡＬＣＯＭ大师吧？\n"
+"既然你都已经到了这种境界，敝人也没有什么可说的了。"
+msgstr ""
+
+msgctxt "2621"
+msgid ""
+"不行不行，还不够用功哦。\n"
+"还是期待下一次的挑战好了。"
+msgstr ""
+
+msgctxt "2622"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2623"
+msgid ""
+"伊苏的剧情从后半开始是由竹入负责支持的。\n"
+"各位觉得怎么样啊？"
+msgstr ""
+
+msgctxt "2624"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2625"
+msgid "ＺＺＺ……"
+msgstr ""
+
+msgctxt "2626"
+msgid "………咕呜…"
+msgstr ""
+
+msgctxt "2627"
+msgid "……嗯～～？"
+msgstr ""
+
+msgctxt "2628"
+msgid ""
+"哎呀，现在正在作程序连结之中、\n"
+"我可不是一直都在睡觉的哦。"
+msgstr ""
+
+msgctxt "2629"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2630"
+msgid "ＺＺＺ…$60…"
+msgstr ""
+
+msgctxt "2631"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2632"
+msgid "……吃不下了（梦话）…$20、…什～么$20？ …有什么事啊$30？"
+msgstr ""
+
+msgctxt "2633"
+msgid "轮到我了$30？  想要知道本大爷的事情啊。"
+msgstr ""
+
+msgctxt "2634"
+msgid ""
+"……大爷我是岩崎。\n"
+"负责这次伊苏的角色设定、\n"
+"以及伊苏的世界观的监督修正、\n"
+"……也就是在伊苏中专门提意见的人。"
+msgstr ""
+
+msgctxt "2635"
+msgid "怎么说呢……到此为止！"
+msgstr ""
+
+msgctxt "2636"
+msgid "还要吃啊（梦话）……"
+msgstr ""
+
+msgctxt "2637"
+msgid "ＺＺＺ……"
+msgstr ""
+
+msgctxt "2638"
+msgid "看我的！　可恶！　我不甘心！"
+msgstr ""
+
+msgctxt "2639"
+msgid "竟然会被这种家伙打败！"
+msgstr ""
+
+msgctxt "2640"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2641"
+msgid "轮到我了……差点睡着。"
+msgstr ""
+
+msgctxt "2642"
+msgid ""
+"程序抓虫期间可是非常无聊的。\n"
+"因为单调的工作会使我的心里非常烦闷。"
+msgstr ""
+
+msgctxt "2643"
+msgid ""
+"我？\n"
+"我是负责程序设计的轻泽，各位好。\n"
+"嗯啊[？]"
+msgstr ""
+
+msgctxt "2644"
+msgid "哎呀☆"
+msgstr ""
+
+msgctxt "2645"
+msgid ""
+"就是这个意思啦。\n"
+"拜拜(^^)/"
+msgstr ""
+
+msgctxt "2646"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2647"
+msgid "各位好。"
+msgstr ""
+
+msgctxt "2648"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2649"
+msgid "终于发现这里了啊，值得夸奖哦。"
+msgstr ""
+
+msgctxt "2650"
+msgid ""
+"但是，并不是知道这个房间的存在就可以\n"
+"随时都能进来的。"
+msgstr ""
+
+msgctxt "2651"
+msgid ""
+"也不是说在世界的历史上留名就会如何、\n"
+"反正到头来都会死翘翘的☆ "
+msgstr ""
+
+msgctxt "2652"
+msgid "上吧！　岩杀鬼！"
+msgstr ""
+
+msgctxt "2653"
+msgid ""
+"嗯嗯嗯嗯～～！　虽然不是什么陷阱\n"
+"可是……女王陛下啊啊啊啊啊啊啊啊啊啊啊！！"
+msgstr ""
+
+msgctxt "2654"
+msgid ""
+"第一版《伊苏》（ＰＣ－８８版）的伊苏\n"
+"是在哪一年发售的？"
+msgstr ""
+
+msgctxt "2655"
+msgid "１９８３年"
+msgstr ""
+
+msgctxt "2656"
+msgid "１９８５年"
+msgstr ""
+
+msgctxt "2657"
+msgid "１９８７年"
+msgstr ""
+
+msgctxt "2658"
+msgid "因为失去银之口琴而烦恼的是谁？"
+msgstr ""
+
+msgctxt "2659"
+msgid "洁瓦"
+msgstr ""
+
+msgctxt "2660"
+msgid "蕾雅"
+msgstr ""
+
+msgctxt "2661"
+msgid "菲娜"
+msgstr ""
+
+msgctxt "2662"
+msgid "日本ＦＡＬＣＯＭ的所在地是哪里？"
+msgstr ""
+
+msgctxt "2663"
+msgid "东京都立川市"
+msgstr ""
+
+msgctxt "2664"
+msgid "东京都新宿区"
+msgstr ""
+
+msgctxt "2665"
+msgid "崎玉县"
+msgstr ""
+
+msgctxt "2666"
+msgid "Ｓｌａｙｅｒｓ系列的第四作品名称是？"
+msgstr ""
+
+msgctxt "2667"
+msgid "苏沙里安"
+msgstr ""
+
+msgctxt "2668"
+msgid "英雄传说"
+msgstr ""
+
+msgctxt "2669"
+msgid "ＤｒａｇｏｎＳｌａｙｅｒ　Ｆａｍｉｌｙ"
+msgstr ""
+
+msgctxt "2670"
+msgid "ダイナソア中登场的主角的名字是？"
+msgstr ""
+
+msgctxt "2671"
+msgid "亚休"
+msgstr ""
+
+msgctxt "2672"
+msgid "亚特拉斯"
+msgstr ""
+
+msgctxt "2673"
+msgid "亚特鲁"
+msgstr ""
+
+msgctxt "2674"
+msgid "伊苏Ⅴ中亚特鲁的年龄是？"
+msgstr ""
+
+msgctxt "2675"
+msgid "１９岁"
+msgstr ""
+
+msgctxt "2676"
+msgid "２０岁"
+msgstr ""
+
+msgctxt "2677"
+msgid "２１岁"
+msgstr ""
+
+msgctxt "2678"
+msgid "伊苏Ⅴ中费尔泰村的少女的名字是？"
+msgstr ""
+
+msgctxt "2679"
+msgid "艾莉斯"
+msgstr ""
+
+msgctxt "2680"
+msgid "艾菲"
+msgstr ""
+
+msgctxt "2681"
+msgid "艾蕾娜"
+msgstr ""
+
+msgctxt "2682"
+msgid "伊苏Ⅲ的女主角的名字是？"
+msgstr ""
+
+msgctxt "2683"
+msgid "艾莉斯"
+msgstr ""
+
+msgctxt "2684"
+msgid "艾菲"
+msgstr ""
+
+msgctxt "2685"
+msgid "艾蕾娜"
+msgstr ""
+
+msgctxt "2686"
+msgid ""
+"英雄传说Ⅲ中克里斯出场，\n"
+"在安比许展开的选拔会是？"
+msgstr ""
+
+msgctxt "2687"
+msgid "美人选拔会"
+msgstr ""
+
+msgctxt "2688"
+msgid "料理选拔会"
+msgstr ""
+
+msgctxt "2689"
+msgid "健美选拔会"
+msgstr ""
+
+msgctxt "2690"
+msgid "下面哪一个不是我们ＦＡＬＣＯＭ的作品？"
+msgstr ""
+
+msgctxt "2691"
+msgid "伊苏"
+msgstr ""
+
+msgctxt "2692"
+msgid "就这么印刷吧"
+msgstr ""
+
+msgctxt "2693"
+msgid "美少女剑士"
+msgstr ""
+
+msgctxt "2694"
+msgid ""
+"初代伊苏因为机种不同的关系有几首音乐有所不同、\n"
+"所有机种共通的是下面哪一首曲子。"
+msgstr ""
+
+msgctxt "2695"
+msgid "序篇"
+msgstr ""
+
+msgctxt "2696"
+msgid "神殿１"
+msgstr ""
+
+msgctxt "2697"
+msgid "达姆之塔"
+msgstr ""
+
+msgctxt "2698"
+msgid "在伊苏Ⅱ中能够得到萝妲之果的地方有几个？"
+msgstr ""
+
+msgctxt "2699"
+msgid "一个"
+msgstr ""
+
+msgctxt "2700"
+msgid "二个"
+msgstr ""
+
+msgctxt "2701"
+msgid "三个"
+msgstr ""
+
+msgctxt "2702"
+msgid "塞尔西达之花的效果是？"
+msgstr ""
+
+msgctxt "2703"
+msgid "ＨＰ·ＭＰ的回复"
+msgstr ""
+
+msgctxt "2704"
+msgid "起死回生"
+msgstr ""
+
+msgctxt "2705"
+msgid "烤来吃"
+msgstr ""
+
+msgctxt "2706"
+msgid ""
+"伊苏Ⅰ的药是１０００ＧＯＬＤ。\n"
+"那么伊苏Ⅱ的药草的价格是？"
+msgstr ""
+
+msgctxt "2707"
+msgid "３０ＧＯＬＤ"
+msgstr ""
+
+msgctxt "2708"
+msgid "３００ＧＯＬＤ"
+msgstr ""
+
+msgctxt "2709"
+msgid "３０００ＧＯＬＤ"
+msgstr ""
+
+msgctxt "2710"
+msgid ""
+"兰斯之村的武器·防具店、\n"
+"见习的学徒工人的名字是？"
+msgstr ""
+
+msgctxt "2711"
+msgid "鲁布鲁"
+msgstr ""
+
+msgctxt "2712"
+msgid "鲁多鲁"
+msgstr ""
+
+msgctxt "2713"
+msgid "鲁加鲁"
+msgstr ""
+
+msgctxt "2714"
+msgid ""
+"伊苏Ⅱ的女主角、\n"
+"莉莉亚的母亲的名字是？"
+msgstr ""
+
+msgctxt "2715"
+msgid "芭诺雅"
+msgstr ""
+
+msgctxt "2716"
+msgid "萝汀玛雅"
+msgstr ""
+
+msgctxt "2717"
+msgid "安多雷·萨·贾安"
+msgstr ""
+
+msgctxt "2718"
+msgid ""
+"最早演出菲娜的声音的人\n"
+"是哪一位。（敬称省略）"
+msgstr ""
+
+msgctxt "2719"
+msgid "高山美奈美"
+msgstr ""
+
+msgctxt "2720"
+msgid "渡边菜生子"
+msgstr ""
+
+msgctxt "2721"
+msgid "平野文"
+msgstr ""
+
+msgctxt "2722"
+msgid ""
+"美少女剑士中\n"
+"无法由玩家操作的是？"
+msgstr ""
+
+msgctxt "2723"
+msgid "见习魔导士见习达特"
+msgstr ""
+
+msgctxt "2724"
+msgid "变态爆弹魔布拉基"
+msgstr ""
+
+msgctxt "2725"
+msgid "怪兽卡乌"
+msgstr ""
+
+msgctxt "2726"
+msgid ""
+"Ｓｔａｒ　Ｒａｄｅｒ的主角凯因\n"
+"手中的手轮种类是？"
+msgstr ""
+
+msgctxt "2727"
+msgid "里伯鲁巴"
+msgstr ""
+
+msgctxt "2728"
+msgid "自动机轮"
+msgstr ""
+
+msgctxt "2729"
+msgid "火绳短轮"
+msgstr ""
+
+msgctxt "2730"
+msgid "英雄传说Ⅳ中亚鲁谢姆所使用的武器是？"
+msgstr ""
+
+msgctxt "2731"
+msgid "弓箭"
+msgstr ""
+
+msgctxt "2732"
+msgid "飞刀"
+msgstr ""
+
+msgctxt "2733"
+msgid "飞锤"
+msgstr ""
+
+msgctxt "2734"
+msgid ""
+"帮亚特鲁准备到艾斯塔里亚的船\n"
+"这个人物的名字是？"
+msgstr ""
+
+msgctxt "2735"
+msgid "贾雷克"
+msgstr ""
+
+msgctxt "2736"
+msgid "托曼"
+msgstr ""
+
+msgctxt "2737"
+msgid "诺顿"
+msgstr ""
+
+msgctxt "2738"
+msgid "伊苏Ⅰ的最终大魔王的名字是？"
+msgstr ""
+
+msgctxt "2739"
+msgid "达尔克·法克特"
+msgstr ""
+
+msgctxt "2740"
+msgid "达姆"
+msgstr ""
+
+msgctxt "2741"
+msgid "脱拉裤"
+msgstr ""
+
+msgctxt "2742"
+msgid ""
+"在英雄传说Ⅲ登场的下面三人之中\n"
+"谁的头发最短？"
+msgstr ""
+
+msgctxt "2743"
+msgid "朱利欧"
+msgstr ""
+
+msgctxt "2744"
+msgid "克里斯"
+msgstr ""
+
+msgctxt "2745"
+msgid "菲利"
+msgstr ""
+
+msgctxt "2746"
+msgid ""
+"ＢＲＡＮＤＩＳＨ系列的主角\n"
+"亚雷斯的全名是？"
+msgstr ""
+
+msgctxt "2747"
+msgid "亚雷斯·托拉努斯"
+msgstr ""
+
+msgctxt "2748"
+msgid "亚雷斯·托拉诺斯"
+msgstr ""
+
+msgctxt "2749"
+msgid "亚雷斯·托恩达蒙达那斯"
+msgstr ""
+
+msgctxt "2750"
+msgid ""
+"伊苏系列中最强的女主角、\n"
+"艾蕾娜的全名是？"
+msgstr ""
+
+msgctxt "2751"
+msgid "艾蕾娜·史特达特"
+msgstr ""
+
+msgctxt "2752"
+msgid "艾蕾娜·史特雷吉"
+msgstr ""
+
+msgctxt "2753"
+msgid "艾蕾娜·马斯鲁"
+msgstr ""
+
+msgctxt "2754"
+msgid ""
+"在伊苏系列中伟大的多奇先生\n"
+"没有登场的是哪一部？"
+msgstr ""
+
+msgctxt "2755"
+msgid "伊苏Ⅰ"
+msgstr ""
+
+msgctxt "2756"
+msgid "伊苏Ⅲ"
+msgstr ""
+
+msgctxt "2757"
+msgid "伊苏Ⅴ"
+msgstr ""
+
+msgctxt "2758"
+msgid "在伊苏Ⅰ的草原上出现的红狗的名字是？"
+msgstr ""
+
+msgctxt "2759"
+msgid "赤魔狼"
+msgstr ""
+
+msgctxt "2760"
+msgid "红狗"
+msgstr ""
+
+msgctxt "2761"
+msgid "伊波奴"
+msgstr ""
+
+msgctxt "2762"
+msgid ""
+"从伊苏Ⅰ的神殿出来之后\n"
+"接下来只有头的怪物是？"
+msgstr ""
+
+msgctxt "2763"
+msgid "莱亚斯"
+msgstr ""
+
+msgctxt "2764"
+msgid "迪恩贝尔"
+msgstr ""
+
+msgctxt "2765"
+msgid "雷斯寇依德"
+msgstr ""
+
+msgctxt "2766"
+msgid "在伊苏Ⅰ登场的多奇的职业是？"
+msgstr ""
+
+msgctxt "2767"
+msgid "健身者"
+msgstr ""
+
+msgctxt "2768"
+msgid "筋肉拥护研究爱好会会长"
+msgstr ""
+
+msgctxt "2769"
+msgid "盗贼"
+msgstr ""
+
+msgctxt "2770"
+msgid "在伊苏Ⅰ登场的莎拉的职业是？"
+msgstr ""
+
+msgctxt "2771"
+msgid "占卜师"
+msgstr ""
+
+msgctxt "2772"
+msgid "巫女"
+msgstr ""
+
+msgctxt "2773"
+msgid "巫师"
+msgstr ""
+
+msgctxt "2774"
+msgid ""
+"伊苏Ⅰ神殿的牢房\n"
+"谁被关在菲娜隔壁的牢房？"
+msgstr ""
+
+msgctxt "2775"
+msgid "卢达"
+msgstr ""
+
+msgctxt "2776"
+msgid "萝妲"
+msgstr ""
+
+msgctxt "2777"
+msgid "蕾雅"
+msgstr ""
+
+msgctxt "2778"
+msgid "是谁在伊苏·艾塔娜尔的湖边钓鱼？"
+msgstr ""
+
+msgctxt "2779"
+msgid "老人"
+msgstr ""
+
+msgctxt "2780"
+msgid "少年"
+msgstr ""
+
+msgctxt "2781"
+msgid "某人"
+msgstr ""
+
+msgctxt "2782"
+msgid "达姆之塔内卢达受伤的地方是？"
+msgstr ""
+
+msgctxt "2783"
+msgid "头"
+msgstr ""
+
+msgctxt "2784"
+msgid "手"
+msgstr ""
+
+msgctxt "2785"
+msgid "脚"
+msgstr ""
+
+msgctxt "2786"
+msgid "英雄传说Ⅰ中谁嫁给了塞里欧斯？"
+msgstr ""
+
+msgctxt "2787"
+msgid "芙萝拉"
+msgstr ""
+
+msgctxt "2788"
+msgid "迪娜"
+msgstr ""
+
+msgctxt "2789"
+msgid "迪娜肯"
+msgstr ""
+
+msgctxt "2790"
+msgid "在英雄传说Ⅲ拉普爷爷的书名是？"
+msgstr ""
+
+msgctxt "2791"
+msgid "米谢尔·多·拉普·赫本"
+msgstr ""
+
+msgctxt "2792"
+msgid "米谢尔·丹·乌鲁多拉○本"
+msgstr ""
+
+msgctxt "2793"
+msgid "诺斯亚美利加·米谢尔"
+msgstr ""
+
+msgctxt "2794"
+msgid "伊苏Ⅱ中是什么把玛丽亚关在大钟堂里面？"
+msgstr ""
+
+msgctxt "2795"
+msgid "防护罩"
+msgstr ""
+
+msgctxt "2796"
+msgid "结界"
+msgstr ""
+
+msgctxt "2797"
+msgid "怪物"
+msgstr ""
+
+msgctxt "2798"
+msgid ""
+"在伊苏Ⅱ（ＰＣ－９８０１版）\n"
+"是不是有隐藏信息存在？"
+msgstr ""
+
+msgctxt "2799"
+msgid "蕾雅之诗"
+msgstr ""
+
+msgctxt "2800"
+msgid "菲娜的自言自语"
+msgstr ""
+
+msgctxt "2801"
+msgid "多奇的老板"
+msgstr ""
+
+msgctxt "2802"
+msgid ""
+"在伊苏Ⅴ的女性角色、\n"
+"谁在设定段阶是男的？"
+msgstr ""
+
+msgctxt "2803"
+msgid "艾菲"
+msgstr ""
+
+msgctxt "2804"
+msgid "蒂拉"
+msgstr ""
+
+msgctxt "2805"
+msgid "丽婕"
+msgstr ""
+
+msgctxt "2806"
+msgid ""
+"在伊苏Ⅰ之中帮助他人可以得到ＥＸＰ。\n"
+"那么、能够得到３０００ＥＸＰ的\n"
+"是下面哪一件事情。"
+msgstr ""
+
+msgctxt "2807"
+msgid "菲娜救出"
+msgstr ""
+
+msgctxt "2808"
+msgid "银之铃还给村长"
+msgstr ""
+
+msgctxt "2809"
+msgid "银之口琴还给蕾雅"
+msgstr ""
+
+msgctxt "2810"
+msgid "选择哪一个答案？"
+msgstr ""
+
+msgctxt "2811"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2812"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2813"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2814"
+msgid "正确答案。你知道得满清楚的嘛。"
+msgstr ""
+
+msgctxt "2815"
+msgid "错误答案。请再多加考虑哦。"
+msgstr ""
+
+msgctxt "2816"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2817"
+msgid ""
+"没看过的生面孔哦$20。\n"
+"是从什么地方来的呢？"
+msgstr ""
+
+msgctxt "2818"
+msgid ""
+"亚特鲁在草原被老鼠打败之后、\n"
+"很伤心的在这里告诉我。"
+msgstr ""
+
+msgctxt "2819"
+msgid "你知道出口在什么地方吗？"
+msgstr ""
+
+msgctxt "2820"
+msgid "如果回答正确的话就可以让你看看。"
+msgstr ""
+
+msgctxt "2821"
+msgid "这家伙是谁啊？"
+msgstr ""
+
+msgctxt "2822"
+msgid "在美少女剑士中出现的奇怪怪兽"
+msgstr ""
+
+msgctxt "2823"
+msgid "五右卫门之中的谁呢"
+msgstr ""
+
+msgctxt "2824"
+msgid "在美少女剑士中出现的水路混蛋"
+msgstr ""
+
+msgctxt "2825"
+msgid "眉毛特粗之人１号"
+msgstr ""
+
+msgctxt "2826"
+msgid ""
+"要再度挑战吗$10？\n"
+"这次应该会有所不同了哦。"
+msgstr ""
+
+msgctxt "2827"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2828"
+msgid ""
+"废话少说啦$20。\n"
+"可是，既然你答对了。我就带你看看吧。"
+msgstr ""
+
+msgctxt "2829"
+msgid ""
+"不对啦$20。\n"
+"为什么水路混蛋知道而我却不知道呢？\n"
+""
+msgstr ""
+
+msgctxt "2830"
+msgid "可是，还是算了吧。这就带你去看罗。"
+msgstr ""
+
+msgctxt "2831"
+msgid "<!empty>"
+msgstr ""
+
+msgctxt "2832"
+msgid ""
+"……。\n"
+"你这个人的性情不大好哦。"
+msgstr ""
+
+msgctxt "2833"
+msgid ""
+"这个乱来的家伙……！\n"
+""
+msgstr ""
+
+msgctxt "2834"
+msgid ""
+"难道说要死掉了吗！\n"
+"这样子很适合你这位剑士呢！"
+msgstr ""

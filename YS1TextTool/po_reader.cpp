@@ -5,7 +5,7 @@
 
 using namespace std;
 
-bool ReadDataFromPO(std::vector<std::vector<std::string>> &result, const LPCSTR &poPath, long &lineFlag)
+bool ReadDataFromPO(std::vector<std::vector<std::string>> &result, const std::string &poPath, long &lineFlag)
 {
     ifstream reader;
     reader.open(poPath);
@@ -70,6 +70,15 @@ bool ReadDataFromPO(std::vector<std::vector<std::string>> &result, const LPCSTR 
                     wTemp.clear();
                     status = Idle;
                 }
+                else if (ContainSubStr(line, YS1_SCANE_PO_MSG_CTXT))
+                {
+                    vector<string> wRet = wTemp;
+                    result.push_back(wRet);
+                    lineFlag++;
+                    wTemp.clear();
+                    status = ReadTxt;
+                    wTemp.push_back(line + "\n");
+                }
                 else
                 {
                     //removeSubStr(line, YS_SCANE_PO_MSG_STR);
@@ -78,6 +87,9 @@ bool ReadDataFromPO(std::vector<std::vector<std::string>> &result, const LPCSTR 
                 break;
         }
     }
+    //add the last data
+    vector<string> wRet = wTemp;
+    result.push_back(wRet);
     reader.close();
     return true;
 }

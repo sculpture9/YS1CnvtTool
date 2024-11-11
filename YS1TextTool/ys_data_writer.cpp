@@ -107,7 +107,7 @@ long WriteVOs2CSV(std::vector<ParaTranzVO> &ptVOs, std::string tgtPath)
     return count;
 }
 
-long WriteVOs2CSV(std::vector<YS1POVO> &poVOs, std::string tgtPath)
+long WriteVOs2PO(std::vector<YS1POVO> &poVOs, std::string tgtPath)
 {
     ofstream fileWriter;
     fileWriter.open(tgtPath);

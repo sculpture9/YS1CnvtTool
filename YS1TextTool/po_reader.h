@@ -11,6 +11,6 @@ enum ReadPoStatus
     ReadStr,
 };
 
-bool ReadDataFromPO(std::vector<std::vector<std::string>> &result, const LPCSTR &poPath, long &lineFlag);
+bool ReadDataFromPO(std::vector<std::vector<std::string>> &result, const std::string &poPath, long &lineFlag);
 
 bool ContainSubStr(std::string father, std::string son);

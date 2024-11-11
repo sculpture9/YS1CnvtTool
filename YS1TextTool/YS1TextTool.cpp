@@ -11,6 +11,7 @@
 
 int main()
 {
+    MatchPOText(TARGET_PO_PATH, SC2ENGFORSCENA_PATH, ORIGIN_PO_PATH, TS_PO_PATH);
     //SupportGetCSVFromExeText();
     //SupportUpdateCSVWithAddonText(YS1_EXE_CSV_ORI_PATH, YS1_EXE_ADDON_TEXT_ORI_PATH, YS1_EXE_CSV_TGT_PATH);
     //SupportUpdateCSVWithAddonText(YS2_EXE_CSV_ORI_PATH, YS2_EXE_ADDON_TEXT_ORI_PATH, YS2_EXE_CSV_TGT_PATH);
@@ -156,7 +157,106 @@ void MergeParaTranzCSV2PO()
             }
         }
     }
-    WriteVOs2CSV(tgtVOs, YS1_SCANE_PO_TGT_PATH);
+    WriteVOs2PO(tgtVOs, YS1_SCANE_PO_TGT_PATH);
+}
+
+void MatchPOText(std::string tgtPOPath, std::string matchCSVPath, std::string oriPOPath, std::string scPOPath)
+{
+    /*var node = NodeFactory.FromFile(targetPOPath);
+node.TransformWith(new Binary2Po()).Stream.WriteTo(target1POPath);*/
+//return;
+
+    //获取行对应表
+    vector<vector<string>> matchCsv;
+    long lineFlag;
+    ReadDataFromCSV(matchCsv, matchCSVPath, lineFlag);
+    cout <<("Get CSV！") << endl;
+
+    //获取PO数据
+    vector<vector<string>> oriPOCSV;
+    vector<vector<string>> scPOCSV;
+    ReadDataFromPO(oriPOCSV, oriPOPath, lineFlag);
+    ReadDataFromPO(scPOCSV, scPOPath, lineFlag);
+    vector<YS1POVO> oriPO = GetYS1POVOs(oriPOCSV);
+    vector<YS1POVO> scPOPO = GetYS1POVOs(scPOCSV);
+    cout << ("Get PO！") << endl;
+
+    //获取行对应组
+    vector<Section> oriList;
+    vector<Section> scList;
+    GenerateSectionList(matchCsv, oriList, scList);
+    cout << ("PO Maped") << endl;
+
+    //根据行对应组替换PO数据
+    vector<YS1POVO> result = GetResultOfTranslation(oriList, scList, oriPO, scPOPO);
+    //保存结果
+    if (result.size() != 0)
+    {
+        WriteVOs2PO(result, tgtPOPath);
+        cout << ("Move Succeed！") << endl;
+    }
+    else cout << ("Move Failed！") << endl;
+}
+
+void GenerateSectionList(vector<vector<string>> matchCSV, vector<Section> &oriList, vector<Section> &scList)
+{
+    for (int i = 0; i < matchCSV.size(); i++)
+    {
+        //表中只有四列数据
+        auto line = matchCSV[i];
+        Section oriSec;
+        Section scSec;
+        oriSec.begin = atoi(line[0].c_str());
+        oriSec.end = atoi(line[1].c_str());
+        scSec.begin = atoi(line[2].c_str());
+        scSec.end = atoi(line[3].c_str());
+        oriList.push_back(oriSec);
+        scList.push_back(scSec);
+    }
+}
+
+vector<YS1POVO> GetResultOfTranslation(vector<Section> oriSecList, vector<Section> scSecList, vector<YS1POVO> oriPOVOs, vector<YS1POVO> scPOVOs)
+{
+    if (oriSecList.size() != scSecList.size()) return {};
+
+    vector<YS1POVO> result;
+    int secCounter = 0;
+    for (int i = 0; i < oriPOVOs.size(); i++)
+    {
+        if (secCounter < oriSecList.size() && atoi(oriPOVOs[i].msgctxt.c_str()) == oriSecList[secCounter].begin)
+        {
+            int oriPOVOCounter = TranslateSection(result, i, oriPOVOs, scPOVOs, oriSecList[secCounter], scSecList[secCounter]);
+            if (oriPOVOCounter != -1)
+            {
+                secCounter++;
+                i = oriPOVOCounter;
+            }
+            else return {};
+        }
+        else
+        {
+            result.push_back(oriPOVOs[i]);
+        }
+    }
+    return result;
+}
+
+int TranslateSection(vector<YS1POVO> &result, int oriLineNo, const vector<YS1POVO> &oriPO, const vector<YS1POVO> &scPO, Section oriSection, Section scSection)
+{
+    if (oriSection.end - oriSection.begin != scSection.end - scSection.begin) return -1;  //翻译数据无法对齐则失败
+
+    int oriCounter = oriSection.begin;
+    int scCounter = scSection.begin;
+   
+    for (; oriCounter <= oriSection.end; oriCounter++, scCounter++)
+    {
+        auto poTemp = oriPO[oriCounter];
+        poTemp.msgstr = scPO[scCounter].msgid;
+        result.push_back(poTemp);
+        
+    }
+    int povoCounter = oriCounter - 1;  //return current counter
+    return povoCounter;
 }
 
 // 运行程序: Ctrl + F5 或调试 >“开始执行(不调试)”菜单

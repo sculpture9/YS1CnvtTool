@@ -1,5 +1,14 @@
 #pragma once
 //与C#不同，C++相对路径在工程目录底下
+
+constexpr auto SC2ENGFORSCENA_PATH = "work\\source\\SC2ENGForSCENA.csv";
+
+constexpr auto ORIGIN_PO_PATH = "work\\source\\SCENA.po";
+
+constexpr auto TS_PO_PATH = "work\\source\\SCENA 完全版简体中文[已勘正编码].po";
+
+constexpr auto TARGET_PO_PATH = "work\\target\\SCENA Complete翻译移植版.po";
+
 constexpr auto YS1_TRANSLATED_PATH = "text\\";
 
 constexpr auto YS1_EXE_TEXT_ORI_PATH = "work\\source\\ys1_exe_text.txt";
