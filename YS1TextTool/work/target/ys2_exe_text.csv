@@ -11,25 +11,25 @@
 10,"Gila"," ","text.ini",5,12,5305980,-1,
 11,"Tess"," ","text.ini",5,12,5305988,-1,
 12,"Tran"," ","text.ini",5,12,5306012,-1,
-13,"Kris"," ","text.ini",5,12,5306044,-1,
+13,"Kris"," ","text.ini",5,12,5306044,5221060,
 14,"Beth"," ","text.ini",5,12,5306080,-1,
 15,"Andy"," ","text.ini",5,12,5306096,-1,
 16,"Kate"," ","text.ini",5,12,5306112,-1,
-17,"Colt"," ","text.ini",5,12,5306120,-1,
-18,"Esca"," ","text.ini",5,12,5306140,-1,
+17,"Colt"," ","text.ini",5,12,5306120,5221104,
+18,"Esca"," ","text.ini",5,12,5306140,5221112,
 19,"Tita"," ","text.ini",5,12,5306148,-1,
 20,"Theo"," ","text.ini",5,12,5306156,-1,
 21,"Lucy"," ","text.ini",5,12,5306164,-1,
 22,"Polo"," ","text.ini",5,12,5306180,-1,
 23,"Ruba"," ","text.ini",5,12,5306196,-1,
-24,"Fred"," ","text.ini",5,12,5306212,-1,
+24,"Fred"," ","text.ini",5,12,5306212,5221140,
 25,"Rafa"," ","text.ini",5,12,5306220,-1,
-26,"Noit"," ","text.ini",5,12,5306228,-1,
+26,"Noit"," ","text.ini",5,12,5306228,5221148,
 27,"Elle"," ","text.ini",5,12,5306248,-1,
 28,"Nash"," ","text.ini",5,12,5306320,-1,
 29,"Sada"," ","text.ini",5,12,5306416,-1,
 30,"Regg"," ","text.ini",5,12,5306456,-1,
-31,"Frau"," ","text.ini",5,12,5306472,-1,
+31,"Frau"," ","text.ini",5,12,5306472,5221268,
 32,"Neal"," ","text.ini",5,12,5306496,-1,
 33,"Muto"," ","text.ini",5,12,5306512,-1,
 34,"Faye"," ","text.ini",5,12,5306520,-1,
@@ -91,33 +91,33 @@
 90,"Dirga"," ","text.ini",6,12,5301944,5221496,
 91,"Feena"," ","text.ini",6,12,5305712,-1,
 92,"Goban"," ","text.ini",6,12,5305724,-1,
-93,"Banoa"," ","text.ini",6,12,5305868,-1,
-94,"Lilia"," ","text.ini",6,12,5305876,-1,
-95,"Astal"," ","text.ini",6,12,5305896,-1,
+93,"Banoa"," ","text.ini",6,12,5305868,5220992,
+94,"Lilia"," ","text.ini",6,12,5305876,5220988,
+95,"Astal"," ","text.ini",6,12,5305896,5220996,
 96,"Guido"," ","text.ini",6,12,5305964,-1,
-97,"Leggs"," ","text.ini",6,12,5305972,-1,
-98,"Lazlo"," ","text.ini",6,12,5305996,-1,
+97,"Leggs"," ","text.ini",6,12,5305972,5221032,
+98,"Lazlo"," ","text.ini",6,12,5305996,5221036,
 99,"Bohtz"," ","text.ini",6,12,5306028,-1,
-100,"Ceres"," ","text.ini",6,12,5306036,-1,
-101,"Brody"," ","text.ini",6,12,5306060,-1,
-102,"Oseam"," ","text.ini",6,12,5306088,-1,
-103,"Favre"," ","text.ini",6,12,5306256,-1,
-104,"Meryl"," ","text.ini",6,12,5306272,-1,
-105,"Kasim"," ","text.ini",6,12,5306280,-1,
-106,"Ischt"," ","text.ini",6,12,5306288,-1,
+100,"Ceres"," ","text.ini",6,12,5306036,5221064,
+101,"Brody"," ","text.ini",6,12,5306060,5221068,
+102,"Oseam"," ","text.ini",6,12,5306088,5221088,
+103,"Favre"," ","text.ini",6,12,5306256,5221164,
+104,"Meryl"," ","text.ini",6,12,5306272,5221172,
+105,"Kasim"," ","text.ini",6,12,5306280,5221184,
+106,"Ischt"," ","text.ini",6,12,5306288,5221180,
 107,"Darie"," ","text.ini",6,12,5306296,-1,
 108,"Keith"," ","text.ini",6,12,5306384,-1,
-109,"Lloyd"," ","text.ini",6,12,5306400,-1,
+109,"Lloyd"," ","text.ini",6,12,5306400,5221240,
 110,"Gorto"," ","text.ini",6,12,5306408,-1,
-111,"Hadat"," ","text.ini",6,12,5306424,-1,
+111,"Hadat"," ","text.ini",6,12,5306424,5221244,
 112,"Karen"," ","text.ini",6,12,5306432,-1,
-113,"Maria"," ","text.ini",6,12,5306440,-1,
-114,"Zalem"," ","text.ini",6,12,5306448,-1,
-115,"Frith"," ","text.ini",6,12,5306464,-1,
-116,"Blitz"," ","text.ini",6,12,5306488,-1,
-117,"Tanya"," ","text.ini",6,12,5306504,-1,
+113,"Maria"," ","text.ini",6,12,5306440,5221252,
+114,"Zalem"," ","text.ini",6,12,5306448,5221264,
+115,"Frith"," ","text.ini",6,12,5306464,5221272
+116,"Blitz"," ","text.ini",6,12,5306488,5221276,
+117,"Tanya"," ","text.ini",6,12,5306504,5221284,
 118,"Reise"," ","text.ini",6,12,5306528,-1,
-119,"Boris"," ","text.ini",6,12,5306564,-1,
+119,"Boris"," ","text.ini",6,12,5306564,5221316,
 120,"Sound"," ","text.ini",6,12,5309300,-1,
 121,"Files"," ","text.ini",6,12,5309312,-1,
 122,"Title"," ","text.ini",6,12,5311480,-1,
@@ -151,7 +151,7 @@
 150,"Aldow"," ","text.ini",6,12,5318264,-1,
 151,"Solid"," ","text.ini",6,12,5330072,-1,
 152,"Black"," ","text.ini",6,12,5330112,-1,
-153,"Point"," ","text.ini",6,12,5330188,-1,
+153,"Point"," ","text.ini",6,12,5330188,5330760,
 154,"Total"," ","text.ini",6,12,5330232,-1,
 155,"Debug"," ","text.ini",6,12,5330252,-1,
 156,"Start"," ","text.ini",6,12,5330312,-1,
@@ -479,7 +479,7 @@
 478,"Velagunder"," ","text.ini",11,12,5302176,5221444,
 479,"Jeba Tovah"," ","text.ini",11,12,5305740,-1,
 480,"Luta Gemma"," ","text.ini",11,12,5305752,-1,
-481,"Flair Rall"," ","text.ini",11,12,5305920,-1,
+481,"Flair Rall"," ","text.ini",11,12,5305920,5221004,
 482,"Masontorch"," ","text.ini",11,12,5306128,-1,
 483,"Roos' Nest"," ","text.ini",11,12,5310616,-1,
 484,"Guardhouse"," ","text.ini",11,12,5311332,-1,
@@ -533,7 +533,7 @@
 532,"Smoked Meat"," ","text.ini",12,12,5301600,5425496,
 533,"Priest Mesa"," ","text.ini",12,12,5305812,-1,
 534,"Priest Fact"," ","text.ini",12,12,5305840,-1,
-535,"Leonor Rall"," ","text.ini",12,12,5305884,-1,
+535,"Leonor Rall"," ","text.ini",12,12,5305884,5221000,
 536,"Where am I?"," ","text.ini",12,12,5310852,-1,
 537,"Now loading"," ","text.ini",12,12,5310900,-1,
 538,"Rex's House"," ","text.ini",12,12,5311256,-1,
@@ -973,3 +973,32 @@
 972,"Contains #c2#[%s]#c#, but\nAdol already has that."," ","text.ini",49,12,5293248,-1,
 973,"It's #c2#[%s]#c#, but Adol\ncan't carry any more."," ","text.ini",49,12,5299724,-1,
 974,"#c3#Add \Multi-Homing\" ability to the Fire magic.""," ","text.ini",50,12,5331620,-1,
+975,"Dark Fact","","text2.ini",12,12,5297564,5220960,
+976,"Roo","","text.ini",4,12,5297376,-1
+977,"In Situ Tarf","","text.ini",16,12,5297380,-1
+978,"Safety Charm","","text.ini",16,12,5297396,-1
+979,"Luck Charm","","text.ini",12,12,5297424,-1
+980,"Health Charm","","text.ini",16,12,5297440,-1
+981,"Study Charm","","text.ini",12,12,5297456,-1
+982,"Prosperity Charm","","text.ini",20,12,5297468,-1
+983,"Fortuneteller Sara","","text.ini",20,12,5297488,-1
+984,"Hello Minea's Nurse","","text.ini",20,12,5297508,-1
+985,"Troubadour Reah","","text.ini",16,12,5297528,-1
+986,"Plainclothes Feena","","text.ini",20,12,5297544,-1
+987,"Imprisoned Maria","","text.ini",20,12,5297576,-1
+988,"Photogenic Lilia","","text.ini",20,12,5297596,-1
+989,"Gussied-Up Lilia","","text.ini",20,12,5297616,-1
+990,"Maid Lilia","","text.ini",12,12,5297636,-1
+991,"Priestess Lilia","","text.ini",16,12,5297648,-1
+992,"Chun-Lilia","","text.ini",12,12,5297664,-1
+993,"Tailed Tarf","","text.ini",12,12,5297676,-1
+994,"I Heart Zalem","","text.ini",16,12,5297688,-1
+995,"Duckling","","text.ini",12,12,0050D628,-1
+996,"Exploding Pumpkin","","text.ini",20,12,5297716,-1
+997,"Tasty Rodentia","","text.ini",16,12,5297736,-1
+998,"Swooned Feena","","text.ini",16,12,5297752,-1
+999,"Priestess Feena","","text.ini",16,12,5297768,-1
+1000,"Priestess Reah","","text.ini",16,12,5297784,-1
+1001,"China-Dress Feena","","text.ini",20,12,5297800,-1
+1002,"China-Dress Reah","","text.ini",20,12,5297820,-1
+1003,"Rado's Annex Reah","","text.ini",20,12,5297840,-1
