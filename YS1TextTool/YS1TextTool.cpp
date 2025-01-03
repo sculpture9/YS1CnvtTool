@@ -15,13 +15,15 @@ int main()
     //SupportGetCSVFromExeText();
     //SupportUpdateCSVWithAddonText(YS1_EXE_CSV_TGT_PATH, YS1_EXE_CSV_ORI_PATH, YS1_EXE_ADDON_TEXT_ORI_PATH);
     //SupportUpdateCSVWithAddonText(YS2_EXE_CSV_TGT_PATH, YS2_EXE_CSV_ORI_PATH, YS2_EXE_ADDON_TEXT_ORI_PATH);
-    //GenerateConfigFontText();
+    GenerateConfigFontText();
     //TransCSV2ParaTranzCSV();
-    //MergeParaTranzCSV2TransCSV();
     //PO2ParaTranzCSV();
     //MergeParaTranzCSV2PO();
     //SupportUpdatePOCSVWithPO(YS1_SCANE_CSV_PT_TGT_PATH, ENGBaseOnJPN4SCENA_PATH, YS1_SCANE_CSV_PT_ORI_PATH, JPN_PO_ORI_PATH);
-    DividedParaTranzCSV(100);
+    //DividedParaTranzCSV(100);
+    //MergeParaTranzCSV(20);
+    //MergeParaTranzCSV2PO();
+    //MergeParaTranzCSV2TransCSV();
     cout << "succeed! press any key to exit." << endl;
     _getch();
 }
@@ -73,7 +75,7 @@ void GenerateConfigFontText()
     GetStrList(YS1_SCANE_PO_ORI_PATH, strList);
     GetStrList(YS1_EXE_CSV_ORI_PATH, strList);
     result = GenerateConfigFont(strList, YS_CONFIG_FONT_INI_PATH);
-    cout << "Successfully Generate Config Font " << result << "pieces." << endl;
+    cout << "Successfully Generate Config Font " << result << " pieces." << endl;
 }
 
 void TransCSV2ParaTranzCSV()
@@ -117,7 +119,7 @@ void MergeParaTranzCSV2TransCSV()
             }
         }
     }
-    WriteVOs2CSV(tgtETVOs, YS1_EXE_CSV_ORI_PATH);
+    WriteVOs2CSV(tgtETVOs, YS1_EXE_CSV_TGT_PATH);
 }
 
 void PO2ParaTranzCSV()
@@ -193,13 +195,13 @@ void MergeParaTranzCSV2PO()
             if (strcmp(ptVO.Key.c_str(), tgtVOs[i].msgctxt.c_str()) == 0)
             {
                 tgtVOs[i].msgstr = ptVO.Translation;
-                ptVOs.erase(ptVOs.begin() + j);
+                //ptVOs.erase(ptVOs.begin() + j);
                 break;
             }
             //if no found
-            if (j = ptVOs.size() - 1)
+            if (j == ptVOs.size() - 1)
             {
-                cout << YS1_SCANE_PO_MSG_CTXT << ": " << tgtVOs[i].msgctxt << "Not Repalce. " << endl;
+                cout << YS1_SCANE_PO_MSG_CTXT << ": " << tgtVOs[i].msgctxt << " Not Repalce. " << endl;
                 cout << YS1_SCANE_PO_MSG_ID << ": " << tgtVOs[i].msgid << endl;
             }
         }
@@ -290,7 +292,7 @@ void MergeParaTranzCSV(int fileNum)
         sonCSV.clear();
         sonVOs.clear();
     }
-    WriteVOs2CSV(result, YS1_EXE_CSV_PT_TGT_PATH);
+    WriteVOs2CSV(result, YS1_SCANE_CSV_PT_TGT_PATH);
 }
 
 void GenerateSectionList(vector<vector<string>> matchCSV, vector<Section> &oriList, vector<Section> &scList)

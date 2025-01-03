@@ -1,0 +1,100 @@
+401,Sell,卖
+402,Don't sell,不卖
+403,Leave,中止对话
+404,Stop shopping,不买东西了
+405,Main Menu,主菜单
+406,Yes,好的
+407,No,不了
+408,Leave,去外面
+409,Quit,算了
+410,What will you do?,要怎么做呢？
+412,"Ah, good. You're awake.",哦哦，你醒啦。
+413,"Don't strain yourself,\nnow. Your body is covered\nin bruises.","不要太勉强自己。\n你浑身都是伤。"
+414,"So? You still hurting\nanywhere?","感觉怎么样？\n有没有特别痛的地方？"
+415,"Adol checked himself over.\n...There was some pain,\nbut nothing debilitating.","亚特鲁摸了一下身体。\n……虽然各关节是挺痛的，\n但还没到不能动弹的程度。"
+416,"Get some rest. You're in\na clinic at Barbado Port.","你放心吧。\n这里是巴尔巴多港口镇的医院。"
+417,"...Hey, Dad! Is the\nstranger awake yet?","……老爹！\n他醒了吗？"
+418,"Ah, Slaff, you're early.\nHow did the meeting go?","哦，斯拉夫，这么快就回来啦。\n自卫队的会议开得怎么样了？"
+419,"Same as always.\nNo real progress.","还不是老样子。\n什么进展都没有。"
+420,"Well, the patient's\nonly just awoken.","他呀，\n刚醒过来哦。"
+421,"Glad to see you back among\nthe living!",你能恢复意识真是太好了！
+422,"Ah, yes, where are my\nmanners? My name is Bludo.\nI own and operate this clinic.","对了，还没有自我介绍。\n我的名字是布卢多。\n这所医院的主人。"
+423,"This is my son, Slaff. He\nfound you collapsed on the\nbeach, and brought you here.","这是我儿子斯拉夫。\n你昏倒在海滩附近的森林里，\n是他把你抬来这里的哦。"
+424,"We drove off the Rheboll\nthat attacked you. It was\na real close call.","我们已经把那些\n攻击你的利波鲁赶跑了。\n……当时情况真的很危险。"
+425,"Adol told Slaff his name,\nand expressed his gratitude.","亚特鲁向斯拉夫道谢，\n并告诉了他自己的名字。"
+426,"Adol, eh? Good name. Don't\nrecognize you, though...\nWhere are you from?","亚特鲁啊……好名字。\n你看起来不像是本地人，\n是从哪儿来的啊？"
+427,"Adol explained that he\njourneyed from Promalock\nto Esteria by boat.","亚特鲁告诉布卢多等人，\n自己是从普罗玛洛克港乘小船\n来到艾斯塔里亚的。"
+428,"My word... You came\nfrom overseas?!","什么……\n你是从外面来的吗！？"
+429,"Amazing... You're the\nfirst man I know of to\nget past the Stormwall.","这真是…叫人吃惊。\n外面居然有人能穿越\n『岚之结界』来这里……"
+430,"What do you two think\nyou're doing?!",你们两个在干什么！？
+431,"Uh-oh, here she comes...\nWatch out, boy, she'll\nchew you up!",唉呀，啰嗦的护士小姐过来了……
+432,"I'll chew YOU up, Slaff,\nif you keep making\ncomments like that!","哼！\n居然敢说我啰嗦？\n真受不了你们……"
+433,"The man's wounded, you\nknow. Shouldn't you leave\nhim be? He needs his rest!","斯拉夫，他是受伤的人吧？\n你们应该让他好好休息\n不是吗！？"
+434,"That's my Ayla, always\nkeeping us in check. You\nmake a good point, my dear!",啊，是我太粗心了。
+435,"Yeah, okay. I'll stop\ntalking his ear off.",那么今天就到此为止吧。
+436,"Rest up, Adol. But know\nthis: I'm not done with\nyou yet!","总之，你好好休息吧。\n我们还会再来的。"
+438,"Under the clinic's care,\nAdol recovered quickly.","亚特鲁得到了悉心的照料，\n 一天一天地好了起来。"
+440,Several days later...,几天后……
+441,"Good morning, Adol. You seem to be in\ntip-top shape now!","哦，亚特鲁。\n你已经可以下床啦？"
+442,"Still, you should probably take it easy\nfor a bit. Just in case.",你应该躺在床上好好休养的。
+443,...Well...,哎呀，可以了。
+444,"I suppose a walk around town could do\nyou some good. Just don't overexert\nyourself!","到街上去散散步也没什么，\n适当的运动对身体是有益的。"
+445,"For a boy your age to have slept so\nsoundly, you must have quite a story\nto tell...","况且对他这个年纪的少年来说，\n要他整天躺在床上不动，\n才是残酷的要求呢。"
+446,"Adol, the #02portside warehouse#00 has become\nhome base for the town's militia.","……亚特鲁，#02港口仓库#00\n是自卫队的聚会场所。"
+447,"Slaff should be there. He can answer\nany questions you might have.","斯拉夫应该就在那里。\n有什么不懂的事情，\n你都可以去问他。"
+448,"Just be careful not to do too much,\ntoo soon!",千万别太勉强自己哦。
+450,"Listen, Adol. There are monsters outside\ntown, so DON'T PUSH YOUR LUCK, okay?","亚特鲁先生。\n镇外有魔物出没很危险的。\n你要小心一点哦。"
+455,  What will you do?,要做什么呢？
+456,Talk to Doctor Bludo,与布卢多交谈
+457,Talk to Nurse Ayla,与护士交谈
+458,I need healing,请求帮忙治疗
+459,I want medicine,希望得到药物
+460,Leave,中止对话
+461,"Slaff is well on his way to making the\ntown's militia a force to be reckoned\nwith.","别看斯拉夫那小子\n组织了自卫队耀武扬威的样子……"
+462,"He's always been one to insist on\nshouldering everyone else's burdens.","其实他是把所有事都当成是自己的责任，\n想一个人全部扛起来……"
+463,"A real stubborn one... He never listens\nto a single word I say.","偏偏他个性固执得要命，\n我讲的话完全听不进去。"
+464,"He reminds me of someone else in this\nroom...",真不知道他这性格是像谁哟……
+465,"Adol, I know you're a strapping young\nlad and all...but please, don't over-\nestimate yourself.","亚特鲁先生。\n别仗着年轻就高估了自己的体力。"
+466,We don't want you getting hurt again!,不管怎么样，毕竟你还是个刚康复的人。
+470,But...you're not hurt!,什么啊，你根本就没有受伤啊？
+471,"What the heck happened to you? Didn't I\nkeep telling you to rest?!","你这是怎么回事啊！？\n不是再三提醒你要好好静养的吗！？"
+472,"Miss Ayla...please take the reins on\nthis one, if you would.",艾拉小姐……你就为他治疗一下吧。
+473,"Yes, Doctor! Administering antidote...\nMedicating... Emptying blood bucket...\nReviving... Second attempt...","知道了！\n先消毒……（擦擦）\n再上药……（擦擦）"
+474,There we go! Bandaging...,然后是包扎……（扎扎）
+475,"It stung so badly as to bring Adol to\ntears!","……因为太痛了，\n眼泪差点流出来。"
+478,"If you can put up with all that, that\nproves to me you've got some spunk!","……你要吸取教训，\n以后要乖一点啊。"
+479,"Oh, you need to be healed again?","哦，你又想接受\n悉心呵护的治疗吗？"
+480,"Unfortunately, we're out of the Red\nDigitalis plant needed to make the\nherbs.",回复药的原料毛地黄已经没有了。
+481,"But still, you shouldn't need any while\nyou're in town, right?","你只要乖乖待在镇里，\n应该也就用不到了吧？"
+482,"Well, you seem healthy enough to want to\nbe up and about, but still...take care\nof yourself out there, okay?","我能够了解你想活动筋骨的心情，\n可是也该有个限度吧。"
+486,That sword...,那把剑是……
+487,"Fair enough. You want to see Esteria\nwith your own eyes, do you?","原来如此，你想要亲眼确认\n艾斯塔里亚的现实情况对吧……"
+488,"If you're that determined, I don't plan\nto stop you. But please, be careful!","既然你心意已决，我也不阻止你了。\n但是，你一定要小心啊。"
+490,  What will you do?,要做什么呢？
+491,Talk to Doctor Bludo,与布卢多交谈
+492,Talk to Nurse Ayla,与护士交谈
+493,I need healing,请求帮忙治疗
+494,I want medicine,希望得到药物
+495,Leave,中止对话
+501,"First the Stormwall, then the monsters...\nWhat's next, a plague of locusts?!","不论是岚之结界，还是魔物的出现……\n现在艾斯塔里亚这个地方，\n好像正在发生什么非同寻常的事情。"
+502,"Yet, you're still with us! Seems like\nthe hand of fate is guiding you...","你会漂流到这个地方来，\n说不定也是受到了什么力量的引导。"
+504,"Fools rush in, though. Best chat with\nthe townsfolk. You might learn something\nvaluable!","但是，做事不能太过急躁。\n先去找不同的人多打听打听。\n你自然就会找到前进的方向了。"
+505,"Best chat with the townsfolk. They may\nknow something you don't!","先去找不同的人多打听打听。\n你自然就会找到前进的方向了。"
+507,"Trouble's a-brewin' over in Minea.\nSomebody, somewhere, is planning\nsomething awful.","听说米内亚那里好像出事了。\n虽然不知道是谁干的……\n真是太可怕了。"
+508,"You're looking well. If you should ever\nneed our help, drop by anytime, okay?","身体看起来没什么大碍。\n觉得不舒服的话，随时可以过来。"
+510,"Slaff says you'll be helping the\nmilitia. Don't know what to think\nof that, to be honest...","我从斯拉夫那里听说了你的活跃事迹。\n老实说……一开始我还是挺担心的。\n现在看起来你可靠稳重多了。"
+511,"...Ahh, never mind me. Just keep an eye\non your health. That's all I ask!","我不打算多说废话。\n你就衡量下自己的体力，\n去试试看自己能力的极限吧。"
+517,"You're going to Minea? Well, just be\ncareful not to get yourself hurt again!","你要去米内亚吗？\n你的身体才刚好没多久，\n不要太勉强自己哦。"
+519,"You're looking healthy. How are you\nholding up?","哎呀，你气色不错嘛。\n身体状况如何啊？"
+520,"Hurt, again?! *sigh* Just 'cause you're\nyoung and dashing does NOT mean you're\ninvincible, okay?","你怎么又受伤了呢！\n别仗着自己年轻就太乱来哦。"
+522,"Something terrible's been happening in\nMinea. I wonder if Barbado is next...","米内亚那里好像出大事了 。\n巴尔巴多镇不知道会不会有问题……"
+523,"But we do have Slaff's militia to\nprotect us here, so I think we'll\nbe okay. I hope so, anyway!","巴尔巴多这里，\n有斯拉夫先生的自卫队在保护，\n一定不会有事的。"
+525,"You're looking troubled, Adol. Troubled\nand vulnerable...","亚特鲁先生，才多久没见，\n你的神情就变得这么严肃了。\n……你是不是吃了很多苦啊？"
+526,"Adol, be careful. If you get hurt, take\na moment to rest, okay?","亚特鲁先生，请一定要保重啊。\n受伤了的话就不要太勉强了，\n让身体休息也是很重要的。"
+531,"What's this? You're barely even\nscratched! Nurse Ayla should be\nable to handle this. Nurse!","什么嘛，这点程度的小擦伤，\n根本用不着我出马。"
+532,"Yes, sir! Now, Adol, please hold still.","好。\n来，亚特鲁先生。\n就这样不要动哦。"
+533,"I said, HOLD STILL!",不行，请不要动！
+534,"Eh? You're already fully healed!\nWhat's your angle...?","……咦？\n早就已经全好了嘛。"
+535,Your injuries are fully healed.,你的伤早就已经好了哦。
+537,"This is probably going to hurt.\nDisinfecting... Medicating...\nBandaging.... Praying, profusely...","哦，这个应该很痛吧。\n先消毒…上药…包上绷带……"
+538,"Ohh, it's just a scratch! Some salve\nwill do you just fine.","这只是擦伤而已。\n涂点药水就可以了。"
