@@ -1,4 +1,4 @@
-401,Sell,卖
+﻿﻿401,Sell,卖
 402,Don't sell,不卖
 403,Leave,中止对话
 404,Stop shopping,不买东西了
@@ -11,14 +11,14 @@
 412,"Ah, good. You're awake.",哦哦，你醒啦。
 413,"Don't strain yourself,\nnow. Your body is covered\nin bruises.","不要太勉强自己。\n你浑身都是伤。"
 414,"So? You still hurting\nanywhere?","感觉怎么样？\n有没有特别痛的地方？"
-415,"Adol checked himself over.\n...There was some pain,\nbut nothing debilitating.","亚特鲁摸了一下身体。\n……虽然各关节是挺痛的，\n但还没到不能动弹的程度。"
+415,"Adol checked himself over.\n...There was some pain,\nbut nothing debilitating.","亚特鲁摸了一下身体。\n……虽然各关节都挺痛的，\n但还没到不能动弹的程度。"
 416,"Get some rest. You're in\na clinic at Barbado Port.","你放心吧。\n这里是巴尔巴多港口镇的医院。"
 417,"...Hey, Dad! Is the\nstranger awake yet?","……老爹！\n他醒了吗？"
 418,"Ah, Slaff, you're early.\nHow did the meeting go?","哦，斯拉夫，这么快就回来啦。\n自卫队的会议开得怎么样了？"
 419,"Same as always.\nNo real progress.","还不是老样子。\n什么进展都没有。"
-420,"Well, the patient's\nonly just awoken.","他呀，\n刚醒过来哦。"
+420,"Well, the patient's\nonly just awoken.","他呀，\n是刚刚才醒过来的。"
 421,"Glad to see you back among\nthe living!",你能恢复意识真是太好了！
-422,"Ah, yes, where are my\nmanners? My name is Bludo.\nI own and operate this clinic.","对了，还没有自我介绍。\n我的名字是布卢多。\n这所医院的主人。"
+422,"Ah, yes, where are my\nmanners? My name is Bludo.\nI own and operate this clinic.","对了，还没有自我介绍。\n我的名字叫布卢多。\n这所医院的主人。"
 423,"This is my son, Slaff. He\nfound you collapsed on the\nbeach, and brought you here.","这是我儿子斯拉夫。\n你昏倒在海滩附近的森林里，\n是他把你抬来这里的哦。"
 424,"We drove off the Rheboll\nthat attacked you. It was\na real close call.","我们已经把那些\n攻击你的利波鲁赶跑了。\n……当时情况真的很危险。"
 425,"Adol told Slaff his name,\nand expressed his gratitude.","亚特鲁向斯拉夫道谢，\n并告诉了他自己的名字。"
@@ -29,18 +29,18 @@
 430,"What do you two think\nyou're doing?!",你们两个在干什么！？
 431,"Uh-oh, here she comes...\nWatch out, boy, she'll\nchew you up!",唉呀，啰嗦的护士小姐过来了……
 432,"I'll chew YOU up, Slaff,\nif you keep making\ncomments like that!","哼！\n居然敢说我啰嗦？\n真受不了你们……"
-433,"The man's wounded, you\nknow. Shouldn't you leave\nhim be? He needs his rest!","斯拉夫，他是受伤的人吧？\n你们应该让他好好休息\n不是吗！？"
+433,"The man's wounded, you\nknow. Shouldn't you leave\nhim be? He needs his rest!","斯拉夫先生，他是受伤的人吧？\n你们应该让他好好休息不是吗！？"
 434,"That's my Ayla, always\nkeeping us in check. You\nmake a good point, my dear!",啊，是我太粗心了。
 435,"Yeah, okay. I'll stop\ntalking his ear off.",那么今天就到此为止吧。
-436,"Rest up, Adol. But know\nthis: I'm not done with\nyou yet!","总之，你好好休息吧。\n我们还会再来的。"
-438,"Under the clinic's care,\nAdol recovered quickly.","亚特鲁得到了悉心的照料，\n 一天一天地好了起来。"
+436,"Rest up, Adol. But know\nthis: I'm not done with\nyou yet!","总之，你好好休息吧。\n我还会再来的。"
+438,"Under the clinic's care,\nAdol recovered quickly.","亚特鲁得到了悉心的照料，\n一天一天地好了起来。"
 440,Several days later...,几天后……
 441,"Good morning, Adol. You seem to be in\ntip-top shape now!","哦，亚特鲁。\n你已经可以下床啦？"
 442,"Still, you should probably take it easy\nfor a bit. Just in case.",你应该躺在床上好好休养的。
 443,...Well...,哎呀，可以了。
 444,"I suppose a walk around town could do\nyou some good. Just don't overexert\nyourself!","到街上去散散步也没什么，\n适当的运动对身体是有益的。"
 445,"For a boy your age to have slept so\nsoundly, you must have quite a story\nto tell...","况且对他这个年纪的少年来说，\n要他整天躺在床上不动，\n才是残酷的要求呢。"
-446,"Adol, the #02portside warehouse#00 has become\nhome base for the town's militia.","……亚特鲁，#02港口仓库#00\n是自卫队的聚会场所。"
+446,"Adol, the #02portside warehouse#00 has become\nhome base for the town's militia.","……亚特鲁，\n#02港口的仓库#00是自卫队的指挥部。"
 447,"Slaff should be there. He can answer\nany questions you might have.","斯拉夫应该就在那里。\n有什么不懂的事情，\n你都可以去问他。"
 448,"Just be careful not to do too much,\ntoo soon!",千万别太勉强自己哦。
 450,"Listen, Adol. There are monsters outside\ntown, so DON'T PUSH YOUR LUCK, okay?","亚特鲁先生。\n镇外有魔物出没很危险的。\n你要小心一点哦。"
@@ -51,7 +51,7 @@
 459,I want medicine,希望得到药物
 460,Leave,中止对话
 461,"Slaff is well on his way to making the\ntown's militia a force to be reckoned\nwith.","别看斯拉夫那小子\n组织了自卫队耀武扬威的样子……"
-462,"He's always been one to insist on\nshouldering everyone else's burdens.","其实他是把所有事都当成是自己的责任，\n想一个人全部扛起来……"
+462,"He's always been one to insist on\nshouldering everyone else's burdens.","其实他是把所有事都当成了自己的责任，\n想一个人全都扛起来……"
 463,"A real stubborn one... He never listens\nto a single word I say.","偏偏他个性固执得要命，\n我讲的话完全听不进去。"
 464,"He reminds me of someone else in this\nroom...",真不知道他这性格是像谁哟……
 465,"Adol, I know you're a strapping young\nlad and all...but please, don't over-\nestimate yourself.","亚特鲁先生。\n别仗着年轻就高估了自己的体力。"
@@ -65,8 +65,8 @@
 478,"If you can put up with all that, that\nproves to me you've got some spunk!","……你要吸取教训，\n以后要乖一点啊。"
 479,"Oh, you need to be healed again?","哦，你又想接受\n悉心呵护的治疗吗？"
 480,"Unfortunately, we're out of the Red\nDigitalis plant needed to make the\nherbs.",回复药的原料毛地黄已经没有了。
-481,"But still, you shouldn't need any while\nyou're in town, right?","你只要乖乖待在镇里，\n应该也就用不到了吧？"
-482,"Well, you seem healthy enough to want to\nbe up and about, but still...take care\nof yourself out there, okay?","我能够了解你想活动筋骨的心情，\n可是也该有个限度吧。"
+481,"But still, you shouldn't need any while\nyou're in town, right?","你只要乖乖待在镇里，\n应该也用不到的吧？"
+482,"Well, you seem healthy enough to want to\nbe up and about, but still...take care\nof yourself out there, okay?","我能了解你想活动筋骨的心情，\n可是也要适可而止哦。"
 486,That sword...,那把剑是……
 487,"Fair enough. You want to see Esteria\nwith your own eyes, do you?","原来如此，你想要亲眼确认\n艾斯塔里亚的现实情况对吧……"
 488,"If you're that determined, I don't plan\nto stop you. But please, be careful!","既然你心意已决，我也不阻止你了。\n但是，你一定要小心啊。"
