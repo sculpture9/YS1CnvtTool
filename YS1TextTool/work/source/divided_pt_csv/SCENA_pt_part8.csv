@@ -49,7 +49,7 @@
 908,Yes,知道
 909,No,不知道
 910,"I'm glad I asked, then. I recently\nfound out that one of the Books of\nYs is in the mountaintop shrine.","……太好了，这下可以长话短说了。\n不瞒你说，我得到了一个启示，\n有一本『伊苏之书』沉眠在山上的神殿之中。"
-912,"Swordsman... Will you\nseek the Books?","所以，剑士阁下……\n想麻烦你去寻找下『伊苏之书』，\n不知道你是否愿意？"
+912,"Swordsman... Will you\nseek the Books?","所以剑士阁下……我想…\n请你去寻找『伊苏之书』，\n不知道你是否愿意？"
 913,"Yes, I will",愿意
 914,"Sorry, but no",不愿意
 916,"You will? Ah, swordsman, you are\ntruly the man I've been seeking!\nThank you so very, very much!","你真的愿意吗！？\n剑士阁下……太感谢你了……"
@@ -59,7 +59,7 @@
 925,"The lost history of the land is\nwritten within the Books of Ys.","记录了那被人遗忘的历史的，\n正是『伊苏之书』。"
 926,"It is unknown, however, who\nactually inscribed their words.","没人知道那是出自何人之笔，\n也没人知道那是何时所写的。"
 927,"But the six books detail the reason\nfor Ys' fall from grace.","但是在分成六本的书籍中，\n据说记载了『伊苏』灭亡的原因。"
-928,"My crystal ball tells me that one\nof the Books is in the mountain\nshrine.","……这个水晶球显示，有一本『伊苏之书』\n就在山上的神殿里面。"
+928,"My crystal ball tells me that one\nof the Books is in the mountain\nshrine.","……这个水晶球显示，\n有一本『伊苏之书』就在山上的神殿里面。"
 930,"Swordsman...\nWill you search for\nthe Books of Ys?","……剑士阁下。\n你愿意去寻找\n『伊苏之书』了吗？"
 931,"First, please visit #02Jeba#00, in\nthe village of #02Zepik.","你可以先去找一下住在#02塞皮克村#00的\n名叫#02洁瓦#00的女性。"
 932,"She is my aunt. She knows a great\ndeal about the history of Ys. I am\ncertain she will be of aid to you.","她是我的姑妈，\n对神殿和伊苏的事都很了解。\n我想她一定能帮到你的。"
@@ -78,8 +78,8 @@
 951,Swordsman! Our time grows short!,"剑士阁下……！\n事态已经到了分秒必争的时刻了。"
 952,"Please find the Book of Ys locked\nwithin that shrine. I'll explain\nmore afterwards.","请先去找到『伊苏之书』。\n详细的情况等以后再说。"
 955,"You are Adol, are you not?\n...I'm afraid I have bad news.","你就是亚特鲁先生吧。\n……有一个不幸的消息要告诉你。"
-956,"Sara was murdered...though we know\nnot who is responsible. That poor\nwoman...","莎拉被不明人物给杀死了。\n真可怜啊……"
-957,"Please take this book. She\ngave it to me shortly before\nher death.","请你收下这本书。\n这是她死前托我转交给你的。"
+956,"Sara was murdered...though we know\nnot who is responsible. That poor\nwoman...","莎拉不知道被谁给杀了。\n真可怜啊……"
+957,"Please take this book. She\ngave it to me shortly before\nher death.","请你收下这本书。\n这是她生前托我转交给你的。"
 958,"She said to give it to a red-haired\nswordsman named Adol...and she\nsmiled as she spoke your name.","……她当时微笑着说，\n万一她出事了，就让我把这本书\n交给一个名叫亚特鲁的红发剑士。"
 960,"I thought she was joking. But then,\nI should've known better. She is a\nfortuneteller, after all!","那时候我以为她在开玩笑，\n忘了她的职业就是占卜师。\n我应该认真看待这件事的……"
 961,"Ah, yes... It seems that with her\nlast dying breath, she muttered,\n#02'Adol, abandoned mine at Rastin'#00...","对了……\n莎拉临死前最后说了一句话，\n好像是『#02去废坑#00』。"
@@ -94,7 +94,7 @@
 975,"Hmm, red hair is rare around here.\nYou're not from around these parts,\nare you?","哇，这头红发很少见呢。\n你不是艾斯塔里亚的人吧？"
 976,"I'm from the mainland, myself. But I\ngot trapped on this lousy island by\nthe Stormwall.","我也是从大陆来的。\n因为岚之结界的关系，\n被困在了这个小国家里。"
 978,"I think I can cut you a good deal,\nsince you're a fellow foreigner.","看在同是外地人的份上，\n我可以算你便宜一点哦。"
-981,"Eh? So that Sapphire Ring belongs to\nDonis? Good thing I found it, then!","哦，那枚蓝宝石戒指\n是多尼斯的啊。\n能找回来真是太好了。"
-983,"It gives me a warm feeling to know\nI can help someone out, you know?","啊，帮助他人的感觉\n可真棒啊。"
+981,"Eh? So that Sapphire Ring belongs to\nDonis? Good thing I found it, then!","哦，那枚蓝宝石戒指是多尼斯的啊。\n能找回来真是太好了。"
+983,"It gives me a warm feeling to know\nI can help someone out, you know?",啊，帮助他人的感觉可真棒啊。
 986,"You probably weren't aware, being\nan outsider and all, but this place\nhas been CRAWLING with thieves.","你是外地来的所以不知道，\n最近盗贼在米内亚猖獗得很。"
 987,"And thieves are no good for business\nat all. Even before the Stormwall, I\nhad run-ins with them!","这个交易所在结界出现之前，\n就已经遭受过他们的侵害了。"

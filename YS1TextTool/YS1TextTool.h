@@ -10,7 +10,7 @@ void SupportGetExeCSV();
 void SupportUpdateExeCSV(std::string tgtCsvPath, std::string oriCSVPath, std::string oriAddonTxtPath);
 void GenerateConfigFontText();
 void TransCSV2ParaTranzCSV();
-void MergeParaTranzCSV2TransCSV();
+void MergeEXEParaTranzCSV2EXECSV();
 void PO2ParaTranzCSV();
 void SupportUpdatePOCSVWithPO(std::string tgtCsvPath, std::string sectionCSVPath, std::string oriCSVPath, std::string addonPOPath);
 void MergeParaTranzCSV2PO();

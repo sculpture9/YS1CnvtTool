@@ -38,6 +38,10 @@ std::vector<YS1ExeTVO> GetYS1ETVOs(const std::vector<std::vector<std::string>> &
     for (int i = 0; i < translatedCsv.size(); i++)
     {
         vector<string> colData = translatedCsv[i];
+        if (colData.size() == 0)
+        {
+            cout << "exist empty data, line: " << i << endl;
+        }
         YS1ExeTVO vo;
         //the translated csv format is : ID, OriginTxt, TranslatedTxt, fontStyle, tsize, charSize, address, addressByCaller<optional>
         vo.ID = colData[0];

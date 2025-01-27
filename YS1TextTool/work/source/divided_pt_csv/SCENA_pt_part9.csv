@@ -8,7 +8,7 @@
 1000,"Wow, not bad. I didn't think anyone\ncould poke around that old mine and\nlive to tell about it...","真看不出来你这家伙这么厉害。\n居然可以从废坑里活着回来……"
 1001,"Well, did you find anything good\ndown there? I'm always looking to\nbuy...","在废坑里有没有捡到什么好东西？\n我可以出高价收购哦。"
 1002,"Hmm, that silver armor... I think\nI might have seen it before.","啊呀，那副银铠……\n我好像在哪里见过。"
-1003,"But nothing like that's ever been\nstolen from here, so I'm not sure\nwhen or where I would've...","我这里遭窃的铠甲，\n没有那么闪亮的……"
+1003,"But nothing like that's ever been\nstolen from here, so I'm not sure\nwhen or where I would've...","不过我这里遭窃的铠甲，\n没有那么闪亮的……"
 1005,"...Maybe I'm just a bit touched\nin the head...",啊……是我多心了吗？
 1009,"Here's what I have\nto offer.","目前这里有的，\n大致就是这些。"
 1010,Sapphire Ring,蓝宝石戒指
@@ -28,7 +28,7 @@
 1037,...Are you daft?!,……你是来耍我的吗？
 1038,...,………
 1039,"Oh-ho, I see how it is, then.\nYou negotiate well, my friend!",……呵呵，我真是输给你了。
-1040,"You see, in business, there's cost,\nand then there's market price...",每样东西都是有它的市场行情的。
+1040,"You see, in business, there's cost,\nand then there's market price...",每样东西都是有它的市场行情价的。
 1042,"This is a strange one. If you use\nit, it'll warp you back to town\nfrom anywhere in the land.","这是件很神奇的物品哦，\n无论身在何处，都能瞬间把你带回到这城镇。"
 1044,"This is a strange one. If you use\nit, it'll warp you back to town\nfrom anywhere. And it's on sale!","这是件很神奇的物品哦，\n无论身在何处，都能瞬间把你带回到这城镇。\n怎么样？我可以算你便宜点的哦。"
 1045,Oh-ho-ho... You're a clever one!,呵呵呵，你真精明。
@@ -54,10 +54,10 @@
 1102,"This is a beautiful ruby. It's very\nlarge, and quite rich in color.","这颗红宝石可真漂亮啊。\n这么大颗，上面的装饰也很美。"
 1104,"This is a beautiful ruby. It's very\nlarge, and quite rich in color.\nI'll pay you a handsome sum for it!","这颗红宝石可真漂亮啊。\n这么大颗，上面的装饰也很美。\n我可以破例给你出个高价收购。"
 1105,"Oh-ho-ho, you have an eye\nfor value, I see!",呵呵呵，看来你是个懂行的人。
-1107,"I'll give you#02\n1200 Gold#00 for it.",#02我出1200>4Gold#00>4买怎么样？
+1107,"I'll give you#02\n1200 Gold#00 for it.","我出#021200>4Gold#00>4买，\n怎么样？"
 1108,Sell,卖
 1109,Don't sell,不卖
-1111,"I'll buy it\nfor#02 1320 Gold.",#02我出1320>4Gold#00>4买了。
+1111,"I'll buy it\nfor#02 1320 Gold.",我出#021320>4Gold#00>4买了。
 1113,Oh-ho... Thank you.,呵呵……谢谢啦。
 1120,You won't sell it?,不卖吗？
 1121,...Are you daft?!,……你是来这里耍我的吗？
@@ -67,15 +67,15 @@
 1126,"This is a not a high-end necklace.\nIts jewels are tiny, and there are\na great many nicks and cuts.","这么破旧的项链。\n宝石颗粒又小，磨损又严重。"
 1128,"This is a not a high-end necklace.\nIt's cheap, and damaged to boot!\nStill, not saying I won't buy it...","这么破旧的项链。\n宝石颗粒又小，磨损又严重。\n不过，我可以破例给你出个高价收购。"
 1129,"Oh-ho-ho, you have an eye\nfor value, I see!",呵呵呵，看来你是个懂行的人。
-1131,"I'll buy it\nfor#02 500 Gold.","#02你觉得500>4Gold#00>4可以的话，\n我就买了。"
+1131,"I'll buy it\nfor#02 500 Gold.","你觉得#02500>4Gold#00>4如何？\n可以的话，我就买了。"
 1132,Sell,卖
 1133,Don't sell,不卖
 1135,"I'll buy it\nfor#02 550 Gold.","#02550>4Gold#00>4可以的话，\n我就买下来了。"
 1143,"Hoo, you drive a hard bargain,\ngood sir!",……呵呵，你很会做生意嘛。
-1146,"Wh-where... Where did you get\nthis vase?!","这、这个台座……\n为什么会在你手上呢？"
+1146,"Wh-where... Where did you get\nthis vase?!","这、这个台座……\n为什么会在你手上？"
 1147,"It was in the pond...? Probably\nthere for a reason! Still...I'm\nextremely grateful you found it.","它是被沉到了池塘里吗……\n这个台座有些不为人知的秘密。\n不管怎样，你能找到它真是太好了。"
 1148,"It was in the pond...? Ah, well,\neither way, I'm just glad you\nfound it!","它是被沉到了池塘里吗……\n不管怎样，你能找到它真是太好了。"
-1150,"Wh-where... Where did you get\nthis vase?!","这、这个台座……\n为什么会在你手上呢？"
+1150,"Wh-where... Where did you get\nthis vase?!","这、这个台座……\n为什么会在你手上？"
 1151,"It was in the pond...? Hoo, I am\nquite grateful to you for finding\nit. And from you, I will buy it!","它是被沉到了池塘里吗……\n不管怎样，你能找到它真是太好了。\n如果你要卖了它，我会出高价买下来的。"
 1152,"Oh-ho-ho, you have an eye\nfor value, I see!",呵呵呵，看来你是个懂行的人。
 1154,"I'll buy it\nfor#02 2000 Gold.",#022000>4Gold#00>4卖给我吧。
@@ -92,7 +92,7 @@
 1182,"I've got some very good swords\nhere. The same kinds the militia\nmembers use.","你的那把剑不错哦。\n是巴尔巴多的自卫队用的吗？"
 1184,"But, I've also got even better\nswords, for REAL combat. Why not\ntake a peek?","不过我们店里\n有更适合实战用的剑哦。\n有兴趣的话，你可以来看看。"
 1187,"I've been wanting to get my hands\non a Talwar for a long time. And it\ncan be yours, too, for a price!","塔瓦弯刀终于有货了。\n怎么样，要不要买一把呢？"
-1188,"You have to be careful when\nfighting monsters. Never approach\nthem head-on; that's suicide!","不管你拿的剑再好，\n正面挑战凶恶的魔物，\n都等同于与是在自杀。"
+1188,"You have to be careful when\nfighting monsters. Never approach\nthem head-on; that's suicide!","不管你拿的剑再怎么好，\n正面挑战凶恶的魔物，\n都等同于是在自杀。"
 1189,"If you strike from the side or\nthe back, even the toughest enemy\ncan be taken down easily.","应该绕到它的背后或侧面，\n瞄准要害攻击它。\n这样才有胜算。"
 1192,"That sword... That curved blade...\nIt's from the far east, no?","那把长剑是……\n天呐，那不是东方的弯刀吗！？"
 1193,"You rarely see such swords around\nhere. Where ever did you find it?","这东西难得一见。\n你是从哪里弄到的？"

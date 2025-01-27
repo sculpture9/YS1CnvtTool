@@ -1,4 +1,4 @@
-0,Slaff,斯拉夫
+﻿﻿0,Slaff,斯拉夫
 1,Jacob,雅各布
 2,Drake,德雷克
 3,Arcia,阿希娅
@@ -20,7 +20,7 @@
 19,Menon,梅农
 20,Karon,卡隆
 21,Cheryl,雪莉露
-22,Sylvia, 西尔维娅
+22,Sylvia,西尔维娅
 23,Gerald,杰拉多
 24,Julius,尤利乌斯
 25,Aurora,欧若拉
@@ -48,11 +48,11 @@
 47,  EASY, 简单
 48,Plains,草原
 49,Shrine,神殿
-50,Golden,黄金
+50,Golden,金色
 51,Custom,自定义
 52,NORMAL,普通
 53,Cancel,取消
-54,OPTION,选项
+54,OPTION,设置
 55,Tuesday,周二
 56,January,一月
 57,October,十月
@@ -77,8 +77,8 @@
 76,Selnarg,赛鲁纳古
 77,Monocle,单片镜
 78,Display,显示
-79,Artwork,插图
-80,Compact,协议
+79,Artwork,美术风格
+80,Compact,简洁
 81,Torrance,托兰斯
 82,Archelle,阿谢尔
 83,Haystack,海斯塔克
@@ -120,7 +120,7 @@
 119,Quit Game,退出游戏
 120,Filtering,滤镜
 121,Trilinear,三线性
-122,NIGHTMARE,恶梦
+122,NIGHTMARE,噩梦
 123,Nurse Ayla,护士艾拉
 124,Miner Doug,矿工达古
 125,Nurse Lisa,护士莉莎
@@ -154,11 +154,11 @@
 153,Blue Amulet,蓝色护符
 154,Golden Vase,黄金台座
 155,Heal Potion,痊愈之药
-156,  NIGHTMARE,恶梦
+156,  NIGHTMARE,噩梦
 157,Minea Byway,米内亚小道
 158,Mine Depths,矿山深处
-159,EXP Display,经验值的显示
-160,TIME ATTACK,计时挑战模式
+159,EXP Display,经验值显示
+160,TIME ATTACK,计时挑战
 161,Into the Sky,飞向蓝天
 162,Doctor Bludo,布卢多医生
 163,Granny Daria,达莉亚婆婆
@@ -188,7 +188,7 @@
 187,Thieves' Den,盗贼碉堡
 188,Mining Pit 1,1号矿坑
 189,Mining Pit 2,2号矿坑
-190,Adol Visible,主角可见
+190,Adol Visible,透明
 191,Old Man Franz,弗朗兹老人
 192,Old Man Betel,贝特尔老人
 193,Old Man Lahan,拉汉老人
@@ -217,8 +217,8 @@
 216,Darm Tower 9F,达姆之塔9层
 217,Darm Tower 1F,达姆之塔1层
 218,Spiral Stairs,旋梯
-219,Blood Effects,血腥效果
-220,Monster Stats,魔物统计
+219,Blood Effects,流血特效
+220,Monster Stats,魔物信息
 221,To Next Level,距离下一等级
 222,8-Directional,8方向移动
 223,+ Slow enemy.,+ 减缓敌人
@@ -231,7 +231,7 @@
 230,Piece of Paper,纸片
 231,Golden Pendant,金之垂饰
 232,Freddy's House,弗雷迪的家
-233,Charme's House,夏尔姆
+233,Charme's House,夏尔姆的家
 234,Bludo's Clinic,布卢多医院
 235,Militia Armory,自卫队武器库
 236,Darm Tower 10F,达姆之塔10层
@@ -265,7 +265,7 @@
 264,Normal Movement,通常移动方式
 265,Lv.%d Swordsman,Lv.%d 剑士
 266,Complete (2001),完全版（2001）
-267,<<<< Files >>>>,<<<<文件>>>>
+267,<<<< Files >>>>,<<<<档案>>>>
 268,Fisherman Betelo,渔夫彼得
 269,Mason the Trader,商人梅森
 270,Nikki the Dancer,舞娘妮可
@@ -307,10 +307,10 @@
 306,"#02Quit game and return\nto Windows?","#02要退出游戏并\n返回电脑桌面吗？"
 307,"System Data has not been saved.\nReturn to title screen anyway?","系统文件尚未保存。\n还要返回标题界面吗？"
 308,"Ys II Chronicles+ is already running.\nYs I cannot run concurrently.","伊苏2编年史正在运行。\n伊苏1无法正确运行。"
-309,"ia 6 months ago\nto research its ancient\nruins, and happened to be in\nthe tower when the monsters\nfirst appeared.","在6个月前研究古代遗迹时，\n恰好也是塔中怪物首次出现的时候。"
+309,"ia 6 months ago\nto research its ancient\nruins, and happened to be in\nthe tower when the monsters\nfirst appeared.","在塔的密室中遇到的学者。\n半年前，为了调查古代遗迹\n而来到了艾斯塔里亚。\n后来，在调查达姆之塔时，\n被突然涌出的魔物\n困在了塔中。"
 310,"A dwarf from the plains.\nLooks fearsome, but is\nactually quite weak. May\npresent a challenge at\nfirst, but will quickly\nbecome a pushover.","栖息在草原的小人族。\n虽然外表看起来瘆人恐怖，\n但力量很弱，并不强大。\n初见时可能会苦战一番，\n但只要积累了一点经验，\n徒手也可以将其打倒。"
 311,"A red-furred feral dog that\nroams the Esterian plains.\nMoves quickly and often\nattacks in packs, making it\na real threat to the unwary\ntraveler.","奔跑在草原的红色猛犬。\n漂流到岸上的亚特鲁\n被其袭击后送进了医院。\n它们动作灵活，成群结队，\n所以一定要特别小心。\n最好做足准备再与其战斗。"
-312,"A monster who lies in wait\non the lowest level of the\nshrine to slice apart its\nprey with a magic-infused\nsword. Hides its true form\nbeneath a cloak.","神殿最下层的魔物。\n时刻等待着用魔法强化过的剑\n将入侵者砍成碎片的时机。\n它被斗篷包裹着，看不到真身，\n推测其大概是高级的魔族。"
+312,"A monster who lies in wait\non the lowest level of the\nshrine to slice apart its\nprey with a magic-infused\nsword. Hides its true form\nbeneath a cloak.","神殿最下层的魔物。\n时刻等待着用魔法\n强化过的剑将入侵者\n砍成碎片的时机。\n它被斗篷包裹看不到真身，\n推测其大概是高级的魔族。"
 313,"A bitter relative to the\nAccumate who dwells far from\nits brethren, on floor 10 of\nDarm Tower. Not very strong,\nbut boasts tremendously high\nagility.","栖息在达姆之塔10层。\n属于艾克梅特一族，\n力量较弱，但敏捷大幅提升。\n和同族的艾克梅特关系不好，\n在塔中也是分开生活着。"
 314,"A bug-beast that dwells in\nthe abandoned mine. Its\nslippery body deflects sword\nstrikes, and its sharp fangs\ncan pierce armor. Doesn't\ngo down easily.","徘徊在废坑的妖虫。\n光滑的身体能弹开剑刃，\n锐利的牙齿能咬破铠甲。\n它们不是几刀就能杀死的，\n必须将它们大卸八块，\n直到其完全停止活动才行。"
 315,"A half-bug half-man that\ndwells in the abandoned\nmine. Its exoskeleton grants\nit excellent defense and\nspeed alike. Attacks with\nchaotic sword-swipes.","栖息在废坑中的怪物。\n同时拥有虫子和人类的特性，\n向四周挥舞着巨大的刀刃。\n外骨骼的身体敏捷又强韧，\n半吊子的攻击会被反弹回去。"
@@ -326,7 +326,7 @@
 325,"A creature with such heavy\narmor that only the mighty\ncan hope to damage it.\nDwells in the lowest caves\nof the abandoned mines, and\ncannot be easily overcome.","徘徊在废坑最下层的魔物。\n用厚重的铠甲包住全身，\n会不顾一切向前突击。\n无法承受那份重压的人，\n只能在黑暗中被压死。"
 326,"An animal bred for its\nobnoxiously cute and tender\nlittle body. Sup on its\ntoothsome nibblets slathered\nin Roda butter or straddling\nbacon. Adorably delicious!","艾斯塔里亚的传统家畜。\n肉味鲜美好吃，烤煮皆宜。\n除了巴尔巴多港口镇饲养的，\n还有一部分野生种群\n栖息在草原上。"
 327,"A monster residing in the\nabandoned mine. Its appear-\nance is strange and almost\nhumorous, but its attacks\nare much more deadly than\nany encountered previously.","出没于废坑的怪物。\n虽然外表奇特，还有些滑稽，\n但力量却远超草原上的魔物。\n如果没有经过充分的锻炼，\n会被秒杀的，一定要小心。"
-328,"A fearsome ogre inhabiting\nDarm Tower's mirror maze.\nUses its sculpted body as a\nweapon, and manages to out-\nperform the Eucreas despite\nhaving no real defense.","出没于达姆之塔・镜之间。\n以训练有素的肉体作为武器的\n深红战鬼。一旦抓到对手，\n直到化为肉片才会放开。\n在没有魔力援助的情况下，\n战斗力也凌驾由库利斯之上。"
+328,"A fearsome ogre inhabiting\nDarm Tower's mirror maze.\nUses its sculpted body as a\nweapon, and manages to out-\nperform the Eucreas despite\nhaving no real defense.","出没于达姆之塔・镜之间。\n以训练有素的肉体为武器的\n深红战鬼。一旦抓到对手，\n直到化为肉片才会放开。\n在没有魔力援助的情况下，\n战斗力也凌驾由库利斯之上。"
 329,"A beast with an enormous,\ngaping maw. The sight of its\ndrooling visage in pursuit\nis nightmare-inducing.\nDevours its prey, but no one\nknows where the remains go.","出没于废坑的怪物。\n巨大的嘴流着口水，\n步步逼近的样子，\n足以成为人们的梦魇。\n估计是个大胃王， 但永远\n不知道吃掉的东西去了哪里。"
 330,"A monstrous phoenix from the\nabandoned mine. Why a bird\nwould dwell underground, and\nwhy its flames shed no\nlight whatsoever, are both\nquestions without answers.","栖息在废坑中的魔鸟。\n作为鸟却不在天空中翱翔，\n肯定是有什么原因的吧。\n虽然身上缠绕着火焰，\n但周围的环境却不会变亮，\n可能也是因为同样的原因吧。"
 331,"An armored monster dwelling\naround floor 3 of the Tower\nof Darm. Characterized by\nits red armor and its speed,\nbut presents little issue if\ntaken out one by one.","出没于达姆之塔3层附近。\n特征是红色铠甲和动作敏捷，\n但是防御力并不是很高。\n只要不被包围，逐个击破，\n就不会被逼入绝境。"
@@ -394,8 +394,8 @@
 393,"A man from Minea. Has been\nkeeping watch at the city\ngate to ensure that no\nchildren leave the safety of\nits walls. Spotted a shady\nman inside the city recently\nhowever, and is concerned.","住在米内亚镇的男性。\n为了防止孩子们去到危险的\n外边，而在入口附近看守着。\n最近他看到个可疑的\n穿着斗篷的男人，\n他觉得这是个不祥的预兆。"
 394,"A young man hospitalized in\nMinea with injuries from a\nRheboll attack. Narrowly\naverted death by escaping to\nthe shade of one of the\ngreat trees on the plain.\nThe monsters did not follow.","在米内亚医院里住院的青年。\n他被利波鲁袭击而受伤入院。\n当时他逃到耸立在草原上的\n大树下，才侥幸得救。\n不知为何，魔物好像不会\n靠近那棵大树。"
 395,"A deeply devout old woman\nfrom Zepik who believes that\nthe village's treasure, the\nSilver Bell, is what keeps\nthe monsters at bay. She\nfeels that its tonal quality\nhas a purifying effect.","住在塞皮克村的老妇人。\n她信奉宗教，坚信村里的\n宝物「银铃」在保护村子\n免受魔物侵袭。\n事实上，银铃发出的清脆\n音色确实有着某种裨益。"
-396,"One of Goban's men, with a\npenchant for breaking walls.\nRescues Adol from prison in\nthe Tower of Darm, along\nwith Luta Gemma. Strong,\nkindly and loyal, he and\nAdol quickly become friends.","在塔的地下牢房遇见的男人。\n性格豪爽，力量强大，\n他打碎石墙将被关在\n地下牢房的亚特鲁和卢达\n救了出来。\n是盗贼团的一员，\n古邦的得力助手。"
-397,"A dearly beloved troubadour\nwho plays lovely harmonica\nmusic for anyone who will\nlisten. Found herself in\nMinea, and seeks to tighten\nthe spiritual bonds amongst\nits inhabitants with song.","在米内亚镇遇见的少女。\n吹奏口琴的吟游诗人，\n不知从何时起出现在了\n米内亚的街角。\n通过音乐和镇上的居民\n建立了心灵的纽带，\n不管男女老少都很喜欢她。"
+396,"One of Goban's men, with a\npenchant for breaking walls.\nRescues Adol from prison in\nthe Tower of Darm, along\nwith Luta Gemma. Strong,\nkindly and loyal, he and\nAdol quickly become friends.","在塔的地下牢房遇到的男人。\n性格豪爽，力量强大，\n他打碎石墙将被关在\n地下牢房的亚特鲁和卢达\n救了出来。\n是盗贼团的一员，\n古邦的得力助手。"
+397,"A dearly beloved troubadour\nwho plays lovely harmonica\nmusic for anyone who will\nlisten. Found herself in\nMinea, and seeks to tighten\nthe spiritual bonds amongst\nits inhabitants with song.","在米内亚镇遇到的少女。\n吹奏口琴的吟游诗人，\n不知从何时起出现在了\n米内亚的街角。\n通过音乐和镇上的居民\n建立了心灵的纽带，\n不管男女老少都很喜欢她。"
 398,"An old man from Minea with a\ngreat love of Esterian lore.\nOften reads its legends to\nhis grandson, Lucca, as\nfairytales. Very close with\nSara the fortuneteller, and\nworries for the future.","住在米内亚镇的老人。\n他熟悉艾斯塔里亚的\n古代传说，并将其当作\n童话故事讲给孙子路卡听。\n他和占卜师莎拉是朋友，\n艾斯塔里亚最近发生的灾难，\n让他感到有一股不祥的气息。"
 399,"A dancer from Minea. Wears\nmake-up to appear mature,\nbut only just turned 20.\nHates when people wallow in\ndepression, so she dances at\nOrman's bar in an effort to\nboost everyone's spirits.","在米内亚酒馆内的舞女。\n化妆后看起来很成熟，\n其实只有二十岁。\n她不喜欢沉闷的气氛，\n因此她细致地服务众人，\n确保每个人都能在酒馆里\n玩得开心。"
 400,"Elbert's mother. Lives in\nZepik, and fancies herself\nan expert in wild plants,\nnuts, berries and the like.\nUsed to pick Roda Fruit all\ntime time, but lately, it\nsimply hasn't been growing.","住在塞皮克村的老妇人。\n艾尔巴特的母亲。\n喜欢采集野菜和水果。\n以前还能从耸立在草原的\n大树上采摘到美味的果子，\n但最近大树都不结果了，\n这令她感到非常遗憾。"
@@ -448,15 +448,50 @@
 447,QUIT,退出游戏
 448,Directional Movement,移动方向
 449,Sound,声音设置
-450,FILES,文件
+450,FILES,档案
 451,EQUIP,装备
-452,ITEM,道具
+452,ITEM,物品
 453,NOTE,笔记
 454,Run,奔跑
 455,Walk,行走
-456,"A scholar hiding out in a\nsecret room in Darm Tower.\nCame to Ester","一个学者躲在\n达姆之塔的一间密室中。\n来到艾斯塔……"
+456,"A scholar hiding out in a\nsecret room in Darm Tower.\nCame to Ester","在塔的密室中遇到的学者。\n半年前，为了调查古代遗迹\n而来到了艾斯塔里亚。\n后来，在调查达姆之塔时，\n被突然涌出的魔物\n困在了塔中。"
 457,Dogi,多奇
 458,Raba,拉巴
 459,Feena,菲娜
 460,Luta Gemma,卢达・洁玛
-461,"\"Evil eyes\"","\"邪眼\""
+461,"\\\"Evil eyes\\\"","\\\"邪眼\\\""
+462,"Yes"","是"
+463,"No","否"
+464,"Fran","芙兰"
+465,"Reah","蕾雅"
+466,"Prim","普丽姆"
+467,"Fana","法娜"
+468,"Hans","汉斯"
+469,"Bron","布隆"
+469,"Kain","凯恩"
+469,"Pim","皮姆"
+469,"Buck","巴克"
+470,"Dios","迪奥斯"
+471,"Ephy","艾菲"
+472,"Sara","莎拉"
+473,"Jeba","洁瓦"
+474,"Mark","马克"
+475,"Iris","爱莉丝"
+476,"Demi","黛米"
+477,"QUIT","退出游戏"
+478,"Idol",""
+479,"Rod",""
+480,"Ruby",""
+481,"Wing",""
+482,"Total","累计"
+483,"Black","黑色"
+484,"Off","关"
+485,"On","开"
+486,"Solid","不透明"
+487,"Point","无过滤"
+488,"Passage","通道"
+489,"Shrine B3","神殿地下3层"
+490,"Shrine B3","神殿地下3层"
+491,"Shrine B3","神殿地下3层"
+492,"Mayor's Residence","村长宅邸"
+493,"Mayor's Residence","村长宅邸"

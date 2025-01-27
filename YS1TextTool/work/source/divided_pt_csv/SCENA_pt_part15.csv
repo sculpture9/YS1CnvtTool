@@ -15,8 +15,8 @@
 1985,"Try as I might, I simply cannot\nremember!",我依然……还是不知道。
 1986,"My memories are of the prison, and my\nown name. Nothing else.","我只有在牢房里的一点点记忆，\n以及自己的名字而已……"
 1987,"And whenever I attempt to focus and\nremember anything else, all that\ncomes to me is a headache...","每当我试图回忆以前的事时，\n就会头疼欲裂……"
-1989,"Jeba is letting me stay with her\nfor as long as I need.","经过一阵商量，\n决定让菲娜暂时留在洁瓦夫人家。"
-1990,"I...would like it if you'd come by\nto visit me from time to time, as\nwell. If you aren't busy, of course!","那个……当你有空的时候\n能来看看我，我会很高兴的……"
+1989,"Jeba is letting me stay with her\nfor as long as I need.",我会暂时住在洁瓦夫人家里。
+1990,"I...would like it if you'd come by\nto visit me from time to time, as\nwell. If you aren't busy, of course!","那个……\n你有空的时候能来看看我，\n我会很高兴的……"
 1994,"Ah, it's you. If you're looking for\nFeena, she went out for a walk\naround the village.","哎呀，是你啊。\n要找菲娜的话，\n她现在应该在村子里散步吧。"
 1995,What's wrong? You don't look well.,"……怎么了？\n你的脸色有点差哦。"
 1996,Adol told Jeba of Sara's passing.,亚特鲁将莎拉的死讯告诉给了洁瓦。
@@ -34,7 +34,7 @@
 2012,"Long ago, Ys was ruled by two\nGoddesses and six Priests.","……据说，古代的伊苏王国，\n是由两位女神与六位神官统治的。"
 2013,"Sara and I are descended from one of\nthese Priests. Much of Sara's power\ncame from the Tovah bloodline.","我与莎拉就是神官托霸的后代。\n特别是莎拉，她继承了强大的神官之力……"
 2014,"I suspect she knew more about the\ndisasters befalling Esteria than\nanyone could've imagined...","也许那孩子的眼中，已经看清了\n正在逼近的灾难的真面目了……"
-2016,"...Well, we cannot grieve Sara's loss\nforever.","……我不能一直沉浸在\n悲伤的情感之中。"
+2016,"...Well, we cannot grieve Sara's loss\nforever.","……我不能一直沉浸在\n悲伤的情绪之中。"
 2017,"In order to grant her dying wish,\nyou must continue onward, Adol.\nYou must find the Books of Ys!","为了继承莎拉的遗志……\n我会尽力协助你的。"
 2018,"I am fully convinced that you are\nthe swordsman whose coming Sara\nforetold.","不管怎么说，\n你可是她找到的剑士啊。"
 2019,At any rate... The Books of Ys...,"那么……\n先来说下『伊苏之书』吧。"
@@ -51,7 +51,7 @@
 2043,"The Stormwall... The appearance of\nthe monsters... The continued theft\nof all items made from silver...","岚之结界……魔物的出现……\n银制品的失窃事件……"
 2044,"And now, Sara's death...",还有莎拉的死……
 2045,"I'm certain that all of this stems\nfrom a great instability in the\nflow of destiny.","……这些事件，\n只是正在发生的\n历史巨变中的小插曲。"
-2046,"You are the only one with the\nability to uncover the truth\nbehind it all!",能解读的人，可能就只有你了。
+2046,"You are the only one with the\nability to uncover the truth\nbehind it all!",能解开谜团的人，可能就只有你了。
 2049, What will you do?,要做什么呢？
 2050,Speak to Jeba,与洁瓦交谈
 2051,Speak to Feena,与菲娜交谈
@@ -69,13 +69,13 @@
 2066,You are an accomplished swordsman.,你已经是个能够独当一面的剑士了。
 2067,"Indeed, you are the hero that Sara\nforesaw. The legendary brave soul.\nI commend you for coming so far.","莎拉所预言的剑士啊……\n没想到你能有这样的成长。"
 2069,"I'm certain that you will be all\nright, even in the Devil's Tower.","以你的能力，就算进入那个『恶魔之塔』\n一定也不会有问题的。"
-2070,"...Darm is an old word for devil,\nyou see.","达姆在古语中\n是『魔』的意思。"
+2070,"...Darm is an old word for devil,\nyou see.",达姆在古语中是『魔』的意思。
 2071,"You must remain focused within the\ntower. Pay attention to all of your\nsenses, and do not drop your guard!","在那座塔里，你要做好\n所有常识都不适用的心理准备。"
 2072,"Follow your instincts, as well.\nIf something looks like a trap,\nit probably is!",切记，所有行动都要谨慎再谨慎。
 2076,"Adol, have you listened to\nReah play her harmonica yet?","亚特鲁先生，你听过\n蕾雅小姐吹口琴吗？"
 2077,"When I heard its music echoing\nacross the countryside, I suddenly\nfelt pangs of...nostalgia?","我感觉好像……\n以前听到过那个琴声……"
 2078,"I was absolutely elated. I've never\nfelt so happy before!",总觉得非常怀念……
-2080,"Jeba has been teaching me\nmany things since my arrival\nhere in Zepik.","最近，洁瓦夫人\n教了我很多东西哦。"
+2080,"Jeba has been teaching me\nmany things since my arrival\nhere in Zepik.",最近，洁瓦夫人教了我很多东西哦。
 2081,"Mixing herbs... Fortunetelling...\nThe culture and history of\nEsteria, too...","像是药草的调配方法呀……\n占卜的方法呀……\n艾斯塔里亚的文化与历史等等。"
 2082,"Every day makes me feel\ncomplete.",我觉得每天都过得很充实。
 2083,"All my fears and reservations\nfrom my long imprisonment have\nvanished into thin air.","在神殿的时候，我连自己是谁都不知道，\n不安的情绪压得我快要崩溃了……"
@@ -95,6 +95,6 @@
 2103,None for now,不用读了
 2109,Oh...!,哦哦……！
 2110,"Young man, where did you come from?",年轻人，你是打哪儿来的呀？
-2111,"Ah, from Barbado? You know Dr.\nBludo, then? Good, good.","……是吗，你来自巴尔巴多呀。\n既然你认识布卢多阁下，那我就放心了。"
+2111,"Ah, from Barbado? You know Dr.\nBludo, then? Good, good.","……是吗，你来自巴尔巴多啊。\n既然你认识布卢多阁下，那我就放心了。"
 2112,"I have something to tell you, but\nyou must promise me you will NOT\nlet the villagers know about it.",我有一件不能让村民们知道的事……
 2113,"Will you keep this conversation\nbetween us?","如果我告诉你，\n你能保密吗？"

@@ -18,12 +18,11 @@ int main()
     GenerateConfigFontText();
     //TransCSV2ParaTranzCSV();
     //PO2ParaTranzCSV();
-    //MergeParaTranzCSV2PO();
     //SupportUpdatePOCSVWithPO(YS1_SCANE_CSV_PT_TGT_PATH, ENGBaseOnJPN4SCENA_PATH, YS1_SCANE_CSV_PT_ORI_PATH, JPN_PO_ORI_PATH);
     //DividedParaTranzCSV(100);
     //MergeParaTranzCSV(20);
     //MergeParaTranzCSV2PO();
-    //MergeParaTranzCSV2TransCSV();
+    //MergeEXEParaTranzCSV2EXECSV();
     cout << "succeed! press any key to exit." << endl;
     _getch();
 }
@@ -90,7 +89,7 @@ void TransCSV2ParaTranzCSV()
     WriteVOs2CSV(ptvos, YS1_EXE_CSV_PT_TGT_PATH);
 }
 
-void MergeParaTranzCSV2TransCSV()
+void MergeEXEParaTranzCSV2EXECSV()
 {
     vector<vector<string>> exeData;
     vector<vector<string>> ptData;

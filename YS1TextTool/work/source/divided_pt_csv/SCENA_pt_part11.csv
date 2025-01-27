@@ -17,9 +17,9 @@
 1371,Leave,离开这里
 1373,"Ah, a new face. From whence did\nyou come, sir?","你不是这里的本地人吧。\n是从哪里来的啊？"
 1374,"...Barbado, you say?",……你是说巴尔巴多？
-1375,"Ah, you're the lad who crossed the\nStormwall, then?","原来穿越结界漂流到那里的\n红发小子就是你啊！"
-1376,"I heard about you from members of\nthe Barbado Militia, when they came\nhere on their rounds.","是这样的，巴尔巴多自卫队的人\n上次来米内亚的时候\n刚好说起你的事情。"
-1377,"Sorry if I sounded a bit suspicious\nwhen I asked where you were from.","不好意思，\n刚才我还在质问你从哪来的。"
+1375,"Ah, you're the lad who crossed the\nStormwall, then?","原来穿越结界漂流到那里的红发小子\n就是你啊！"
+1376,"I heard about you from members of\nthe Barbado Militia, when they came\nhere on their rounds.","是这样的，巴尔巴多自卫队的人\n上次来米内亚的时候，\n刚好说起你的事情。"
+1377,"Sorry if I sounded a bit suspicious\nwhen I asked where you were from.","不好意思，\n刚才我还在质问你从哪儿来的。"
 1379,"Lately there have been a lot of\nbreak-ins, so I thought maybe you\nwere casing my establishment.","最近我们这地方\n经常遇到盗贼来闹事。\n我还以为你是他们一伙的。"
 1382,"You've heard about Sara's murder?\nAt first, people suspected the\nthieves, but nothing was taken...","你听说占卜师被杀的那件事了吗？\n一开始大家还以为是盗贼干的，\n但是值钱的东西一样也没少。"
 1383,"Perhaps it was someone...\neven less scrupulous?","也许除了盗贼之外，\n可能还有一群更难惹的家伙吧……\n"
@@ -31,7 +31,7 @@
 1395,"Will you have a\ndrink with me?","怎么样，\n要不要一起喝一杯？"
 1396,Yes,一起喝
 1397,No,我不太方便
-1398,"Ain't learned much about the crooks\nbut I did find out that long ago,\nthere were Roda Trees in Esteria.","很久以前，这个国家\n好像有一棵叫做『萝妲』的树。"
+1398,"Ain't learned much about the crooks\nbut I did find out that long ago,\nthere were Roda Trees in Esteria.","很久以前，这个国家\n好像有种叫做『萝妲』的树。"
 1399,"Never heard of a Roda Tree before?\nIts seeds are said to be one of the\nfinest delicacies in the world.","据说它的果实与种子的味道，\n比世界上任何的食物都要美味。"
 1401,"I'd love to taste one, just once,\nbefore I die. Don't suppose you've\ncome across any, have you?","一次也好，真想尝尝它的味道。\n你有没有见到过那种树啊？"
 1404,"Thieves and murderers... What\na sorry state this land is in.","盗贼骚动之后，又发生了命案……\n真是的，这世道变得太危险了。"
@@ -48,8 +48,8 @@
 1422,Rather not,不想听
 1423,"My name is Rando-- I mean, Donis.\nSorry, Randolph is my brother's\nname. I get us confused sometimes.",我叫多尼斯。
 1424,"Somewhere in this general area, I\nlost a beautiful sapphire ring I'd\npurchased as a gift for my wife.","我用辛苦存下来的私房钱买的\n准备送给老婆的蓝宝石戒指不见了。"
-1426,"Without it, I feel as if I can't\neven face her. Damnable thieves!\nI'll wager this is their doing!","这叫我怎么回家嘛……\n可恶，这一定是\n那些盗贼干的好事。"
-1427,"Without it, I feel as if I can't\neven face her. Damnable thieves!\nI'll wager this is their doing!","这叫我怎么回家嘛……\n可恶，这一定是\n那些盗贼干的好事。"
+1426,"Without it, I feel as if I can't\neven face her. Damnable thieves!\nI'll wager this is their doing!","这叫我怎么回家嘛……\n可恶，这一定是那些盗贼干的好事。"
+1427,"Without it, I feel as if I can't\neven face her. Damnable thieves!\nI'll wager this is their doing!","这叫我怎么回家嘛……\n可恶，这一定是那些盗贼干的好事。"
 1430,"Ohh, whatever shall I do? I can't\ngo home without that ring!","啊……我该怎么办？\n找不到戒指叫我怎么回家嘛……"
 1431,"What the hell is wrong with those\nthieves? Why can't they rob from\nthe rich and give to the poor?!","那些盗贼偷我这种小老百姓的戒指\n真是太丧尽天良了。"
 1433,"(hic) Oy, Adol... Why so serious?\nLet's shake what we got! (hic)","……(打嗝)…嗨，亚特鲁。\n怎么啦？愁眉苦脸的样子。\n来啦，咱们一起狂欢。(打嗝)。"
@@ -61,7 +61,7 @@
 1439,"...You found my ring at the pawn\nshop? And you bought it back?!","你在交易所找到戒指了？\n还把它给买回来了？"
 1440,"Th-thank you so much... Now I can\nactually face my wife again!","啊，感激不尽……\n这么一来我就有脸去面对我老婆了。"
 1441,"I can't offer you much in return,\nbut...you have no idea what this\nmeans to me...so please, take this.","这是我一点小小的心意。\n请你一定要收下！"
-1444,Adol received#02 1500 Gold.,#02收到了1500>4Gold#00>4。
+1444,Adol received#02 1500 Gold.,收到了#021500>4Gold#00>4。
 1448,"My ring's been found, everyone!\nA round of drinks, on me!","为了庆祝找到戒指，\n再干一杯吧！"
 1449,"Hey, Adol. I finally went home, and\ngave that ring to my wife. Thank\nyou again for saving my hide.","嗨，亚特鲁。\n我把戒指送给我老婆了。\n谢谢你，多亏有你的帮忙。"
 1451,"Uuuughh... I think I drank too\nmuch, though... I don't feel so\ngood...","唔~\n酒有点喝多了。\n想吐……呜。"
@@ -75,8 +75,8 @@
 1463,"Still, can't say I\nrecognize you. Are\nyou from Barbado?","以前没见过你哦，\n你是从巴尔巴多来的吗？"
 1464,"The lands outside are\nteeming with monsters.\nYou'd be better off\nin Minea.","前方到处都是魔物，\n不要冒险，去米内亚会比较安全。"
 1466,"My big brother was a miner,\nbut he got attacked by a\nmonster in one of the tunnels,\nand barely made it out alive.","我哥哥以前是在矿山工作的。\n他被矿坑深处出现的魔物攻击，\n受了很严重的伤。"
-1467,"He tried to fight back using\nhis pickaxe, but it didn't\nwork too well.","他尝试过用十字镐来应战，\n结果完全敌不过对方。"
-1468,"Still, he made it!\nAnd that's what really\ncounts, right?",他说能保住一命就该庆幸了。
+1467,"He tried to fight back using\nhis pickaxe, but it didn't\nwork too well.","他尝试用十字镐来应战，\n结果完全敌不过对方。"
+1468,"Still, he made it!\nAnd that's what really\ncounts, right?",他说能保住性命就该庆幸了。
 1469,"...But he was the strongest man\nhere. And if the strongest man\nhere can't fight back against\nthe monsters...then who can...?","哥哥还是镇里力气最大的人……\n如果连他都无法对抗魔物……\n那还能有谁呢……"
 1471,I've been playing with Reah.,我在跟蕾雅姐姐玩哦。
 1472,"Her word games are way\ntoo hard, though. She's\na grown-up, so I wish\nshe'd cut me a break!","蕾雅姐姐玩接龙游戏太强了。\n她是大人，应该要让着我一点才对。"

@@ -1,20 +1,20 @@
 ﻿﻿0,"Ancient Ys Vanished:\nOmen","伊苏——失落的古代王国：\n预兆"
 1,Now Loading...,Now Loading……
-2,Short Sword,短 剑
-3,Long Sword,长 剑
+2,Short Sword,短剑
+3,Long Sword,长剑
 4,Talwar,塔瓦弯刀
-5,Silver Sword,银 剑
+5,Silver Sword,银剑
 6,Flame Sword,火焰剑
-7,Small Shield,小 盾
-8,Middle Shield,中 盾
-9,Large Shield,大 盾
-10,Silver Shield,银 盾
-11,Battle Shield,战 盾
-12,Chain Mail,锁 子 甲
+7,Small Shield,小盾
+8,Middle Shield,中盾
+9,Large Shield,大盾
+10,Silver Shield,银盾
+11,Battle Shield,战盾
+12,Chain Mail,锁子甲
 13,Plate Mail,金属板甲
 14,Reflex,反射护甲
-15,Silver Armor,银 铠
-16,Battle Armor,战 甲
+15,Silver Armor,银铠
+16,Battle Armor,战甲
 17,Power Ring,力量戒指
 18,Shield Ring,防御戒指
 19,Timer Ring,时间戒指
@@ -36,7 +36,7 @@
 35,Roda Tree Seed,萝妲种子
 36,Silver Bell,银铃
 37,Silver Harmonica,银口琴
-38,Idol,<1偶像
+38,Idol,<1雕像
 39,Rod,法杖
 40,Monocle,单片镜
 41,Blue Amulet,蓝色护符
@@ -46,8 +46,8 @@
 45,Golden Vase,黄金台座
 46,Heal Potion,痊愈之药
 47,Wing,回归之翼
-48,Hammer,铁 锤
-49,Mirror,魔 法 镜
+48,Hammer,铁锤
+49,Mirror,魔法镜
 50,Mask of Eyes,魔眼面具
 51,Blue Necklace,蓝石项链
 52,Bestiary Potion,动物药水
@@ -91,10 +91,10 @@
 90,"A fine ivory key\nfashioned from tiny,\ninterlocking shapes.","用淡黄色的象牙制成的钥匙。\n精心雕刻有精致的交织纹饰。"
 91,"A key of brilliantly\ndesigned green marble.\nShaped like a trident.","有翠绿色鲜艳花纹装饰的\n大理石钥匙。光泽艳丽，\n尖端为类似三叉枪的形状。"
 92,"A key of shining blue\ncrystal, bearing a\nfamiliar-looking crest.","用闪亮的青色矿石制成的钥匙。\n刻有艾斯塔利亚的遗迹中常见的\n不可思议的纹章。"
-93,"A luminous crystal\nwith an exotic base.\nSparkles in the light.","用奇特的装饰器具固定着的\n璀璨的大水晶。光的照射下，\n中心像无数的星星一样闪耀。"
+93,"A luminous crystal\nwith an exotic base.\nSparkles in the light.","用奇特的装饰器具固定着的\n璀璨的大水晶。在光的照射下，\n中心像无数的星星般闪耀着。"
 94,"Seed of an ancient\ntree, with a flavor\nsaid to rival all else.","传说中的树木的种子。\n美味的果肉部分，被认为\n是任何食物都无法比拟的。"
 95,"Relic said to have\nguarded Zepik Village.\nIts sound is calming.","塞皮克村自古流传下来的宝物。\n据说它能保护村子远离灾厄，\n摇动时会发出清冽的响声。"
 96,"A silver harmonica\nwith a vibrant sound.\nSparkles majestically.","能发出优美的音色，\n白银制成的旧口琴。\n散发着纯白的光辉。"
-97,"Statue of an ancient\ndragon. Grants its\nbearer peace of mind.","以古代翼龙为模形的青铜像。\n潜藏着消除持有者气息的\n不可思议的能力。"
+97,"Statue of an ancient\ndragon. Grants its\nbearer peace of mind.","以古代翼龙为原型的青铜像。\n潜藏着消除持有者气息的\n不可思议的能力。"
 98,"A short magic wand.\nHas a design similar\nto Sara's Crystal.","魔道师可携带的短杖。\n与莎拉所赠予的水晶\n拥有相似的设计。"
 99,"An ancient monocle.\nThe lens seems to be\nin perfect condition.","使用已久的老旧单片镜。\n似乎是阅读书籍时用的，\n镜片本身没有度数。"
